@@ -1,14 +1,21 @@
 # SitsiTeX
 ## What is SitsiTeX?
+Having developed this for my personal use in order to easily generate good-looking songbooks for Sitsits, I decided to share this with other songmasters in order to simplify the songbook creation process and make the result more elegant using the power of LaTeX. This comes with the added benefit of being able to share a common song library for all users, further spreading the love for one of our favorite activities.
 ## To be implemented
+- Tutorial
+  - Library installation
+  - Functions
+  - Example songbooks
+- More customization
 - Song data structure improvements
   - Raw text instead of LaTeX format
   - Song reference glossary
   - Song variations
   - Per-verse selection
-- More customization
-- Tutorial
-  - Library installation
+  - Separation from the repo
+- Page layout improvements
+  - Page arrangement on PDF
+  - Optimize song order with constraints
 ## Versions
 ### 0.1
 - Initial commit
