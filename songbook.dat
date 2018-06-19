@@ -78,13 +78,13 @@ trinkEN = If your wife tells you not to drink = {
 	\verse{
 		Trink, trink, Brüderlein trink\\
 		Lass doch die Sorgen zu Haus!\\
-		Trink, trink, Brüderlein trink\\
+		Trink (HEY!), trink (HEY!), Brüderlein trink\\
 		Leere dein Glas mit mir aus!\\
-		Meiden den Kummer und meide den Schmerz\\
+		Meide den Kummer und meide den Schmerz\\
 		Dann ist das Leben ein Scherz\\
 		Zu lieber Augustin!\\
 		Kauf dir ein Auto und fahr gegen Baum\\
-		Dann is das Leben ein Traum!\\
+		Dann ist das Leben ein Traum!\\
 	}
 	\verse{
 		When soldiers march to war, you’ll see:\\
@@ -182,7 +182,7 @@ farover = Far over the Misty Mountains cold = {
 	}
 	\verse{
 		The pines were roaring on the heights\\
-		The wind were moaning in the night\\
+		The winds were moaning in the night\\
 		The fire was red, it flaming spread\\
 		The trees like torches blazed with light
 	}
@@ -222,7 +222,7 @@ dearfriends = Dear Friends = {
 		They make new memories more than rather.\\
 		\twice{
 			You can trust everyone like your brother!\\
-			We won’t run out of drinks; maybe food
+			We won’t run out of drinks, maybe food
 		}\\	
 	}
 }
@@ -257,7 +257,7 @@ beercannon = Beer Cannon = {
 beercannonCH = Beer Cannon = {
 	\tuneof{Frère Jacques}
 	\verse{
-		Appenzeller, Appenzeller\\
+		Eichhof Lager, Eichhof Lager\\
 		Cardinal, Cardinal\\
 		Heineken and Boxer\\
 		Heineken and Boxer\\
@@ -456,7 +456,7 @@ softkitty = Soft Kitty = {
 		Soft kitty, warm kitty,\\
 		Little ball of fur.\\
 		Happy kitty, sleepy kitty,\\
-		Purr, purr, pur-r-r.\\
+		Purr, purr, purr.\\
 	}
 }
 
@@ -556,24 +556,24 @@ twelvedays = Twelve Days of Binge-Drinking = {
 	}
 	\verse{
 		My second day of binge-drinking started happily,\\
-		With two rum and Cokes,\\
+		With two Rum and Cokes,\\
 		And a large Long Island Ice Tea.\\
 	}
 	\verse{
-		... Two rum and Cokes,\\
+		... Two Rum and Cokes,\\
 		... Three G and Ts,\\
-		... Four Jello Shots,\\
-		... Five pints of beer,\\
+		... Four Jello shots,\\
+		... Five pints of Beer,\\
 		... Six Mai Tais,\\
-		... Seven gin martinis,\\
-		... Eight Bacardi breezers,\\
+		... Seven Gin Martinis,\\
+		... Eight Bacardi Breezers,\\
 		... Nine Black Russians,\\
-		... Ten raz’ mojitos,\\
-		... ‘Leven nips of whiskey,\\
+		... Ten Raz’ Mojitos,\\
+		... ‘Leven nips of Whiskey,\\
 	}
 	\verse{
 		My twelfth day of binge-drinking was a sight to see,\\
-		With twelve shots of absinthe,\\
+		With twelve shots of Absinthe,\\
 	}
 }
 
@@ -621,9 +621,9 @@ wewillrockyou = We will rock you = {
 
 iloverocknroll = I love Rock'n'Roll = {
 	\verse{
-		I love rock n' roll\\
+		I love Rock'n'Roll\\
 		So put another dime in the jukebox, baby\\
-		I love rock n' roll\\
+		I love Rock'n'Roll\\
 		So come an' take your time an' dance with me\\
 	}
 }
@@ -761,7 +761,7 @@ koskenkorva = Ko-ko-ko-koskenkorva = {
 		Aina kunnon räkä-kä-kännit saa.\\
 	}
 	\verse{
-		Kokokokosken kokokokorva,\\
+		Kokokokosken kokokokorvaa,\\
 		What a wonderful way to get totally, totally drunk!\\
 		...\\
 	}
@@ -992,7 +992,7 @@ jallusmagicstarlight = Jallu’s Magic Starlight = {
 	\verse{
 		\solo 
 		Under Jallu’s magic starlight,\\
-		singer’s throat gets dry and so tight\\
+		Singer’s throat gets dry and so tight\\
 		Only getting booze he feels right\\
 		And can move on from this day\\
 		Under Jallu’s magic starlight,\\
@@ -1024,10 +1024,10 @@ myfavoritedrinks = My Favorite Drinks = {
 	}
 	\verse{
 		When the glass breaks\\
-		or my hand shakes\\
-		when I'm feeling sad\\
+		Or my hand shakes\\
+		When I'm feeling sad\\
 		I mix up a few of my favourite drinks\\
-		and then I don't feel so bad!\\
+		And then I don't feel so bad!\\
 	}
 }
 
@@ -1037,7 +1037,7 @@ ourfamily = Our Family = {
 		My father makes counterfeit money,\\
 		my mother brews synthetic gin.\\
 		My sister sells kisses to sailors\\
-		and that’s how the money rolls in.\\
+		And that’s how the money rolls in.\\
 	}
 	\verse{
 		\twice{
@@ -1046,36 +1046,36 @@ ourfamily = Our Family = {
 	}
 	\verse{
 		My uncle’s a slum missionary,\\
-		saving young maidens from sin.\\
+		Saving young maidens from sin.\\
 		He’ll save you a blonde for a shilling\\
-		and that’s how the money rolls in.\\
+		And that’s how the money rolls in.\\
 	}
 	\verse{
 		Rolls in, rolls in...\\
 	}
 	\verse{
 		My aunt runs a girl seminary,\\
-		teaching young girls to begin.\\
+		Teaching young girls to begin.\\
 		She never says where they’re to finish\\
-		and that’s how the money rolls in.\\
+		And that’s how the money rolls in.\\
 	}
 	\verse{
 		Rolls in, rolls in...\\
 	}
 	\verse{
 		My brother’s a Harley Street doctor,\\
-		with instruments long, sharp and thin.\\
+		With instruments long, sharp and thin.\\
 		He only makes one operation\\
-		and that’s how the money rolls in.\\
+		And that’s how the money rolls in.\\
 	}
 	\verse{
 		Rolls in, rolls in...\\
 	}
 	\verse{
 		My father has spent all his money,\\
-		my mother has drunk all her gin,\\
-		my sister’s beauty has fainted\\
-		and now no more money rolls in.\\
+		My mother has drunk all her gin,\\
+		My sister’s beauty has fainted\\
+		And now no more money rolls in.\\
 	}
 	\verse{
 		Rolls in, rolls in...\\
@@ -1187,7 +1187,7 @@ sorkansallit = Sörkän Sällit = {
 		I am just a simple old granny,\\
 		Not a single friend left in the world.\\
 		\twice{
-			Men came here to take my chickens and my cow and sheep,\\
+			Men came here to take my chickens and cow and sheep,\\
 			Now they're coming back to take my teeth.
 		}\\
 	}
@@ -1425,7 +1425,6 @@ teekkarihymni = Teekkarihymni = {
 		Ja taas, ja siis,\\
 		Ja yks, kaks, kolme, neljä, viis\\
 	}
-	\wholesong
 }
 
 somesaythedevilisdead = Some say the Devil is dead = {
@@ -1480,7 +1479,7 @@ somesaythedevilisdead = Some say the Devil is dead = {
 ilestdesnotres = Il est des nôtres = {
 	\verse{
 		\twice{
-			Ami(e) [person who has to drink] lève ton verre\\
+			Ami(e) \textbf{<name>} lève ton verre\\
 			Et surtout, ne le renverse pas
 		}\\
 		Et porte le\\
@@ -1495,7 +1494,7 @@ ilestdesnotres = Il est des nôtres = {
 		Il est des nôtres,\\
 		Il a bu son verre comme les autres!\\
 		C'est un ivrogne,\\
-		Ça se voit rien qu'à sa trogne!\\
+		On le reconnaît rien qu'à sa trogne!\\
 	}
 }
 
@@ -1704,7 +1703,6 @@ kenompifuksi = Ken ompi fuksi = {
 }
 
 ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {
-	\silence
 	\verse{
 		Talvi-iltain tummentuessa\\
 		Polin suojiin me saavumme taas.\\
@@ -1749,24 +1747,24 @@ ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {
 
 internationalenFR = Internationalen = {
 	\verse{
-		Lisää viinaa mun lasiin,\\
-		Lisää laseja pöydälle.\\
-		Lisää pöytiä näihin juhliin,\\
-		Lisää juhlia kansalle.\\
-		Lisää kansaa Suomeen,\\
-		Lisää Suomea päälle maan.\\
-		Lisää maata Suomelle,\\
+		Lisää viinaa mun lasiin\\
+		Lisää laseja pöydälle\\
+		Lisää pöytiä näihin juhliin\\
+		Lisää juhlia kansalle\\
+		Lisää kansaa Suomeen\\
+		Lisää Suomea päälle maan\\
+		Lisää maata Suomelle\\
 		Marssitaan, marssitaan, Karjalaan, KARJALAAN!
 	}
 	\verse{
-		Mehr Sprit in die Gläser,\\
-		Mehr Gläser auf den Tisch,\\
-		Mehr Tische für dieses Fest,\\
-		Mehr Feste für das Volk.\\
-		Mehr Volk in den Wagen,\\
-		Mehr Wagen auf die Bahn,\\
-		Mehr Autobahnen für Europa.\\
-		Gib Gas, gib Gas du Arsch.
+		Mehr Sprit in die Gläser\\
+		Mehr Gläser auf den Tisch\\
+		Mehr Tische für dieses Fest\\
+		Mehr Feste für das Volk\\
+		Mehr Volk in den Wagen\\
+		Mehr Wagen auf die Bahn\\
+		Mehr Autobahnen für Europa\\
+		Gib Gas, gib Gas du Arsch!
 	}
 	\verse{
 		More booze in our glasses\\
@@ -1776,17 +1774,17 @@ internationalenFR = Internationalen = {
 		More states in America\\
 		More Americans on this Earth\\
 		More Earth for us to pump oil from\\
-		Cheap gas is all we’re worth.
+		Cheap gas is all we’re worth!
 	}
 	\verse{
-		Plus de vin dans nos verres,\\
-		Plus de verres sur la table,\\
-		Plus de tables sous nos baguettes,\\
-		Plus de baguettes pour la grève.\\
-		Plus de grèves pour la liberté,\\
-		Plus de liberté pour nos enfants,\\
+		Plus de vin dans nos verres\\
+		Plus de verres sur la table\\
+		Plus de tables sous nos baguettes\\
+		Plus de baguettes pour la France\\
+		Plus de France pour la grève\\
+		Plus de grèves pour nos enfants\\
 		\sing{Switch to "La Marseillaise"}
-		Plus d'enfants pour la patrie,\\
+		Plus d'enfants pour la patrie\\
 		Le jour de gloire est arrivé! ARRIVÉ!
 	}
 }
@@ -1852,7 +1850,7 @@ santiano = Santiano = {
 	}
 	\verse{
 		Je pars pour de longs mois en laissant Margot\\
-		Hissez haut Santiano !\\
+		Hissez haut Santiano!\\
 		D'y penser j'avais le cœur gros\\
 		En doublant les feux de Saint-Malo
 	}
@@ -1977,5 +1975,244 @@ connemara = Les Lacs du Connemara = {
 		Là-bas, au Connemara, on sait tout le prix de la guerre.\\ 
 		Là-bas, au Connemara, on n'accepte pas\\ 
 		La paix des Gallois ni celle des rois d'Angleterre...
+	}
+}
+
+thriftshop = Thrift Shop = {
+	\verse{
+		I'm gonna pop some tags\\
+		Only got twenty dollars in my pocket\\
+		I, I, I'm hunting, looking for a come-up\\
+		This is fucking awesome!
+	}
+	\verse{
+		\twice{
+			I wear your granddad's clothes\\
+			I look incredible\\
+			I'm in this big ass coat\\
+			From that thrift shop down the road
+		}
+	}
+	\verse{
+		I'm gonna pop some tags...
+	}
+}
+
+chansondelabbaye = Chanson de l'Ancienne Abbaye = {
+	\verse{
+		Au bord de la Sarine\\
+		Tout près de Château-d'Oex\\
+		Au flanc de la colline\\
+		Se trouve mon chalet\\
+		Autour de mon domaine\\
+		Tout est si verdoyant\\
+		Un beau sentier me mène\\
+		Jusqu'au Pont Turrian
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh (x3)\\
+		Di ya ya di ya ya oh\\
+		Ya oh, ya oh\\
+		Di ya ya di ya ya di ya ya oh\\
+		Ya oh, ya oh\\
+		Di ya ya di ya ya oh
+	}
+	\verse{
+		Du rocher de la Sarouche\\
+		Avec ses grands sapins\\
+		Je domine la Louge\\
+		Le Pré et puis les Moulins\\
+		La large Laitemaire\\
+		Me ferme le vallon\\
+		Et plus en arrière\\
+		Les bois de Rodomont
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh...
+	}
+	\verse{
+		Au bord de la Torneresse\\
+		Se trouve le hameau\\
+		Où les chamois sans cesse\\
+		Sont là en bas comme en haut\\
+		Fromage à fondue, à rebibes\\
+		On en fabrique à tour de bras\\
+		C'est un produit de l'Etivaz\\
+		Un bon AOP bien gras!
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh...
+	}
+	\verse{
+		Un cirque de montagnes\\
+		Cray, Vanil et Rubli\\
+		Dominent nos campagnes\\
+		Offre aux chamois l'abri\\
+		La Gumfluh avec ses tourelles\\
+		Corjon et Planachaux\\
+		Forment les sentinelles\\
+		Du beau Pays-d'Enhaut
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh...
+	}
+}
+
+latiaffe = La Tiaffe = {
+	\verse{
+		Y'a ceux qui n'aiment pas l'hiver\\
+		Le ski et le grand air\\
+		Y'a ceux qui n'aiment pas l'printemps\\
+		Le rhume des foins, l'retour du beau temps\\
+		Y'a ceux qui n'aiment pas l'automne\\
+		Et les feuilles qui tombent, ces connes\\
+		Moi c'est l'été qu'j'aime pas\\
+		Car elle revient pour moi
+	}
+	\verse{
+		La tiaffe! Quand ça commence à coller\\
+		La tiaffe! Je sue de tous les côtés\\
+		Le tiaffe! Les grosses gouttes dans le dos\\
+		La tiaffe! J'vous jure c'est pas rigolo\\
+		La tiaffe! Les auréoles sous les bras\\
+		La tiaffe! Comme si j'sortais du sauna\\
+		Quand il commence à tiaffer\\
+		Je suis trempé jusqu'aux pieds
+	}
+	\verse{
+		À Lausanne quand j'me promène\\
+		Même si j'vais pas bien loin\\
+		C'est toujours le meme problème\\
+		Sont tout en pente, ces chemins\\
+		La malette et l'costard de traviole\\
+		C'est le déluge à chaque pas\\
+		Je mouille même des guibolles\\
+		Elle ne m'abandonne pas
+	}
+	\verse{
+		La tiaffe!...
+	}
+	\verse{
+		Mais c'qui est désepérant\\
+		C'est qu'la tiaffe, c'est permanent!
+	}
+}
+
+switzerlandcuisine = Switzerland Cuisine = {
+	\verse{
+		Je suis monté dans un avion direction le Japon\\
+		J'ai gouté le sushi et le sukiyaki\\
+		J'ai regardé le kabuki en buvant du Saké\\
+		Après dix jours, il a fallu rentrer
+	}
+	\verse{
+		Tous les matins\\
+		J'bois mon café et mange mon pain\\
+		Et à midi, c'est mon plat de röstis\\
+		Quand vient le soir\\
+		Le fromage et la tarte aux poires\\
+		J'en ai assez, demain ça va changer
+	}
+	\verse{
+		J'ai pris le train pour l'Italie et viva Napoli\\
+		J'ai goûté les spaghettis, les macaronis\\
+		Les pizzas aux pepperonis avec du parmesan\\
+		Après dix jours, il n'y avait plus d'argent
+	}
+	\verse{
+		Tous les matins...
+	}
+	\verse{
+		J'ai pris l'avion pour l'Angleterre et viva Manchester\\
+		J'ai dégusté le pudding de Sa Majesté\\
+		At five o'clock c'est l'heure du thé en levant le p'tit doigt\\
+		Comme il pleuvait je suis rentré chez moi
+	}
+	\verse{
+		Tous les matins...
+	}
+	\verse{
+		Pour faire connaître mon pays, j'inviterai mes amis:\\
+		Les Italiens, les Anglais et les Japonais\\
+		Réunis dans un vieux chalet nous mangerons la fondue\\
+		En Switzerland vous serez bienvenus
+	}
+}
+
+tristitude = La Tristitude = {
+	\verse{
+		La tristitude,\\
+		C'est quand tu viens juste d'avaler un cure-dent,\\
+		Quand tu te rends compte que ton père est Suisse-Allemand,\\
+		Quand un copain t'appelle pour son déménagement,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La tristitude,\\
+		C'est quand un 20 tonnes se rabat sur ton deux-roues,\\
+		Quand tu dois aller vivre à Nogent-le-Rotrou,\\
+		Quand ton coiffeur t'apprend que t'as des reflets roux,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La tristitude,\\
+		C'est toi, c'est moi,\\
+		C'est nous, c'est quoi,\\
+		C'est un peu de détresse dans le creux de nos bras.\\
+		La tristitude,\\
+		C'est hmmm, c'est wooooouh,\\
+		C'est eux, c'est vous,\\
+		C'est la vie qui te dit que ça va pas du tout.
+	}
+	\verse{
+		La tristitude,\\
+		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\
+		Quand t'as 34 ans mais que t'as jamais pécho,\\
+		Quand ton voisin t'annonce qu'il se met au saxo,\\
+		Et ça fait chier.
+	}
+	\verse{
+		La tristitude,\\
+		C'est quand t'es choisi pour être gardien au hand-ball,\\
+		Quand t'as le hoquet en assemblée générale,\\
+		Quand tu pars faire du bâteau sur la mer d'Aral,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La tristitude...
+	}
+	\verse{
+		La tristitude,\\
+		C'est quand t'oublies le son en matant un porno,\\
+		Quand un mec t'adresse la parole dans le métro,\\
+		Quand Jamel Debbouzze fait un solo au piano,\\
+		Et ça fait rien.
+	}
+	\verse{
+		La tristitude,\\
+		C'est quand ton frère siamois t'apprend qu'il a le Sida,\\
+		Quand ta femme fait de l'échangisme un peu sans toi,\\
+		Quand des jeunes t'appellent "Monsieur" pour la première fois,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La tristitude...
+	}
+	\verse{
+		La tristitude,
+		C'est être célibataire mais à l'EPFL,\\
+		C'est conjuguer "bouillir" au subjonctif pluriel,\\
+		C'est quand au Scrabble t'as K F J Q X et L\\
+		Et ça fait kfjqxl.
+	}
+	\verse{
+		La tristitude,\\
+		C'est répondre à un "Bonjour" qui était pas pour toi,\\
+		C'est célébrer sa Bar-Mitzvah en '43,\\
+		C'est tenter d'ouvrir un bar gay au Nigeria,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La tristitude...
 	}
 }
