@@ -1,0 +1,1981 @@
+hyvatystavat = Hyvät Ystävät = {
+	\verse{
+		Hyvät ystävät juhla voi alkaa\\
+		Sankarille me nostamme maljaa\\
+		\twice{
+			Tääll’ ei juodakaan kolmosen kaljaa\\
+			Meille viihdyn suo samppanja vaan
+		}\\
+	}
+	\verse{
+		Hauska juomia kurkkuun on suistaa\\
+		Siten teekkariaikoja muistaa\\
+		\twice{
+			Yhteinen juomalaulumme luistaa\\
+			Juhlamieli on parhaimmillaan
+		}\\
+	}
+}
+
+nyt = A Finnish Drinking Song = {
+	\verse{
+		Nyt!\\
+	}
+}
+
+helangar = Helan Går = {
+	\verse{
+		\solo
+		En liten fågel satt en gång\\
+		Och sjöng i furuskog\\
+		Han hade sjungit dagen lång\\
+		Men dock ej sjungit nog\\
+	}
+	\verse{
+		Vad sjöng den lilla fågeln då?\\
+		JO!\\
+	}
+	\verse{
+		\everyone
+		\twice{
+			Helan går,\\
+			Sjung hopp-falderallan-lallan-lei!
+		}\\
+		Och den som inte helan tar,\\
+		Han ej heller halvan får.\\
+		Helan går!\\
+		Sjung hopp-falderallan-lallan-lei!\\
+	}
+}
+
+livetarharligt = Livet är härligt = {
+	\verse{
+		Livet är härligt, HEJ!\\
+		Tavaritj, vårt liv är härligt.\\
+		Vi alla våra små bekymmer glömmer,\\
+		När vi har fått en tår på tand.\\
+		En SKÅL!\\
+	}
+	\verse{
+		Ta dig en vodka, HEJ!\\
+		Tavaritj, en liten vodka.\\
+		Glasen i botten vi tillsammans tömmer.\\
+		Det kommer mera efter hand.\\
+		En SKÅL!\\
+	}
+}
+
+trinkEN = If your wife tells you not to drink = {
+	\verse{
+		If your wife tells you not to drink,\\
+		Just drink, just drink!\\
+		If she says you’ve had too much of beer\\
+		Just drink, just drink!\\
+		And if she keeps nagging just go ahead ‘n ditch her\\
+		There’s plenty of fish in the ocean to capture\\
+		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\
+	}
+	\verse{
+		Trink, trink, Brüderlein trink\\
+		Lass doch die Sorgen zu Haus!\\
+		Trink, trink, Brüderlein trink\\
+		Leere dein Glas mit mir aus!\\
+		Meiden den Kummer und meide den Schmerz\\
+		Dann ist das Leben ein Scherz\\
+		Zu lieber Augustin!\\
+		Kauf dir ein Auto und fahr gegen Baum\\
+		Dann is das Leben ein Traum!\\
+	}
+	\verse{
+		When soldiers march to war, you’ll see:\\
+		They drink, they drink!\\
+		And generals in their bunkers then?\\
+		They drink, they drink!\\
+		Cause war is pure hell and they know it’s quite rotten\\
+		When one guy can end it by pushing a button\\
+		So drink and sing and drink and sing and drink and sing and drink and sing and...\\
+	}
+	\verse{
+		Trink, trink...\\
+	}
+	\verse{
+		\solo
+		High up in a fir tree right under the branches,\\
+		There lives a small squirrel with its little stashes.\\
+		\everyone
+		It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...\\
+	}
+	\verse{
+		Trink, trink...\\
+	}		
+}
+
+trinkFI = Jos eukkosi kieltää sua juomasta = {
+	\verse{
+		Jos eukkosi kieltää sua juomasta,\\
+		Niin juo, niin juo.\\
+		Jos kieltää sua viinoja tuomasta,\\
+		Niin tuo, niin tuo.\\
+		Mutt' juomasta älä sinä milloinkaan lakkaa,\\
+		Vaan hanji sinä itselles' parempi akka.\\
+		Ja juo ja laula, ja juo ja laula, ja juo, ja laula, ja juo, ja laula...\\
+	}
+	\verse{
+		Trink, trink, Brüderlein trink\\
+		Lass doch die Sorgen zu Haus!\\
+		Trink, trink, Brüderlein trink\\
+		Leere dein Glas mit mir aus!\\
+		Meiden den Kummer und meide den Schmerz\\
+		Dann ist das Leben ein Scherz\\
+		Zu lieber Augustin!\\
+		Kauf dir ein Auto und fahr gegen Baum\\
+		Dann is das Leben ein Traum!\\
+	}
+	\verse{
+		Upseerit sotia taistelee,\\
+		Ja juo, ja juo,\\
+		Ja teltassa viinoja maistelee,\\
+		Ja juo, ja juo.\\
+		Kun taistelun melskeessä pyssyt ne paukkaa,\\
+		Niin upseerit välillä pullosta naukkaa,\\
+		Ja juo ja laula, ja juo ja laula, ja juo, ja laula, ja juo, ja laula...\\
+	}
+	\verse{
+		Trink, trink...\\
+	}
+	\verse{
+		Maisterit koulussa opettaa,\\
+		Ja juo, ja juo,\\
+		Ja illalla tuntissa lopettaa,\\
+		Ja juo, ja juo.\\
+		Kun päivällä saksaa ja matikkaa jauhaa\\
+		Niin illalla raitilla RÄYHÄÄ JA PAUHAA.\\
+		Ja juo ja laula, ja juo ja laula, ja juo, ja laula, ja juo, ja laula...\\
+	}
+	\verse{
+		Trink, trink...\\
+	}
+}
+
+marchofthewaterboys = March of the Water-Boys = {
+	\verse{
+		This we swear upon our lives or even death\\
+		That we will not drink at all that devilish alcohol\\
+		You may come and smell all of our brothers’ breath\\
+		But you'll see our edge is straight!\\
+	}
+	\verse{
+		Hooray, us jolly water playboys\\
+		We are sober everyday, boy\\
+		You're hung over? What a shame, boy.\\
+		Hooray, us jolly water playboys\\
+		We're as fresh as one can be (indeed!)\\
+	}
+}
+
+farover = Far over the Misty Mountains cold = {
+	\verse{
+		Far over the Misty Mountains cold\\
+		To dungeons deep and caverns old\\
+		We must away, ere break of day\\
+		To find our long forgotten gold
+	}
+	\verse{
+		The pines were roaring on the heights\\
+		The wind were moaning in the night\\
+		The fire was red, it flaming spread\\
+		The trees like torches blazed with light
+	}
+	\verse{
+		The dwarves of yore made mighty spells\\
+		While hammers fell like ringing bells\\
+		In places deep, where dark things sleep\\
+		In hollow halls beneath the fells
+	}
+	\verse{
+		Far over the misty mountains grim\\
+		To dungeons deep and caverns dim\\
+		We must away, ere break of day\\
+		To win our harps and gold from him
+	}
+}
+
+dearfriends = Dear Friends = {
+	\verse{
+		My dear friends our grand feast will begin here,\\
+		Our glasses we raise with a wild cheer.\\
+		\twice{
+			But tonight we won’t drink any light beer\\
+			Just champagne will put us in the mood
+		}\\
+	}
+	\verse{
+		All night drinks down our throats we’ll be pouring,\\
+		We’ll remember good times, not the boring.\\
+		\twice{		
+			Through the ceiling our song will be soaring\\
+			Finnish spirits are much more than good
+		}\\
+	}
+	\verse{
+		When friends drink too much with one another\\
+		They make new memories more than rather.\\
+		\twice{
+			You can trust everyone like your brother!\\
+			We won’t run out of drinks; maybe food
+		}\\	
+	}
+}
+
+hellandgore = Hell and Gore = {
+	\tuneof{Helan Går}
+	\verse{
+		Hell and gore\\
+		Sing hop Father Allan, Allan lay\\
+		Hell and gore\\
+		Sing hop Father Allan lay\\
+		And handsome in the hell and tar\\
+		Handsome in the half and four\\
+		Hell and gore\\
+		Sing hop Father Allan lay\\
+		Hey!\\
+	}
+}
+
+beercannon = Beer Cannon = {
+	\tuneof{Frère Jacques}
+	\verse{
+		Lapin Kulta, Lapin Kulta\\
+		Karjala, Karjala\\
+		Sininen ja Olvi\\
+		Sininen ja Olvi\\
+		Koff, Koff, Koff\\
+		Koff, Koff, Koff\\
+	}
+}
+
+beercannonCH = Beer Cannon = {
+	\tuneof{Frère Jacques}
+	\verse{
+		Appenzeller, Appenzeller\\
+		Cardinal, Cardinal\\
+		Heineken and Boxer\\
+		Heineken and Boxer\\
+		Feldschlösschen\\
+		Feldschlösschen\\
+	}
+}
+
+beercannonlong = Beer Cannon = {
+	\verse{
+		\twice{
+			Lapin Kulta
+		}\\
+		\twice{
+			Karjala
+		}\\
+		\twice{
+			Sininen ja Olvi
+		}\\
+		\twice{
+			Koff, Koff, Koff
+		}\\
+	}
+	\verse{
+		\twice{
+			Koskenkorva
+		}\\
+		\twice{
+			Pontikka
+		}\\
+		\twice{
+			Sinoli ja Lasoli
+		}\\
+		\twice{
+			Tärpätti
+		}\\
+	}
+	\verse{
+		\twice{
+			Coca-Cola
+		}\\
+		\twice{
+			Ja-affa
+		}\\
+		\twice{
+			Spraitti ja Pepsi
+		}\\
+		\twice{
+			Hämähäkkimies
+		}\\
+	}
+}
+
+heresthefirst = Here's the First = {
+	\tuneof{Helan Går}
+	\verse{
+		Here’s the first,\\
+		Sing hopp-faderallan-lallan-lay\\
+		Here’s the first,\\
+		Sing hopp-faderallan-lei.\\
+		The one who doesn’t drink the first\\
+		Shall never, ever quench his thirst\\
+		Here’s the first!\\
+		Sing hop-faderallan-lay	\\
+	}
+}
+
+bigbangtheory = Big Bang Theory Theme Song = {
+	\verse{
+		Our whole universe was in a hot dense state,\\
+		Then nearly fourteen billion years ago expansion started. Wait...\\
+		The Earth began to cool,\\
+		The autotrophs began to drool,\\
+		Neanderthals developed tools,\\
+		We built a wall (we built the pyramids),\\
+		Math, science, history, unraveling the mystery,\\
+		That all started with the big bang (Bang!)\\
+	}
+}
+
+wasted = Wasted = {
+	\verse{
+		\twice{Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get}\\
+		First I will drink down two bottles of sparkling wine,\\
+		Which gets me feeling more than fine\\
+		And then a barrel of whisky rye is all I need\\
+		To finally get me up to running speed\\
+		\twice{
+			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
+		}\\
+	}
+}
+
+wastedLong = Wasted = {
+	\verse{
+		\twice{
+			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
+		}\\
+		First I will drink down two bottles of sparkling wine,\\
+		Which gets me feeling more than fine\\
+		And then a barrel of whisky rye is all I need\\
+		To finally get me up to running speed\\
+		\twice{
+			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
+		}\\
+	}
+	\verse{
+		\sing{The Empire Strikes Back!}
+		Hang-hang-hang-hangover, hangover\\
+		Hang-hang-hang-hangover, hangover\\
+		Hang-hang-ha-hang-hang-ha-hangover\\
+		Ha-hang-hang-ha-hangover\\
+		Ha-hang-hangover-hangover.\\
+	}
+}
+
+syphilis = Syphilis = {
+	\tuneof{Yesterday}
+	\verse{
+		Syphilis, it just started with a simple kiss.\\
+		Now it hurts to even take a piss...\\
+		Oh how did I get syphilis?\\
+	}
+	\verse{
+		Why her box was sick,\\
+		I don’t know she wouldn’t say.\\ 
+		Now my dripping dick,\\
+		Won’t get hard like yesterdaaaaaayyy.\\
+	}
+	\verse{
+		Yesterday, my cock was always coming out to play.\\
+		Now it needs two weeks to hide away.\\
+		Oh I believe in yesterday.\\
+	}
+	\verse{
+		Birth control, all my troubles seem so far away,\\
+		When I’m going up my girlfriend's hole.\\
+		Oh, I believe in birth control.\\
+	}
+	\verse{
+		Suddenly, there’s a shotgun hanging over me.\\
+		It was unexpected pregnancy.\\
+		Oh, I believe in birth control.\\
+	}
+	\verse{
+		Why, I had to come.\\
+		I don’t know she wouldn’t blow.\\
+		I stayed in too long,\\
+		How I long for birth control.\\
+	}
+	\verse{
+		Leprosy, that old rotten man just touched my knee,\\
+		Now my flesh is falling off of me.\\
+		Oh, I think I got leprosy.\\
+	}
+	\verse{
+		Suddenly, I’m just half the man I used to be,\\
+		There are pieces coming off of me.\\
+		Yes, leprosy came suddenly.\\
+	}
+	\verse{
+		Why’d my arm fall off?\\
+		I don’t know, no one will say.\\
+		I know something’s wrong,\\
+		‘Cause my leg just walked away.\\
+	}
+}
+
+thisfeeling = This Feeling = {
+	\tuneof{Everytime we touch}
+	\verse{
+		I still feel the symptoms,\\
+		Do you get them too?\\
+		Am I just different or is it a flu?\\
+		I should go see a doctor, so I could be sure\\
+		But I just don’t want to get cured!\\
+	}
+	\verse{
+		'Cause every time I drink, I get this feeling\\
+		With every single sip I swear I can fly!\\
+		Can’t you feel my thirst build so\\
+		I want it to grow,\\
+		So I can drink some more\\
+	}
+	\verse{
+		‘Cause every time I drink I feel extatic\\
+		And when I’ve drunk one down I run to the bar\\
+		I need to have some more drinks fast\\
+		I want this to last\\
+		Tonight I’m sure I’ll score!\\	
+	}
+}
+
+softkitty = Soft Kitty = {
+	\verse{
+		Soft kitty, warm kitty,\\
+		Little ball of fur.\\
+		Happy kitty, sleepy kitty,\\
+		Purr, purr, pur-r-r.\\
+	}
+}
+
+henkilokuntaEN = Henkilökunta = {
+	\verse{
+		\twice{
+			Henkilökuntaa, henkilökuntaa, parlevuu.
+		}\\
+		Henkilökuntaa (x4)\\
+		\twice{
+			Henkilökuntaa parlevuu.
+		}\\
+	}
+	\verse{
+		\twice{
+			Bring us brandy...
+		}\\
+		\twice{
+			Where is my food...
+		}\\
+		\twice{
+			Beer is fine, too...
+		}\\
+	}
+}
+
+henkilokuntaFI = Henkilökunta = {
+	\verse{Eurovision
+		\twice{
+			Henkilökuntaa, henkilökuntaa, parlevuu.
+		}\\
+		Henkilökuntaa (x4)\\
+		\twice{
+			Henkilökuntaa parlevuu.
+		}\\
+	}
+	\verse{
+		\twice{
+			Lissää viinaa...
+		}\\
+		\twice{
+			Konjakki ois poikaa...
+		}\\
+		\twice{
+			Kaljakin kelpaa...
+		}\\
+	}
+}
+
+eurovision = Eurovision = {
+	\tuneof{the Eurovision Theme}
+	\verse{
+		The French drink champagne and chardonnay\\
+		In Germany they drink beer\\
+		In Russia they drink vodka\\
+		In Finland we drink everything\\
+		So let's all raise a glass to that\\
+	}
+	\verse{
+		Austria exports kangaroos\\
+		Swedes export IKEA\\
+		Ukraine exports Crimea\\
+		Germany exports refugees\\
+		All Finland does is send them back\\
+	}
+	\verse{
+		Here we would've sung of the UK\\
+		But they went on and did a stupid thing they call "Brexit"\\
+		All hope is lost for England\\
+		But Scots and Irish, welcome back!\\
+	}
+}
+
+drunkenstudent = Drunken Student = {
+	\tuneof{Drunken Sailor}
+	\verse{
+		What shall we do with the drunken student? (x3)\\
+		Early in the morning\\
+		Hooray and up he rises (x3)\\
+		Early in the morning\\
+	}
+	\verse{
+		Take him and shake him and try to wake him...\\
+		Take him to an 8 a.m. math lecture...\\
+		Take his phone and look at all his pictures...\\
+		Duct tape him to the dormroom ceiling...\\
+		Wake him up with a glass of vodka...\\
+		That’s what we do with a drunken student...\\
+	}
+}
+
+twelvedays = Twelve Days of Binge-Drinking = {
+	\tuneof[increasingly drunkenly]{Twelve Days of Christmas}
+	\verse{
+		My first day of binge-drinking started happily,\\
+		With a large Long Island Ice Tea.\\
+	}
+	\verse{
+		My second day of binge-drinking started happily,\\
+		With two rum and Cokes,\\
+		And a large Long Island Ice Tea.\\
+	}
+	\verse{
+		... Two rum and Cokes,\\
+		... Three G and Ts,\\
+		... Four Jello Shots,\\
+		... Five pints of beer,\\
+		... Six Mai Tais,\\
+		... Seven gin martinis,\\
+		... Eight Bacardi breezers,\\
+		... Nine Black Russians,\\
+		... Ten raz’ mojitos,\\
+		... ‘Leven nips of whiskey,\\
+	}
+	\verse{
+		My twelfth day of binge-drinking was a sight to see,\\
+		With twelve shots of absinthe,\\
+	}
+}
+
+wewillrockyou = We will rock you = {
+	\verse{
+		\solo
+		Buddy you're a boy make a big noise\\
+		Playin' in the street gonna be a big man some day\\
+		You got mud on yo' face\\
+		You big disgrace\\
+		Kickin' your can all over the place, singin'\\
+	}
+	\verse{
+		\everyone
+		We will we will rock you\\
+		We will we will rock you\\
+	}
+	\verse{
+		\solo
+		Buddy you're a young man hard man\\
+		Shoutin' in the street gonna take on the world some day\\
+		You got blood on yo' face\\
+		You big disgrace\\
+		Wavin' your banner all over the place\\
+	}
+	\verse{
+		\everyone
+		We will we will rock you\\
+		We will we will rock you\\
+	}
+	\verse{
+		\solo
+		Buddy you're an old man poor man\\
+		Pleadin' with your eyes gonna make you some peace some day\\
+		You got mud on your face\\
+		Big disgrace\\
+		Somebody better put you back into your place\\
+	}
+	\verse{
+		\everyone
+		We will we will rock you\\
+		We will we will rock you\\
+	}
+}
+
+iloverocknroll = I love Rock'n'Roll = {
+	\verse{
+		I love rock n' roll\\
+		So put another dime in the jukebox, baby\\
+		I love rock n' roll\\
+		So come an' take your time an' dance with me\\
+	}
+}
+
+yogibear = Yogi Bear = {
+	\tuneof{Camptown Races}
+	\verse{
+		I know someone you don't know, Yogi, Yogi,\\
+		I know someone you don't know, Yogi, Yogi bear.\\
+		\twice{
+			Yogi, Yogi bear
+		}\\
+		I know someone you don't know, Yogi, Yogi bear.\\
+	}
+	\verse{
+		Yogi has a Swedish friend, Puppe, Puppe,\\
+		Yogi has a Swedish friend, Puppe Puppeström.\\
+		\twice{
+			Puppe Puppeström
+		}\\
+		Yogi has a Swedish friend, Puppe Puppeström.\\
+	}
+	\verse{
+		Puppe likes it up the ass, up the, up the,\\
+		Puppe likes it up the ass, up the, up the ass\\
+		\twice{
+			up the, up the ass
+		}\\
+		Puppe likes it up the ass, up the, up the ass\\
+	}
+	\verse{
+		Yogi has a girlfriend, Cindy, Cindy,\\
+		Yogi has a girlfriend, Cindy, Cindy bear.\\
+		\twice{
+			Cindy, Cindy bear
+		}\\
+		Yogi has a girlfriend, Cindy, Cindy bear.\\
+	}
+	\verse{
+		Cindy likes it from behind, frombe, frombe,\\
+		Cindy likes it from behind, frombe, from behind.\\
+		\twice{
+			Frombe, from behind
+		}\\
+		Cindy likes it from behind, frombe, from behind.\\
+	}
+	\verse{
+		Yogi has an enemy, ranger, ranger,\\
+		Yogi has an enemy, ranger, ranger Smith\\
+		\twice{
+			Ranger, ranger Smith
+		}\\
+		Yogi has an enemy, ranger, ranger Smith\\
+	}
+	\verse{
+		Ranger Smith fucks animals, ani, ani,\\
+		Ranger Smith fucks animals, ani, animals\\
+		\twice{
+			Ani, animals
+		}\\
+		Ranger Smith fucks animals, ani, animals\\
+	}
+	\verse{
+		Yogi likes it in the fridge, polar, polar,\\
+		Yogi likes it in the fridge, polar, polar bear,\\
+		\twice{
+			Polar, polar bear
+		}\\
+		Yogi likes it in the fridge, polar, polar bear.\\
+	}
+}
+
+minne = Minne = {
+	\tuneof{Memory}
+	\verse{
+		Minne!\\
+		Jag har tappat mitt minne!\\
+		Är jag svensk eller finne?\\
+		- Kommer inte ihåg.\\
+	}
+	\verse{
+		Inne!
+		Är jag ut eller inne?\\
+		Jag har luckor i minne.\\
+		- Sån’ där små alkohål.\\
+	}
+	\verse{
+		Men besinn er,\\
+		Man tätar med det brännvin man får,\\
+		Fastän minnet och helan går!\\
+	}
+	\verse{
+		Minne?\\
+		Muisti hävis, mutt’ minne?\\
+		Juhlista selvisimme\\
+		- Muistikatkoja on.\\
+	}
+	\verse{
+		Minne,\\
+		Lähtisin vaikka minne,\\
+		Kunhan selvittäisimme\\
+		Mitä tapahtunut on.\\
+	}
+	\verse{
+		Mutta tiedän mä keinon\\
+		Mikä auttaapi tuo:\\
+		Ota ryyppy, ja muistis juo!\\
+	}
+	\verse{
+		Oh where
+		Are my memories? Oh where?\\
+		Well as far as I’m aware\\
+		Last night’s naught but a blur.\\
+	}
+	\verse{
+		Anywhere
+		I’d go near about anywhere\\
+		To get my mem’ries back there\\
+		In my head as they were.\\
+	}
+	\verse{
+		But now they’re gone, and it just seems\\
+		That I’ll never learn...\\
+		I’ll just drink more and hope they return!\\
+	}
+}
+
+koskenkorva = Ko-ko-ko-koskenkorva = {
+	\verse{
+		Ko-ko-ko-kosken ko-ko-ko-korvaa\\
+		Siitä aina kunnon räkä-kä-kännit saa.\\
+		Ko-ko-ko-kosken ko-ko-ko-korvaa\\
+		Siitä aina kunnon räkä-kä-kännit,\\
+		Aina kunnon räkä-kä-kännit,\\
+		Aina kunnon räkä-kä-kännit saa.\\
+	}
+	\verse{
+		Kokokokosken kokokokorva,\\
+		What a wonderful way to get totally, totally drunk!\\
+		...\\
+	}
+	\verse{
+		Lalalalappeen rarararanta,\\
+		What a wonderful place to get totally, totally drunk!\\
+		...\\
+	}
+}
+
+paratrooper = Paratrooper = {
+	\tuneof{the Battle Hymn of the Republic}
+	\verse{
+		My brother was a paratrooper in the US Marines (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		Gory, gory what a hell of a way to die (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		He jumped from eighteen thousand feet without a parachute (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		Gory, gory...\\
+	}
+	\verse{
+		He was the last to leave the plane but first to hit the ground (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		Gory, gory...\\
+	}
+	\verse{
+		He hit the ground and turned into a ten-by-ten feet square (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		Gory, gory...\\
+	}
+	\verse{
+		They scraped him off and sent him to the ketchup factory (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		Gory, gory...\\
+	}
+	\verse{
+		\solo
+		So think of my dear brother when you eat at Burger King's (x3)\\
+	}
+	\verse{
+		\everyone
+ 		Cause he ain’t gonna jump no more!\\
+	}
+}
+
+fastfood = Fast food and other things = {
+	\verse{
+		\twice{
+			A Pizza Hut, a Pizza Hut,\\
+			Kentucky Fried Chicken and a Pizza Hut
+		}\\
+		\twice{
+			McDonald's, McDonald's,\\
+			Kentucky Fried Chicken and a Pizza Hut
+		}\\
+	}
+	\verse{
+		\twice{
+			A Ford Escort, a Ford Escort,\\
+			a Mini, Mini, Mini and a Ford Escort
+		}\\	
+		\twice{		
+			Ferrari, Ferrari,\\
+			a Mini, Mini, Mini and a Ford Escort
+		}\\
+	}
+	\verse{
+		\twice{	
+			A Jumbo Jet, a Jumbo Jet,\\
+			a heli, heli, heli and a Jumbo Jet
+		}\\
+		\twice{
+			Concorde, Concorde,\\
+			a heli, heli, heli and a Jumbo Jet
+		}\\
+	}
+}
+
+rollmeover = Roll me over = {
+	\verse{	
+		This is number one\\
+		And the fun has just begun\\
+		Roll me over, lay me down\\
+		And do it again,\\
+		”I like the feeling”\\
+		Roll me over in the clover\\
+		Roll me over, lay me down and do it again.\\
+	}
+	\verse{
+		This is number two\\
+		And my hand is on her shoe\\
+		Roll me over...\\
+	}
+	\verse{
+		This is number three\\
+		And my hand is on her knee...\\
+	}
+	\verse{		
+		This is number four\\
+		And our clothes are on the floor...\\
+	}
+	\verse{
+		This is number five\\
+		I'm surprised I'm still alive...\\
+	}
+	\verse{
+		This is number six\\
+		And she says she likes my tricks...\\
+	}
+	\verse{
+		This is number seven\\
+		And she thinks that she's in heaven...\\
+	}
+	\verse{
+		This is number eight\\
+		And the doctor's at the gate...\\
+	}
+	\verse{
+		This is number nine\\
+		And the baby wasn't mine...\\
+	}
+	\verse{
+		This is number ten\\
+		And it's time to do it again ...\\
+	}
+	\verse{
+		This is number twenty\\
+		And my gun is nearly empty...\\
+	}
+	\verse{
+		This is number hundred\\
+		And the neighbors really wondered...\\
+	}
+	\verse{
+		This is number 10'394\\
+		And oh my god she still wants more...\\
+	}
+}
+
+internationalen = Internationalen = {
+	\verse{
+		Mera brännvin i glasen,\\
+		Mera glas på vårt bord,\\
+		Mera bord på kalasen,\\
+		Mera kalas på vår jord.\\
+		Mera jordar kring månen,\\
+		Mera månar kring mars,\\
+		Mera marscher till Skåne,\\
+		Mera Skåne, bevars bevars bevars!\\
+	}
+	\verse{
+		Lisää viinaa mun lasiin,\\
+		lisää laseja pöydälle.\\
+		Lisää pöytiä näihin juhliin,\\
+		lisää juhlia kansalle.\\
+		Lisää kansaa Suomeen,\\
+		lisää Suomea päälle maan.\\
+		Lisää maata Suomelle,\\
+		marssitaan, marssitaan, Karjalaan, KARJALAAN!\\
+	}
+	\verse{
+		Mehr Sprit in die Gläser,\\
+		mehr Gläser auf den Tisch,\\
+		mehr Tische für dieses Fest,\\
+		mehr Feste für das Volk.\\
+		Mehr Volk in den Wagen,\\
+		mehr Wagen auf die Bahn,\\
+		mehr Autobahnen für Europa.\\
+		Gib Gas, gib Gas du Arsch.\\
+	}
+	\verse{
+		More booze in our glasses\\
+		More glasses on the bar\\
+		More bars for this small town of ours\\
+		More towns for this Free State\\
+		More states in America\\
+		More Americans on this Earth\\
+		More Earth for us to pump oil from\\
+		Cheap gas is all we’re worth.\\
+	}
+}
+
+alcohol = Alcohol = {
+	\verse{
+		Alcohol\\
+		Alcohol\\
+		Alcohol alcohol alcohol\\
+		Hemos venido\\
+		A emborracharnos\\
+		El resultado nos da igual\\
+	}
+}
+
+jallusmagicstarlight = Jallu’s Magic Starlight = {
+	\verse{
+		\solo 
+		Under Jallu’s magic starlight\\
+		Not the highest star, but most bright\\
+		I look through my empty shot glass\\
+		And I fill it up again\\
+		Under Jallu’s magic starlight\\
+		Our strong drinks are cut from first bite\\
+		From this magic drink, a shelter\\
+		I will make for my sad days\\
+	}
+	\verse{
+		\everyone 
+		\twice{
+			And under Jallu’s starlight\\
+			I will take one, for a safe flight\\
+			Only under Jallu’s soft sight\\
+			I will cry a joyful tear.
+		}\\
+	}
+	\verse{
+		\solo 
+		Under Jallu’s magic starlight,\\
+		singer’s throat gets dry and so tight\\
+		Only getting booze he feels right\\
+		And can move on from this day\\
+		Under Jallu’s magic starlight,\\
+		Creeps a frost my soul cannot fight\\
+		But by corking one more tonight\\
+		My heart’s chill is thawed away.\\
+	}
+	\verse{
+		\everyone
+		\twice{
+			And under Jallu’s starlight...
+		}\\
+	}
+}
+
+myfavoritedrinks = My Favorite Drinks = {
+	\tuneof{My Favorite Things}
+	\verse{
+		Negroni, Manhattan, Tequila sunrise,\\
+		Gin Tonic, Blue Angel, a vodka on ice,\\
+		Campari orange, Ferrari, Tom Collins.\\
+		These are a few of my favourite drinks!\\
+	}
+	\verse{
+		Screwdriver, Grasshopper, Apple Martini,\\
+		Black russian, White russian! Long island ice tea,\\
+		Little green fairies absinthe on their wings.\\
+		These are a few of my favourite drinks!\\
+	}
+	\verse{
+		When the glass breaks\\
+		or my hand shakes\\
+		when I'm feeling sad\\
+		I mix up a few of my favourite drinks\\
+		and then I don't feel so bad!\\
+	}
+}
+
+ourfamily = Our Family = {
+	\tuneof{My Bonny Lies Over the Ocean}
+	\verse{
+		My father makes counterfeit money,\\
+		my mother brews synthetic gin.\\
+		My sister sells kisses to sailors\\
+		and that’s how the money rolls in.\\
+	}
+	\verse{
+		\twice{
+			Rolls in, rolls in, my God how the money rolls in, rolls in
+		}\\
+	}
+	\verse{
+		My uncle’s a slum missionary,\\
+		saving young maidens from sin.\\
+		He’ll save you a blonde for a shilling\\
+		and that’s how the money rolls in.\\
+	}
+	\verse{
+		Rolls in, rolls in...\\
+	}
+	\verse{
+		My aunt runs a girl seminary,\\
+		teaching young girls to begin.\\
+		She never says where they’re to finish\\
+		and that’s how the money rolls in.\\
+	}
+	\verse{
+		Rolls in, rolls in...\\
+	}
+	\verse{
+		My brother’s a Harley Street doctor,\\
+		with instruments long, sharp and thin.\\
+		He only makes one operation\\
+		and that’s how the money rolls in.\\
+	}
+	\verse{
+		Rolls in, rolls in...\\
+	}
+	\verse{
+		My father has spent all his money,\\
+		my mother has drunk all her gin,\\
+		my sister’s beauty has fainted\\
+		and now no more money rolls in.\\
+	}
+	\verse{
+		Rolls in, rolls in...\\
+	}
+}
+
+vemihelvete = Vem i helvete = {
+	\verse{
+		Vem i helvete kastar sten på min flaska brännvin? (fyra gånger)\\
+	}
+	\verse{
+		Kuka helvetti heitti kiven mun viinapulloon? (neljästi)\\
+	}
+	\verse{
+		Who the hell threw a rolling stone to my whiskey bottle? (four times)\\
+	}
+	\verse{
+		Kes kuurats ku viskas kivi mun viinaputelisseen?\\
+	}
+	\verse{
+		Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)\\
+	}
+	\verse{
+		Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)\\
+	}
+}
+
+varpunenjouluaamuna = Varpunen jouluaamuna = {
+	\verse{
+		Lumi on jo peittänyt kukat laaksosessa,\\
+		järven aalto jäätynyt talvipakkasessa.\\
+		Varpunen pienoinen, syönyt kesäeinehen,\\
+		järven aalto jäätynyt talvipakkasessa.\\
+	}
+}
+
+dovakhiin = Dovakhiin = {
+	\verse{
+		Who ! Hoa ! Rha ! (x8)\\
+	}
+	\verse{
+		Dovahkiin, Dovahkiin\\
+		Naal ok zin los vahriin\\
+		Wah dein vokul\\
+		Mahfaeraak ahst vaal !\\
+		Ahrk fin norok paal graan\\
+		Fod nust hon zindro zaan\\
+		Dovahkiin, fah hin\\
+		Kogaan mu draal !\\
+	}
+	\verse{
+		Nuz aan sul, fent alok\\
+		Fod fin vul dovah nok\\
+		Fen kos nahlot mahfaeraak\\
+		Ahrk ruz !\\
+		Paaz Keizaal fen kos stin nol bein\\
+		Alduin jot !\\
+	}
+	\verse{
+		Dovahkiin, Dovahkiin...\\
+	}
+	\verse{
+		Nuz aan sul, fent alok...\\
+	}
+	\verse{
+		Dovahkiin, Dovahkiin...\\
+	}
+	\verse{
+		Who ! Hoa ! Haa ! Rha ! (x2)\\
+	}
+}
+
+labamba = La Bamba = {
+	\verse{
+		Para bailar La Bamba\\
+		Para bailar La Bamba\\
+		Se necessita una poca de gracia\\
+		Una poca de gracia\\
+		Para me para ti, ay arriba, ay arriba\\
+		Ay, arriba arriba\\
+		Por ti sere, por ti sere, por ti sere\\
+	}
+	\verse{
+		Yo no soy marinero\\
+		Yo no soy marinero\\
+		Soy capitan, soy capitan, soy capitan\\
+		Bam ba bamba (x3)\\
+	}
+}
+
+sorkansallit = Sörkän Sällit = {
+	\verse{
+		Father Stalin, mother Krushchova,\\
+		Shared a kiss, with vodka on the rocks!\\
+		\twice{
+			I wish they would have done it a bit sooner,\\
+			Would have spared the Russians from their grief.
+		}\\
+	}
+	\verse{
+		Where the fields grow seas of wheat and barley,\\
+		I once met young maiden Katyushka.\\
+		\twice{
+			Katyushka had a nicely rounded bosom,\\
+			Radiation gave her extra tits.
+		}\\
+	}
+	\verse{
+		I am just a simple old granny,\\
+		Not a single friend left in the world.\\
+		\twice{
+			Men came here to take my chickens and my cow and sheep,\\
+			Now they're coming back to take my teeth.
+		}\\
+	}
+}
+
+tanaanotetaan = Tänään otetaan = {
+	\verse{
+		\twice{
+			Tänään otetaan, tänään otetaan,\\
+			Helvetin paljon viinaa.
+		}\\
+		\twice{
+			Huomenna on, huomenna on,\\
+			Helvetin kova krapula.
+		}\\
+	}
+	\verse{
+		\twice{
+			Idag ska vi ta, idag ska vi ta,\\
+			Helvetes mycket brännvin.
+		}\\
+		\twice{
+			I morgon ska vi ha, i morgon ska vi ha,\\
+			Helvetes kova krapula.
+		}\\
+	}
+	\verse{
+		\twice{
+			Tänä vötame, tänä vötame\\
+			Kuradima palju viina
+		}\\
+		\twice{
+			Homme meil on, homme meil on,\\
+			Kuradima kova pohmakas.
+		}\\
+	}
+	\verse{
+		\twice{
+			Today we shall get, today we shall get\\
+			Absolutely fucking wasted.
+		}\\
+		\twice{
+			Tomorrow we will have, tomorrow we will have,\\
+			A hangover beyond reason.
+		}\\
+	}
+}
+
+tanaanotetaanshort = Tänään otetaan = {
+	\verse{
+		\twice{
+			Tänään otetaan, tänään otetaan,\\
+			Helvetin paljon viinaa.
+		}\\
+		\twice{
+			Huomenna on, huomenna on,\\
+			Helvetin kova krapula.
+		}\\
+	}
+	\verse{
+		\twice{
+			Idag ska vi ta, idag ska vi ta,\\
+			Helvetes mycket brännvin.
+		}\\
+		\twice{
+			I morgon ska vi ha, i morgon ska vi ha,\\
+			Helvetes kova krapula.
+		}\\
+	}
+	\verse{
+		\twice{
+			Today we shall get, today we shall get\\
+			Absolutely fucking wasted.
+		}\\
+		\twice{
+			Tomorrow we will have, tomorrow we will have,\\
+			A hangover beyond reason.
+		}\\
+	}
+}
+
+ryyppaaEN = Ryyppää = {
+	\verse{
+		Ryyppää, ryyppää, ryyppää vaan,\\
+		Huomenna on sulla krapula.\\
+		Kun sä ryyppäät, ryyppäät, ryyppäät vaan,\\
+		Niin krapula ei tulekaan!\\
+	}
+	\verse{
+		Just drink, and drink, and drink some more,\\
+		Tomorrow you’ll have a hangover,\\
+		But if you drink, and drink, and drink some more,\\
+		The hangover won’t come at all!\\
+	}
+}
+
+takkipois = Takki pois = {
+	\verse{
+		Hei takki poies kiskaikaamme,\\
+		On Polin poikain tapa tää.\\
+		\twice{
+			Ja sitten laulu laulakaamme,\\
+			Niin että katto tärähtää!
+		}\\
+	}
+	\verse{
+		Me emme laulamasta lakkaa,\\
+		Ennekuin aamu sarastaa.\\
+		\twice{
+			Ei täältä ennen poistutakaan,\\
+			Tääll' juodaan kautta Pohjanmaan!
+		}\\
+	}
+}
+
+finland = Finland = {
+	\verse{
+		Finland, Finland, Finland,\\
+		The country where I want to be,\\
+		Pony trekking or camping,\\
+		Or just watching TV.\\
+		Finland, Finland, Finland.\\
+		It's the country for me.\\
+	}
+	\verse{
+		You're so near to Russia,\\
+		So far from Japan,\\
+		Quite a long way from Cairo,\\
+		Lots of miles from Vietnam.\\
+		Finland, Finland, Finland,\\
+		The country where I want to be,\\
+	}
+	\verse{
+		Eating breakfast or dinner,\\
+		Or snack lunch in the hall.\\
+		Finland, Finland, Finland.\\
+		Finland has it all.\\
+	}
+	\verse{
+		You're so sadly neglected\\
+		And often ignored,\\
+		A poor second to Belgium,\\
+		When going abroad.\\
+		Finland, Finland, Finland,\\
+		The country where I quite want to be,\\
+	}
+	\verse{
+		Your mountains so lofty,\\
+		Your treetops so tall.\\
+		Finland, Finland, Finland.\\
+		Finland has it all.\\
+		Finland has it all.\\
+	}
+}
+
+engineersdrinkingsong = The Engineers' Drinking Song = {
+	\tuneof{The Son of a Gambolier}
+	\verse{
+		We are, we are, we are, we are, we are the Engineers,\\
+		We can, we can, we can, we can, demolish forty beers.\\
+		Drink rum, drink rum, drink rum all day, and come along with us,\\
+		'Cause we don't give a damn for any old man who don't give a damn for us!\\
+	}
+	\verse{
+		A maiden and an Engineer were sitting in the park,\\
+		The Engineer was working on some research after dark,\\
+		His scientific method was a marvel to observe,\\
+		While his right hand held the figures, his left hand traced the curves.\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		Princeton's run by Wellesley, and Wellesley's run by Yale\\
+		And Yale is run by Vassar, and Vassar's run by tail\\
+		Harvard's run by stiff pricks, the kind you raise by hand\\
+		But M.I.T. is run by Engineers, the finest in the land\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		MIT was MIT when Harvard was a pup,\\
+		And MIT will be MIT when Harvard's time is up,\\
+		And any Harvard Son of a bitch who thinks he's in our class,\\
+		Can pucker up his rosy lips and kiss the Beaver's ass.\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		A Harvard lad in robes was clad and set to graduate.\\
+		A pompous gleaming spectacle he was upon that date.\\
+		But not a quarter hour after he got his degree,\\
+		He was serving fries to engineers from good old MIT!\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		An MIT surveyor once found the gates of Hell,\\
+		He looked the devil in the eye, and said "You're looking well".\\
+		The devil looked right back at him, and said "Why visit me -\\
+		You've been through Hell already; you went to MIT!"\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		Rapunzel let her hair down for two suitors down below,\\
+		So one of them could grab a hold and give the old heave-ho.\\
+		The prince began to climb at once, but soon came out the worst,\\
+		For the Engineer rode up a lift, and reached Rapunzel first.\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+	\verse{
+		3.141 is pi and 2.7's e.\\
+		The root of -1 is i the speed of light is c.\\
+		And I can rattle off these numbers 'til infinity,\\
+		But the only thing that's constant is the work at MIT!\\
+	}
+	\verse{
+		We are, we are, we are, we are...\\
+	}
+}
+
+teekkarihymni = Teekkarihymni = {
+	\verse{
+		Yö kuin sielu teekkarin on pimiä,\\
+		Takajoukko nukkuu vain, nukkuu vain.\\
+		Tarhapöllön ääni kimiä,\\
+		Kuuluu pappilasta päin, kuuluu päin.\\
+		Ja taas, ja siis,\\
+		Ja yks, kaks, kolme, neljä, viis\\
+	}
+	\wholesong
+}
+
+somesaythedevilisdead = Some say the Devil is dead = {
+	\verse{
+		\solo
+		Some say the Devil is dead, the Devil is dead, the Devil is dead,\\
+		Some say the Devil is dead and buried in Killarney.\\
+		More say he rose again (x3)\\
+		And joined the British army.\\
+	}
+	\verse{
+		\everyone
+		Feed the pigs and milk the cow, milk the cow, milk the cow,\\
+		Feed the pigs and milk the cow, so early in the morning.\\
+		Tuck your leg up, Paddy dear.\\
+		Paddy, dear, I'm over here!\\
+		Tuck your leg up, Paddy dear,\\
+		It's time to stop your yawning\\
+	}
+	\verse{
+		Some say the Devil is dead...\\
+	}
+	\verse{
+		Katie, she is tall and thin, tall and thin, tall and thin.\\
+		Katie, she is tall and thin, she likes a drop of brandy.\\
+		Drinks it in the bed at night (x3)\\
+		It makes her nice and randy.\\
+	}
+	\verse{
+		Some say the Devil is dead...\\
+	}
+	\verse{
+		My man is six foot tall, six foot tall, six foot tall,\\
+		My man is six foot tall, he likes his sugar candy.\\
+		Goes to bed at six o'clock (x3)\\
+		He's lazy, fat and dandy.\\
+	}
+	\verse{
+		Some say the Devil is dead...\\
+	}
+	\verse{
+		My wife, she has a hairy thing, a hairy thing, a hairy thing.\\
+		My wife, she has a hairy thing, she showed it to me on Sunday.\\
+		She bought it in the furrier shop (x3)\\
+		It's going back on Monday.\\
+	}
+	\verse{
+		Some say the Devil is dead...\\
+	}
+}
+
+ilestdesnotres = Il est des nôtres = {
+	\verse{
+		\twice{
+			Ami(e) [person who has to drink] lève ton verre\\
+			Et surtout, ne le renverse pas
+		}\\
+		Et porte le\\
+		Au frontibus\\
+		Au nasibus\\
+		Au mentibus\\
+		Au ventribus\\
+		Au sexibus\\
+		Et glou, et glou, et glou, et glou...\\
+	}
+	\verse{
+		Il est des nôtres,\\
+		Il a bu son verre comme les autres!\\
+		C'est un ivrogne,\\
+		Ça se voit rien qu'à sa trogne!\\
+	}
+}
+
+myladyinred = My Lady in red = {
+	\verse{
+		\solo
+		She's my Lady in red\\
+		\everyone
+		She's my Lady in red\\
+		\solo
+		She likes to do it in the bed\\
+		\everyone
+		She likes to do it in the bed\\
+	}
+	\verse{
+		\solo
+		Singing na-na-na-na\\
+		\everyone
+		Singing na-na-na-na\\
+		\solo
+		Singing wo-ho-oh-ho\\
+		\everyone
+		Singing wo-ho-oh-ho\\
+	}
+	\verse{
+		\solo
+		She's my Lady in...\\
+	}
+}
+
+whatshesgot = What she's got = {
+	\verse{
+		\solo
+		Being gay has its problems, it's true,\\
+		But being straight has its problems too.\\
+		I met this girl,\\
+		And she's just great,\\
+		But the problem is that I am straight.\\
+		You ask "How can this be?"\\
+		Sing along and you will see:\\
+	}
+	\verse{
+		\everyone
+		She's got that style,\\
+		She's got that smile,\\
+		She's got the walk,\\
+		She's got the talk,\\
+		She's got that zing,\\
+		There's just one thing:\\
+		\twice{
+			She's got a penis (pom, pom, pom)
+		}\\
+	}
+	\verse{
+		She's got that flair,\\
+		Knows what to wear,\\
+		She's got that face,\\
+		That girlish grace,\\
+		She's from ESN,\\
+		But then again,\\
+		A penis (pom, pom, pom)\\
+		She's got a penis (pom, pom, pom)\\
+	}
+	\verse{
+		\solo
+		Now nobody's perfect,\\
+		I must admit.\\
+		Say how many times do all the pieces fit.\\
+		She's got more going,\\
+		Than most of the dolls.\\
+		Oops, I forgot about the balls!\\
+	}
+	\verse{
+		\everyone
+		But she's so hip,\\
+		This babe's a trip,\\
+		She's distingué,\\
+		She's got cachet,\\
+		She's quite a dame,\\
+		Ain't it a shame,\\
+		A crime that's heinous (pom, pom, pom)\\
+	}
+	\verse{
+		Those lips those eyes,\\
+		Then big surprise,\\
+		That penis (pom, pom, pom)\\
+	}
+	\verse{
+		\solo
+		There's always some failure,\\
+		Always some flaw,\\
+		Ain't that what they call Murphy's Law?\\
+		But male genitalia,\\
+		That's where I draw the line.\\
+		Besides hers is bigger than mine...\\
+	}
+	\verse{
+		\everyone
+		She's got class,\\
+		She's got that sass,\\
+		She's got that chic,\\
+		She's got mystique,\\
+		She's cool she's hot,\\
+		She's got a lot,\\
+		Except a mound of Venus (pom, pom, pom)\\
+	}
+	\verse{
+		It's a tragedy,\\
+		But where that should be,\\
+		She's got a penis (pom, pom, pom)\\
+		She had a penis (pom, pom, pom)\\
+	}
+	\verse{
+		\solo
+		My life's a mess,\\
+		Cause under that dress,\\
+		She's got a P-E-N-I-S.\\
+	}
+	\verse{
+		\everyone
+		Yes!\\
+	}
+}
+
+clementine = Clementine = {
+	\verse{
+		In a cavern, in a canyon,\\
+		Excavating for a mine,\\
+		Dwelt a miner, forty-niner,\\
+		And his daughter Clementine.\\
+	}
+	\verse{
+		Oh my darling, oh my darling,\\
+		Oh my darling Clementine,\\
+		Thou art lost and gone forever,\\ 
+		Dreadful sorry Clementine.\\
+	}
+	\verse{
+		Light she was and like a fairy,\\
+		And her shoes were number nine,\\
+		Herring boxes without topses,\\
+		Sandals were for Clementine.\\
+	}
+	\verse{
+		Oh my darling...\\
+	}
+	\verse{
+		Drove she ducklings to the water,\\
+		Every morning just at nine.\\
+		Hit her foot against a splinter,\\
+		Fell into the foaming brine.\\
+	}
+	\verse{
+		Oh my darling...\\
+	}
+	\verse{
+		Saw her lips above the water,\\
+		Blowing bubbles mighty fine.\\
+		But alas – I was non swimmer,\\
+		So I lost my Clementine.\\
+	}
+	\verse{
+		Oh my darling...\\
+	}
+}
+
+spanishtoast = Spanish Toast = {
+	\verse{
+		Arriba! (glasses up)\\
+		Abajo! (glasses down)\\
+		Al Lado! (to the left)\\
+		Al Otro! (to the right)\\
+		Al Centro! (to the center)\\
+		Para Dentro! (drink)\\
+	}
+}
+
+whoisafreshman = Who is a Freshman = {
+	\verse{
+		\twice{
+			Who is a freshman of XX\\
+			Stand up, stand up right now.
+		}\\
+		Take your drink into your hand\\
+		Then raise it up to your lips and\\
+		\twice{
+			Drink up, drink up, drink up, drink up.\\
+			Drink up, drink bottoms up!
+		}\\
+	}
+}
+
+kenompifuksi = Ken ompi fuksi = {
+	\verse{
+		\twice{
+			Ken ompi fuksi XX\\
+			Ylös nouskohon.
+		}\\
+		Hän lasin käteen ottakoon,\\
+		Sen huulillensa nostakoon.\\
+		\twice{
+			Juo pois, juopois, juo pois, juo pois.\\
+			Juo Herran tähden pois.
+		}\\
+	}
+}
+
+ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {
+	\silence
+	\verse{
+		Talvi-iltain tummentuessa\\
+		Polin suojiin me saavumme taas.\\
+		\twice{
+			Meidät tekniikka jälkeen on jättänyt,\\
+			sen me tahdomme unhoittaa.
+		}\\
+	}
+	\verse{
+		Unelma vain on diplomityömme,\\
+		joka tenttimme vanhennut.\\
+		\twice{
+			Jo ruostunut harpikko käyttämätön,\\
+			tushi pulloihin jähmennyt.
+		}\\
+	}
+	\verse{
+		Aina teekkaripolvien uutten\\
+		ohi pöytämme käyvän nään.\\
+		\twice{
+			Mutta meillä ei voimaa enää kylliksi\\
+			heidän joukkoonsa liittymään.
+		}\\
+	}
+	\verse{
+		Viini laseissa ilkkuen päilyy,\\
+		meitä kutsuen kuohuillaan.\\
+		\twice{
+			Pois murheemme tahdomme karkoittaa.\\
+			Äly pois mitä maksoikaan!
+		}\\
+	}
+	\verse{
+		Ja kun integer vitae meille\\
+		kerran viimeisen lauletaan.\\
+		\twice{
+			Silloin ikuisen teekkarin haudalle\\
+			oluttynnyri	nostetaan.
+		}\\
+	}
+}
+
+internationalenFR = Internationalen = {
+	\verse{
+		Lisää viinaa mun lasiin,\\
+		Lisää laseja pöydälle.\\
+		Lisää pöytiä näihin juhliin,\\
+		Lisää juhlia kansalle.\\
+		Lisää kansaa Suomeen,\\
+		Lisää Suomea päälle maan.\\
+		Lisää maata Suomelle,\\
+		Marssitaan, marssitaan, Karjalaan, KARJALAAN!
+	}
+	\verse{
+		Mehr Sprit in die Gläser,\\
+		Mehr Gläser auf den Tisch,\\
+		Mehr Tische für dieses Fest,\\
+		Mehr Feste für das Volk.\\
+		Mehr Volk in den Wagen,\\
+		Mehr Wagen auf die Bahn,\\
+		Mehr Autobahnen für Europa.\\
+		Gib Gas, gib Gas du Arsch.
+	}
+	\verse{
+		More booze in our glasses\\
+		More glasses on the bar\\
+		More bars for this small town of ours\\
+		More towns for this Free State\\
+		More states in America\\
+		More Americans on this Earth\\
+		More Earth for us to pump oil from\\
+		Cheap gas is all we’re worth.
+	}
+	\verse{
+		Plus de vin dans nos verres,\\
+		Plus de verres sur la table,\\
+		Plus de tables sous nos baguettes,\\
+		Plus de baguettes pour la grève.\\
+		Plus de grèves pour la liberté,\\
+		Plus de liberté pour nos enfants,\\
+		\sing{Switch to "La Marseillaise"}
+		Plus d'enfants pour la patrie,\\
+		Le jour de gloire est arrivé! ARRIVÉ!
+	}
+}
+
+chansondelataverne = Chanson de la Taverne = {
+	\verse{
+		\twice{
+			Pom, popom, popom popom popom popom po
+		}
+	}
+	\verse{
+		Tous les petits Kobolds dansent dans la forêt,\\
+		Moi et mes compagnons allons tous les crever!\\
+		Ne sont-ils pas mignons, embrochés morcelés,\\
+		Autour des champignons, on pourrait en manger! OUAIS!
+	}
+	\verse{
+		Pom, popom...
+	}
+	\verse{
+		Tous les petits Gobelins, dansent dans la forêt,\\
+		Moi et mes compagnons, allons les approcher!\\
+		Ils sont vraiment mignons quant ils se font flécher,\\
+		Nous les achèverons à coups d’épées rouillées! OUAIS!
+	}
+	\verse{
+		Pom, popom...
+	}
+	\verse{
+		Quand tous les petits Orques, dansent dans la forêt,\\
+		Moi et mes compagnons préférons nous cacher!\\
+		Ils ne sont pas mignons, ils sont bêtes à pleurer,\\
+		Mais nous les évitons pour pas finir broyés! OUAIS!
+	}
+	\verse{
+		Pom, popom...
+	}
+	\verse{
+		Quand tous les petits Trolls, dansent dans la forêt,\\
+		Moi et mes compagnons préférons nous barrer!\\
+		Ceux qui les trouvent mignons sont vraiment dérangés,\\
+		Un jour ils finiront en compote de...
+	}
+	\verse{
+		\twice{
+			Pommes, popom...
+		}
+	}
+}
+
+santiano = Santiano = {
+	\verse{
+		C'est un fameux trois-mâts fin comme un oiseau\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Dix huit nœuds, quatre cents tonneaux\\
+		Je suis fier d'y être matelot
+	}
+	\verse{
+		Tiens bon la barre et tiens bon le vent\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Si Dieu veut toujours droit devant,\\
+		Nous irons jusqu'à San Francisco
+	}
+	\verse{
+		Je pars pour de longs mois en laissant Margot\\
+		Hissez haut Santiano !\\
+		D'y penser j'avais le cœur gros\\
+		En doublant les feux de Saint-Malo
+	}
+	\verse{
+		Tiens bon...
+	}
+	\verse{
+		On prétend que là-bas l'argent coule à flots\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		On trouve l'or au fond des ruisseaux\\
+		J'en ramènerai plusieurs lingots
+	}
+	\verse{
+		Tiens bon...
+	}
+	\verse{
+		Un jour, je reviendrai chargé de cadeaux\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Au pays, j'irai voir Margot\\
+		A son doigt, je passerai l'anneau
+	}
+	\verse{
+		Tiens bon le cap et tiens bon le flot\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Sur la mer qui fait le gros dos,\\
+		Nous irons jusqu’à San Francisco
+	}
+}
+
+eurovisionCH = Eurovision = {
+	\tuneof{the Eurovision Theme}
+	\verse{
+		The French drink champagne and chardonnay\\
+		In Germany they drink beer\\
+		In Russia they drink vodka\\
+		In Lausanne we drink everything\\
+		So let's all raise a glass to that
+	}
+	\verse{
+		Austria exports kangaroos\\
+		Swedes export IKEA\\
+		Ukraine exports Crimea\\
+		Germany exports refugees\\
+		All Finland does is send them back
+	}
+	\verse{
+		Here we would've sung of the UK\\
+		But they went on and did a\\
+		stupid thing they call "Brexit"\\
+		All hope is lost for England\\
+		But Scots and Irish, welcome back!
+	}
+}
+
+connemara = Les Lacs du Connemara = {
+	\verse{
+		Terre brûlée au vent des landes de pierre,\\ 
+		Autour des lacs, c'est pour les vivants\\
+		Un peu d'enfer, le Connemara. 
+	}
+	\verse{
+		Des nuages noirs qui viennent du nord\\ 
+		Colorent la terre, les lacs, les rivières:\\
+		C'est le décor du Connemara. 
+	}
+	\verse{
+		Au printemps suivant, le ciel irlandais\\
+		Etait en paix. Maureen a plongé\\
+		Nue dans un lac du Connemara. 
+	}
+	\verse{
+		Sean Kelly s'est dit : "Je suis catholique.\\ 
+		Maureen aussi." L'église en granit\\ 
+		De Limerick, Maureen a dit "oui". 
+	}
+	\verse{
+		De Tiperrary, Bally-Connelly\\ 
+		Et de Galway, ils sont arrivés\\ 
+		Dans le comté du Connemara. 
+	}
+	\verse{
+		Y avait les Connor, les O'Conolly,\\ 
+		Les Flaherty du Ring of Kerry\\ 
+		Et de quoi boire trois jours et deux nuits. 
+	}
+	\verse{
+		Là-bas, au Connemara, on sait tout le prix du silence.\\ 
+		Là-bas, au Connemara, on dit que la vie\\ 
+		C'est une folie, et que la folie, ca se danse. 
+	}
+	\verse{
+		Terre brûlée au vent des landes de pierre,\\ 
+		Autour des lacs, c'est pour les vivants\\ 
+		Un peu d'enfer, le Connemara. 
+	}
+	\verse{
+		Des nuages noirs qui viennent du nord\\ 
+		Colorent la terre, les lacs, les rivières:\\ 
+		C'est le décor du Connemara. 
+	}
+	\verse{
+		On y vit aussi au temps des Gaels\\ 
+		Et de Cromwell, au rythme des pluies\\ 
+		Et du soleil, au pas des chevaux. 
+	}
+	\verse{
+		On y croit encore aux monstres des lacs\\ 
+		Qu'on voit nager certains soirs d'été\\ 
+		Et replonger pour l'éternité. 
+	}
+	\verse{
+		On y voit encore des hommes d'ailleurs\\ 
+		Venus chercher le repos de l'âme\\ 
+		Et pour le cœur, un goût de meilleur. 
+	}
+	\verse{
+		L'on y croit encore que le jour viendra,\\ 
+		Il est tout près, où les Irlandais\\ 
+		Feront la paix autour de la croix. 
+	}
+	\verse{
+		Là-bas, au Connemara, on sait tout le prix de la guerre.\\ 
+		Là-bas, au Connemara, on n'accepte pas\\ 
+		La paix des Gallois ni celle des rois d'Angleterre...
+	}
+}

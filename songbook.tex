@@ -1,0 +1,265 @@
+\documentclass{article}
+
+% IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
+
+% Importation of the settings file
+\input{songbook.sty}
+ 
+\newdate{date}{26}{05}{2017}
+\date{\displaydate{date}}
+
+% Mandatory command. Parameters :
+% 1 - <Long> or <Short>, defines whether the booklet is folded long-edge or short-edge
+% 2 - The distance (cm/in/em/pt) between the two song columns in <Short> mode
+\pagesetup{Long}{1cm}
+
+% Set to 0 for breakable songs and 1 for unbreakable songs
+\songpos{1}
+
+%\backgroundsetup{
+%	scale=1,
+%	opacity=0.5,
+%	angle=0,
+%	vshift=135,
+%	contents={\includegraphics[width=.5\paperwidth]{images/ampersand.jpg}
+%  	}
+%}
+
+\title{}
+
+%\title{\fontfamily{qbk}\fontsize{50}{50}\selectfont \textit{Heaven\phantom{aaaa}\vspace*{.5em}\\\hspace*{3.2em}Hell\vspace*{1em}\\}Sitsit}
+
+\begin{document}
+
+% Displays the title page
+\customtitle
+\BgThispage
+\clearpage
+
+\newpage
+
+% Displays a table of contents. Parameters :
+% 1 - The title of your table of contents
+% 2 - The distance (cm/in/em/pt) between the two content columns in <Short> mode
+\customtoc{List of Songs}{.7cm}
+
+\newpage
+
+% Displays the rules
+\rules
+
+% Displays the seating information
+\seating
+
+\newpage
+\begin{multicols}{\columns}
+\begin{songs}{}
+
+% Decide your song order here (all songs and their identifier are in songbook.dat)
+% If you dislike the way your songs are cut between pages, change their order or insert page breaks with "\sclearpage"
+% Song list :
+%
+% A Finnish Drinking Song
+% -> nyt
+%
+% Alcohol
+% -> alcohol
+%
+% Beer Cannon
+% -> beercannon
+%
+% Big Bang Theory Theme Song
+% -> bigbangtheory
+%
+% Dear Friends
+% -> dearfriends
+%
+% Dovakhiin
+% -> dovakhiin
+%
+% Drunken Student
+% -> drunkenstudent
+%
+% Eurovision
+% -> eurovision
+%
+% Far Over the Misty Mountains Cold
+% -> farover
+%
+% Fast food and other things
+% -> fastfood
+%
+% Finland
+% -> finland
+%
+% Helan Går
+% -> helangar
+% 
+% Hell and Gore
+% -> hellandgore
+%
+% Henkilökunta
+% -> henkilokuntaEN
+%
+% Henkilökunta
+% -> henkilokuntaFI
+%
+% Here's the First
+% -> heresthefirst
+%
+% Hyvät Ystävät
+% -> hyvatystavat
+%
+% If your wife tells you not to drink
+% -> trinkEN
+%
+% Ikuisen Teekkarin Laulu
+% -> ikuisenteekkarinlaulu
+%
+% I love Rock'n'Roll
+% -> iloverocknroll
+%
+% Internationalen
+% -> internationalen
+%
+% Jallu’s Magic Starlight
+% -> jallusmagicstarlight
+%
+% Jos eukkosi kieltää sua juomasta
+% -> trinkFI
+%
+% Ken ompi fuksi
+% -> kenompifuksi
+%
+% Ko-ko-ko-koskenkorva
+% -> koskenkorva
+%
+% La Bamba
+% -> labamba
+%
+% Livet är härligt
+% -> livetarharligt
+%
+% March of the Water-Boys
+% -> marchofthewaterboys
+%
+% Minne
+% -> minne
+%
+% My Favorite Drinks
+% -> myfavoritedrinks
+%
+% Our Family
+% -> ourfamily
+%
+% Paratrooper
+% -> paratrooper
+%
+% Roll me over
+% -> rollmeover
+%
+% Ryyppää
+% -> ryyppaaEN
+%
+% Soft Kitty
+% -> softkitty
+%
+% Some say the Devil is dead
+% -> somesaythedevilisdead
+%
+% Sörkän Sällit
+% -> sorkansallit
+%
+% Syphilis
+% -> syphilis
+%
+% Takki pois
+% -> takkipois
+%
+% Tänään otetaan
+% -> tanaanotetaan
+%
+% Teekkarihymni
+% -> teekkarihymni
+%
+% The Engineers' Drinking Song
+% -> engineersdrinkingsong
+%
+% This Feeling
+% -> thisfeeling
+%
+% Twelve Days of Binge-Drinking
+% -> twelvedays
+%
+% Varpunen jouluaamuna
+% -> varpunenjouluaamuna
+%
+% Vem i helvete
+% -> vemihelvete
+%
+% Wasted
+% -> wasted
+%
+% We will rock you
+% -> wewillrockyou
+%
+% What she's got
+% -> whatshesgot
+%
+% Who is a Freshman
+% -> whoisafreshman
+%
+% Yogi Bear
+% -> yogibear
+
+\song{hyvatystavat}
+\song{dearfriends}
+\song{helangar}
+\song{livetarharligt}
+\song{thisfeeling}
+\song{henkilokuntaEN}
+\song{nyt}
+\song{trinkEN}
+\song{beercannon}
+\song{hellandgore}
+\song{drunkenstudent}
+\song{engineersdrinkingsong}
+\song{fastfood}
+\song{bigbangtheory}
+\song{wasted}
+\song{eurovision}
+\song{heresthefirst}
+\song{farover}
+\song{twelvedays}
+\song{koskenkorva}
+\song{marchofthewaterboys}
+\song{myfavoritedrinks}
+\song{alcohol}
+\song{syphilis}
+\song{yogibear}
+\song{softkitty}
+\song{minne}
+\song{iloverocknroll}
+\song{wewillrockyou}
+\song{paratrooper}
+\song{rollmeover}
+\song{internationalen}
+\song{labamba}
+\song{tanaanotetaan}
+\song{vemihelvete}
+\song{jallusmagicstarlight}
+\song{sorkansallit}
+\song{finland}
+\song{ourfamily}
+\song{somesaythedevilisdead}
+\song{whatshesgot}
+\song{whoisafreshman}
+\song{ikuisenteekkarinlaulu}
+\begin{intersong}
+\begin{center}
+\includegraphics[scale=4.5]{images/teekkari_devil.jpg}
+\end{center}
+\end{intersong}
+\end{songs}
+\end{multicols}
+\end{document}

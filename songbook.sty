@@ -1,0 +1,257 @@
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+% This document heavily relies on the songs package
+% Documentation : http://songs.sourceforge.net/songsdoc/songs.html
+% Extra doc : http://mirror.unl.edu/ctan/macros/latex/contrib/songs/songs.pdf
+\usepackage{songs}
+
+% For ifthenelse
+\usepackage{xifthen}
+
+% For multicols environment
+\usepackage{multicol}
+
+% For lstset
+\usepackage{listings}
+
+% For table of contents indent control
+\usepackage[titles]{tocloft}
+
+% Utilities for copy/pasting and special characters
+\usepackage[T1]{fontenc}
+
+% For data extraction from external file
+\usepackage{datatool, readarray}
+
+% Allows to set line spacing in songs
+\usepackage{setspace}
+
+% Facilitates line-wrap in thin pages
+\usepackage{microtype}
+
+% Allows tweaking of indentation for enumerate and itemize
+\usepackage{enumitem}
+
+% To use images
+\usepackage{graphicx}
+
+% To use a custom date
+\usepackage{datetime}
+
+% To use backgrounds
+\usepackage[pages=some]{background}
+
+% To draw the seating schematic
+\usepackage{tikz}
+\usetikzlibrary{arrows,decorations.markings}
+\tikzset{>=latex}
+
+% Replacement for special characters
+\lstset{literate=%
+	{…}{...}1
+    {Ä}{{\"A}}1
+    {ä}{{\"a}}1
+    {À}{{\`A}}1
+    {à}{{\`a}}1
+    {Â}{{\^A}}1
+    {â}{{\^a}}1
+    {Å}{{\AA}}1
+    {å}{{\aa}}1
+    {ç}{{\c{c}}}1
+    {È}{{\`E}}1
+    {è}{{\`e}}1
+    {É}{{\'E}}1
+    {é}{{\'e}}1
+    {Ë}{{\"E}}1
+    {ë}{{\"e}}1
+    {Ê}{{\^E}}1
+    {ê}{{\^e}}1
+    {Ï}{{\"I}}1
+    {ï}{{\"i}}1
+    {Î}{{\^I}}1
+    {î}{{\^i}}1
+    {Ö}{{\"O}}1
+    {ö}{{\"o}}1
+    {Ô}{{\^O}}1
+    {ô}{{\^o}}1
+    {ø}{{\o}}1	
+    {Ü}{{\"U}}1
+    {ü}{{\"u}}1
+    {ß}{{\ss}}1
+    {~}{{\textasciitilde}}1
+}
+
+% Settings for the songs package :
+% - No chord lines
+% - No verse numbers
+% - No lines between songs
+\chordsoff
+\noversenumbers
+\setlength{\sbarheight}{0pt}
+\renewcommand{\colbotglue}{0pt plus .5\textheight minus 0pt}
+
+% Prevents any kind of page breaking
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+
+% Remove indent for table of content elements
+\setlength{\cftsubsecindent}{0cm}
+
+% Custom table of contents generation
+\newcommand{\customtoc}[2]{
+	\renewcommand*\contentsname{\centering #1}
+	\setlength{\columnsep}{#2}
+	\tableofcontents
+	\resetcolumnsep
+}
+
+\newcommand{\pagesetup}[2]{
+	% To avoid having to set the same column spacing value in several places
+	\newcommand{\resetcolumnsep}{
+		\setlength{\versesep=12pt\columnsep}{#2}
+	}
+	
+	% Orientation-relative settings
+	\ifthenelse{
+		\equal{#1}{Long}
+	}{
+		\usepackage[a4paper,margin=0.5in,bmargin=1in,paperwidth=.5\paperwidth]{geometry}
+		
+		% Only one column in long edge mode
+		\songcolumns{1}
+		\newcommand{\columns}{1}
+		
+		\def\x{1.3}
+	}{
+		\usepackage[a5paper,margin=0.7in]{geometry}
+		
+		% Makes default font smaller
+		\renewcommand{\lyricfont}{\normalfont\small}
+		
+		% Use external column environment to adjust column spacing
+		\songcolumns{0}
+		\resetcolumnsep
+		\newcommand{\columns}{2}
+		
+		% Allows multi-column table of content
+		\usepackage[toc]{multitoc}
+		
+		\def\x{1.4}
+	}
+}
+
+\renewcommand{\verse}[1]{
+	\beginverse
+	\begin{absolutelynopagebreak}
+		\singlespacing #1 
+	\end{absolutelynopagebreak}
+	\endverse\brk
+}
+
+\newcommand{\sing}[1]{\textit{(#1)}\\}
+
+% Writes "(Songmaster solo:)" in italics
+\newcommand{\solo}{\sing{Songmaster solo:}}
+
+% Writes "(Everyone:)" in italics
+\newcommand{\everyone}{\sing{Everyone:}}
+
+% Writes "Repeat whole song" in italics as a verse
+\newcommand{\wholesong}{\verse{\sing{Repeat whole song}}}
+\versesep=12pt
+% Writes "This song begins from ABSOLUTE SILENCE" in italics as a verse
+\newcommand{\silence}{\verse{\sing{This song begins from ABSOLUTE SILENCE}}}
+
+% Writes "To the tune of <song>" in italics with possible extension
+\newcommand{\tuneof}[2][]{%%
+	\sing{%
+		To the tune of "#2"%
+		\ifthenelse{%
+			\equal{#1}{}%
+		}{%
+		}{, #1%
+		}%
+	}
+}
+
+% Surrounds the text with ":;:" to signal a repeat
+% NEVER USE OUTSIDE A VERSE
+\newcommand{\twice}[1]{:;:#1:;:}
+
+% Setup for the data extractor
+\DTLsetseparator{ = }
+\DTLloaddb[noheader, keys={key,title,text}]{mydata}{songbook.dat}
+
+% Automatic data extractor and formatter for song data
+\renewcommand{\song}[1]{%
+	\beginsong{%
+		\DTLfetch{mydata}{key}{#1}{title}%
+	}[]%
+	\DTLfetch{mydata}{key}{#1}{text}%
+	\addcontentsline{toc}{subsection}{%
+		{\textbf{\textit{\thesongnum\hspace{.4cm}}}}\protect%
+		\DTLfetch{mydata}{key}{#1}{title}%
+	}%
+	\endsong%
+}
+
+% Takes care of title page formatting
+\newcommand{\customtitle}{
+	% Sets the title
+	\maketitle
+	
+	% Remove page number on title page
+	\thispagestyle{empty}
+}
+
+% Displays the rules, set argument to "Teekkari" if the last song is The Eternal Teekkari, or to nothing if the last song is who is a freshman
+\newcommand{\rules}[1]{
+	\noindent\textbf{\Large The Rules}
+	\begin{enumerate}[leftmargin=*]
+	\item The party is led by the songmasters.
+	\item {\bf DO NOT eat or talk when a songmaster is speaking}, someone is giving a speech or if there is a show/\allowbreak competition! This is very important so that people can enjoy the event! 
+	\item Sitsit normally begins with the song "Hyvät Ystävät" (= Good Friends) and ends with \ifthenelse{
+		\equal{#1}{Teekkari}
+	}{"Ikuisen teekkarin laulu" (= The Song of the Eternal Teekkari)}{the Freshman Song}.
+	\item Don't touch your filled glass (e.g. wine, shots) before you sing about it. Follow what the others are doing and you can’t go wrong.
+	\item After every song you are supposed to toast (see instructions below).
+	\item {\bf REMEMBER TO BEHAVE!} Sitsit is supposed to be a fun event – let’s keep it that way! {\bf Have an AWESOME NIGHT!}
+	\end{enumerate}\bigskip
+}
+
+\newcommand{\seating}{
+	\noindent\textbf{\Large Toasting}\medskip\\
+	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on your other side and finally with the person opposite. You should remember to look the person you're toasting with in the eyes.\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a girl's seat as a boy or in a boy's seat as a girl, and should thus toast as a girl or a boy respectively!\medskip\\
+	\begin{center}
+	\tikzstyle{thickarrow}=[decoration={markings,mark=at position 1 with {\arrow[scale=2.2,>=stealth]{>}}},postaction={decorate}]
+	\tikzstyle{circlelabel}=[circle, fill=white, inner sep=1pt, draw]
+	\tikzstyle{circlelabelr}=[circlelabel, right, xshift=5pt]
+	\tikzstyle{circlelabela}=[circlelabel, above, yshift=5pt]
+	\begin{tikzpicture}[baseline=(current bounding box.north),font=\scriptsize,->,scale=\x, every node/.style={scale=\x}]
+	\draw [-,step=2] (0, 0) grid (4, 4);
+	\foreach \n in {0,1} {
+		\begin{scope}[thick]
+		\draw [thickarrow] (2*\n+1, 1.6) -- node [circlelabelr] {\bf3.} +(0, .8);
+		\draw [thickarrow] (1.6+.8*\n, 1) -- (2, 1) node [circlelabela] {\bf1.};
+		\draw [thickarrow] (.4+3.2*\n, 1) -- +(-.9+1.8*\n, 0) node [circlelabela, xshift=5-10*\n pt] {\bf2.};
+		\end{scope}
+		\begin{scope}[line width=2.2pt]
+		\begin{scope}[shift={(2*\n,2*\n)}]
+		\draw (.8, .8) circle (.3);
+		\draw [-] (1.5, 1.5) -- +(-.5, -.5);
+		\draw [-] (1.5, 1.15) -- +(0, .35) -- +(-.35, .35);
+		\end{scope}
+		\begin{scope}[shift={(2*\n,-2*\n)}]
+		\draw (1, 3.2) circle (.3);
+		\draw [-] (1, 2.88) -- +(0, -.35);
+		\draw [-] (.78, 2.7) -- +(+.44, 0);
+		\end{scope}
+		\end{scope}
+	}
+	\end{tikzpicture}
+	\end{center}
+}
