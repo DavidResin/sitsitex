@@ -16,6 +16,8 @@ Having developed this for my personal use in order to easily generate good-looki
 - Page layout improvements
   - Page arrangement on PDF
   - Optimize song order with constraints
+- Bugfixes
+  - Table-of-contents page number anchors at end of songs
 ## Versions
 ### 0.1
 - Initial commit
