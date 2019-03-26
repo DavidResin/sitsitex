@@ -2,7 +2,7 @@
 ## What is SitsiTeX?
 Having developed this for my personal use in order to easily generate good-looking songbooks for Sitsits, I decided to share this with other songmasters in order to simplify the songbook creation process and make the result more elegant using the power of LaTeX. This comes with the added benefit of being able to share a common song library for all users, further spreading the love for one of our favorite activities.
 ## Packages needed
-SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.net/), for most of the formatting. The package is provided in this repo, but can also be directly installed on your computer. Using the file version of the package causes 2 errors to appear when compiling, but these should be ignored as they do not affect the end result. A fix for this is being worked on.
+SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.net/), for most of the formatting. Using the file version of the package causes 2 errors to appear when compiling, but these should be ignored as they do not affect the end result. A fix for this is being worked on.
 ## To be implemented
 - Booklet generation
 - Tutorial
