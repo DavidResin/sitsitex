@@ -2,17 +2,17 @@ hyvatystavat = Hyvät Ystävät = {
 	\verse{
 		Hyvät ystävät juhla voi alkaa\\
 		Sankarille me nostamme maljaa\\
-		\twice{
+		\twice{%
 			Tääll’ ei juodakaan kolmosen kaljaa\\
-			Meille viihdyn suo samppanja vaan
+			Meille viihdyn suo samppanja vaan%
 		}\\
 	}
 	\verse{
 		Hauska juomia kurkkuun on suistaa\\
 		Siten teekkariaikoja muistaa\\
-		\twice{
+		\twice{%
 			Yhteinen juomalaulumme luistaa\\
-			Juhlamieli on parhaimmillaan
+			Juhlamieli on parhaimmillaan%
 		}\\
 	}
 }
@@ -26,10 +26,12 @@ nyt = A Finnish Drinking Song = {
 helangar = Helan Går = {
 	\verse{
 		\solo
-		En liten fågel satt en gång\\
-		Och sjöng i furuskog\\
-		Han hade sjungit dagen lång\\
-		Men dock ej sjungit nog\\
+		En liten fågel satt en gång,\\
+		Och sjöng i furuskog.\\
+		\twice{%
+			Han hade sjungit dagen lång,\\
+			Men dock ej sjungit nog!%
+		}
 	}
 	\verse{
 		Vad sjöng den lilla fågeln då?\\
@@ -37,9 +39,9 @@ helangar = Helan Går = {
 	}
 	\verse{
 		\everyone
-		\twice{
+		\twice{%
 			Helan går,\\
-			Sjung hopp-falderallan-lallan-lei!
+			Sjung hopp-falderallan-lallan-lei!%
 		}\\
 		Och den som inte helan tar,\\
 		Han ej heller halvan får.\\
@@ -48,7 +50,7 @@ helangar = Helan Går = {
 	}
 }
 
-livetarharligt = Livet är härligt = {
+livetarharligt = Livet är Härligt = {
 	\verse{
 		Livet är härligt, HEJ!\\
 		Tavaritj, vårt liv är härligt.\\
@@ -57,22 +59,22 @@ livetarharligt = Livet är härligt = {
 		En SKÅL!\\
 	}
 	\verse{
-		Ta dig en vodka, HEJ!\\
-		Tavaritj, en liten vodka.\\
+		Ta dig en Vodka, HEJ!\\
+		Tavaritj, en liten Vodka.\\
 		Glasen i botten vi tillsammans tömmer.\\
 		Det kommer mera efter hand.\\
 		En SKÅL!\\
 	}
 }
 
-trinkEN = If your wife tells you not to drink = {
+trinkEN = Just Drink = {
 	\verse{
 		If your wife tells you not to drink,\\
 		Just drink, just drink!\\
-		If she says you’ve had too much of beer\\
+		If she says you’ve had too much of beer,\\
 		Just drink, just drink!\\
-		And if she keeps nagging just go ahead ‘n ditch her\\
-		There’s plenty of fish in the ocean to capture\\
+		And if she keeps nagging just go ahead ‘n ditch her,\\
+		There’s plenty of fish in the ocean to capture,\\
 		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\
 	}
 	\verse{
@@ -91,8 +93,8 @@ trinkEN = If your wife tells you not to drink = {
 		They drink, they drink!\\
 		And generals in their bunkers then?\\
 		They drink, they drink!\\
-		Cause war is pure hell and they know it’s quite rotten\\
-		When one guy can end it by pushing a button\\
+		Cause war is pure hell and they know it’s quite rotten,\\
+		When one guy can end it by pushing a button,\\
 		So drink and sing and drink and sing and drink and sing and drink and sing and...\\
 	}
 	\verse{
@@ -173,30 +175,30 @@ marchofthewaterboys = March of the Water-Boys = {
 	}
 }
 
-farover = Far over the Misty Mountains cold = {
+farover = Far Over = {
 	\verse{
-		Far over the Misty Mountains cold\\
-		To dungeons deep and caverns old\\
-		We must away, ere break of day\\
-		To find our long forgotten gold
+		Far over the Misty Mountains cold,\\
+		To dungeons deep and caverns old.\\
+		We must away, ere break of day,\\
+		To find our long forgotten gold.
 	}
 	\verse{
-		The pines were roaring on the heights\\
-		The winds were moaning in the night\\
-		The fire was red, it flaming spread\\
-		The trees like torches blazed with light
+		The pines were roaring on the heights,\\
+		The winds were moaning in the night.\\
+		The fire was red, it flaming spread,\\
+		The trees like torches blazed with light.
 	}
 	\verse{
-		The dwarves of yore made mighty spells\\
-		While hammers fell like ringing bells\\
-		In places deep, where dark things sleep\\
-		In hollow halls beneath the fells
+		The dwarves of yore made mighty spells,\\
+		While hammers fell like ringing bells.\\
+		In places deep, where dark things sleep,\\
+		In hollow halls beneath the fells.
 	}
 	\verse{
-		Far over the misty mountains grim\\
-		To dungeons deep and caverns dim\\
-		We must away, ere break of day\\
-		To win our harps and gold from him
+		Far over the Misty Mountains grim,\\
+		To dungeons deep and caverns dim.\\
+		We must away, ere break of day,\\
+		To win our harps and gold from him!
 	}
 }
 
@@ -204,25 +206,25 @@ dearfriends = Dear Friends = {
 	\verse{
 		My dear friends our grand feast will begin here,\\
 		Our glasses we raise with a wild cheer.\\
-		\twice{
+		\twice{%
 			But tonight we won’t drink any light beer\\
-			Just champagne will put us in the mood
+			Just champagne will put us in the mood%
 		}\\
 	}
 	\verse{
 		All night drinks down our throats we’ll be pouring,\\
 		We’ll remember good times, not the boring.\\
-		\twice{		
+		\twice{%		
 			Through the ceiling our song will be soaring\\
-			Finnish spirits are much more than good
+			Finnish spirits are much more than good%
 		}\\
 	}
 	\verse{
 		When friends drink too much with one another\\
 		They make new memories more than rather.\\
-		\twice{
+		\twice{%
 			You can trust everyone like your brother!\\
-			We won’t run out of drinks, maybe food
+			We won’t run out of drinks, maybe food%
 		}\\	
 	}
 }
@@ -268,45 +270,45 @@ beercannonCH = Beer Cannon = {
 
 beercannonlong = Beer Cannon = {
 	\verse{
-		\twice{
-			Lapin Kulta
+		\twice{%
+			Lapin Kulta%
 		}\\
-		\twice{
-			Karjala
+		\twice{%
+			Karjala%
 		}\\
-		\twice{
-			Sininen ja Olvi
+		\twice{%
+			Sininen ja Olvi%
 		}\\
-		\twice{
-			Koff, Koff, Koff
-		}\\
-	}
-	\verse{
-		\twice{
-			Koskenkorva
-		}\\
-		\twice{
-			Pontikka
-		}\\
-		\twice{
-			Sinoli ja Lasoli
-		}\\
-		\twice{
-			Tärpätti
+		\twice{%
+			Koff, Koff, Koff%
 		}\\
 	}
 	\verse{
-		\twice{
-			Coca-Cola
+		\twice{%
+			Koskenkorva%
 		}\\
-		\twice{
-			Ja-affa
+		\twice{%
+			Pontikka%
 		}\\
-		\twice{
-			Spraitti ja Pepsi
+		\twice{%
+			Sinoli ja Lasoli%
 		}\\
-		\twice{
-			Hämähäkkimies
+		\twice{%
+			Tärpätti%
+		}\\
+	}
+	\verse{
+		\twice{%
+			Coca-Cola%
+		}\\
+		\twice{%
+			Ja-affa%
+		}\\
+		\twice{%
+			Spraitti ja Pepsi%
+		}\\
+		\twice{%
+			Hämähäkkimies%
 		}\\
 	}
 }
@@ -325,7 +327,7 @@ heresthefirst = Here's the First = {
 	}
 }
 
-bigbangtheory = Big Bang Theory Theme Song = {
+bigbangtheory = The Big Bang Theory = {
 	\verse{
 		Our whole universe was in a hot dense state,\\
 		Then nearly fourteen billion years ago expansion started. Wait...\\
@@ -340,29 +342,35 @@ bigbangtheory = Big Bang Theory Theme Song = {
 
 wasted = Wasted = {
 	\verse{
-		\twice{Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get}\\
-		First I will drink down two bottles of sparkling wine,\\
-		Which gets me feeling more than fine\\
-		And then a barrel of whisky rye is all I need\\
-		To finally get me up to running speed\\
-		\twice{
-			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
+		\twice{%
+			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get%
 		}\\
+	}
+	\verse{
+		First I will drink down two bottles of sparkling wine,\\
+		Which gets me feeling more than fine!\\
+		And then a barrel of Whisky Rye is all I need,\\
+		To finally get me up to running speed!\\
+	}
+	\verse{
+		Wasted...
 	}
 }
 
 wastedLong = Wasted = {
 	\verse{
-		\twice{
-			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
+		\twice{%
+			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get%
 		}\\
+	}
+	\verse{
 		First I will drink down two bottles of sparkling wine,\\
-		Which gets me feeling more than fine\\
-		And then a barrel of whisky rye is all I need\\
-		To finally get me up to running speed\\
-		\twice{
-			Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get
-		}\\
+		Which gets me feeling more than fine!\\
+		And then a barrel of Whisky Rye is all I need,\\
+		To finally get me up to running speed!\\
+	}
+	\verse{
+		Wasted...
 	}
 	\verse{
 		\sing{The Empire Strikes Back!}
@@ -385,7 +393,7 @@ syphilis = Syphilis = {
 		Why her box was sick,\\
 		I don’t know she wouldn’t say.\\ 
 		Now my dripping dick,\\
-		Won’t get hard like yesterdaaaaaayyy.\\
+		Won’t get hard like yesterday.\\
 	}
 	\verse{
 		Yesterday, my cock was always coming out to play.\\
@@ -462,56 +470,56 @@ softkitty = Soft Kitty = {
 
 henkilokuntaEN = Henkilökunta = {
 	\verse{
-		\twice{
-			Henkilökuntaa, henkilökuntaa, parlevuu.
+		\twice{%
+			Henkilökuntaa, henkilökuntaa, parlevuu.%
 		}\\
 		Henkilökuntaa (x4)\\
-		\twice{
-			Henkilökuntaa parlevuu.
+		\twice{%
+			Henkilökuntaa parlevuu.%
 		}\\
 	}
 	\verse{
-		\twice{
-			Bring us brandy...
+		\twice{%
+			Bring us brandy...%
 		}\\
-		\twice{
-			Where is my food...
+		\twice{%
+			Where is my food...%
 		}\\
-		\twice{
-			Beer is fine, too...
+		\twice{%
+			Beer is fine, too...%
 		}\\
 	}
 }
 
 henkilokuntaFI = Henkilökunta = {
-	\verse{Eurovision
-		\twice{
-			Henkilökuntaa, henkilökuntaa, parlevuu.
+	\verse{
+		\twice{%
+			Henkilökuntaa, henkilökuntaa, parlevuu.%
 		}\\
 		Henkilökuntaa (x4)\\
-		\twice{
-			Henkilökuntaa parlevuu.
+		\twice{%
+			Henkilökuntaa parlevuu.%
 		}\\
 	}
 	\verse{
-		\twice{
-			Lissää viinaa...
+		\twice{%
+			Lissää viinaa...%
 		}\\
-		\twice{
-			Konjakki ois poikaa...
+		\twice{%
+			Konjakki ois poikaa...%
 		}\\
-		\twice{
-			Kaljakin kelpaa...
+		\twice{%
+			Kaljakin kelpaa...%
 		}\\
 	}
 }
 
 eurovision = Eurovision = {
-	\tuneof{the Eurovision Theme}
+	\tuneof{Eurovision Theme}
 	\verse{
-		The French drink champagne and chardonnay\\
+		The French drink Champagne and Chardonnay\\
 		In Germany they drink beer\\
-		In Russia they drink vodka\\
+		In Russia they drink Vodka\\
 		In Finland we drink everything\\
 		So let's all raise a glass to that\\
 	}
@@ -540,10 +548,10 @@ drunkenstudent = Drunken Student = {
 	}
 	\verse{
 		Take him and shake him and try to wake him...\\
-		Take him to an 8 a.m. math lecture...\\
+		Take him to an 8 AM math lecture...\\
 		Take his phone and look at all his pictures...\\
 		Duct tape him to the dormroom ceiling...\\
-		Wake him up with a glass of vodka...\\
+		Wake him up with a glass of Vodka...\\
 		That’s what we do with a drunken student...\\
 	}
 }
@@ -577,7 +585,7 @@ twelvedays = Twelve Days of Binge-Drinking = {
 	}
 }
 
-wewillrockyou = We will rock you = {
+wewillrockyou = We Will Rock You = {
 	\verse{
 		\solo
 		Buddy you're a boy make a big noise\\
@@ -619,7 +627,7 @@ wewillrockyou = We will rock you = {
 	}
 }
 
-iloverocknroll = I love Rock'n'Roll = {
+iloverocknroll = I Love Rock'n'Roll = {
 	\verse{
 		I love Rock'n'Roll\\
 		So put another dime in the jukebox, baby\\
@@ -633,64 +641,64 @@ yogibear = Yogi Bear = {
 	\verse{
 		I know someone you don't know, Yogi, Yogi,\\
 		I know someone you don't know, Yogi, Yogi bear.\\
-		\twice{
-			Yogi, Yogi bear
+		\twice{%
+			Yogi, Yogi bear%
 		}\\
 		I know someone you don't know, Yogi, Yogi bear.\\
 	}
 	\verse{
 		Yogi has a Swedish friend, Puppe, Puppe,\\
 		Yogi has a Swedish friend, Puppe Puppeström.\\
-		\twice{
-			Puppe Puppeström
+		\twice{%
+			Puppe Puppeström%
 		}\\
 		Yogi has a Swedish friend, Puppe Puppeström.\\
 	}
 	\verse{
 		Puppe likes it up the ass, up the, up the,\\
 		Puppe likes it up the ass, up the, up the ass\\
-		\twice{
-			up the, up the ass
+		\twice{%
+			up the, up the ass%
 		}\\
 		Puppe likes it up the ass, up the, up the ass\\
 	}
 	\verse{
 		Yogi has a girlfriend, Cindy, Cindy,\\
 		Yogi has a girlfriend, Cindy, Cindy bear.\\
-		\twice{
-			Cindy, Cindy bear
+		\twice{%
+			Cindy, Cindy bear%
 		}\\
 		Yogi has a girlfriend, Cindy, Cindy bear.\\
 	}
 	\verse{
 		Cindy likes it from behind, frombe, frombe,\\
 		Cindy likes it from behind, frombe, from behind.\\
-		\twice{
-			Frombe, from behind
+		\twice{%
+			Frombe, from behind%
 		}\\
 		Cindy likes it from behind, frombe, from behind.\\
 	}
 	\verse{
 		Yogi has an enemy, ranger, ranger,\\
 		Yogi has an enemy, ranger, ranger Smith\\
-		\twice{
-			Ranger, ranger Smith
+		\twice{%
+			Ranger, ranger Smith%
 		}\\
 		Yogi has an enemy, ranger, ranger Smith\\
 	}
 	\verse{
 		Ranger Smith fucks animals, ani, ani,\\
 		Ranger Smith fucks animals, ani, animals\\
-		\twice{
-			Ani, animals
+		\twice{%
+			Ani, animals%
 		}\\
 		Ranger Smith fucks animals, ani, animals\\
 	}
 	\verse{
 		Yogi likes it in the fridge, polar, polar,\\
 		Yogi likes it in the fridge, polar, polar bear,\\
-		\twice{
-			Polar, polar bear
+		\twice{%
+			Polar, polar bear%
 		}\\
 		Yogi likes it in the fridge, polar, polar bear.\\
 	}
@@ -751,7 +759,7 @@ minne = Minne = {
 	}
 }
 
-koskenkorva = Ko-ko-ko-koskenkorva = {
+koskenkorva = Ko-Ko-Ko-Koskenkorva = {
 	\verse{
 		Ko-ko-ko-kosken ko-ko-ko-korvaa\\
 		Siitä aina kunnon räkä-kä-kännit saa.\\
@@ -773,7 +781,7 @@ koskenkorva = Ko-ko-ko-koskenkorva = {
 }
 
 paratrooper = Paratrooper = {
-	\tuneof{the Battle Hymn of the Republic}
+	\tuneof{Battle Hymn of the Republic}
 	\verse{
 		My brother was a paratrooper in the US Marines (x3)\\
 		And he ain’t gonna jump no more.\\
@@ -820,40 +828,127 @@ paratrooper = Paratrooper = {
 	}
 }
 
-fastfood = Fast food and other things = {
+paratrooperShort = Paratrooper = {
+	\tuneof{Battle Hymn of the Republic}
 	\verse{
-		\twice{
+		My brother was a paratrooper in the US Marines (x3)\\
+		And he ain’t gonna jump no more.\\
+		Gory, gory what a hell of a way to die (x3)\\
+		And he ain’t gonna jump no more.\\
+	}
+	\verse{
+		He jumped from eighteen thousand feet without a parachute...\\
+		He was the last to leave the plane but first to hit the ground...\\
+		He hit the ground and turned into a ten-by-ten feet square...\\
+		They scraped him off and sent him to the ketchup factory...
+	}
+	\verse{
+		\solo
+		So think of my dear brother when you eat at Burger King's (x3)
+	}
+	\verse{
+		\everyone
+ 		Cause he ain’t gonna jump no more!
+	}
+}
+
+fastfood = Fast Food and Other Things = {
+	\verse{
+		\twice{%
 			A Pizza Hut, a Pizza Hut,\\
-			Kentucky Fried Chicken and a Pizza Hut
+			Kentucky Fried Chicken and a Pizza Hut%
 		}\\
-		\twice{
+		\twice{%
 			McDonald's, McDonald's,\\
-			Kentucky Fried Chicken and a Pizza Hut
+			Kentucky Fried Chicken and a Pizza Hut%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			A Ford Escort, a Ford Escort,\\
-			a Mini, Mini, Mini and a Ford Escort
+			a Mini, Mini, Mini and a Ford Escort%
 		}\\	
-		\twice{		
+		\twice{%		
 			Ferrari, Ferrari,\\
-			a Mini, Mini, Mini and a Ford Escort
+			a Mini, Mini, Mini and a Ford Escort%
 		}\\
 	}
 	\verse{
-		\twice{	
+		\twice{%	
 			A Jumbo Jet, a Jumbo Jet,\\
-			a heli, heli, heli and a Jumbo Jet
+			a Heli, Heli, Heli and a Jumbo Jet%
 		}\\
-		\twice{
+		\twice{%
 			Concorde, Concorde,\\
-			a heli, heli, heli and a Jumbo Jet
+			a Heli, Heli, Heli and a Jumbo Jet%
 		}\\
 	}
 }
 
-rollmeover = Roll me over = {
+fastfoodLong = Fast Food and Other Things = {
+	\verse{
+		\twice{%
+			A Pizza Hut, a Pizza Hut,\\
+			Kentucky Fried Chicken and a Pizza Hut%
+		}\\
+		\twice{%
+			McDonald's, McDonald's,\\
+			Kentucky Fried Chicken and a Pizza Hut%
+		}\\
+	}
+	\verse{
+		\twice{%
+			A Ford Escort, a Ford Escort,\\
+			a Mini, Mini, Mini and a Ford Escort%
+		}\\	
+		\twice{%		
+			Ferrari, Ferrari,\\
+			a Mini, Mini, Mini and a Ford Escort%
+		}\\
+	}
+	\verse{
+		\twice{%	
+			A Jumbo Jet, a Jumbo Jet,\\
+			a Heli, Heli, Heli and a Jumbo Jet%
+		}\\
+		\twice{%
+			Concorde, Concorde,\\
+			a Heli, Heli, Heli and a Jumbo Jet%
+		}\\
+	}
+	\verse{
+		\twice{%	
+			A Jumbo Jet, a Jumbo Jet,\\
+			a World Trade Center and a Jumbo Jet%
+		}\\
+		\twice{%
+			Bin Laden, Bin Laden,\\
+			a World Trade Center and a Jumbo Jet%
+		}\\
+	}
+	\verse{
+		\twice{%	
+			A lunatic, a lunatic,\\
+			A cripple, cripple, cripple and a lunatic%
+		}\\
+		\twice{%
+			Your momma, your momma,\\
+			A cripple, cripple, cripple and a lunatic%
+		}\\
+	}
+	\verse{
+		\twice{%	
+			An Erasmus, an Erasmus,\\
+			a pretty drunk couple and an Erasmus%
+		}\\
+		\twice{%
+			Pregnancy, pregnancy,\\
+			a pretty drunk couple and an Erasmus%
+		}\\
+	}
+}
+
+rollmeover = Roll Me Over = {
 	\verse{	
 		This is number one\\
 		And the fun has just begun\\
@@ -910,7 +1005,7 @@ rollmeover = Roll me over = {
 	}
 	\verse{
 		This is number 10'394\\
-		And oh my god she still wants more...\\
+		And oh my God she still wants more...\\
 	}
 }
 
@@ -933,7 +1028,7 @@ internationalen = Internationalen = {
 		Lisää kansaa Suomeen,\\
 		lisää Suomea päälle maan.\\
 		Lisää maata Suomelle,\\
-		marssitaan, marssitaan, Karjalaan, KARJALAAN!\\
+		Marssitaan, marssitaan, Karjalaan, KARJALAAN!\\
 	}
 	\verse{
 		Mehr Sprit in die Gläser,\\
@@ -982,11 +1077,11 @@ jallusmagicstarlight = Jallu’s Magic Starlight = {
 	}
 	\verse{
 		\everyone 
-		\twice{
+		\twice{%
 			And under Jallu’s starlight\\
 			I will take one, for a safe flight\\
 			Only under Jallu’s soft sight\\
-			I will cry a joyful tear.
+			I will cry a joyful tear.%
 		}\\
 	}
 	\verse{
@@ -1002,8 +1097,8 @@ jallusmagicstarlight = Jallu’s Magic Starlight = {
 	}
 	\verse{
 		\everyone
-		\twice{
-			And under Jallu’s starlight...
+		\twice{%
+			And under Jallu’s starlight...%
 		}\\
 	}
 }
@@ -1012,14 +1107,14 @@ myfavoritedrinks = My Favorite Drinks = {
 	\tuneof{My Favorite Things}
 	\verse{
 		Negroni, Manhattan, Tequila sunrise,\\
-		Gin Tonic, Blue Angel, a vodka on ice,\\
+		Gin Tonic, Blue Angel, a Vodka on ice,\\
 		Campari orange, Ferrari, Tom Collins.\\
 		These are a few of my favourite drinks!\\
 	}
 	\verse{
 		Screwdriver, Grasshopper, Apple Martini,\\
 		Black russian, White russian! Long island ice tea,\\
-		Little green fairies absinthe on their wings.\\
+		Little green fairies Absinthe on their wings.\\
 		These are a few of my favourite drinks!\\
 	}
 	\verse{
@@ -1040,8 +1135,8 @@ ourfamily = Our Family = {
 		And that’s how the money rolls in.\\
 	}
 	\verse{
-		\twice{
-			Rolls in, rolls in, my God how the money rolls in, rolls in
+		\twice{%
+			Rolls in, rolls in, my God how the money rolls in, rolls in%
 		}\\
 	}
 	\verse{
@@ -1120,19 +1215,19 @@ dovakhiin = Dovakhiin = {
 		Dovahkiin, Dovahkiin\\
 		Naal ok zin los vahriin\\
 		Wah dein vokul\\
-		Mahfaeraak ahst vaal !\\
+		Mahfaeraak ahst vaal!\\
 		Ahrk fin norok paal graan\\
 		Fod nust hon zindro zaan\\
 		Dovahkiin, fah hin\\
-		Kogaan mu draal !\\
+		Kogaan mu draal!\\
 	}
 	\verse{
 		Nuz aan sul, fent alok\\
 		Fod fin vul dovah nok\\
 		Fen kos nahlot mahfaeraak\\
-		Ahrk ruz !\\
+		Ahrk ruz!\\
 		Paaz Keizaal fen kos stin nol bein\\
-		Alduin jot !\\
+		Alduin jot!\\
 	}
 	\verse{
 		Dovahkiin, Dovahkiin...\\
@@ -1166,105 +1261,105 @@ labamba = La Bamba = {
 	}
 }
 
-sorkansallit = Sörkän Sällit = {
+sorkansallit = Mandatory Russian Song = {
 	\verse{
 		Father Stalin, mother Krushchova,\\
-		Shared a kiss, with vodka on the rocks!\\
-		\twice{
+		Shared a kiss, with Vodka on the rocks!\\
+		\twice{%
 			I wish they would have done it a bit sooner,\\
-			Would have spared the Russians from their grief.
+			Would have spared the Russians from their grief.%
 		}\\
 	}
 	\verse{
 		Where the fields grow seas of wheat and barley,\\
 		I once met young maiden Katyushka.\\
-		\twice{
+		\twice{%
 			Katyushka had a nicely rounded bosom,\\
-			Radiation gave her extra tits.
+			Radiation gave her extra tits.%
 		}\\
 	}
 	\verse{
 		I am just a simple old granny,\\
 		Not a single friend left in the world.\\
-		\twice{
+		\twice{%
 			Men came here to take my chickens and cow and sheep,\\
-			Now they're coming back to take my teeth.
+			Now they're coming back to take my teeth.%
 		}\\
 	}
 }
 
-tanaanotetaan = Tänään otetaan = {
+tanaanotetaan = Tänään Otetaan = {
 	\verse{
-		\twice{
+		\twice{%
 			Tänään otetaan, tänään otetaan,\\
-			Helvetin paljon viinaa.
+			Helvetin paljon viinaa.%
 		}\\
-		\twice{
+		\twice{%
 			Huomenna on, huomenna on,\\
-			Helvetin kova krapula.
+			Helvetin kova krapula.%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			Idag ska vi ta, idag ska vi ta,\\
-			Helvetes mycket brännvin.
+			Helvetes mycket brännvin.%
 		}\\
-		\twice{
+		\twice{%
 			I morgon ska vi ha, i morgon ska vi ha,\\
-			Helvetes kova krapula.
+			Helvetes kova krapula.%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			Tänä vötame, tänä vötame\\
-			Kuradima palju viina
+			Kuradima palju viina%
 		}\\
-		\twice{
+		\twice{%
 			Homme meil on, homme meil on,\\
-			Kuradima kova pohmakas.
+			Kuradima kova pohmakas.%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			Today we shall get, today we shall get\\
-			Absolutely fucking wasted.
+			Absolutely fucking wasted.%
 		}\\
-		\twice{
+		\twice{%
 			Tomorrow we will have, tomorrow we will have,\\
-			A hangover beyond reason.
+			A hangover beyond reason.%
 		}\\
 	}
 }
 
-tanaanotetaanshort = Tänään otetaan = {
+tanaanotetaanshort = Tänään Otetaan = {
 	\verse{
-		\twice{
+		\twice{%
 			Tänään otetaan, tänään otetaan,\\
-			Helvetin paljon viinaa.
+			Helvetin paljon viinaa.%
 		}\\
-		\twice{
+		\twice{%
 			Huomenna on, huomenna on,\\
-			Helvetin kova krapula.
+			Helvetin kova krapula.%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			Idag ska vi ta, idag ska vi ta,\\
-			Helvetes mycket brännvin.
+			Helvetes mycket brännvin.%
 		}\\
-		\twice{
+		\twice{%
 			I morgon ska vi ha, i morgon ska vi ha,\\
-			Helvetes kova krapula.
+			Helvetes kova krapula.%
 		}\\
 	}
 	\verse{
-		\twice{
+		\twice{%
 			Today we shall get, today we shall get\\
-			Absolutely fucking wasted.
+			Absolutely fucking wasted.%
 		}\\
-		\twice{
+		\twice{%
 			Tomorrow we will have, tomorrow we will have,\\
-			A hangover beyond reason.
+			A hangover beyond reason.%
 		}\\
 	}
 }
@@ -1288,17 +1383,17 @@ takkipois = Takki pois = {
 	\verse{
 		Hei takki poies kiskaikaamme,\\
 		On Polin poikain tapa tää.\\
-		\twice{
+		\twice{%
 			Ja sitten laulu laulakaamme,\\
-			Niin että katto tärähtää!
+			Niin että katto tärähtää!%
 		}\\
 	}
 	\verse{
 		Me emme laulamasta lakkaa,\\
 		Ennekuin aamu sarastaa.\\
-		\twice{
+		\twice{%
 			Ei täältä ennen poistutakaan,\\
-			Tääll' juodaan kautta Pohjanmaan!
+			Tääll' juodaan kautta Pohjanmaan!%
 		}\\
 	}
 }
@@ -1427,7 +1522,7 @@ teekkarihymni = Teekkarihymni = {
 	}
 }
 
-somesaythedevilisdead = Some say the Devil is dead = {
+somesaythedevilisdead = Some say the Devil is Dead = {
 	\verse{
 		\solo
 		Some say the Devil is dead, the Devil is dead, the Devil is dead,\\
@@ -1478,7 +1573,7 @@ somesaythedevilisdead = Some say the Devil is dead = {
 
 ilestdesnotres = Il est des nôtres = {
 	\verse{
-		\twice{
+		\twice{%
 			Ami(e) \textbf{<name>} lève ton verre\\
 			Et surtout, ne le renverse pas
 		}\\
@@ -1498,7 +1593,7 @@ ilestdesnotres = Il est des nôtres = {
 	}
 }
 
-myladyinred = My Lady in red = {
+myladyinred = My Lady in Red = {
 	\verse{
 		\solo
 		She's my Lady in red\\
@@ -1525,7 +1620,70 @@ myladyinred = My Lady in red = {
 	}
 }
 
-whatshesgot = What she's got = {
+myladyinredFull = My Lady in Red = {
+	\verse{
+		She's my Lady in red\\
+		She likes to do it in the bed\\
+		She's my Lady in red\\
+		She likes to do it in the bed	
+	}
+	\verse{
+		She's my Lady in yellow\\
+		She likes to do it with your fellow\\
+		She's my Lady in yellow\\
+		She likes to do it with your fellow	
+	}
+	\verse{
+		She's my Lady in white\\
+		She likes to do it all night\\
+		She's my Lady in white\\
+		She likes to do it all night	
+	}
+	\verse{
+		She's my Lady in brown\\
+		She likes to do it upside-down\\
+		She's my Lady in brown\\
+		That one really goes to town	
+	}
+	\verse{
+		She's my Lady in black\\
+		She likes to take it from the back\\
+		She's my Lady in black\\
+		She likes to take it from the back	
+	}
+	\verse{
+		She's my Lady in blue\\
+		She likes to do it with two\\
+		She's my Lady in blue\\
+		I know you wish it was you	
+	}
+	\verse{
+		She's my Lady in purple\\
+		She likes to do it with a turtle\\
+		She's my Lady in purple\\
+		Still better than with a squirrel
+	}
+	\verse{
+		She's my Lady in pink\\
+		She likes to do it over the sink\\
+		She's my Lady in pink\\
+		I don't know what mom would think
+	}
+	\verse{
+		She's my Lady in green\\
+		Boy, she's a real sex machine\\
+		She's my Lady in green\\
+		I think you know what I mean
+	}
+	\verse{
+		She's my Lady from ESN\\
+		She likes to do it with all the men!\\
+		She's my Lady from ESN\\
+		With her there's no where or when
+	}
+}
+
+whatshesgot = What She's Got = {
 	\verse{
 		\solo
 		Being gay has its problems, it's true,\\
@@ -1544,8 +1702,8 @@ whatshesgot = What she's got = {
 		She's got the talk,\\
 		She's got that zing,\\
 		There's just one thing:\\
-		\twice{
-			She's got a penis (pom, pom, pom)
+		\twice{%
+			She's got a penis (pom, pom, pom)%
 		}\\
 	}
 	\verse{
@@ -1674,30 +1832,30 @@ spanishtoast = Spanish Toast = {
 
 whoisafreshman = Who is a Freshman = {
 	\verse{
-		\twice{
+		\twice{%
 			Who is a freshman of XX\\
-			Stand up, stand up right now.
+			Stand up, stand up right now.%
 		}\\
 		Take your drink into your hand\\
 		Then raise it up to your lips and\\
-		\twice{
+		\twice{%
 			Drink up, drink up, drink up, drink up.\\
-			Drink up, drink bottoms up!
+			Drink up, drink bottoms up!%
 		}\\
 	}
 }
 
-kenompifuksi = Ken ompi fuksi = {
+kenompifuksi = Ken ompi Fuksi = {
 	\verse{
-		\twice{
+		\twice{%
 			Ken ompi fuksi XX\\
-			Ylös nouskohon.
+			Ylös nouskohon.%
 		}\\
 		Hän lasin käteen ottakoon,\\
 		Sen huulillensa nostakoon.\\
-		\twice{
+		\twice{%
 			Juo pois, juopois, juo pois, juo pois.\\
-			Juo Herran tähden pois.
+			Juo Herran tähden pois.%
 		}\\
 	}
 }
@@ -1706,41 +1864,41 @@ ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {
 	\verse{
 		Talvi-iltain tummentuessa\\
 		Polin suojiin me saavumme taas.\\
-		\twice{
+		\twice{%
 			Meidät tekniikka jälkeen on jättänyt,\\
-			sen me tahdomme unhoittaa.
+			sen me tahdomme unhoittaa.%
 		}\\
 	}
 	\verse{
 		Unelma vain on diplomityömme,\\
 		joka tenttimme vanhennut.\\
-		\twice{
+		\twice{%
 			Jo ruostunut harpikko käyttämätön,\\
-			tushi pulloihin jähmennyt.
+			tushi pulloihin jähmennyt.%
 		}\\
 	}
 	\verse{
 		Aina teekkaripolvien uutten\\
 		ohi pöytämme käyvän nään.\\
-		\twice{
+		\twice{%
 			Mutta meillä ei voimaa enää kylliksi\\
-			heidän joukkoonsa liittymään.
+			heidän joukkoonsa liittymään.%
 		}\\
 	}
 	\verse{
 		Viini laseissa ilkkuen päilyy,\\
 		meitä kutsuen kuohuillaan.\\
-		\twice{
+		\twice{%
 			Pois murheemme tahdomme karkoittaa.\\
-			Äly pois mitä maksoikaan!
+			Äly pois mitä maksoikaan!%
 		}\\
 	}
 	\verse{
 		Ja kun integer vitae meille\\
 		kerran viimeisen lauletaan.\\
-		\twice{
+		\twice{%
 			Silloin ikuisen teekkarin haudalle\\
-			oluttynnyri	nostetaan.
+			oluttynnyri	nostetaan.%
 		}\\
 	}
 }
@@ -1789,10 +1947,10 @@ internationalenFR = Internationalen = {
 	}
 }
 
-chansondelataverne = Chanson de la Taverne = {
+chansondelataverne = Pom popom popom = {
 	\verse{
-		\twice{
-			Pom, popom, popom popom popom popom po
+		\twice{%
+			Pom, popom, popom popom popom popom po%
 		}
 	}
 	\verse{
@@ -1829,8 +1987,8 @@ chansondelataverne = Chanson de la Taverne = {
 		Un jour ils finiront en compote de...
 	}
 	\verse{
-		\twice{
-			Pommes, popom...
+		\twice{%
+			Pommes, popom...%
 		}
 	}
 }
@@ -1839,7 +1997,7 @@ santiano = Santiano = {
 	\verse{
 		C'est un fameux trois-mâts fin comme un oiseau\\
 		Hissez haut (Hissez haut!) Santiano!\\
-		Dix huit nœuds, quatre cents tonneaux\\
+		Dix-huit nœuds, quatre cents tonneaux\\
 		Je suis fier d'y être matelot
 	}
 	\verse{
@@ -1850,7 +2008,7 @@ santiano = Santiano = {
 	}
 	\verse{
 		Je pars pour de longs mois en laissant Margot\\
-		Hissez haut Santiano!\\
+		Hissez haut (Hissez haut!) Santiano!\\
 		D'y penser j'avais le cœur gros\\
 		En doublant les feux de Saint-Malo
 	}
@@ -1880,27 +2038,71 @@ santiano = Santiano = {
 	}
 }
 
+santianoPerv = Santiano = {
+	\verse{
+		C'est mon fameux grand mât plein comme un verre d'eau\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Dix-huit pouces, droit comme un poireau\\
+		Je suis fier d'y être matelot
+	}
+	\verse{
+		Tiens bon ma barre et tiens bon le vent\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Tous les deux, toujours par devant,\\
+		Nous irons jusqu'à San Francisco
+	}
+	\verse{
+		Je pars pour de longs mois en emmenant Margot\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		D'y penser j'avais le manche gros\\
+		En doublant les feux de Saint-Malo
+	}
+	\verse{
+		Tiens bon...
+	}
+	\verse{
+		On prétend que là-bas le vin coule à flots\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		On s'prend tous au fond des ruisseaux\\
+		J'en ramènerai plusieurs photos
+	}
+	\verse{
+		Tiens bon...
+	}
+	\verse{
+		Un jour, je reviendrai chargé de cadeaux\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Au pays, j'ramènerai Margot\\
+		On espère avec aucun loupiot
+	}
+	\verse{
+		Tiens bon mon cap et tiens bon mon flot\\
+		Hissez haut (Hissez haut!) Santiano!\\
+		Et quand je reverrai Margot,\\
+		Nous irons jusqu’à San Francisco
+	}
+}
+
 eurovisionCH = Eurovision = {
-	\tuneof{the Eurovision Theme}
+	\tuneof{Eurovision Theme}
 	\verse{
-		The French drink champagne and chardonnay\\
-		In Germany they drink beer\\
-		In Russia they drink vodka\\
-		In Lausanne we drink everything\\
-		So let's all raise a glass to that
+		The French drink Champagne and Chardonnay,\\
+		In Germany they drink beer,\\
+		In Russia they drink Vodka,\\
+		In Lausanne we drink everything,\\
+		So let's all raise a glass to that!
 	}
 	\verse{
-		Austria exports kangaroos\\
-		Swedes export IKEA\\
-		Ukraine exports Crimea\\
-		Germany exports refugees\\
-		All Finland does is send them back
+		Austria exports kangaroos,\\
+		Swedes export IKEA,\\
+		Ukraine exports Crimea,\\
+		Germany exports refugees,\\
+		All Finland does is send them back!
 	}
 	\verse{
-		Here we would've sung of the UK\\
-		But they went on and did a\\
-		stupid thing they call "Brexit"\\
-		All hope is lost for England\\
+		Here we would've sung of the UK,\\
+		But they went on and did a stupid thing they call "Brexit",\\
+		All hope is lost for England,\\
 		But Scots and Irish, welcome back!
 	}
 }
@@ -1986,11 +2188,11 @@ thriftshop = Thrift Shop = {
 		This is fucking awesome!
 	}
 	\verse{
-		\twice{
+		\twice{%
 			I wear your granddad's clothes\\
 			I look incredible\\
 			I'm in this big ass coat\\
-			From that thrift shop down the road
+			From that thrift shop down the road%
 		}
 	}
 	\verse{
@@ -1998,7 +2200,7 @@ thriftshop = Thrift Shop = {
 	}
 }
 
-chansondelabbaye = Chanson de l'Ancienne Abbaye = {
+chansondelabbaye = Le Beau Pays-d'Enhaut = {
 	\verse{
 		Au bord de la Sarine\\
 		Tout près de Château-d'Oex\\
@@ -2058,16 +2260,63 @@ chansondelabbaye = Chanson de l'Ancienne Abbaye = {
 	}
 }
 
+chansondelabbayeShort = Di-ya-ya-oh = {
+	\verse{
+		Au bord de la Sarine\\
+		Tout près de Château-d'Oex\\
+		Au flanc de la colline\\
+		Se trouve mon chalet\\
+		Autour de mon domaine\\
+		Tout est si verdoyant\\
+		Un beau sentier me mène\\
+		Jusqu'au Pont Turrian
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh (x3)\\
+		Di ya ya di ya ya oh\\
+		Ya oh, ya oh\\
+		Di ya ya di ya ya di ya ya oh\\
+		Ya oh, ya oh\\
+		Di ya ya di ya ya oh
+	}
+	\verse{
+		Du rocher de la Sarouche\\
+		Avec ses grands sapins\\
+		Je domine la Louge\\
+		Le Pré et puis les Moulins\\
+		La large Laitemaire\\
+		Me ferme le vallon\\
+		Et plus en arrière\\
+		Les bois de Rodomont
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh...
+	}
+	\verse{
+		Un cirque de montagnes\\
+		Cray, Vanil et Rubli\\
+		Dominent nos campagnes\\
+		Offre aux chamois l'abri\\
+		La Gumfluh avec ses tourelles\\
+		Corjon et Planachaux\\
+		Forment les sentinelles\\
+		Du beau Pays-d'Enhaut
+	}
+	\verse{
+		Di ya ya di ya ya di ya ya oh...
+	}
+}
+
 latiaffe = La Tiaffe = {
 	\verse{
-		Y'a ceux qui n'aiment pas l'hiver\\
-		Le ski et le grand air\\
-		Y'a ceux qui n'aiment pas l'printemps\\
-		Le rhume des foins, l'retour du beau temps\\
-		Y'a ceux qui n'aiment pas l'automne\\
-		Et les feuilles qui tombent, ces connes\\
-		Moi c'est l'été qu'j'aime pas\\
-		Car elle revient pour moi
+		Y'a ceux qui n'aiment pas l'hiver,\\
+		Le ski et le grand air.\\
+		Y'a ceux qui n'aiment pas l'printemps,\\
+		Le rhume des foins, l'retour du beau temps!\\
+		Y'a ceux qui n'aiment pas l'automne,\\
+		Et les feuilles qui tombent, ces connes.\\
+		Moi c'est l'été qu'j'aime pas,\\
+		Car elle revient pour moi...
 	}
 	\verse{
 		La tiaffe! Quand ça commence à coller\\
@@ -2076,24 +2325,24 @@ latiaffe = La Tiaffe = {
 		La tiaffe! J'vous jure c'est pas rigolo\\
 		La tiaffe! Les auréoles sous les bras\\
 		La tiaffe! Comme si j'sortais du sauna\\
-		Quand il commence à tiaffer\\
-		Je suis trempé jusqu'aux pieds
+		Quand il commence à tiaffer,\\
+		Je suis trempé jusqu'aux pieds.
 	}
 	\verse{
-		À Lausanne quand j'me promène\\
-		Même si j'vais pas bien loin\\
-		C'est toujours le meme problème\\
-		Sont tout en pente, ces chemins\\
-		La malette et l'costard de traviole\\
-		C'est le déluge à chaque pas\\
-		Je mouille même des guibolles\\
-		Elle ne m'abandonne pas
+		À Lausanne quand j'me promène,\\
+		Même si j'vais pas bien loin,\\
+		C'est toujours le meme problème,\\
+		Sont tout en pente, ces chemins!\\
+		La malette et l'costard de traviole,\\
+		C'est le déluge à chaque pas.\\
+		Je mouille même des guibolles,\\
+		Elle ne m'abandonne pas...
 	}
 	\verse{
 		La tiaffe!...
 	}
 	\verse{
-		Mais c'qui est désepérant\\
+		Mais c'qui est désepérant,\\
 		C'est qu'la tiaffe, c'est permanent!
 	}
 }
@@ -2137,82 +2386,691 @@ switzerlandcuisine = Switzerland Cuisine = {
 		Réunis dans un vieux chalet nous mangerons la fondue\\
 		En Switzerland vous serez bienvenus
 	}
+	\verse{
+		Tous les matins...
+	}
+}
+
+tristitude2 = La Tristitude = {
+	\verse{
+		La Tristitude,\\
+		C'est quand tu dois aller chez le prêtre à 12 ans,\\
+		Quand tu te rends compte que ton père est suisse-allemand,\\
+		Quand y'a les gilets jaunes et que t'es Président,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La Tristitude,\\
+		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\
+		Quand t’es prise comme secrétaire chez Bernard Nicod,\\
+		Quand Jamel Debbouzze fait un solo au piano,\\
+		Et ça fait rien.
+	}
+	\verse{
+		La Tristitude,\\
+		C'est toi, c'est moi,\\
+		C'est nous, c'est quoi,\\
+		C'est un peu de détresse dans le creux de nos bras.\\
+		La Tristitude,\\
+		C'est hmmm, c'est wooooooh,\\
+		C'est eux, c'est vous,\\
+		C'est la vie qui te dit que ça va pas du tout.
+	}
+	\verse{
+		La Tristitude,\\
+		C'est quand t'es choisi pour être gardien au hand-ball,\\
+		Quand t’as le hoquet en assemblée générale,\\
+		When you don’t get the song but try to act social,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La Tristitude,\\
+		C'est conjuguer "bouillir" au subjonctif pluriel,\\
+		C'est être un frère Dalton mais que t'es Averell,\\
+		C'est mettre du savon liquide dans le lave-vaisselle,\\
+		Ca fait des bulles.
+	}
+	\verse{
+		La Tristitude...
+	}
+	\verse{
+		La Tristitude,\\
+		C’est faire une hémiplégie mais des deux côtés,\\
+		C’est quand tu fais pipi debout dans l’TGV,\\
+		C'est quand à ton audition y'a un canapé,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La Tristitude,\\
+		C’est quand un 20 tonnes se rabat sur ta Vespa,\\
+		Quand ta femme fait de l'échangisme un peu sans toi,\\
+		Quand ta grande sœur t'annonce que c'est toi le papa,\\
+		Et ça fait Ch'ti.
+	}
+	\verse{
+		La Tristitude...
+	}
+	\verse{
+		La Tristitude,\\
+		C’est quand t'as choisi GC à l’EPFL,\\
+		C'est quand tes parents s'appellent Jacquie et Michel,\\
+		C’est quand au Scrabble t’as K, F, J, Q, X et L,\\
+		Et ça fait kfjqxl.
+	}
+	\verse{
+		La Tristitude,\\
+		C’est célébrer sa Bar-Mitzvah en ’43,\\
+		C’est tenter d’ouvrir un bar gay au Nigeria,\\
+		C'est quand le DJ sait que tu t'appelles Dana,\\
+		Et ça fait DANS LA VALLÉE OOOOOO-OH...
+	}
+	\verse{
+		La Tristitude...
+	}
 }
 
 tristitude = La Tristitude = {
 	\verse{
-		La tristitude,\\
+		La Tristitude,\\
 		C'est quand tu viens juste d'avaler un cure-dent,\\
-		Quand tu te rends compte que ton père est Suisse-Allemand,\\
+		Quand tu te rends compte que ton père est suisse-allemand,\\
 		Quand un copain t'appelle pour son déménagement,\\
 		Et ça fait mal.
 	}
 	\verse{
-		La tristitude,\\
+		La Tristitude,\\
 		C'est quand un 20 tonnes se rabat sur ton deux-roues,\\
 		Quand tu dois aller vivre à Nogent-le-Rotrou,\\
 		Quand ton coiffeur t'apprend que t'as des reflets roux,\\
 		Et ça fait mal.
 	}
 	\verse{
-		La tristitude,\\
+		La Tristitude,\\
 		C'est toi, c'est moi,\\
 		C'est nous, c'est quoi,\\
 		C'est un peu de détresse dans le creux de nos bras.\\
-		La tristitude,\\
-		C'est hmmm, c'est wooooouh,\\
+		La Tristitude,\\
+		C'est hmmm, c'est wooooooh,\\
 		C'est eux, c'est vous,\\
 		C'est la vie qui te dit que ça va pas du tout.
 	}
 	\verse{
-		La tristitude,\\
+		La Tristitude,\\
 		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\
-		Quand t'as 34 ans mais que t'as jamais pécho,\\
-		Quand ton voisin t'annonce qu'il se met au saxo,\\
-		Et ça fait chier.
-	}
-	\verse{
-		La tristitude,\\
-		C'est quand t'es choisi pour être gardien au hand-ball,\\
-		Quand t'as le hoquet en assemblée générale,\\
-		Quand tu pars faire du bâteau sur la mer d'Aral,\\
-		Et ça fait mal.
-	}
-	\verse{
-		La tristitude...
-	}
-	\verse{
-		La tristitude,\\
-		C'est quand t'oublies le son en matant un porno,\\
-		Quand un mec t'adresse la parole dans le métro,\\
+		Quand t'es prise comme secrétaire chez Bernard Nicod,\\
 		Quand Jamel Debbouzze fait un solo au piano,\\
 		Et ça fait rien.
 	}
 	\verse{
-		La tristitude,\\
-		C'est quand ton frère siamois t'apprend qu'il a le Sida,\\
+		La Tristitude,\\
+		C'est Pierre Desproges qui signe avec ses initiales,
+		Quand t'as le hoquet en assemblée générale,\\
+		When you don't get the song but try to act social,\\
+		Et ça fait mal.
+	}
+	\verse{
+		La Tristitude...
+	}
+	\verse{
+		La Tristitude,\\
+		C'est faire une hémiplégie mais des deux côtés,\\
+		C'est quand tu fais pipi debout dans l'TGV,\\
+		Quand Kev Adams te mord si t'es pas vacciné,\\
+		Lâ c'est la merde.
+	}
+	\verse{
+		La Tristitude,\\
+		C'est quand ton frère siamois t'apprend qu'il a le SIDA,\\
 		Quand ta femme fait de l'échangisme un peu sans toi,\\
 		Quand des jeunes t'appellent "Monsieur" pour la première fois,\\
 		Et ça fait mal.
 	}
 	\verse{
-		La tristitude...
+		La Tristitude...
 	}
 	\verse{
-		La tristitude,
-		C'est être célibataire mais à l'EPFL,\\
+		La Tristitude,\\
 		C'est conjuguer "bouillir" au subjonctif pluriel,\\
-		C'est quand au Scrabble t'as K F J Q X et L\\
+		C'est quand tu choisis GC à l'EPFL,\\
+		C'est quand au Scrabble t'as K, F, J, Q, X et L\\
 		Et ça fait kfjqxl.
 	}
 	\verse{
-		La tristitude,\\
+		La Tristitude,\\
 		C'est répondre à un "Bonjour" qui était pas pour toi,\\
 		C'est célébrer sa Bar-Mitzvah en '43,\\
 		C'est tenter d'ouvrir un bar gay au Nigeria,\\
 		Et ça fait mal.
 	}
 	\verse{
-		La tristitude...
+		La Tristitude...
+	}
+}
+
+yakkosworld = The Nations of the World = {
+	\verse{
+		United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru\\
+		Republic Dominican, Cuba, Caribbean, Greenland, El Salvador too\\
+		Puerto Rico, Colombia, then Venezuela, Honduras, Guyana, and still\\
+		Guatemala, Bolivia, then Argentina, and Ecuador, Chile, Brazil.
+	}
+	\verse{
+		Costa Rica, Belize, Nicaragua, Bermuda, Bahamas, Tobago, San Juan\\
+		Paraguay, Uruguay, Suriname, and French Guyana, Barbados, and Guam.
+	}
+	\verse{
+		Norway and Sweden and Iceland and Finland and Germany now in one piece\\
+		Switzerland, Austria, Czechoslovakia, Italy, Turkey, and Greece\\
+		Poland, Romania, Scotland, Albania, Ireland, Russia, Oman\\
+		Bulgaria, Saudi Arabia, Hungary, Cyprus, Iraq, and Iran.
+	}
+	\verse{
+		There's Syria, Lebanon, Israel, Jordan, both Yemens, Kuwait, and Bahrain\\
+		The Netherlands, Luxembourg, Belgium, and Portugal, France, England, Denmark, and Spain.
+	}
+	\verse{
+		India, Pakistan, Burma, Afghanistan, Thailand, Nepal, and Bhutan\\
+		Kampuchea, Malaysia, then Bangladesh, Asia, and China, Korea, Japan\\
+		Mongolia, Laos, and Tibet, Indonesia, the Philippine Islands, Taiwan\\
+		Sri Lanka, New Guinea, Sumatra, New Zealand, then Borneo, and Vietnam.
+	}
+	\verse{
+		Tunisia, Morocco, Uganda, Angola, Zimbabwe, Djibouti, Botswana\\
+		Mozambique, Zambia, Swaziland, Gambia, Guinea, Algeria, Ghana!
+	}
+	\verse{
+		Burundi, Lesotho, and Malawi, Togo, the Spanish Sahara is gone\\
+		Niger, Nigeria, Chad, and Liberia, Egypt, Benin, and Gabon\\
+		Tanzania, Somalia, Kenya, and Mali, Sierra Leone, and Algiers\\
+		Dahomey, Namibia, Senegal, Libya, Cameroon, Congo, Zaire.
+	}
+	\verse{
+		Ethiopia, Guinea-Bissau, Madagascar, Rwanda, Maore, and Cayman\\
+		Hong Kong, Abu Dhabi, Qatar, Yugoslavia—\\
+		Crete, Mauritania, then Transylvania—\\
+		Monaco, Liechtenstein, Malta, and Palestine, Fiji, Australia, Sudan!
+	}
+}
+
+iovivat = Io Vivat = {
+	\verse{
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas\\
+		Hoc est amoris poculum\\
+		Doloris est antidotum\\
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas
+	}
+	\verse{
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas\\
+		Nos jungit amicitia\\
+		Et vinum praebet gaudia\\
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas
+	}
+	\verse{
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas\\
+		Jam tota Academia\\
+		Nobiscum amet gaudia\\
+		Io vivat! Io vivat!\\
+		Nostrorum sanitas
+	}
+}
+
+mybonnie = My Bonnie = {
+	\verse{
+		My Bonnie is over the ocean\\
+		My Bonnie is over the sea\\
+		My Bonnie is over the ocean\\
+		O bring back my Bonnie to me!
+	}
+	\verse{
+		Bring back, bring back\\
+		Bring back my Bonnie to me, to me!\\
+		Bring back, bring back\\
+		O bring back my Bonnie to me!
+	}
+	\verse{
+		O blow ye winds over the ocean\\
+		O blow ye winds over the sea\\
+		O blow ye winds over the ocean\\
+		And bring back my Bonnie to me!
+	}
+	\verse{
+		Bring back...
+	}
+	\verse{
+		Last night as I lay on my pillow\\
+		Last night as I lay on my bed\\
+		Last night as I lay on my pillow\\
+		I dreamed that my Bonnie was dead!
+	}
+	\verse{
+		Bring back...
+	}
+	\verse{
+		The winds have blown over the ocean\\
+		The winds have blown over the sea\\
+		The winds have blown over the ocean\\
+		And brought back my Bonnie to me!
+	}
+	\verse{
+		Bring back...
+	}
+}
+
+wimoweh = The Lion sleeps tonight = {
+	\verse{
+		O-wimoweh (x16)
+	}
+	\verse{
+		In the jungle, the mighty jungle\\
+		The Lion sleeps tonight\\
+		In the jungle, the quiet jungle\\
+		The Lion sleeps tonight
+	}
+	\verse{
+		O-wimoweh...
+	}
+	\verse{
+		Near the village, the peaceful village\\
+		The Lion sleeps tonight\\
+		Near the village, the quiet village\\
+		The Lion sleeps tonight
+	}
+	\verse{
+		O-wimoweh...
+	}
+	\verse{
+		Hush my darling, don't fear my darling\\
+		The Lion sleeps tonight\\
+		Hush my darling, don't cry my darling\\
+		The Lion sleeps tonight
+	}
+	\verse{
+		O-wimoweh...
+	}
+}
+
+apoil = À Poil = {
+	\verse{
+		\twice{%
+			Il descend de la montagne... À POIL!%
+		}
+		Il descend de la montagne (x3)\\
+		À POIL!
+	}
+}
+
+fizzycider = Fizzy Cider = {
+	\tuneof{Bob the Builder}
+	\verse{
+		Fizzy cider, CAN WE DRINK IT?\\
+		Fizzy cider, YES WE CAN!
+	}
+	\verse{
+		Students all know it and freshmen too,\\
+		Cider is cheap but tastes like glue.\\
+		After your taste buds have gone numb,\\
+		Drinking more cider ain’t that dumb!
+	}
+	\verse{
+		Fizzy cider...
+	}
+}
+
+labelette = Mais qui est la Belette? = {
+	\verse{
+		\twice{%
+			J'entends le loup, le renard et la belette,\\
+			J'entends le loup et le renard chanter!%
+		}
+		\twice{%
+			Manau viendra les gars, Manau viendra,\\
+			C'est à ce moment-là qu'il faut lever les bras!%
+		}
+	}
+}
+
+labeletteLong = Mais qui est la Belette? = {
+	\verse{
+		\twice{%
+			J'entends le loup, le renard et la belette,\\
+			J'entends le loup et le renard chanter!%
+		}
+		\twice{%
+			Manau viendra les gars, Manau viendra,\\
+			C'est à ce moment-là qu'il faut lever les bras!%
+		}
+	}
+	\verse{
+		Et v'la les amateurs de chambrettes, les Bretons qui se la pètent\\
+		Les déchireurs de galettes, les bouffeurs de crêpes\\
+		Après avoir bravé bien des galères et des tempêtes\\
+		Regarde bien la tête de jeunes guerriers celtes\\
+		Il y a le loup, le renard bien sûr y'a la belette\\
+		Autocritique parfaite mais ça reste correct, pas d'idée abjecte\\
+		C'est pour faire la fête\\
+		Voilà comment Manau avance sans se prendre la tête!
+	}
+	\verse{
+		J'entends le loup...
+	}
+}
+
+gegene = Gégène = {
+	\verse{
+		\solo
+		Juste après m’être apprêté, avant de m’aventurer,\\
+		Je m’apprête à préparer mon beau sac d’aventurier,\\
+		Quels objets dois-je emmener ? Ai-je assez pour m’équiper?\\
+		Au moment de tout lister, j’ai bien envie de pleurer,\\
+		Caaaaaar...
+	}
+	\verse{
+		\everyone
+		J’ai une épée molle, des bottes qui rigolent,\\
+		Un bouclier rose et bleu, une armure qui craint le feu.\\
+		J’ai un casque en tôle, une ceinture qui colle,\\
+		Un caillou défectueux, une arbalète pour les vieux.\\
+		Et la suite n’est pas mieux...
+	}
+	\verse{
+		J’ai des gants débiles, des sardines à l’huile,\\
+		Une cape qui sent le bouc, un chapeau qui me rend plouc,\\
+		J’ai un arc en laine, un chandail en chêne,\\
+		Un couteau de 20 kilos, une hache pour fendre l’eau,\\
+		Et la suite c’est cadeau...
+	}
+	\verse{
+		J’ai une bouillotte, une potion de flotte,\\
+		Un parchemin pour vêler, des godasses qui font danser,\\
+		J’ai l’anneau magique qui rend alcoolique,\\
+		Et cet anneau le voici, grâce à lui je suis ici!
+	}
+}
+
+letsdoitanyway = Let's Do It Anyway! = {
+	\verse{
+		It's hard to stay up, it's been a long long day\\
+		And you've got the sandman at your door\\
+		But hang on, leave the music on\\
+		And let's do it anyway!
+	}
+	\verse{
+		It's okay!\\
+		You can always sleep through work tomorrow!\\
+		Okay! Hey hey!\\
+		Tomorrow's just your future yesterday.
+	}
+	\verse{
+		Tell the clock on the wall:	forget the wake-up call!\\
+		'Cause the night's not nearly through.\\
+		Wipe the sleep from your eyes, give yourself a surprise,\\
+		Let your worries wait another day!\\
+		And if you stay too late in the bar,\\
+		At least you made it out this far,\\
+		So make up your mind and say:\\
+		Let's do it anyway!
+	}
+	\verse{
+		It's okay...
+	}
+	\verse{
+		Life's too short to worry about\\
+		The things that you can live without,\\
+		And I regret to say\\
+		The morning light is hours away,\\
+		The world can be such a fright\\
+		But it belongs to us tonight,\\
+		What's the point of going to bed?\\
+		You look so lovely when your eyes are red!
+	}
+	\verse{
+		It's hard to stay up...
+	}
+	\verse{
+		It's okay...
+	}
+}
+
+diggydiggyhole = Diggy Diggy Hole = {
+	\verse{
+		\sing{Solo:} Brothers of the mine rejoice!\\
+		\sing{All:} Swing, swing, swing with me!\\
+		\sing{Solo:} Raise your pick and raise your voice!\\
+		\sing{All:} Sing, sing, sing with me!\\
+	}
+	\verse{
+		\solo
+		Down and down into the deep,\\
+		Who knows what we'll find beneath?\\
+		Diamonds, rubies, gold and more,\\
+		Hidden in the mountain store.
+	}
+	\verse{
+		\everyone
+		Born underground,\\
+		Suckled from a teat of stone.\\
+		Raised in the dark,\\
+		The safety of our mountain home.\\
+		Skin made of iron,\\
+		Steel in our bones,\\
+		To dig and dig makes us free!\\
+		Come on brothers sing with me!
+	}
+	\verse{
+		I am a dwarf and I'm digging a hole,\\
+		Diggy diggy hole, diggy diggy hole!\\
+		I am a dwarf and I'm digging a hole,\\
+		Diggy diggy hole, digging a hole!
+	}
+	\verse{
+		\sing{Solo:} The sunlight will not reach this low,\\
+		\sing{All:} Deep, deep in the mine!\\
+		\sing{Solo:} Never seen the blue moon glow,\\
+		\sing{All:} Dwarves won't fly so high!\\
+	}
+	\verse{
+		\solo
+		Fill a glass and down some mead!\\
+		Stuff your bellies at the feast!\\
+		Stumble home and fall asleep,\\
+		Dreaming in our mountain keep.
+	}
+	\verse{
+		\everyone
+		Born underground,\\
+		Grown inside a rocky womb.\\
+		The earth is our cradle,\\
+		The mountain shall become our tomb.\\
+		Face us on the battlefield,\\
+		You will meet your doom.\\
+		We do not fear what lies beneath!\\
+		We can never dig too deep!
+	}
+	\verse{
+		\twice{%
+			I am a dwarf...%
+		}
+	}
+}
+
+lecm = Le CM = {
+	\tuneof{La Bohême}
+	\verse{
+		WORK IN PROGRESS
+	}
+}
+
+lescomediens = Les Comédiens = {
+	\verse{
+		\twice{%
+			Viens voir les comédiens,
+			Voir les musiciens,
+			Voir les magiciens,
+			Qui arrivent%
+		}
+	}
+	\verse{
+		Les comédiens ont installé leurs tréteaux,
+		Ils ont dressé leur estrade,
+		Et tendu des calicots.
+		Les comédiens ont parcouru les faubourgs,
+		Ils ont donné la parade,
+		A grand renfort de tambour.
+		Devant l’église une roulotte peinte en vert,
+		Avec les chaises d’un théâtre à ciel ouvert,
+		Et derrière eux comme un cortège en folie,
+		Ils drainent tout le pays, les comédiens.
+	}
+	\verse{
+		\twice{%
+			Viens voir les comédiens...%
+		}
+	}
+	\verse{
+		Si vous voulez voir confondus les coquins,
+		Dans une histoire un peu triste,
+		Où tout s’arrange à la fin.
+		Si vous aimez voir trembler les amoureux,
+		Vous lamenter sur Baptiste,
+		Ou rire avec les heureux.
+		Poussez la toile et entrez donc vous installer,
+		Sous les étoiles le rideau va se lever,
+		Quand les trois coups retentiront dans la nuit,
+		Ils vont renaître à la vie, les comédiens.
+	}
+	\verse{
+		\twice{%
+			Viens voir les comédiens...%
+		}
+	}
+	\verse{
+		Les comédiens ont démonté leurs tréteaux,
+		Ils ont ôté leur estrade,
+		Et plié les calicots.
+		Ils laisseront au fond du cœur de chacun,
+		Un peu de la sérénade,
+		Et du bonheur d’Arlequin.
+		Demain matin quand le soleil va se lever,
+		Ils seront loin, et nous croirons avoir rêvé,
+		Mais pour l’instant ils traversent dans la nuit,
+		D’autres villages endormis, les comédiens.
+	}
+	\verse{
+		\twice{%
+			Viens voir les comédiens...%
+		}
+	}
+}
+
+erasmus = Erasmus = {
+	\tuneof{Wild Rover}
+	\verse{
+		I've been on Erasmus for almost one year,\\
+		And I've spent all me money on party and beer.\\
+		French kissing and pimping are games for the best,\\
+		Erasmus Orgasmus is not for the rest.
+	}
+	\verse{
+		And it's No, Nay, never,\\
+		SEX ON THE FLOOR!\\
+		No nay never, no more!\\
+		Will I share these hangovers,\\
+		No never, no more.
+	}
+	\verse{
+		Satellite and Zelig are the places to be.\\
+		We usually think that the best is for free.\\
+		We told the bartender our money was spent,\\
+		But the poor drunken fellow did not understand.
+	}
+	\verse{
+		And it's No, Nay, never...
+	}
+	\verse{
+		I'll go home to me parents, confess what I've done,\\
+		My eternal hangover is finally gone.\\
+		Chopfab and Trois Dames are beers of our kind,\\
+		When we drink them together they fuck up our mind.
+	}
+	\verse{
+		\twice{%
+			And it's No, Nay, never...%
+		}
+	}
+}
+
+yoszefvarosLONG = Yoszefváros = {
+	\verse{
+		Yo, yo, hogy itt vagyunk\\
+		Most végre valamit bemutathatunk\\
+		Ez a Yozsefváros, a mi tanyánk\\
+		Itt nevelt fel minket a yoanyánk\\
+		Ahol velünk együtt már sok hülye felnőtt\\
+		Hiába, ez a hely a szívünkhöz nőtt\\
+		A kérdésem csak ennyi, yo elég!\\
+		Ez mind-mind egy yozsefvárosi utcakép!
+	}
+	\verse{
+		\twice{%
+			Yo-Yo-Yozsefváros (x3)\\
+			Sötét ez a hely, há-há-há, világos%
+		}
+	}
+}
+
+yoszefvaros = Yoszefváros = {
+	\verse{
+		\twice{%
+			Yo-Yo-Yozsefváros (x3)\\
+			Sötét ez a hely, há-há-há, világos%
+		}
+	}
+}
+
+irishtale = An Irish Tale = {
+	\verse{
+		There was only one bar...\\
+		A MILE LONG!
+	}
+	\verse{
+		They didn’t serve pints...\\
+		ONLY BUCKETS!
+	}
+	\verse{
+		There was only one barmaid...\\
+		FOR EVERY MAN!
+	}
+	\verse{
+		The guards came...\\
+		A BEAN GARDA!
+	}
+	\verse{
+		She was wearing glasses...\\
+		AND NOTHING ELSE!
+	}
+	\verse{
+		She took me to jail...\\
+		IT WAS FULL OF HOOKERS!
+	}
+	\verse{
+		They cost a fiver...\\
+		I HAD A TENNER!
+	}
+	\verse{
+		There was a plant...\\
+		A HASH PLANT!
+	}
+	\verse{
+		It had no leaves...\\
+		I SMOKED THEM ALL!
+	}
+	\verse{
+		And that’s the end...\\
+		‘TILL NEXT WEEK!
 	}
 }

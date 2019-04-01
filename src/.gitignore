@@ -1,0 +1,4 @@
+aux_files/*
+!aux_files/.gitkeep
+outputs/*
+!outputs/_example*

@@ -6,6 +6,9 @@
 % Extra doc : http://mirror.unl.edu/ctan/macros/latex/contrib/songs/songs.pdf
 \usepackage{songs}
 
+% For booklet printing (WIP)
+\usepackage{booklet}
+
 % For ifthenelse
 \usepackage{xifthen}
 
@@ -152,13 +155,13 @@
 	\endverse\brk
 }
 
-\newcommand{\sing}[1]{\textit{(#1)}\\}
+\newcommand{\sing}[1]{\textit{(#1)}}
 
 % Writes "(Songmaster solo:)" in italics
-\newcommand{\solo}{\sing{Songmaster solo:}}
+\newcommand{\solo}{\sing{Songmaster solo:}\\}
 
 % Writes "(Everyone:)" in italics
-\newcommand{\everyone}{\sing{Everyone:}}
+\newcommand{\everyone}{\sing{Everyone:}\\}
 
 % Writes "Repeat whole song" in italics as a verse
 \newcommand{\wholesong}{\verse{\sing{Repeat whole song}}}
@@ -180,7 +183,7 @@
 
 % Surrounds the text with ":;:" to signal a repeat
 % NEVER USE OUTSIDE A VERSE
-\newcommand{\twice}[1]{:;:#1:;:}
+\newcommand{\twice}[1]{:;: #1 :;:}
 
 % Setup for the data extractor
 \DTLsetseparator{ = }
@@ -188,14 +191,14 @@
 
 % Automatic data extractor and formatter for song data
 \renewcommand{\song}[1]{%
-	\beginsong{%
-		\DTLfetch{mydata}{key}{#1}{title}%
-	}[]%
-	\DTLfetch{mydata}{key}{#1}{text}%
 	\addcontentsline{toc}{subsection}{%
 		{\textbf{\textit{\thesongnum\hspace{.4cm}}}}\protect%
 		\DTLfetch{mydata}{key}{#1}{title}%
 	}%
+	\beginsong{%
+		\DTLfetch{mydata}{key}{#1}{title}%
+	}[]%
+	\DTLfetch{mydata}{key}{#1}{text}%
 	\endsong%
 }
 
@@ -212,20 +215,21 @@
 \newcommand{\rules}[1]{
 	\noindent\textbf{\Large The Rules}
 	\begin{enumerate}[leftmargin=*]
-	\item The party is led by the songmasters.
-	\item {\bf DO NOT eat or talk when a songmaster is speaking}, someone is giving a speech or if there is a show/\allowbreak competition! This is very important so that people can enjoy the event! 
-	\item Sitsit normally begins with the song "Hyvät Ystävät" (= Good Friends) and ends with \ifthenelse{
+	\item The party is led by the Songmasters.
+	\item {\bf Do not eat, drink or talk when a Songmaster is speaking}, someone is giving a speech or if there is a show/\allowbreak competition. This is very important so that people can enjoy the event! 
+	\item Sitsit normally begins with the song "Dear Friends" and ends with \ifthenelse{
 		\equal{#1}{Teekkari}
-	}{"Ikuisen teekkarin laulu" (= The Song of the Eternal Teekkari)}{the Freshman Song}.
-	\item Don't touch your filled glass (e.g. wine, shots) before you sing about it. Follow what the others are doing and you can’t go wrong.
-	\item After every song you are supposed to toast (see instructions below).
-	\item {\bf REMEMBER TO BEHAVE!} Sitsit is supposed to be a fun event – let’s keep it that way! {\bf Have an AWESOME NIGHT!}
+	}{"Ikuisen teekkarin laulu" (= The Song of the Eternal Teekkari)}{"Who is a Freshman"}.
+	\item Do not touch your filled glass before we sing about it. There will be a song for every drink available.
+	\item After every song it is customary to toast (see instructions below).
+	\item Don't be afraid to sing out loud; this is not a singing test!
+	\item {\bf Remember to behave!} Sitsit is supposed to be a fun event – let’s keep it that way! Have an amazing night!
 	\end{enumerate}\bigskip
 }
 
 \newcommand{\seating}{
 	\noindent\textbf{\Large Toasting}\medskip\\
-	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on your other side and finally with the person opposite. You should remember to look the person you're toasting with in the eyes.\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a girl's seat as a boy or in a boy's seat as a girl, and should thus toast as a girl or a boy respectively!\medskip\\
+	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on the other side and finally with the person in front. You should always look the person you're toasting with in the eyes!\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
 	\begin{center}
 	\tikzstyle{thickarrow}=[decoration={markings,mark=at position 1 with {\arrow[scale=2.2,>=stealth]{>}}},postaction={decorate}]
 	\tikzstyle{circlelabel}=[circle, fill=white, inner sep=1pt, draw]

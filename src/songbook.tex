@@ -1,0 +1,126 @@
+\documentclass[9pt]{article}
+
+% IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
+
+% Importation of the settings file
+\input{songbook.sty}
+ 
+\newdate{date}{01}{01}{1970}
+\title{\vspace{34em}\textbf{\color{white}\Huge{SONGBOOK}}}
+\date{\vspace{-3em}\color{white}\Large\displaydate{date}}
+
+% Mandatory command. Parameters :
+% 1 - <Long> or <Short>, defines whether the booklet is folded long-edge or short-edge
+% 2 - The distance (cm/in/em/pt) between the two song columns in <Short> mode
+\pagesetup{Long}{1cm}
+
+% Set to 0 for breakable songs and 1 for unbreakable songs [DOESNT WORK FOR NOW]
+\songpos{0}
+
+\backgroundsetup{
+	scale=1,
+	opacity=1,
+	angle=0,
+	vshift=0,
+	contents={\includegraphics[width=\paperwidth]{images/template-cover.png}}
+}
+
+\begin{document}
+
+% Displays the title page
+\customtitle
+\BgThispage
+\clearpage
+
+\newpage
+
+% Displays a table of contents. Parameters :
+% 1 - The title of your table of contents
+% 2 - The distance (cm/in/em/pt) between the two content columns in <Short> mode
+\customtoc{Tonight's Songs}{.7cm}
+
+\vfill
+
+\begin{center}
+\noindent\textbf{\Large What is Sitsit?}\medskip\\
+\end{center}
+
+{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+
+\vfill
+\newpage
+
+% Displays the rules
+\rules
+
+% Displays the seating information
+\seating
+
+\newpage
+\begin{multicols}{\columns}
+\begin{songs}{}
+
+% Decide your song order here (all songs and their identifiers are in songbook.dat)
+% If you dislike the way your songs are cut between pages, change their order or insert page breaks with "\sclearpage"
+
+\song{dearfriends}
+\song{thisfeeling}
+\song{wasted}
+\sclearpage
+\song{henkilokuntaEN}
+\song{drunkenstudent}
+\song{fizzycider}
+\song{helangar}
+\song{hellandgore}
+\song{irishtale}
+\song{syphilis}
+\song{farover}
+\song{paratrooperShort}
+\song{trinkEN}
+\song{twelvedays}
+\song{alcohol}
+\song{yakkosworld}
+\song{mybonnie}
+\song{chansondelabbayeShort}
+\song{marchofthewaterboys}
+\song{tristitude2}
+\song{tanaanotetaanshort}
+\song{nyt}
+\sclearpage
+\song{wimoweh}
+\song{rollmeover}
+\song{somesaythedevilisdead}
+\song{koskenkorva}
+\song{santianoPerv}
+\song{fastfood}
+\song{diggydiggyhole}
+\song{eurovisionCH}
+\song{beercannonCH}
+\song{internationalenFR}
+\song{sorkansallit}
+\song{gegene}
+\song{bigbangtheory}
+\song{myfavoritedrinks}
+\song{livetarharligt}
+\sclearpage
+\song{iloverocknroll}
+\song{thriftshop}
+\song{latiaffe}
+\song{apoil}
+\song{chansondelataverne}
+\sclearpage
+\song{softkitty}
+\song{erasmus}
+\song{switzerlandcuisine}
+\song{connemara}
+\song{whoisafreshman}
+
+\end{songs}
+\end{multicols}
+\newpage
+\begin{center}
+\pagenumbering{gobble}
+\vspace*{25em}
+\includegraphics[width=8cm]{images/template-logo.png}
+\end{center}
+\end{document}
