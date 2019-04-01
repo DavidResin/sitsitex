@@ -11,10 +11,11 @@
 
 % This neat little trick the sitsitex macros to expand before being read
 \edef\next{%
-	\noexpand\includepdf[pages={\sso},%
-	nup=2x1,%
-	column,%
-	landscape=false%
+	\noexpand\includepdf[%
+		pages={\sso},%
+		nup=2x1,%
+		column,%
+		landscape=false%
 	]{\ssf}
 }\next
 

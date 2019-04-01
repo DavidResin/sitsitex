@@ -1,6 +1,4 @@
-*.pdf
-*.aux
-*.log
-*.toc
-*.fdb_latexmk
-*.fls
+aux_files/*
+!aux_files/.gitkeep
+outputs/*
+!outputs/_example*
