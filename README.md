@@ -31,6 +31,9 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 
 ## Versions
 ### 0.2 (current)
+* Added `make.sh`, the script that handles all compilations
+  * Generates songbook in sequential and arranged versions
+  * Keeps files organised
 * Added `booklet.tex`, which generates the booklet
 * Added `src` folder, with subfolders:
   * `aux_files` for LaTeX auxiliary files
@@ -39,9 +42,6 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 * Added `tools` folder for various helper tools
   * `songbook_cover.psd`, a Photoshop file correctly sized to design covers
 * Added lots of songs to `songbook.dat`
-* Script for generating an arranged long-edge songbook for printing
-  * Generates songbook in sequential and arranged versions
-  * Keeps files organised
 * Fixed table-of-content anchors not pointing to the beginning of songs
 
 ### 0.1
