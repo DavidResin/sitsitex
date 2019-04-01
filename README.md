@@ -8,7 +8,7 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 ## Versions
 ### 0.2 (current)
 * Added `make.sh`, the script that handles all compilations
-  * Generates songbook in sequential and arranged versions
+  * Generates songbook in normal and booklet versions
   * Keeps files organised
 * Added `booklet.tex`, which generates the booklet
 * Added `src` folder, with subfolders:
