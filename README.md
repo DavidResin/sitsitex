@@ -5,6 +5,29 @@ Having developed this for my personal use in order to easily generate good-looki
 ## Packages needed
 SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.net/), for most of the formatting. Please use the installed version.
 
+## Versions
+### 0.2 (current)
+* Added `make.sh`, the script that handles all compilations
+  * Generates songbook in sequential and arranged versions
+  * Keeps files organised
+* Added `booklet.tex`, which generates the booklet
+* Added `src` folder, with subfolders:
+  * `aux_files` for LaTeX auxiliary files
+  * `images` for images with a cover template
+  * `outputs` for compiled PDFs
+* Added `tools` folder for various helper tools
+  * `songbook_cover.psd`, a Photoshop file correctly sized to design covers
+* Added lots of songs to `songbook.dat`
+* Fixed table-of-content anchors not pointing to the beginning of songs
+
+### 0.1
+* Initial commit
+* Works but is not convenient to use nor customizable, and is thus not ready for public use. 
+* Includes :
+  * 1 `.tex` file for the PDF structure
+  * 1 `.sty` file for formatting functions
+  * 1 `.dat` file for song data
+
 ## To be implemented
 * Tutorial
   * Library installation
@@ -28,26 +51,3 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 * Script
   * Ability to pass parameters for quietness and others
   * Ability to wipe all generated files
-
-## Versions
-### 0.2 (current)
-* Added `make.sh`, the script that handles all compilations
-  * Generates songbook in sequential and arranged versions
-  * Keeps files organised
-* Added `booklet.tex`, which generates the booklet
-* Added `src` folder, with subfolders:
-  * `aux_files` for LaTeX auxiliary files
-  * `images` for images with a cover template
-  * `outputs` for compiled PDFs
-* Added `tools` folder for various helper tools
-  * `songbook_cover.psd`, a Photoshop file correctly sized to design covers
-* Added lots of songs to `songbook.dat`
-* Fixed table-of-content anchors not pointing to the beginning of songs
-
-### 0.1
-* Initial commit
-* Works but is not convenient to use nor customizable, and is thus not ready for public use. 
-* Includes :
-  * 1 `.tex` file for the PDF structure
-  * 1 `.sty` file for formatting functions
-  * 1 `.dat` file for song data
