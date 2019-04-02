@@ -46,6 +46,7 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
   * Song variations
   * Per-verse selection
   * Separation from the repo
+  * Multiple song files?
 * Page layout improvements
   * Optimize song order with constraints
 * Script
