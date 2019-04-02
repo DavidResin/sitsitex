@@ -52,3 +52,4 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 * Script
   * Ability to pass parameters for quietness and others
   * Ability to wipe all generated files
+* GPL-3.0 license
