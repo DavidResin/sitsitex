@@ -5,8 +5,30 @@ Having developed this for my personal use in order to easily generate good-looki
 ## Packages needed
 SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.net/), for most of the formatting. Please use the installed version.
 
+## Tutorial
+```bash
+
+```
+
+```LaTeX
+
+```
+
 ## Versions
-### 0.2 (current)
+### Coming in 0.3
+* References for ToC in PDF
+* Song data structure improvements
+  * Uses Python
+  * Raw text instead of LaTeX format
+  * Song reference glossary
+  * Song variations
+  * Per-verse selection
+  * Separation from the repo
+  * Multiple song files?
+
+### 0.3 (current)
+
+### 0.2
 * Added `make.sh`, the script that handles all compilations
   * Generates songbook in normal and booklet versions
   * Keeps files organised
@@ -40,13 +62,6 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
   * Package references
 * More customization
   * Inter-song content
-* Song data structure improvements
-  * Raw text instead of LaTeX format
-  * Song reference glossary
-  * Song variations
-  * Per-verse selection
-  * Separation from the repo
-  * Multiple song files?
 * Page layout improvements
   * Optimize song order with constraints
 * Script
