@@ -4,13 +4,13 @@
   
 Hyvät ystävät juhla voi alkaa  
 Sankarille me nostamme maljaa  
-Tääll’ ei juodakaan kolmosen kaljaa  
-Meille viihdyn suo samppanja vaan  
+:;: Tääll’ ei juodakaan kolmosen kaljaa  
+Meille viihdyn suo samppanja vaan :;:  
   
 Hauska juomia kurkkuun on suistaa  
 Siten teekkariaikoja muistaa  
-Yhteinen juomalaulumme luistaa  
-Juhlamieli on parhaimmillaan  
+:;: Yhteinen juomalaulumme luistaa  
+Juhlamieli on parhaimmillaan :;:  
 
 # A Finnish Drinking Song
 ##### nyt  
@@ -23,15 +23,15 @@ Nyt!
 _(Songmaster solo:)_  
 En liten fågel satt en gång,  
 Och sjöng i furuskog.  
-Han hade sjungit dagen lång,  
-Men dock ej sjungit nog!  
+:;: Han hade sjungit dagen lång,  
+Men dock ej sjungit nog! :;:  
   
 Vad sjöng den lilla fågeln då?  
 JO!  
   
 _(Everyone:)_  
-Helan går,  
-Sjung hopp-falderallan-lallan-lei!  
+:;: Helan går,  
+Sjung hopp-falderallan-lallan-lei! :;:  
 Och den som inte helan tar,  
 Han ej heller halvan får.  
 Helan går!  
@@ -174,18 +174,18 @@ To win our harps and gold from him!
   
 My dear friends our grand feast will begin here,  
 Our glasses we raise with a wild cheer.  
-But tonight we won’t drink any light beer  
-Just champagne will put us in the mood  
+:;: But tonight we won’t drink any light beer  
+Just champagne will put us in the mood :;:  
   
 All night drinks down our throats we’ll be pouring,  
 We’ll remember good times, not the boring.  
-Through the ceiling our song will be soaring  
-Finnish spirits are much more than good  
+:;: Through the ceiling our song will be soaring  
+Finnish spirits are much more than good :;:  
   
 When friends drink too much with one another  
 They make new memories more than rather.  
-You can trust everyone like your brother!  
-We won’t run out of drinks, maybe food  
+:;: You can trust everyone like your brother!  
+We won’t run out of drinks, maybe food :;:  
 
 # Hell and Gore
 ##### hellandgore  
@@ -226,20 +226,20 @@ Feldschlösschen
 # Beer Cannon
 ##### beercannonlong  
   
-Lapin Kulta  
-Karjala  
-Sininen ja Olvi  
-Koff, Koff, Koff  
+:;: Lapin Kulta :;:  
+:;: Karjala :;:  
+:;: Sininen ja Olvi :;:  
+:;: Koff, Koff, Koff :;:  
   
-Koskenkorva  
-Pontikka  
-Sinoli ja Lasoli  
-Tärpätti  
+:;: Koskenkorva :;:  
+:;: Pontikka :;:  
+:;: Sinoli ja Lasoli :;:  
+:;: Tärpätti :;:  
   
-Coca-Cola  
-Ja-affa  
-Spraitti ja Pepsi  
-Hämähäkkimies  
+:;: Coca-Cola :;:  
+:;: Ja-affa :;:  
+:;: Spraitti ja Pepsi :;:  
+:;: Hämähäkkimies :;:  
 
 # Here's the First
 ##### heresthefirst  
@@ -269,7 +269,7 @@ That all started with the big bang (Bang!)
 # Wasted
 ##### wasted  
   
-Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get  
+:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:  
   
 First I will drink down two bottles of sparkling wine,  
 Which gets me feeling more than fine!  
@@ -281,7 +281,7 @@ Wasted...
 # Wasted
 ##### wastedLong  
   
-Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get  
+:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:  
   
 First I will drink down two bottles of sparkling wine,  
 Which gets me feeling more than fine!  
@@ -373,24 +373,24 @@ Purr, purr, purr.
 # Henkilökunta
 ##### henkilokuntaEN  
   
-Henkilökuntaa, henkilökuntaa, parlevuu.  
+:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
 Henkilökuntaa (x4)  
-Henkilökuntaa parlevuu.  
+:;: Henkilökuntaa parlevuu. :;:  
   
-Bring us brandy...  
-Where is my food...  
-Beer is fine, too...  
+:;: Bring us brandy... :;:  
+:;: Where is my food... :;:  
+:;: Beer is fine, too... :;:  
 
 # Henkilökunta
 ##### henkilokuntaFI  
   
-Henkilökuntaa, henkilökuntaa, parlevuu.  
+:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
 Henkilökuntaa (x4)  
-Henkilökuntaa parlevuu.  
+:;: Henkilökuntaa parlevuu. :;:  
   
-Lissää viinaa...  
-Konjakki ois poikaa...  
-Kaljakin kelpaa...  
+:;: Lissää viinaa... :;:  
+:;: Konjakki ois poikaa... :;:  
+:;: Kaljakin kelpaa... :;:  
 
 # Eurovision
 ##### eurovision  
@@ -504,42 +504,42 @@ So come an' take your time an' dance with me
   
 I know someone you don't know, Yogi, Yogi,  
 I know someone you don't know, Yogi, Yogi bear.  
-Yogi, Yogi bear  
+:;: Yogi, Yogi bear :;:  
 I know someone you don't know, Yogi, Yogi bear.  
   
 Yogi has a Swedish friend, Puppe, Puppe,  
 Yogi has a Swedish friend, Puppe Puppeström.  
-Puppe Puppeström  
+:;: Puppe Puppeström :;:  
 Yogi has a Swedish friend, Puppe Puppeström.  
   
 Puppe likes it up the ass, up the, up the,  
 Puppe likes it up the ass, up the, up the ass  
-up the, up the ass  
+:;: up the, up the ass :;:  
 Puppe likes it up the ass, up the, up the ass  
   
 Yogi has a girlfriend, Cindy, Cindy,  
 Yogi has a girlfriend, Cindy, Cindy bear.  
-Cindy, Cindy bear  
+:;: Cindy, Cindy bear :;:  
 Yogi has a girlfriend, Cindy, Cindy bear.  
   
 Cindy likes it from behind, frombe, frombe,  
 Cindy likes it from behind, frombe, from behind.  
-Frombe, from behind  
+:;: Frombe, from behind :;:  
 Cindy likes it from behind, frombe, from behind.  
   
 Yogi has an enemy, ranger, ranger,  
 Yogi has an enemy, ranger, ranger Smith  
-Ranger, ranger Smith  
+:;: Ranger, ranger Smith :;:  
 Yogi has an enemy, ranger, ranger Smith  
   
 Ranger Smith fucks animals, ani, ani,  
 Ranger Smith fucks animals, ani, animals  
-Ani, animals  
+:;: Ani, animals :;:  
 Ranger Smith fucks animals, ani, animals  
   
 Yogi likes it in the fridge, polar, polar,  
 Yogi likes it in the fridge, polar, polar bear,  
-Polar, polar bear  
+:;: Polar, polar bear :;:  
 Yogi likes it in the fridge, polar, polar bear.  
 
 # Minne
@@ -549,12 +549,12 @@ Yogi likes it in the fridge, polar, polar bear.
 Minne!  
 Jag har tappat mitt minne!  
 Är jag svensk eller finne?  
-- Kommer inte ihåg.  
+Kommer inte ihåg.  
   
 Inne!  
 Är jag ut eller inne?  
 Jag har luckor i minne.  
-- Sån’ där små alkohål.  
+Sån’ där små alkohål.  
   
 Men besinn er,  
 Man tätar med det brännvin man får,  
@@ -563,7 +563,7 @@ Fastän minnet och helan går!
 Minne?  
 Muisti hävis, mutt’ minne?  
 Juhlista selvisimme  
-- Muistikatkoja on.  
+Muistikatkoja on.  
   
 Minne,  
 Lähtisin vaikka minne,  
@@ -665,53 +665,53 @@ _(Everyone:)_
 # Fast Food and Other Things
 ##### fastfood  
   
-A Pizza Hut, a Pizza Hut,  
-Kentucky Fried Chicken and a Pizza Hut  
-McDonald's, McDonald's,  
-Kentucky Fried Chicken and a Pizza Hut  
+:;: A Pizza Hut, a Pizza Hut,  
+Kentucky Fried Chicken and a Pizza Hut :;:  
+:;: McDonald's, McDonald's,  
+Kentucky Fried Chicken and a Pizza Hut :;:  
   
-A Ford Escort, a Ford Escort,  
-a Mini, Mini, Mini and a Ford Escort  
-Ferrari, Ferrari,  
-a Mini, Mini, Mini and a Ford Escort  
+:;: A Ford Escort, a Ford Escort,  
+a Mini, Mini, Mini and a Ford Escort :;:  
+:;: Ferrari, Ferrari,  
+a Mini, Mini, Mini and a Ford Escort :;:  
   
-A Jumbo Jet, a Jumbo Jet,  
-a Heli, Heli, Heli and a Jumbo Jet  
-Concorde, Concorde,  
-a Heli, Heli, Heli and a Jumbo Jet  
+:;: A Jumbo Jet, a Jumbo Jet,  
+a Heli, Heli, Heli and a Jumbo Jet :;:  
+:;: Concorde, Concorde,  
+a Heli, Heli, Heli and a Jumbo Jet :;:  
 
 # Fast Food and Other Things
 ##### fastfoodLong  
   
-A Pizza Hut, a Pizza Hut,  
-Kentucky Fried Chicken and a Pizza Hut  
-McDonald's, McDonald's,  
-Kentucky Fried Chicken and a Pizza Hut  
+:;: A Pizza Hut, a Pizza Hut,  
+Kentucky Fried Chicken and a Pizza Hut :;:  
+:;: McDonald's, McDonald's,  
+Kentucky Fried Chicken and a Pizza Hut :;:  
   
-A Ford Escort, a Ford Escort,  
-a Mini, Mini, Mini and a Ford Escort  
-Ferrari, Ferrari,  
-a Mini, Mini, Mini and a Ford Escort  
+:;: A Ford Escort, a Ford Escort,  
+a Mini, Mini, Mini and a Ford Escort :;:  
+:;: Ferrari, Ferrari,  
+a Mini, Mini, Mini and a Ford Escort :;:  
   
-A Jumbo Jet, a Jumbo Jet,  
-a Heli, Heli, Heli and a Jumbo Jet  
-Concorde, Concorde,  
-a Heli, Heli, Heli and a Jumbo Jet  
+:;: A Jumbo Jet, a Jumbo Jet,  
+a Heli, Heli, Heli and a Jumbo Jet :;:  
+:;: Concorde, Concorde,  
+a Heli, Heli, Heli and a Jumbo Jet :;:  
   
-A Jumbo Jet, a Jumbo Jet,  
-a World Trade Center and a Jumbo Jet  
-Bin Laden, Bin Laden,  
-a World Trade Center and a Jumbo Jet  
+:;: A Jumbo Jet, a Jumbo Jet,  
+a World Trade Center and a Jumbo Jet :;:  
+:;: Bin Laden, Bin Laden,  
+a World Trade Center and a Jumbo Jet :;:  
   
-A lunatic, a lunatic,  
-A cripple, cripple, cripple and a lunatic  
-Your momma, your momma,  
-A cripple, cripple, cripple and a lunatic  
+:;: A lunatic, a lunatic,  
+A cripple, cripple, cripple and a lunatic :;:  
+:;: Your momma, your momma,  
+A cripple, cripple, cripple and a lunatic :;:  
   
-An Erasmus, an Erasmus,  
-a pretty drunk couple and an Erasmus  
-Pregnancy, pregnancy,  
-a pretty drunk couple and an Erasmus  
+:;: An Erasmus, an Erasmus,  
+a pretty drunk couple and an Erasmus :;:  
+:;: Pregnancy, pregnancy,  
+a pretty drunk couple and an Erasmus :;:  
 
 # Roll Me Over
 ##### rollmeover  
@@ -720,7 +720,7 @@ This is number one
 And the fun has just begun  
 Roll me over, lay me down  
 And do it again,  
-”I like the feeling”  
+“I like the feeling”  
 Roll me over in the clover  
 Roll me over, lay me down and do it again.  
   
@@ -824,10 +824,10 @@ From this magic drink, a shelter
 I will make for my sad days  
   
 _(Everyone:)_   
-And under Jallu’s starlight  
+:;: And under Jallu’s starlight  
 I will take one, for a safe flight  
 Only under Jallu’s soft sight  
-I will cry a joyful tear.  
+I will cry a joyful tear. :;:  
   
 _(Songmaster solo:)_   
 Under Jallu’s magic starlight,  
@@ -840,7 +840,7 @@ But by corking one more tonight
 My heart’s chill is thawed away.  
   
 _(Everyone:)_  
-And under Jallu’s starlight...  
+:;: And under Jallu’s starlight... :;:  
 
 # My Favorite Drinks
 ##### myfavoritedrinks  
@@ -871,7 +871,7 @@ my mother brews synthetic gin.
 My sister sells kisses to sailors  
 And that’s how the money rolls in.  
   
-Rolls in, rolls in, my God how the money rolls in, rolls in  
+:;: Rolls in, rolls in, my God how the money rolls in, rolls in :;:  
   
 My uncle’s a slum missionary,  
 Saving young maidens from sin.  
@@ -974,59 +974,59 @@ Bam ba bamba (x3)
   
 Father Stalin, mother Krushchova,  
 Shared a kiss, with Vodka on the rocks!  
-I wish they would have done it a bit sooner,  
-Would have spared the Russians from their grief.  
+:;: I wish they would have done it a bit sooner,  
+Would have spared the Russians from their grief. :;:  
   
 Where the fields grow seas of wheat and barley,  
 I once met young maiden Katyushka.  
-Katyushka had a nicely rounded bosom,  
-Radiation gave her extra tits.  
+:;: Katyushka had a nicely rounded bosom,  
+Radiation gave her extra tits. :;:  
   
 I am just a simple old granny,  
 Not a single friend left in the world.  
-Men came here to take my chickens and cow and sheep,  
-Now they're coming back to take my teeth.  
+:;: Men came here to take my chickens and cow and sheep,  
+Now they're coming back to take my teeth. :;:  
 
 # Tänään Otetaan
 ##### tanaanotetaan  
   
-Tänään otetaan, tänään otetaan,  
-Helvetin paljon viinaa.  
-Huomenna on, huomenna on,  
-Helvetin kova krapula.  
+:;: Tänään otetaan, tänään otetaan,  
+Helvetin paljon viinaa. :;:  
+:;: Huomenna on, huomenna on,  
+Helvetin kova krapula. :;:  
   
-Idag ska vi ta, idag ska vi ta,  
-Helvetes mycket brännvin.  
-I morgon ska vi ha, i morgon ska vi ha,  
-Helvetes kova krapula.  
+:;: Idag ska vi ta, idag ska vi ta,  
+Helvetes mycket brännvin. :;:  
+:;: I morgon ska vi ha, i morgon ska vi ha,  
+Helvetes kova krapula. :;:  
   
-Tänä vötame, tänä vötame  
-Kuradima palju viina  
-Homme meil on, homme meil on,  
-Kuradima kova pohmakas.  
+:;: Tänä vötame, tänä vötame  
+Kuradima palju viina :;:  
+:;: Homme meil on, homme meil on,  
+Kuradima kova pohmakas. :;:  
   
-Today we shall get, today we shall get  
-Absolutely fucking wasted.  
-Tomorrow we will have, tomorrow we will have,  
-A hangover beyond reason.  
+:;: Today we shall get, today we shall get  
+Absolutely fucking wasted. :;:  
+:;: Tomorrow we will have, tomorrow we will have,  
+A hangover beyond reason. :;:  
 
 # Tänään Otetaan
 ##### tanaanotetaanshort  
   
-Tänään otetaan, tänään otetaan,  
-Helvetin paljon viinaa.  
-Huomenna on, huomenna on,  
-Helvetin kova krapula.  
+:;: Tänään otetaan, tänään otetaan,  
+Helvetin paljon viinaa. :;:  
+:;: Huomenna on, huomenna on,  
+Helvetin kova krapula. :;:  
   
-Idag ska vi ta, idag ska vi ta,  
-Helvetes mycket brännvin.  
-I morgon ska vi ha, i morgon ska vi ha,  
-Helvetes kova krapula.  
+:;: Idag ska vi ta, idag ska vi ta,  
+Helvetes mycket brännvin. :;:  
+:;: I morgon ska vi ha, i morgon ska vi ha,  
+Helvetes kova krapula. :;:  
   
-Today we shall get, today we shall get  
-Absolutely fucking wasted.  
-Tomorrow we will have, tomorrow we will have,  
-A hangover beyond reason.  
+:;: Today we shall get, today we shall get  
+Absolutely fucking wasted. :;:  
+:;: Tomorrow we will have, tomorrow we will have,  
+A hangover beyond reason. :;:  
 
 # Ryyppää
 ##### ryyppaaEN  
@@ -1046,13 +1046,13 @@ The hangover won’t come at all!
   
 Hei takki poies kiskaikaamme,  
 On Polin poikain tapa tää.  
-Ja sitten laulu laulakaamme,  
-Niin että katto tärähtää!  
+:;: Ja sitten laulu laulakaamme,  
+Niin että katto tärähtää! :;:  
   
 Me emme laulamasta lakkaa,  
 Ennekuin aamu sarastaa.  
-Ei täältä ennen poistutakaan,  
-Tääll' juodaan kautta Pohjanmaan!  
+:;: Ei täältä ennen poistutakaan,  
+Tääll' juodaan kautta Pohjanmaan! :;:  
 
 # Finland
 ##### finland  
@@ -1200,8 +1200,8 @@ Some say the Devil is dead...
 # Il est des nôtres
 ##### ilestdesnotres  
   
-Ami(e) **<name>** lève ton verre  
-Et surtout, ne le renverse pas  
+:;: Ami(e) **<name>** lève ton verre  
+Et surtout, ne le renverse pas :;:  
 Et porte le  
 Au frontibus  
 Au nasibus  
@@ -1311,7 +1311,7 @@ She's got the walk,
 She's got the talk,  
 She's got that zing,  
 There's just one thing:  
-She's got a penis (pom, pom, pom)  
+:;: She's got a penis (pom, pom, pom) :;:  
   
 She's got that flair,  
 Knows what to wear,  
@@ -1420,50 +1420,50 @@ Para Dentro! (drink)
 # Who is a Freshman
 ##### whoisafreshman  
   
-Who is a freshman of XX  
-Stand up, stand up right now.  
+:;: Who is a freshman of XX  
+Stand up, stand up right now. :;:  
 Take your drink into your hand  
 Then raise it up to your lips and  
-Drink up, drink up, drink up, drink up.  
-Drink up, drink bottoms up!  
+:;: Drink up, drink up, drink up, drink up.  
+Drink up, drink bottoms up! :;:  
 
 # Ken ompi Fuksi
 ##### kenompifuksi  
   
-Ken ompi fuksi XX  
-Ylös nouskohon.  
+:;: Ken ompi fuksi XX  
+Ylös nouskohon. :;:  
 Hän lasin käteen ottakoon,  
 Sen huulillensa nostakoon.  
-Juo pois, juopois, juo pois, juo pois.  
-Juo Herran tähden pois.  
+:;: Juo pois, juopois, juo pois, juo pois.  
+Juo Herran tähden pois. :;:  
 
 # Ikuisen Teekkarin Laulu
 ##### ikuisenteekkarinlaulu  
   
 Talvi-iltain tummentuessa  
 Polin suojiin me saavumme taas.  
-Meidät tekniikka jälkeen on jättänyt,  
-sen me tahdomme unhoittaa.  
+:;: Meidät tekniikka jälkeen on jättänyt,  
+sen me tahdomme unhoittaa. :;:  
   
 Unelma vain on diplomityömme,  
 joka tenttimme vanhennut.  
-Jo ruostunut harpikko käyttämätön,  
-tushi pulloihin jähmennyt.  
+:;: Jo ruostunut harpikko käyttämätön,  
+tushi pulloihin jähmennyt. :;:  
   
 Aina teekkaripolvien uutten  
 ohi pöytämme käyvän nään.  
-Mutta meillä ei voimaa enää kylliksi  
-heidän joukkoonsa liittymään.  
+:;: Mutta meillä ei voimaa enää kylliksi  
+heidän joukkoonsa liittymään. :;:  
   
 Viini laseissa ilkkuen päilyy,  
 meitä kutsuen kuohuillaan.  
-Pois murheemme tahdomme karkoittaa.  
-Äly pois mitä maksoikaan!  
+:;: Pois murheemme tahdomme karkoittaa.  
+Äly pois mitä maksoikaan! :;:  
   
 Ja kun integer vitae meille  
 kerran viimeisen lauletaan.  
-Silloin ikuisen teekkarin haudalle  
-oluttynnyrinostetaan.  
+:;: Silloin ikuisen teekkarin haudalle  
+oluttynnyrinostetaan. :;:  
 
 # Internationalen
 ##### internationalenFR  
@@ -1508,7 +1508,7 @@ Le jour de gloire est arrivé! ARRIVÉ!
 # Pom popom popom
 ##### chansondelataverne  
   
-Pom, popom, popom popom popom popom po  
+:;: Pom, popom, popom popom popom popom po :;:  
   
 Tous les petits Kobolds dansent dans la forêt,  
 Moi et mes compagnons allons tous les crever!  
@@ -1536,7 +1536,7 @@ Moi et mes compagnons préférons nous barrer!
 Ceux qui les trouvent mignons sont vraiment dérangés,  
 Un jour ils finiront en compote de...  
   
-Pommes, popom...  
+:;: Pommes, popom... :;:  
 
 # Santiano
 ##### santiano  
@@ -1700,10 +1700,10 @@ Only got twenty dollars in my pocket
 I, I, I'm hunting, looking for a come-up  
 This is fucking awesome!  
   
-I wear your granddad's clothes  
+:;: I wear your granddad's clothes  
 I look incredible  
 I'm in this big ass coat  
-From that thrift shop down the road  
+From that thrift shop down the road :;:  
   
 I'm gonna pop some tags...  
 
@@ -2127,7 +2127,7 @@ O-wimoweh...
 # À Poil
 ##### apoil  
   
-Il descend de la montagne... À POIL!  
+:;: Il descend de la montagne... À POIL! :;:  
 Il descend de la montagne (x3)  
 À POIL!  
 
@@ -2148,18 +2148,18 @@ Fizzy cider...
 # Mais qui est la Belette?
 ##### labelette  
   
-J'entends le loup, le renard et la belette,  
-J'entends le loup et le renard chanter!  
-Manau viendra les gars, Manau viendra,  
-C'est à ce moment-là qu'il faut lever les bras!  
+:;: J'entends le loup, le renard et la belette,  
+J'entends le loup et le renard chanter! :;:  
+:;: Manau viendra les gars, Manau viendra,  
+C'est à ce moment-là qu'il faut lever les bras! :;:  
 
 # Mais qui est la Belette?
 ##### labeletteLong  
   
-J'entends le loup, le renard et la belette,  
-J'entends le loup et le renard chanter!  
-Manau viendra les gars, Manau viendra,  
-C'est à ce moment-là qu'il faut lever les bras!  
+:;: J'entends le loup, le renard et la belette,  
+J'entends le loup et le renard chanter! :;:  
+:;: Manau viendra les gars, Manau viendra,  
+C'est à ce moment-là qu'il faut lever les bras! :;:  
   
 Et v'la les amateurs de chambrettes, les Bretons qui se la pètent  
 Les déchireurs de galettes, les bouffeurs de crêpes  
@@ -2287,7 +2287,7 @@ You will meet your doom.
 We do not fear what lies beneath!  
 We can never dig too deep!  
   
-I am a dwarf...  
+:;: I am a dwarf... :;:  
 
 # Le CM
 ##### lecm  
@@ -2298,10 +2298,10 @@ WORK IN PROGRESS
 # Les Comédiens
 ##### lescomediens  
   
-Viens voir les comédiens,  
+:;: Viens voir les comédiens,  
 Voir les musiciens,  
 Voir les magiciens,  
-Qui arrivent  
+Qui arrivent :;:  
   
 Les comédiens ont installé leurs tréteaux,  
 Ils ont dressé leur estrade,  
@@ -2314,7 +2314,7 @@ Avec les chaises d’un théâtre à ciel ouvert,
 Et derrière eux comme un cortège en folie,  
 Ils drainent tout le pays, les comédiens.  
   
-Viens voir les comédiens...  
+:;: Viens voir les comédiens... :;:  
   
 Si vous voulez voir confondus les coquins,  
 Dans une histoire un peu triste,  
@@ -2327,7 +2327,7 @@ Sous les étoiles le rideau va se lever,
 Quand les trois coups retentiront dans la nuit,  
 Ils vont renaître à la vie, les comédiens.  
   
-Viens voir les comédiens...  
+:;: Viens voir les comédiens... :;:  
   
 Les comédiens ont démonté leurs tréteaux,  
 Ils ont ôté leur estrade,  
@@ -2340,7 +2340,7 @@ Ils seront loin, et nous croirons avoir rêvé,
 Mais pour l’instant ils traversent dans la nuit,  
 D’autres villages endormis, les comédiens.  
   
-Viens voir les comédiens...  
+:;: Viens voir les comédiens... :;:  
 
 # Erasmus
 ##### erasmus  
@@ -2369,7 +2369,7 @@ My eternal hangover is finally gone.
 Chopfab and Trois Dames are beers of our kind,  
 When we drink them together they fuck up our mind.  
   
-And it's No, Nay, never...  
+:;: And it's No, Nay, never... :;:  
 
 # Yoszefváros
 ##### yoszefvarosLONG  
@@ -2383,14 +2383,14 @@ Hiába, ez a hely a szívünkhöz nőtt
 A kérdésem csak ennyi, yo elég!  
 Ez mind-mind egy yozsefvárosi utcakép!  
   
-Yo-Yo-Yozsefváros (x3)  
-Sötét ez a hely, há-há-há, világos  
+:;: Yo-Yo-Yozsefváros (x3)  
+Sötét ez a hely, há-há-há, világos :;:  
 
 # Yoszefváros
 ##### yoszefvaros  
   
-Yo-Yo-Yozsefváros (x3)  
-Sötét ez a hely, há-há-há, világos  
+:;: Yo-Yo-Yozsefváros (x3)  
+Sötét ez a hely, há-há-há, világos :;:  
 
 # An Irish Tale
 ##### irishtale  

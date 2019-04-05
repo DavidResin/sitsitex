@@ -710,13 +710,13 @@ minne = Minne = {
 		Minne!\\
 		Jag har tappat mitt minne!\\
 		Är jag svensk eller finne?\\
-		- Kommer inte ihåg.\\
+		Kommer inte ihåg.\\
 	}
 	\verse{
 		Inne!
 		Är jag ut eller inne?\\
 		Jag har luckor i minne.\\
-		- Sån’ där små alkohål.\\
+		Sån’ där små alkohål.\\
 	}
 	\verse{
 		Men besinn er,\\
@@ -727,7 +727,7 @@ minne = Minne = {
 		Minne?\\
 		Muisti hävis, mutt’ minne?\\
 		Juhlista selvisimme\\
-		- Muistikatkoja on.\\
+		Muistikatkoja on.\\
 	}
 	\verse{
 		Minne,\\
@@ -954,7 +954,7 @@ rollmeover = Roll Me Over = {
 		And the fun has just begun\\
 		Roll me over, lay me down\\
 		And do it again,\\
-		”I like the feeling”\\
+		“I like the feeling”\\
 		Roll me over in the clover\\
 		Roll me over, lay me down and do it again.\\
 	}

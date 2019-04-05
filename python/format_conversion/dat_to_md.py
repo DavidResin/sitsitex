@@ -35,9 +35,10 @@ for k, v in map_1.items():
 	lines = [s.replace(k, v) for s in lines]
 
 # Complex replacements
+id_open, id_close = 0, 0
+twice = False
+
 for l, idx in zip(lines, range(len(lines))):
-	id_open, id_close = 0, 0
-	twice = False
 
 	# Titles
 	match = re.match(r"^(?P<code>.+) = (?P<name>.+) = {$", l)
@@ -88,6 +89,7 @@ for k, v in map_3.items():
 # Write to file
 output_f = open("song_data.md", "w")
 
+# We add 2 spaces at the end of each line to force a line break in markdown readers
 for l in lines:
 	output_f.write(l + "  \n")
 
