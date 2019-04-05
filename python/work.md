@@ -1,20 +1,13 @@
-ntimes: &2, &3, ..., &n
-sing: &sing
-others: &others (solo, everyone, tuneof)
-
-**bold**, *italics*, etc...
-
 custom function for specials?
 multiline twice?
 arguments?
 alternatives? i dont think so
 
-newline: newline
-newverse: emptyline
-
 languages?
 percent at end of lines? check why its done -> yes, do it
-compatibility with markdown
+
+error checking with rules
+param to make comments appear
 
 https://highlightjs.org/static/demo/
 
