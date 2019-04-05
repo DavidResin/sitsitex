@@ -89,6 +89,6 @@ for k, v in map_3.items():
 output_f = open("song_data.md", "w")
 
 for l in lines:
-	output_f.write(l + "\n")
+	output_f.write(l + "  \n")
 
 output_f.close()
