@@ -8,11 +8,13 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 ## Versions
 ### Coming in 0.3
 * References for ToC in PDF
-* GPL-3.0 license
-* Song data structure improvements
+* More checks in `make.sh`
+* Song database:
   * Song reference glossary
-  * Song variations
-  * Per-verse selection
+  * More checks in song_bank.py
+  * Partial compilation with error report
+  * Auto-fix `.md` file line breaks
+  * Reorganize structure and include in `make.sh`
 
 ### 0.3 "Song Bank" (current)
 * Reforged the song structure. Now all modifications are made through Markdown files which are then compiled into one big data file ready to use. Everything is in the `python` folder with subfolders and files:
@@ -23,6 +25,7 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
   * `song_bank` for compiling LaTeX data files from song files
     * `song_bank.py`, Python script for compilation
   * `example.md`, a reference for song formatting
+* GPL-3.0 license
 
 ### 0.2 "Auto Booklets"
 * Added `make.sh`, the script that handles all compilations
