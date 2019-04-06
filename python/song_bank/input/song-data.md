@@ -189,7 +189,7 @@ We won’t run out of drinks, maybe food :;:
 
 # Hell and Gore
 ##### Code: hellandgore  
-- _To the tune of “Helan Går”_  
+- To the tune of “Helan Går”  
   
 Hell and gore  
 Sing hop Father Allan, Allan lay  
@@ -203,7 +203,7 @@ Hey!
 
 # Beer Cannon
 ##### Code: beercannon  
-- _To the tune of “Frère Jacques”_  
+- To the tune of “Frère Jacques”  
   
 Lapin Kulta, Lapin Kulta  
 Karjala, Karjala  
@@ -214,7 +214,7 @@ Koff, Koff, Koff
 
 # Beer Cannon
 ##### Code: beercannonCH  
-- _To the tune of “Frère Jacques”_  
+- To the tune of “Frère Jacques”  
   
 Eichhof Lager, Eichhof Lager  
 Cardinal, Cardinal  
@@ -243,7 +243,7 @@ Feldschlösschen
 
 # Here's the First
 ##### Code: heresthefirst  
-- _To the tune of “Helan Går”_  
+- To the tune of “Helan Går”  
   
 Here’s the first,  
 Sing hopp-faderallan-lallan-lay  
@@ -299,7 +299,7 @@ Ha-hang-hangover-hangover.
 
 # Syphilis
 ##### Code: syphilis  
-- _To the tune of “Yesterday”_  
+- To the tune of “Yesterday”  
   
 Syphilis, it just started with a simple kiss.  
 Now it hurts to even take a piss...  
@@ -342,7 +342,7 @@ I know something’s wrong,
 
 # This Feeling
 ##### Code: thisfeeling  
-- _To the tune of “Everytime we touch”_  
+- To the tune of “Everytime we touch”  
   
 I still feel the symptoms,  
 Do you get them too?  
@@ -394,7 +394,7 @@ Henkilökuntaa (x4)
 
 # Eurovision
 ##### Code: eurovision  
-- _To the tune of “Eurovision Theme”_  
+- To the tune of “Eurovision Theme”  
   
 The French drink Champagne and Chardonnay  
 In Germany they drink beer  
@@ -415,7 +415,7 @@ But Scots and Irish, welcome back!
 
 # Drunken Student
 ##### Code: drunkenstudent  
-- _To the tune of “Drunken Sailor”_  
+- To the tune of “Drunken Sailor”  
   
 What shall we do with the drunken student? (x3)  
 Early in the morning  
@@ -431,7 +431,7 @@ That’s what we do with a drunken student...
 
 # Twelve Days of Binge-Drinking
 ##### Code: twelvedays  
-- _To the tune of “Twelve Days of Christmas”, increasingly drunkenly_  
+- To the tune of “Twelve Days of Christmas”, increasingly drunkenly  
   
 My first day of binge-drinking started happily,  
 With a large Long Island Ice Tea.  
@@ -500,7 +500,7 @@ So come an' take your time an' dance with me
 
 # Yogi Bear
 ##### Code: yogibear  
-- _To the tune of “Camptown Races”_  
+- To the tune of “Camptown Races”  
   
 I know someone you don't know, Yogi, Yogi,  
 I know someone you don't know, Yogi, Yogi bear.  
@@ -544,7 +544,7 @@ Yogi likes it in the fridge, polar, polar bear.
 
 # Minne
 ##### Code: minne  
-- _To the tune of “Memory”_  
+- To the tune of “Memory”  
   
 Minne!  
 Jag har tappat mitt minne!  
@@ -608,7 +608,7 @@ What a wonderful place to get totally, totally drunk!
 
 # Paratrooper
 ##### Code: paratrooper  
-- _To the tune of “Battle Hymn of the Republic”_  
+- To the tune of “Battle Hymn of the Republic”  
   
 My brother was a paratrooper in the US Marines (x3)  
 And he ain’t gonna jump no more.  
@@ -644,7 +644,7 @@ _(Everyone:)_
 
 # Paratrooper
 ##### Code: paratrooperShort  
-- _To the tune of “Battle Hymn of the Republic”_  
+- To the tune of “Battle Hymn of the Republic”  
   
 My brother was a paratrooper in the US Marines (x3)  
 And he ain’t gonna jump no more.  
@@ -844,7 +844,7 @@ _(Everyone:)_
 
 # My Favorite Drinks
 ##### Code: myfavoritedrinks  
-- _To the tune of “My Favorite Things”_  
+- To the tune of “My Favorite Things”  
   
 Negroni, Manhattan, Tequila sunrise,  
 Gin Tonic, Blue Angel, a Vodka on ice,  
@@ -864,7 +864,7 @@ And then I don't feel so bad!
 
 # Our Family
 ##### Code: ourfamily  
-- _To the tune of “My Bonny Lies Over the Ocean”_  
+- To the tune of “My Bonny Lies Over the Ocean”  
   
 My father makes counterfeit money,  
 my mother brews synthetic gin.  
@@ -1091,7 +1091,7 @@ Finland has it all.
 
 # The Engineers' Drinking Song
 ##### Code: engineersdrinkingsong  
-- _To the tune of “The Son of a Gambolier”_  
+- To the tune of “The Son of a Gambolier”  
   
 We are, we are, we are, we are, we are the Engineers,  
 We can, we can, we can, we can, demolish forty beers.  
@@ -1614,7 +1614,7 @@ Nous irons jusqu’à San Francisco
 
 # Eurovision
 ##### Code: eurovisionCH  
-- _To the tune of “Eurovision Theme”_  
+- To the tune of “Eurovision Theme”  
   
 The French drink Champagne and Chardonnay,  
 In Germany they drink beer,  
@@ -2133,7 +2133,7 @@ Il descend de la montagne (x3)
 
 # Fizzy Cider
 ##### Code: fizzycider  
-- _To the tune of “Bob the Builder”_  
+- To the tune of “Bob the Builder”  
   
 Fizzy cider, CAN WE DRINK IT?  
 Fizzy cider, YES WE CAN!  
@@ -2291,7 +2291,7 @@ We can never dig too deep!
 
 # Le CM
 ##### Code: lecm  
-- _To the tune of “La Bohême”_  
+- To the tune of “La Bohême”  
   
 WORK IN PROGRESS  
 
@@ -2344,7 +2344,7 @@ D’autres villages endormis, les comédiens.
 
 # Erasmus
 ##### Code: erasmus  
-- _To the tune of “Wild Rover”_  
+- To the tune of “Wild Rover”  
   
 I've been on Erasmus for almost one year,  
 And I've spent all me money on party and beer.  

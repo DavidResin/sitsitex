@@ -10,20 +10,18 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
 * References for ToC in PDF
 * GPL-3.0 license
 * Song data structure improvements
-  * Uses Python
-  * Raw text instead of LaTeX format
   * Song reference glossary
   * Song variations
   * Per-verse selection
-  * Multiple song files
 
 ### 0.3 "Song Bank" (current)
-* Added `python` folder with subfolders and files:
+* Reforged the song structure. Now all modifications are made through Markdown files which are then compiled into one big data file ready to use. Everything is in the `python` folder with subfolders and files:
   * `format_conversion` for converting from old song data format
     * `songbook.dat`, old song data file
-    * `dat_to_md.py`, Python script for conversion
+    * `dat-to-md.py`, Python script for conversion
     * `song_bank.md`, output of the script in the new Markdown format
   * `song_bank` for compiling LaTeX data files from song files
+    * `song_bank.py`, Python script for compilation
   * `example.md`, a reference for song formatting
 
 ### 0.2 "Auto Booklets"
@@ -47,7 +45,7 @@ SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.ne
   * 1 `.tex` file for the PDF structure
   * 1 `.sty` file for formatting functions
   * 1 `.dat` file for song data
-
+  
 ## To be implemented
 * Tutorial
   * Library installation

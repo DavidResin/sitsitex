@@ -27,7 +27,7 @@ Repeat More Repeat More (x3)
 Absence of a *title* and a *code* will prevent your song to be used and might mess up other songs in the process!
 
 - The **title**, which must be preceeded by `#`. Here we wrote `# Title`.
-- The **code**, which must be preceeded by `#####` (5 times). Here we wrote `##### codeofthesong`. **This code is very important**, as it will allow you to select the song for use in the songbook.
+- The **code**, which must be preceeded by `#####` (5 times). Here we wrote `##### Code: codeofthesong`. **This code is very important**, as it will allow you to select the song for use in the songbook.
 - The **subtitle**, which must be preceeded by `-`. Here we wrote `- Subtitle`. The usual case is:
     - To the tune of "Other Song Name"
 - **Comments**, where each line must be preceeded by `>`. Here we wrote `> Comments` followed by `> More comments` on the next line. Comments will **NOT** appear on the songbook.

@@ -45,15 +45,15 @@ for l, idx in zip(lines, range(len(lines))):
 
 	if bool(match):
 		data = match.groupdict()
-		lines[idx] = "\n# " + data["name"] + "\n##### " + data["code"]
+		lines[idx] = "\n# " + data["name"] + "\n##### Code: " + data["code"]
 
 	# Subtitles
 	elif '\\tuneof{' in l:
-		lines[idx] = '- _To the tune of “' + l.split('\\tuneof{')[1] + '”_'
+		lines[idx] = '- To the tune of “' + l.split('\\tuneof{')[1] + '”'
 	elif '\\tuneof[' in l:
 		cut1 = l.split(']{')
 		cut2 = cut1[0].split('\\tuneof[')
-		lines[idx] = '- _To the tune of “' + cut1[1] + '”, ' + cut2[1] + '_'
+		lines[idx] = '- To the tune of “' + cut1[1] + '”, ' + cut2[1] + ''
 
 	# Directions
 	elif '\\sing{' in l:
@@ -87,7 +87,7 @@ for k, v in map_3.items():
 	lines = [s.replace(k, v) for s in lines]
 
 # Write to file
-output_f = open("song_data.md", "w")
+output_f = open("song-data.md", "w")
 
 # We add 2 spaces at the end of each line to force a line break in markdown readers
 for l in lines:
