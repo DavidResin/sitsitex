@@ -150,6 +150,7 @@
 \renewcommand{\verse}[1]{
 	\beginverse
 	\begin{absolutelynopagebreak}
+		\vskip -\versesep
 		\singlespacing #1 
 	\end{absolutelynopagebreak}
 	\endverse\brk
@@ -197,7 +198,8 @@
 	}%
 	\beginsong{%
 		\DTLfetch{mydata}{key}{#1}{title}%
-	}[]%
+	}%[]
+	\vskip -\versesep %Remove versesep for first verse
 	\DTLfetch{mydata}{key}{#1}{text}%
 	\endsong%
 }
@@ -205,6 +207,7 @@
 % Takes care of title page formatting
 \newcommand{\customtitle}{
 	% Sets the title
+	\date{}
 	\maketitle
 	
 	% Remove page number on title page
