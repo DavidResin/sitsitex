@@ -6,11 +6,11 @@ import traceback
 lauluwiki="https://laulu.wiki/api/v1/songs/{}/?format=json"
 
 
-def as_song(name, s, tune = ""):
+def as_song(song_id, name, s, tune = ""):
     if tune:
         tune = "\n\t\\tuneof{{{}}}".format(tune)
 
-    return "{} = {} = {{".format(name.replace(" ", "").lower(), name) + tune + s + "\n}\n\n"
+    return "wiki_id{} = {} = {{".format(song_id, name) + tune + s + "\n}\n\n"
 
 def as_verse(s):
     return "\n\\verse{\n\t" + s.replace("\r\n", "\\\\\n\t") + "\n}"
@@ -33,7 +33,7 @@ def get_lauluwiki(song_id):
 
     lyrics = format_lyrics(verses)
     
-    return as_song(name, lyrics, melody)
+    return as_song(song_id, name, lyrics, melody)
 
 
 def run():

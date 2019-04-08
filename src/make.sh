@@ -8,7 +8,7 @@ prefix=${file%.tex}
 order=""
 comma=""
 auxdir="./aux_files"
-outdir="./outputs.pdf"
+outdir="./outputs"
 
 # Compilation of the main songbook file
 
