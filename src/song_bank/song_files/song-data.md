@@ -203,7 +203,6 @@ Hey!
 
 # Beer Cannon
 ##### Code: beercannon  
-- To the tune of “Frère Jacques”  
   
 Lapin Kulta, Lapin Kulta  
 Karjala, Karjala  
@@ -214,7 +213,6 @@ Koff, Koff, Koff
 
 # Beer Cannon
 ##### Code: beercannonCH  
-- To the tune of “Frère Jacques”  
   
 Eichhof Lager, Eichhof Lager  
 Cardinal, Cardinal  
@@ -1992,7 +1990,7 @@ La Tristitude...
 La Tristitude,  
 C'est conjuguer "bouillir" au subjonctif pluriel,  
 C'est quand tu choisis GC à l'EPFL,  
-C'est quand au Scrabble t'as K, F, J, Q, X et L  
+C'est quand au Scrabble t'as K, F, J, Q, X et L,  
 Et ça fait kfjqxl.  
   
 La Tristitude,  
@@ -2288,12 +2286,6 @@ We do not fear what lies beneath!
 We can never dig too deep!  
   
 :;: I am a dwarf... :;:  
-
-# Le CM
-##### Code: lecm  
-- To the tune of “La Bohême”  
-  
-WORK IN PROGRESS  
 
 # Les Comédiens
 ##### Code: lescomediens  

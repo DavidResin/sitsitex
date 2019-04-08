@@ -1,6 +1,6 @@
 import os, re
 
-path = "input/"
+path = "song_files/"
 filenames = os.listdir(path)
 patterns = [(sym * i, t) for sym in ["\*", "_"] for i, t in zip([2,1], ['bf', 'it'])]
 latex = ""
@@ -81,5 +81,5 @@ for n in filenames:
 		latex += k + " = " + v + " = {%\n" + content + extra + "}\n\n"
 
 # Write to output
-with open("output/songbook.dat", "w") as f:
+with open("songbook.dat", "w") as f:
 	f.write(latex)
