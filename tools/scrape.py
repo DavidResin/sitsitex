@@ -45,7 +45,6 @@ def get_lauluwiki(song_id):
 
 def run():
     data = ""
-
     for u in range(0, 510):
         try:
             print("\nscraping id  {}".format(u))
@@ -55,6 +54,7 @@ def run():
             traceback.print_exc()
             break
             #print(e)
+    data = data.replace("\\\\", "\\\\%").replace("{", "{%")
 
     with open('lauluwiki.dat', 'w') as outfile:
         print("Writing to file")
