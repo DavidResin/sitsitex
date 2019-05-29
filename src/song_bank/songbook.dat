@@ -154,13 +154,6 @@ lescomediens = Les Comédiens = {%
 	}
 }
 
-lecm = Le CM = {%
-	\sing{To the tune of “La Bohême”}
-	\verse{%
-		WORK IN PROGRESS\\%
-	}
-}
-
 diggydiggyhole = Diggy Diggy Hole = {%
 	\verse{%
 		\textit{(Solo:)} Brothers of the mine rejoice!\\%
@@ -563,7 +556,7 @@ tristitude = La Tristitude = {%
 		La Tristitude,\\%
 		C'est conjuguer "bouillir" au subjonctif pluriel,\\%
 		C'est quand tu choisis GC à l'EPFL,\\%
-		C'est quand au Scrabble t'as K, F, J, Q, X et L\\%
+		C'est quand au Scrabble t'as K, F, J, Q, X et L,\\%
 		Et ça fait kfjqxl.\\%
 	}
 	\verse{%
@@ -2608,7 +2601,6 @@ beercannonlong = Beer Cannon = {%
 }
 
 beercannonCH = Beer Cannon = {%
-	\sing{To the tune of “Frère Jacques”}
 	\verse{%
 		Eichhof Lager, Eichhof Lager\\%
 		Cardinal, Cardinal\\%
@@ -2620,7 +2612,6 @@ beercannonCH = Beer Cannon = {%
 }
 
 beercannon = Beer Cannon = {%
-	\sing{To the tune of “Frère Jacques”}
 	\verse{%
 		Lapin Kulta, Lapin Kulta\\%
 		Karjala, Karjala\\%
