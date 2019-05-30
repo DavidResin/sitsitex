@@ -1,4 +1,412 @@
-irishtale = An Irish Tale = {%
+xx_iovivat =  Io Vivat = {%
+	\verse{%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+		Hoc est amoris poculum\\%
+		Doloris est antidotum\\%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+	}
+	\verse{%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+		Nos jungit amicitia\\%
+		Et vinum praebet gaudia\\%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+	}
+	\verse{%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+		Jam tota Academia\\%
+		Nobiscum amet gaudia\\%
+		Io vivat! Io vivat!\\%
+		Nostrorum sanitas\\%
+	}
+}
+
+xx_internationalen_2 =  Internationalen = {%
+	\verse{%
+		Lisää viinaa mun lasiin\\%
+		Lisää laseja pöydälle\\%
+		Lisää pöytiä näihin juhliin\\%
+		Lisää juhlia kansalle\\%
+		Lisää kansaa Suomeen\\%
+		Lisää Suomea päälle maan\\%
+		Lisää maata Suomelle\\%
+		Marssitaan, marssitaan, Karjalaan, KARJALAAN!\\%
+	}
+	\verse{%
+		Mehr Sprit in die Gläser\\%
+		Mehr Gläser auf den Tisch\\%
+		Mehr Tische für dieses Fest\\%
+		Mehr Feste für das Volk\\%
+		Mehr Volk in den Wagen\\%
+		Mehr Wagen auf die Bahn\\%
+		Mehr Autobahnen für Europa\\%
+		Gib Gas, gib Gas du Arsch!\\%
+	}
+	\verse{%
+		More booze in our glasses\\%
+		More glasses on the bar\\%
+		More bars for this small town of ours\\%
+		More towns for this Free State\\%
+		More states in America\\%
+		More Americans on this Earth\\%
+		More Earth for us to pump oil from\\%
+		Cheap gas is all we’re worth!\\%
+	}
+	\verse{%
+		Plus de vin dans nos verres\\%
+		Plus de verres sur la table\\%
+		Plus de tables sous nos baguettes\\%
+		Plus de baguettes pour la France\\%
+		Plus de France pour la grève\\%
+		Plus de grèves pour nos enfants\\%
+		\textit{Switch to “La Marseillaise”}\\%
+		Plus d'enfants pour la patrie\\%
+		Le jour de gloire est arrivé! ARRIVÉ!\\%
+	}
+}
+
+xx_ryyppaa =  Ryyppää = {%
+	\verse{%
+		Ryyppää, ryyppää, ryyppää vaan,\\%
+		Huomenna on sulla krapula.\\%
+		Kun sä ryyppäät, ryyppäät, ryyppäät vaan,\\%
+		Niin krapula ei tulekaan!\\%
+	}
+	\verse{%
+		Just drink, and drink, and drink some more,\\%
+		Tomorrow you’ll have a hangover,\\%
+		But if you drink, and drink, and drink some more,\\%
+		The hangover won’t come at all!\\%
+	}
+}
+
+xx_tanaanotetaan_short =  Tänään Otetaan = {%
+	\verse{%
+		:;: Tänään otetaan, tänään otetaan,\\%
+		Helvetin paljon viinaa. :;:\\%
+		:;: Huomenna on, huomenna on,\\%
+		Helvetin kova krapula. :;:\\%
+	}
+	\verse{%
+		:;: Idag ska vi ta, idag ska vi ta,\\%
+		Helvetes mycket brännvin. :;:\\%
+		:;: I morgon ska vi ha, i morgon ska vi ha,\\%
+		Helvetes kova krapula. :;:\\%
+	}
+	\verse{%
+		:;: Today we shall get, today we shall get\\%
+		Absolutely fucking wasted. :;:\\%
+		:;: Tomorrow we will have, tomorrow we will have,\\%
+		A hangover beyond reason. :;:\\%
+	}
+}
+
+xx_tanaanotetaan =  Tänään Otetaan = {%
+	\verse{%
+		:;: Tänään otetaan, tänään otetaan,\\%
+		Helvetin paljon viinaa. :;:\\%
+		:;: Huomenna on, huomenna on,\\%
+		Helvetin kova krapula. :;:\\%
+	}
+	\verse{%
+		:;: Idag ska vi ta, idag ska vi ta,\\%
+		Helvetes mycket brännvin. :;:\\%
+		:;: I morgon ska vi ha, i morgon ska vi ha,\\%
+		Helvetes kova krapula. :;:\\%
+	}
+	\verse{%
+		:;: Tänä vötame, tänä vötame\\%
+		Kuradima palju viina :;:\\%
+		:;: Homme meil on, homme meil on,\\%
+		Kuradima kova pohmakas. :;:\\%
+	}
+	\verse{%
+		:;: Today we shall get, today we shall get\\%
+		Absolutely fucking wasted. :;:\\%
+		:;: Tomorrow we will have, tomorrow we will have,\\%
+		A hangover beyond reason. :;:\\%
+	}
+}
+
+xx_dovakhiin =  Dovakhiin = {%
+	\verse{%
+		Who ! Hoa ! Rha ! (x8)\\%
+	}
+	\verse{%
+		Dovahkiin, Dovahkiin\\%
+		Naal ok zin los vahriin\\%
+		Wah dein vokul\\%
+		Mahfaeraak ahst vaal!\\%
+		Ahrk fin norok paal graan\\%
+		Fod nust hon zindro zaan\\%
+		Dovahkiin, fah hin\\%
+		Kogaan mu draal!\\%
+	}
+	\verse{%
+		Nuz aan sul, fent alok\\%
+		Fod fin vul dovah nok\\%
+		Fen kos nahlot mahfaeraak\\%
+		Ahrk ruz!\\%
+		Paaz Keizaal fen kos stin nol bein\\%
+		Alduin jot!\\%
+	}
+	\verse{%
+		Dovahkiin, Dovahkiin...\\%
+	}
+	\verse{%
+		Nuz aan sul, fent alok...\\%
+	}
+	\verse{%
+		Dovahkiin, Dovahkiin...\\%
+	}
+	\verse{%
+		Who ! Hoa ! Haa ! Rha ! (x2)\\%
+	}
+}
+
+xx_vemihelvete =  Vem i helvete = {%
+	\verse{%
+		Vem i helvete kastar sten på min flaska brännvin? (fyra gånger)\\%
+	}
+	\verse{%
+		Kuka helvetti heitti kiven mun viinapulloon? (neljästi)\\%
+	}
+	\verse{%
+		Who the hell threw a rolling stone to my whiskey bottle? (four times)\\%
+	}
+	\verse{%
+		Kes kuurats ku viskas kivi mun viinaputelisseen?\\%
+	}
+	\verse{%
+		Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)\\%
+	}
+	\verse{%
+		Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)\\%
+	}
+}
+
+xx_internationalen =  Internationalen = {%
+	\verse{%
+		Mera brännvin i glasen,\\%
+		Mera glas på vårt bord,\\%
+		Mera bord på kalasen,\\%
+		Mera kalas på vår jord.\\%
+		Mera jordar kring månen,\\%
+		Mera månar kring mars,\\%
+		Mera marscher till Skåne,\\%
+		Mera Skåne, bevars bevars bevars!\\%
+	}
+	\verse{%
+		Lisää viinaa mun lasiin,\\%
+		lisää laseja pöydälle.\\%
+		Lisää pöytiä näihin juhliin,\\%
+		lisää juhlia kansalle.\\%
+		Lisää kansaa Suomeen,\\%
+		lisää Suomea päälle maan.\\%
+		Lisää maata Suomelle,\\%
+		Marssitaan, marssitaan, Karjalaan, KARJALAAN!\\%
+	}
+	\verse{%
+		Mehr Sprit in die Gläser,\\%
+		mehr Gläser auf den Tisch,\\%
+		mehr Tische für dieses Fest,\\%
+		mehr Feste für das Volk.\\%
+		Mehr Volk in den Wagen,\\%
+		mehr Wagen auf die Bahn,\\%
+		mehr Autobahnen für Europa.\\%
+		Gib Gas, gib Gas du Arsch.\\%
+	}
+	\verse{%
+		More booze in our glasses\\%
+		More glasses on the bar\\%
+		More bars for this small town of ours\\%
+		More towns for this Free State\\%
+		More states in America\\%
+		More Americans on this Earth\\%
+		More Earth for us to pump oil from\\%
+		Cheap gas is all we’re worth.\\%
+	}
+}
+
+xx_koskenkorva =  Ko-Ko-Ko-Koskenkorva = {%
+	\verse{%
+		Ko-ko-ko-kosken ko-ko-ko-korvaa\\%
+		Siitä aina kunnon räkä-kä-kännit saa.\\%
+		Ko-ko-ko-kosken ko-ko-ko-korvaa\\%
+		Siitä aina kunnon räkä-kä-kännit,\\%
+		Aina kunnon räkä-kä-kännit,\\%
+		Aina kunnon räkä-kä-kännit saa.\\%
+	}
+	\verse{%
+		Kokokokosken kokokokorvaa,\\%
+		What a wonderful way to get totally, totally drunk!\\%
+		...\\%
+	}
+	\verse{%
+		Lalalalappeen rarararanta,\\%
+		What a wonderful place to get totally, totally drunk!\\%
+		...\\%
+	}
+}
+
+xx_henkilokunta =  Henkilökunta = {%
+	\verse{%
+		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
+		Henkilökuntaa (x4)\\%
+		:;: Henkilökuntaa parlevuu. :;:\\%
+	}
+	\verse{%
+		:;: Bring us brandy... :;:\\%
+		:;: Where is my food... :;:\\%
+		:;: Beer is fine, too... :;:\\%
+	}
+}
+
+xx_minne =  Minne = {%
+	\sing{To the tune of “Memory”}
+	\verse{%
+		Minne!\\%
+		Jag har tappat mitt minne!\\%
+		Är jag svensk eller finne?\\%
+		Kommer inte ihåg.\\%
+	}
+	\verse{%
+		Inne!\\%
+		Är jag ut eller inne?\\%
+		Jag har luckor i minne.\\%
+		Sån’ där små alkohål.\\%
+	}
+	\verse{%
+		Men besinn er,\\%
+		Man tätar med det brännvin man får,\\%
+		Fastän minnet och helan går!\\%
+	}
+	\verse{%
+		Minne?\\%
+		Muisti hävis, mutt’ minne?\\%
+		Juhlista selvisimme\\%
+		Muistikatkoja on.\\%
+	}
+	\verse{%
+		Minne,\\%
+		Lähtisin vaikka minne,\\%
+		Kunhan selvittäisimme\\%
+		Mitä tapahtunut on.\\%
+	}
+	\verse{%
+		Mutta tiedän mä keinon\\%
+		Mikä auttaapi tuo:\\%
+		Ota ryyppy, ja muistis juo!\\%
+	}
+	\verse{%
+		Oh where\\%
+		Are my memories? Oh where?\\%
+		Well as far as I’m aware\\%
+		Last night’s naught but a blur.\\%
+	}
+	\verse{%
+		Anywhere\\%
+		I’d go near about anywhere\\%
+		To get my mem’ries back there\\%
+		In my head as they were.\\%
+	}
+	\verse{%
+		But now they’re gone, and it just seems\\%
+		That I’ll never learn...\\%
+		I’ll just drink more and hope they return!\\%
+	}
+}
+
+xx_trink =  Just Drink = {%
+	\verse{%
+		If your wife tells you not to drink,\\%
+		Just drink, just drink!\\%
+		If she says you’ve had too much of beer,\\%
+		Just drink, just drink!\\%
+		And if she keeps nagging just go ahead ‘n ditch her,\\%
+		There’s plenty of fish in the ocean to capture,\\%
+		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\%
+	}
+	\verse{%
+		Trink, trink, Brüderlein trink\\%
+		Lass doch die Sorgen zu Haus!\\%
+		Trink (HEY!), trink (HEY!), Brüderlein trink\\%
+		Leere dein Glas mit mir aus!\\%
+		Meide den Kummer und meide den Schmerz\\%
+		Dann ist das Leben ein Scherz\\%
+		Zu lieber Augustin!\\%
+		Kauf dir ein Auto und fahr gegen Baum\\%
+		Dann ist das Leben ein Traum!\\%
+	}
+	\verse{%
+		When soldiers march to war, you’ll see:\\%
+		They drink, they drink!\\%
+		And generals in their bunkers then?\\%
+		They drink, they drink!\\%
+		Cause war is pure hell and they know it’s quite rotten,\\%
+		When one guy can end it by pushing a button,\\%
+		So drink and sing and drink and sing and drink and sing and drink and sing and...\\%
+	}
+	\verse{%
+		Trink, trink...\\%
+	}
+	\verse{%
+		\textit{(Songmaster solo:)}\\%
+		High up in a fir tree right under the branches,\\%
+		There lives a small squirrel with its little stashes.\\%
+		\textit{(Everyone:)}\\%
+		It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...\\%
+	}
+	\verse{%
+		Trink, trink...\\%
+	}
+}
+
+es_spanishtoast =  Spanish Toast = {%
+	\verse{%
+		Arriba! (glasses up)\\%
+		Abajo! (glasses down)\\%
+		Al Lado! (to the left)\\%
+		Al Otro! (to the right)\\%
+		Al Centro! (to the center)\\%
+		Para Dentro! (drink)\\%
+	}
+}
+
+es_labamba =  La Bamba = {%
+	\verse{%
+		Para bailar La Bamba\\%
+		Para bailar La Bamba\\%
+		Se necessita una poca de gracia\\%
+		Una poca de gracia\\%
+		Para me para ti, ay arriba, ay arriba\\%
+		Ay, arriba arriba\\%
+		Por ti sere, por ti sere, por ti sere\\%
+	}
+	\verse{%
+		Yo no soy marinero\\%
+		Yo no soy marinero\\%
+		Soy capitan, soy capitan, soy capitan\\%
+		Bam ba bamba (x3)\\%
+	}
+}
+
+es_alcohol =  Alcohol = {%
+	\verse{%
+		Alcohol\\%
+		Alcohol\\%
+		Alcohol alcohol alcohol\\%
+		Hemos venido\\%
+		A emborracharnos\\%
+		El resultado nos da igual\\%
+	}
+}
+
+en_irishtale =  An Irish Tale = {%
 	\verse{%
 		There was only one bar...\\%
 		A MILE LONG!\\%
@@ -41,31 +449,7 @@ irishtale = An Irish Tale = {%
 	}
 }
 
-yoszefvaros = Yoszefváros = {%
-	\verse{%
-		:;: Yo-Yo-Yozsefváros (x3)\\%
-		Sötét ez a hely, há-há-há, világos :;:\\%
-	}
-}
-
-yoszefvarosLONG = Yoszefváros = {%
-	\verse{%
-		Yo, yo, hogy itt vagyunk\\%
-		Most végre valamit bemutathatunk\\%
-		Ez a Yozsefváros, a mi tanyánk\\%
-		Itt nevelt fel minket a yoanyánk\\%
-		Ahol velünk együtt már sok hülye felnőtt\\%
-		Hiába, ez a hely a szívünkhöz nőtt\\%
-		A kérdésem csak ennyi, yo elég!\\%
-		Ez mind-mind egy yozsefvárosi utcakép!\\%
-	}
-	\verse{%
-		:;: Yo-Yo-Yozsefváros (x3)\\%
-		Sötét ez a hely, há-há-há, világos :;:\\%
-	}
-}
-
-erasmus = Erasmus = {%
+en_erasmus =  Erasmus = {%
 	\sing{To the tune of “Wild Rover”}
 	\verse{%
 		I've been on Erasmus for almost one year,\\%
@@ -100,61 +484,7 @@ erasmus = Erasmus = {%
 	}
 }
 
-lescomediens = Les Comédiens = {%
-	\verse{%
-		:;: Viens voir les comédiens,\\%
-		Voir les musiciens,\\%
-		Voir les magiciens,\\%
-		Qui arrivent :;:\\%
-	}
-	\verse{%
-		Les comédiens ont installé leurs tréteaux,\\%
-		Ils ont dressé leur estrade,\\%
-		Et tendu des calicots.\\%
-		Les comédiens ont parcouru les faubourgs,\\%
-		Ils ont donné la parade,\\%
-		A grand renfort de tambour.\\%
-		Devant l’église une roulotte peinte en vert,\\%
-		Avec les chaises d’un théâtre à ciel ouvert,\\%
-		Et derrière eux comme un cortège en folie,\\%
-		Ils drainent tout le pays, les comédiens.\\%
-	}
-	\verse{%
-		:;: Viens voir les comédiens... :;:\\%
-	}
-	\verse{%
-		Si vous voulez voir confondus les coquins,\\%
-		Dans une histoire un peu triste,\\%
-		Où tout s’arrange à la fin.\\%
-		Si vous aimez voir trembler les amoureux,\\%
-		Vous lamenter sur Baptiste,\\%
-		Ou rire avec les heureux.\\%
-		Poussez la toile et entrez donc vous installer,\\%
-		Sous les étoiles le rideau va se lever,\\%
-		Quand les trois coups retentiront dans la nuit,\\%
-		Ils vont renaître à la vie, les comédiens.\\%
-	}
-	\verse{%
-		:;: Viens voir les comédiens... :;:\\%
-	}
-	\verse{%
-		Les comédiens ont démonté leurs tréteaux,\\%
-		Ils ont ôté leur estrade,\\%
-		Et plié les calicots.\\%
-		Ils laisseront au fond du cœur de chacun,\\%
-		Un peu de la sérénade,\\%
-		Et du bonheur d’Arlequin.\\%
-		Demain matin quand le soleil va se lever,\\%
-		Ils seront loin, et nous croirons avoir rêvé,\\%
-		Mais pour l’instant ils traversent dans la nuit,\\%
-		D’autres villages endormis, les comédiens.\\%
-	}
-	\verse{%
-		:;: Viens voir les comédiens... :;:\\%
-	}
-}
-
-diggydiggyhole = Diggy Diggy Hole = {%
+en_diggydiggyhole =  Diggy Diggy Hole = {%
 	\verse{%
 		\textit{(Solo:)} Brothers of the mine rejoice!\\%
 		\textit{(All:)} Swing, swing, swing with me!\\%
@@ -214,7 +544,7 @@ diggydiggyhole = Diggy Diggy Hole = {%
 	}
 }
 
-letsdoitanyway = Let's Do It Anyway! = {%
+en_letsdoitanyway =  Let's Do It Anyway! = {%
 	\verse{%
 		It's hard to stay up, it's been a long long day\\%
 		And you've got the sandman at your door\\%
@@ -258,70 +588,7 @@ letsdoitanyway = Let's Do It Anyway! = {%
 	}
 }
 
-gegene = Gégène = {%
-	\verse{%
-		\textit{(Songmaster solo:)}\\%
-		Juste après m’être apprêté, avant de m’aventurer,\\%
-		Je m’apprête à préparer mon beau sac d’aventurier,\\%
-		Quels objets dois-je emmener ? Ai-je assez pour m’équiper?\\%
-		Au moment de tout lister, j’ai bien envie de pleurer,\\%
-		Caaaaaar...\\%
-	}
-	\verse{%
-		\textit{(Everyone:)}\\%
-		J’ai une épée molle, des bottes qui rigolent,\\%
-		Un bouclier rose et bleu, une armure qui craint le feu.\\%
-		J’ai un casque en tôle, une ceinture qui colle,\\%
-		Un caillou défectueux, une arbalète pour les vieux.\\%
-		Et la suite n’est pas mieux...\\%
-	}
-	\verse{%
-		J’ai des gants débiles, des sardines à l’huile,\\%
-		Une cape qui sent le bouc, un chapeau qui me rend plouc,\\%
-		J’ai un arc en laine, un chandail en chêne,\\%
-		Un couteau de 20 kilos, une hache pour fendre l’eau,\\%
-		Et la suite c’est cadeau...\\%
-	}
-	\verse{%
-		J’ai une bouillotte, une potion de flotte,\\%
-		Un parchemin pour vêler, des godasses qui font danser,\\%
-		J’ai l’anneau magique qui rend alcoolique,\\%
-		Et cet anneau le voici, grâce à lui je suis ici!\\%
-	}
-}
-
-labeletteLong = Mais qui est la Belette? = {%
-	\verse{%
-		:;: J'entends le loup, le renard et la belette,\\%
-		J'entends le loup et le renard chanter! :;:\\%
-		:;: Manau viendra les gars, Manau viendra,\\%
-		C'est à ce moment-là qu'il faut lever les bras! :;:\\%
-	}
-	\verse{%
-		Et v'la les amateurs de chambrettes, les Bretons qui se la pètent\\%
-		Les déchireurs de galettes, les bouffeurs de crêpes\\%
-		Après avoir bravé bien des galères et des tempêtes\\%
-		Regarde bien la tête de jeunes guerriers celtes\\%
-		Il y a le loup, le renard bien sûr y'a la belette\\%
-		Autocritique parfaite mais ça reste correct, pas d'idée abjecte\\%
-		C'est pour faire la fête\\%
-		Voilà comment Manau avance sans se prendre la tête!\\%
-	}
-	\verse{%
-		J'entends le loup...\\%
-	}
-}
-
-labelette = Mais qui est la Belette? = {%
-	\verse{%
-		:;: J'entends le loup, le renard et la belette,\\%
-		J'entends le loup et le renard chanter! :;:\\%
-		:;: Manau viendra les gars, Manau viendra,\\%
-		C'est à ce moment-là qu'il faut lever les bras! :;:\\%
-	}
-}
-
-fizzycider = Fizzy Cider = {%
+en_fizzycider =  Fizzy Cider = {%
 	\sing{To the tune of “Bob the Builder”}
 	\verse{%
 		Fizzy cider, CAN WE DRINK IT?\\%
@@ -338,15 +605,7 @@ fizzycider = Fizzy Cider = {%
 	}
 }
 
-apoil = À Poil = {%
-	\verse{%
-		:;: Il descend de la montagne... À POIL! :;:\\%
-		Il descend de la montagne (x3)\\%
-		À POIL!\\%
-	}
-}
-
-wimoweh = The Lion sleeps tonight = {%
+en_wimoweh =  The Lion sleeps tonight = {%
 	\verse{%
 		O-wimoweh (x16)\\%
 	}
@@ -379,7 +638,7 @@ wimoweh = The Lion sleeps tonight = {%
 	}
 }
 
-mybonnie = My Bonnie = {%
+en_mybonnie =  My Bonnie = {%
 	\verse{%
 		My Bonnie is over the ocean\\%
 		My Bonnie is over the sea\\%
@@ -421,34 +680,7 @@ mybonnie = My Bonnie = {%
 	}
 }
 
-iovivat = Io Vivat = {%
-	\verse{%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-		Hoc est amoris poculum\\%
-		Doloris est antidotum\\%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-	}
-	\verse{%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-		Nos jungit amicitia\\%
-		Et vinum praebet gaudia\\%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-	}
-	\verse{%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-		Jam tota Academia\\%
-		Nobiscum amet gaudia\\%
-		Io vivat! Io vivat!\\%
-		Nostrorum sanitas\\%
-	}
-}
-
-yakkosworld = The Nations of the World = {%
+en_yakkosworld =  The Nations of the World = {%
 	\verse{%
 		United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru\\%
 		Republic Dominican, Cuba, Caribbean, Greenland, El Salvador too\\%
@@ -493,354 +725,7 @@ yakkosworld = The Nations of the World = {%
 	}
 }
 
-tristitude = La Tristitude = {%
-	\verse{%
-		La Tristitude,\\%
-		C'est quand tu viens juste d'avaler un cure-dent,\\%
-		Quand tu te rends compte que ton père est suisse-allemand,\\%
-		Quand un copain t'appelle pour son déménagement,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est quand un 20 tonnes se rabat sur ton deux-roues,\\%
-		Quand tu dois aller vivre à Nogent-le-Rotrou,\\%
-		Quand ton coiffeur t'apprend que t'as des reflets roux,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est toi, c'est moi,\\%
-		C'est nous, c'est quoi,\\%
-		C'est un peu de détresse dans le creux de nos bras.\\%
-		La Tristitude,\\%
-		C'est hmmm, c'est wooooooh,\\%
-		C'est eux, c'est vous,\\%
-		C'est la vie qui te dit que ça va pas du tout.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\%
-		Quand t'es prise comme secrétaire chez Bernard Nicod,\\%
-		Quand Jamel Debbouzze fait un solo au piano,\\%
-		Et ça fait rien.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est Pierre Desproges qui signe avec ses initiales,\\%
-		Quand t'as le hoquet en assemblée générale,\\%
-		When you don't get the song but try to act social,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est faire une hémiplégie mais des deux côtés,\\%
-		C'est quand tu fais pipi debout dans l'TGV,\\%
-		Quand Kev Adams te mord si t'es pas vacciné,\\%
-		Lâ c'est la merde.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est quand ton frère siamois t'apprend qu'il a le SIDA,\\%
-		Quand ta femme fait de l'échangisme un peu sans toi,\\%
-		Quand des jeunes t'appellent "Monsieur" pour la première fois,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est conjuguer "bouillir" au subjonctif pluriel,\\%
-		C'est quand tu choisis GC à l'EPFL,\\%
-		C'est quand au Scrabble t'as K, F, J, Q, X et L,\\%
-		Et ça fait kfjqxl.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est répondre à un "Bonjour" qui était pas pour toi,\\%
-		C'est célébrer sa Bar-Mitzvah en '43,\\%
-		C'est tenter d'ouvrir un bar gay au Nigeria,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-}
-
-tristitude2 = La Tristitude = {%
-	\verse{%
-		La Tristitude,\\%
-		C'est quand tu dois aller chez le prêtre à 12 ans,\\%
-		Quand tu te rends compte que ton père est suisse-allemand,\\%
-		Quand y'a les gilets jaunes et que t'es Président,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\%
-		Quand t’es prise comme secrétaire chez Bernard Nicod,\\%
-		Quand Jamel Debbouzze fait un solo au piano,\\%
-		Et ça fait rien.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est toi, c'est moi,\\%
-		C'est nous, c'est quoi,\\%
-		C'est un peu de détresse dans le creux de nos bras.\\%
-		La Tristitude,\\%
-		C'est hmmm, c'est wooooooh,\\%
-		C'est eux, c'est vous,\\%
-		C'est la vie qui te dit que ça va pas du tout.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est quand t'es choisi pour être gardien au hand-ball,\\%
-		Quand t’as le hoquet en assemblée générale,\\%
-		When you don’t get the song but try to act social,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C'est conjuguer "bouillir" au subjonctif pluriel,\\%
-		C'est être un frère Dalton mais que t'es Averell,\\%
-		C'est mettre du savon liquide dans le lave-vaisselle,\\%
-		Ca fait des bulles.\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C’est faire une hémiplégie mais des deux côtés,\\%
-		C’est quand tu fais pipi debout dans l’TGV,\\%
-		C'est quand à ton audition y'a un canapé,\\%
-		Et ça fait mal.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C’est quand un 20 tonnes se rabat sur ta Vespa,\\%
-		Quand ta femme fait de l'échangisme un peu sans toi,\\%
-		Quand ta grande sœur t'annonce que c'est toi le papa,\\%
-		Et ça fait Ch'ti.\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C’est quand t'as choisi GC à l’EPFL,\\%
-		C'est quand tes parents s'appellent Jacquie et Michel,\\%
-		C’est quand au Scrabble t’as K, F, J, Q, X et L,\\%
-		Et ça fait kfjqxl.\\%
-	}
-	\verse{%
-		La Tristitude,\\%
-		C’est célébrer sa Bar-Mitzvah en ’43,\\%
-		C’est tenter d’ouvrir un bar gay au Nigeria,\\%
-		C'est quand le DJ sait que tu t'appelles Dana,\\%
-		Et ça fait DANS LA VALLÉE OOOOOO-OH...\\%
-	}
-	\verse{%
-		La Tristitude...\\%
-	}
-}
-
-switzerlandcuisine = Switzerland Cuisine = {%
-	\verse{%
-		Je suis monté dans un avion direction le Japon\\%
-		J'ai gouté le sushi et le sukiyaki\\%
-		J'ai regardé le kabuki en buvant du Saké\\%
-		Après dix jours, il a fallu rentrer\\%
-	}
-	\verse{%
-		Tous les matins\\%
-		J'bois mon café et mange mon pain\\%
-		Et à midi, c'est mon plat de röstis\\%
-		Quand vient le soir\\%
-		Le fromage et la tarte aux poires\\%
-		J'en ai assez, demain ça va changer\\%
-	}
-	\verse{%
-		J'ai pris le train pour l'Italie et viva Napoli\\%
-		J'ai goûté les spaghettis, les macaronis\\%
-		Les pizzas aux pepperonis avec du parmesan\\%
-		Après dix jours, il n'y avait plus d'argent\\%
-	}
-	\verse{%
-		Tous les matins...\\%
-	}
-	\verse{%
-		J'ai pris l'avion pour l'Angleterre et viva Manchester\\%
-		J'ai dégusté le pudding de Sa Majesté\\%
-		At five o'clock c'est l'heure du thé en levant le p'tit doigt\\%
-		Comme il pleuvait je suis rentré chez moi\\%
-	}
-	\verse{%
-		Tous les matins...\\%
-	}
-	\verse{%
-		Pour faire connaître mon pays, j'inviterai mes amis:\\%
-		Les Italiens, les Anglais et les Japonais\\%
-		Réunis dans un vieux chalet nous mangerons la fondue\\%
-		En Switzerland vous serez bienvenus\\%
-	}
-	\verse{%
-		Tous les matins...\\%
-	}
-}
-
-latiaffe = La Tiaffe = {%
-	\verse{%
-		Y'a ceux qui n'aiment pas l'hiver,\\%
-		Le ski et le grand air.\\%
-		Y'a ceux qui n'aiment pas l'printemps,\\%
-		Le rhume des foins, l'retour du beau temps!\\%
-		Y'a ceux qui n'aiment pas l'automne,\\%
-		Et les feuilles qui tombent, ces connes.\\%
-		Moi c'est l'été qu'j'aime pas,\\%
-		Car elle revient pour moi...\\%
-	}
-	\verse{%
-		La tiaffe! Quand ça commence à coller\\%
-		La tiaffe! Je sue de tous les côtés\\%
-		Le tiaffe! Les grosses gouttes dans le dos\\%
-		La tiaffe! J'vous jure c'est pas rigolo\\%
-		La tiaffe! Les auréoles sous les bras\\%
-		La tiaffe! Comme si j'sortais du sauna\\%
-		Quand il commence à tiaffer,\\%
-		Je suis trempé jusqu'aux pieds.\\%
-	}
-	\verse{%
-		À Lausanne quand j'me promène,\\%
-		Même si j'vais pas bien loin,\\%
-		C'est toujours le meme problème,\\%
-		Sont tout en pente, ces chemins!\\%
-		La malette et l'costard de traviole,\\%
-		C'est le déluge à chaque pas.\\%
-		Je mouille même des guibolles,\\%
-		Elle ne m'abandonne pas...\\%
-	}
-	\verse{%
-		La tiaffe!...\\%
-	}
-	\verse{%
-		Mais c'qui est désepérant,\\%
-		C'est qu'la tiaffe, c'est permanent!\\%
-	}
-}
-
-chansondelabbayeShort = Di-ya-ya-oh = {%
-	\verse{%
-		Au bord de la Sarine\\%
-		Tout près de Château-d'Oex\\%
-		Au flanc de la colline\\%
-		Se trouve mon chalet\\%
-		Autour de mon domaine\\%
-		Tout est si verdoyant\\%
-		Un beau sentier me mène\\%
-		Jusqu'au Pont Turrian\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh (x3)\\%
-		Di ya ya di ya ya oh\\%
-		Ya oh, ya oh\\%
-		Di ya ya di ya ya di ya ya oh\\%
-		Ya oh, ya oh\\%
-		Di ya ya di ya ya oh\\%
-	}
-	\verse{%
-		Du rocher de la Sarouche\\%
-		Avec ses grands sapins\\%
-		Je domine la Louge\\%
-		Le Pré et puis les Moulins\\%
-		La large Laitemaire\\%
-		Me ferme le vallon\\%
-		Et plus en arrière\\%
-		Les bois de Rodomont\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh...\\%
-	}
-	\verse{%
-		Un cirque de montagnes\\%
-		Cray, Vanil et Rubli\\%
-		Dominent nos campagnes\\%
-		Offre aux chamois l'abri\\%
-		La Gumfluh avec ses tourelles\\%
-		Corjon et Planachaux\\%
-		Forment les sentinelles\\%
-		Du beau Pays-d'Enhaut\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh...\\%
-	}
-}
-
-chansondelabbaye = Le Beau Pays-d'Enhaut = {%
-	\verse{%
-		Au bord de la Sarine\\%
-		Tout près de Château-d'Oex\\%
-		Au flanc de la colline\\%
-		Se trouve mon chalet\\%
-		Autour de mon domaine\\%
-		Tout est si verdoyant\\%
-		Un beau sentier me mène\\%
-		Jusqu'au Pont Turrian\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh (x3)\\%
-		Di ya ya di ya ya oh\\%
-		Ya oh, ya oh\\%
-		Di ya ya di ya ya di ya ya oh\\%
-		Ya oh, ya oh\\%
-		Di ya ya di ya ya oh\\%
-	}
-	\verse{%
-		Du rocher de la Sarouche\\%
-		Avec ses grands sapins\\%
-		Je domine la Louge\\%
-		Le Pré et puis les Moulins\\%
-		La large Laitemaire\\%
-		Me ferme le vallon\\%
-		Et plus en arrière\\%
-		Les bois de Rodomont\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh...\\%
-	}
-	\verse{%
-		Au bord de la Torneresse\\%
-		Se trouve le hameau\\%
-		Où les chamois sans cesse\\%
-		Sont là en bas comme en haut\\%
-		Fromage à fondue, à rebibes\\%
-		On en fabrique à tour de bras\\%
-		C'est un produit de l'Etivaz\\%
-		Un bon AOP bien gras!\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh...\\%
-	}
-	\verse{%
-		Un cirque de montagnes\\%
-		Cray, Vanil et Rubli\\%
-		Dominent nos campagnes\\%
-		Offre aux chamois l'abri\\%
-		La Gumfluh avec ses tourelles\\%
-		Corjon et Planachaux\\%
-		Forment les sentinelles\\%
-		Du beau Pays-d'Enhaut\\%
-	}
-	\verse{%
-		Di ya ya di ya ya di ya ya oh...\\%
-	}
-}
-
-thriftshop = Thrift Shop = {%
+en_thriftshop =  Thrift Shop = {%
 	\verse{%
 		I'm gonna pop some tags\\%
 		Only got twenty dollars in my pocket\\%
@@ -858,80 +743,7 @@ thriftshop = Thrift Shop = {%
 	}
 }
 
-connemara = Les Lacs du Connemara = {%
-	\verse{%
-		Terre brûlée au vent des landes de pierre,\\%
-		Autour des lacs, c'est pour les vivants\\%
-		Un peu d'enfer, le Connemara.\\%
-	}
-	\verse{%
-		Des nuages noirs qui viennent du nord\\%
-		Colorent la terre, les lacs, les rivières:\\%
-		C'est le décor du Connemara.\\%
-	}
-	\verse{%
-		Au printemps suivant, le ciel irlandais\\%
-		Etait en paix. Maureen a plongé\\%
-		Nue dans un lac du Connemara.\\%
-	}
-	\verse{%
-		Sean Kelly s'est dit : "Je suis catholique.\\%
-		Maureen aussi." L'église en granit\\%
-		De Limerick, Maureen a dit "oui".\\%
-	}
-	\verse{%
-		De Tiperrary, Bally-Connelly\\%
-		Et de Galway, ils sont arrivés\\%
-		Dans le comté du Connemara.\\%
-	}
-	\verse{%
-		Y avait les Connor, les O'Conolly,\\%
-		Les Flaherty du Ring of Kerry\\%
-		Et de quoi boire trois jours et deux nuits.\\%
-	}
-	\verse{%
-		Là-bas, au Connemara, on sait tout le prix du silence.\\%
-		Là-bas, au Connemara, on dit que la vie\\%
-		C'est une folie, et que la folie, ca se danse.\\%
-	}
-	\verse{%
-		Terre brûlée au vent des landes de pierre,\\%
-		Autour des lacs, c'est pour les vivants\\%
-		Un peu d'enfer, le Connemara.\\%
-	}
-	\verse{%
-		Des nuages noirs qui viennent du nord\\%
-		Colorent la terre, les lacs, les rivières:\\%
-		C'est le décor du Connemara.\\%
-	}
-	\verse{%
-		On y vit aussi au temps des Gaels\\%
-		Et de Cromwell, au rythme des pluies\\%
-		Et du soleil, au pas des chevaux.\\%
-	}
-	\verse{%
-		On y croit encore aux monstres des lacs\\%
-		Qu'on voit nager certains soirs d'été\\%
-		Et replonger pour l'éternité.\\%
-	}
-	\verse{%
-		On y voit encore des hommes d'ailleurs\\%
-		Venus chercher le repos de l'âme\\%
-		Et pour le cœur, un goût de meilleur.\\%
-	}
-	\verse{%
-		L'on y croit encore que le jour viendra,\\%
-		Il est tout près, où les Irlandais\\%
-		Feront la paix autour de la croix.\\%
-	}
-	\verse{%
-		Là-bas, au Connemara, on sait tout le prix de la guerre.\\%
-		Là-bas, au Connemara, on n'accepte pas\\%
-		La paix des Gallois ni celle des rois d'Angleterre...\\%
-	}
-}
-
-eurovisionCH = Eurovision = {%
+en_eurovision_lausanne =  Eurovision = {%
 	\sing{To the tune of “Eurovision Theme”}
 	\verse{%
 		The French drink Champagne and Chardonnay,\\%
@@ -955,227 +767,7 @@ eurovisionCH = Eurovision = {%
 	}
 }
 
-santianoPerv = Santiano = {%
-	\verse{%
-		C'est mon fameux grand mât plein comme un verre d'eau\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Dix-huit pouces, droit comme un poireau\\%
-		Je suis fier d'y être matelot\\%
-	}
-	\verse{%
-		Tiens bon ma barre et tiens bon le vent\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Tous les deux, toujours par devant,\\%
-		Nous irons jusqu'à San Francisco\\%
-	}
-	\verse{%
-		Je pars pour de longs mois en emmenant Margot\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		D'y penser j'avais le manche gros\\%
-		En doublant les feux de Saint-Malo\\%
-	}
-	\verse{%
-		Tiens bon...\\%
-	}
-	\verse{%
-		On prétend que là-bas le vin coule à flots\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		On s'prend tous au fond des ruisseaux\\%
-		J'en ramènerai plusieurs photos\\%
-	}
-	\verse{%
-		Tiens bon...\\%
-	}
-	\verse{%
-		Un jour, je reviendrai chargé de cadeaux\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Au pays, j'ramènerai Margot\\%
-		On espère avec aucun loupiot\\%
-	}
-	\verse{%
-		Tiens bon mon cap et tiens bon mon flot\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Et quand je reverrai Margot,\\%
-		Nous irons jusqu’à San Francisco\\%
-	}
-}
-
-santiano = Santiano = {%
-	\verse{%
-		C'est un fameux trois-mâts fin comme un oiseau\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Dix-huit nœuds, quatre cents tonneaux\\%
-		Je suis fier d'y être matelot\\%
-	}
-	\verse{%
-		Tiens bon la barre et tiens bon le vent\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Si Dieu veut toujours droit devant,\\%
-		Nous irons jusqu'à San Francisco\\%
-	}
-	\verse{%
-		Je pars pour de longs mois en laissant Margot\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		D'y penser j'avais le cœur gros\\%
-		En doublant les feux de Saint-Malo\\%
-	}
-	\verse{%
-		Tiens bon...\\%
-	}
-	\verse{%
-		On prétend que là-bas l'argent coule à flots\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		On trouve l'or au fond des ruisseaux\\%
-		J'en ramènerai plusieurs lingots\\%
-	}
-	\verse{%
-		Tiens bon...\\%
-	}
-	\verse{%
-		Un jour, je reviendrai chargé de cadeaux\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Au pays, j'irai voir Margot\\%
-		A son doigt, je passerai l'anneau\\%
-	}
-	\verse{%
-		Tiens bon le cap et tiens bon le flot\\%
-		Hissez haut (Hissez haut!) Santiano!\\%
-		Sur la mer qui fait le gros dos,\\%
-		Nous irons jusqu’à San Francisco\\%
-	}
-}
-
-chansondelataverne = Pom popom popom = {%
-	\verse{%
-		:;: Pom, popom, popom popom popom popom po :;:\\%
-	}
-	\verse{%
-		Tous les petits Kobolds dansent dans la forêt,\\%
-		Moi et mes compagnons allons tous les crever!\\%
-		Ne sont-ils pas mignons, embrochés morcelés,\\%
-		Autour des champignons, on pourrait en manger! OUAIS!\\%
-	}
-	\verse{%
-		Pom, popom...\\%
-	}
-	\verse{%
-		Tous les petits Gobelins, dansent dans la forêt,\\%
-		Moi et mes compagnons, allons les approcher!\\%
-		Ils sont vraiment mignons quant ils se font flécher,\\%
-		Nous les achèverons à coups d’épées rouillées! OUAIS!\\%
-	}
-	\verse{%
-		Pom, popom...\\%
-	}
-	\verse{%
-		Quand tous les petits Orques, dansent dans la forêt,\\%
-		Moi et mes compagnons préférons nous cacher!\\%
-		Ils ne sont pas mignons, ils sont bêtes à pleurer,\\%
-		Mais nous les évitons pour pas finir broyés! OUAIS!\\%
-	}
-	\verse{%
-		Pom, popom...\\%
-	}
-	\verse{%
-		Quand tous les petits Trolls, dansent dans la forêt,\\%
-		Moi et mes compagnons préférons nous barrer!\\%
-		Ceux qui les trouvent mignons sont vraiment dérangés,\\%
-		Un jour ils finiront en compote de...\\%
-	}
-	\verse{%
-		:;: Pommes, popom... :;:\\%
-	}
-}
-
-internationalenFR = Internationalen = {%
-	\verse{%
-		Lisää viinaa mun lasiin\\%
-		Lisää laseja pöydälle\\%
-		Lisää pöytiä näihin juhliin\\%
-		Lisää juhlia kansalle\\%
-		Lisää kansaa Suomeen\\%
-		Lisää Suomea päälle maan\\%
-		Lisää maata Suomelle\\%
-		Marssitaan, marssitaan, Karjalaan, KARJALAAN!\\%
-	}
-	\verse{%
-		Mehr Sprit in die Gläser\\%
-		Mehr Gläser auf den Tisch\\%
-		Mehr Tische für dieses Fest\\%
-		Mehr Feste für das Volk\\%
-		Mehr Volk in den Wagen\\%
-		Mehr Wagen auf die Bahn\\%
-		Mehr Autobahnen für Europa\\%
-		Gib Gas, gib Gas du Arsch!\\%
-	}
-	\verse{%
-		More booze in our glasses\\%
-		More glasses on the bar\\%
-		More bars for this small town of ours\\%
-		More towns for this Free State\\%
-		More states in America\\%
-		More Americans on this Earth\\%
-		More Earth for us to pump oil from\\%
-		Cheap gas is all we’re worth!\\%
-	}
-	\verse{%
-		Plus de vin dans nos verres\\%
-		Plus de verres sur la table\\%
-		Plus de tables sous nos baguettes\\%
-		Plus de baguettes pour la France\\%
-		Plus de France pour la grève\\%
-		Plus de grèves pour nos enfants\\%
-		\textit{Switch to “La Marseillaise”}\\%
-		Plus d'enfants pour la patrie\\%
-		Le jour de gloire est arrivé! ARRIVÉ!\\%
-	}
-}
-
-ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {%
-	\verse{%
-		Talvi-iltain tummentuessa\\%
-		Polin suojiin me saavumme taas.\\%
-		:;: Meidät tekniikka jälkeen on jättänyt,\\%
-		sen me tahdomme unhoittaa. :;:\\%
-	}
-	\verse{%
-		Unelma vain on diplomityömme,\\%
-		joka tenttimme vanhennut.\\%
-		:;: Jo ruostunut harpikko käyttämätön,\\%
-		tushi pulloihin jähmennyt. :;:\\%
-	}
-	\verse{%
-		Aina teekkaripolvien uutten\\%
-		ohi pöytämme käyvän nään.\\%
-		:;: Mutta meillä ei voimaa enää kylliksi\\%
-		heidän joukkoonsa liittymään. :;:\\%
-	}
-	\verse{%
-		Viini laseissa ilkkuen päilyy,\\%
-		meitä kutsuen kuohuillaan.\\%
-		:;: Pois murheemme tahdomme karkoittaa.\\%
-		Äly pois mitä maksoikaan! :;:\\%
-	}
-	\verse{%
-		Ja kun integer vitae meille\\%
-		kerran viimeisen lauletaan.\\%
-		:;: Silloin ikuisen teekkarin haudalle\\%
-		oluttynnyrinostetaan. :;:\\%
-	}
-}
-
-kenompifuksi = Ken ompi Fuksi = {%
-	\verse{%
-		:;: Ken ompi fuksi XX\\%
-		Ylös nouskohon. :;:\\%
-		Hän lasin käteen ottakoon,\\%
-		Sen huulillensa nostakoon.\\%
-		:;: Juo pois, juopois, juo pois, juo pois.\\%
-		Juo Herran tähden pois. :;:\\%
-	}
-}
-
-whoisafreshman = Who is a Freshman = {%
+en_whoisafreshman =  Who is a Freshman = {%
 	\verse{%
 		:;: Who is a freshman of XX\\%
 		Stand up, stand up right now. :;:\\%
@@ -1186,18 +778,7 @@ whoisafreshman = Who is a Freshman = {%
 	}
 }
 
-spanishtoast = Spanish Toast = {%
-	\verse{%
-		Arriba! (glasses up)\\%
-		Abajo! (glasses down)\\%
-		Al Lado! (to the left)\\%
-		Al Otro! (to the right)\\%
-		Al Centro! (to the center)\\%
-		Para Dentro! (drink)\\%
-	}
-}
-
-clementine = Clementine = {%
+en_clementine =  Clementine = {%
 	\verse{%
 		In a cavern, in a canyon,\\%
 		Excavating for a mine,\\%
@@ -1239,7 +820,7 @@ clementine = Clementine = {%
 	}
 }
 
-whatshesgot = What She's Got = {%
+en_whatshesgot =  What She's Got = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		Being gay has its problems, it's true,\\%
@@ -1331,7 +912,7 @@ whatshesgot = What She's Got = {%
 	}
 }
 
-myladyinredFull = My Lady in Red = {%
+en_myladyinred =  My Lady in Red = {%
 	\verse{%
 		She's my Lady in red\\%
 		She likes to do it in the bed\\%
@@ -1394,7 +975,7 @@ myladyinredFull = My Lady in Red = {%
 	}
 }
 
-myladyinred = My Lady in Red = {%
+en_myladyinred_short =  My Lady in Red = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		She's my Lady in red\\%
@@ -1421,27 +1002,7 @@ myladyinred = My Lady in Red = {%
 	}
 }
 
-ilestdesnotres = Il est des nôtres = {%
-	\verse{%
-		:;: Ami(e) \textbf{<name>} lève ton verre\\%
-		Et surtout, ne le renverse pas :;:\\%
-		Et porte le\\%
-		Au frontibus\\%
-		Au nasibus\\%
-		Au mentibus\\%
-		Au ventribus\\%
-		Au sexibus\\%
-		Et glou, et glou, et glou, et glou...\\%
-	}
-	\verse{%
-		Il est des nôtres,\\%
-		Il a bu son verre comme les autres!\\%
-		C'est un ivrogne,\\%
-		On le reconnaît rien qu'à sa trogne!\\%
-	}
-}
-
-somesaythedevilisdead = Some say the Devil is Dead = {%
+en_somesaythedevilisdead =  Some say the Devil is Dead = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		Some say the Devil is dead, the Devil is dead, the Devil is dead,\\%
@@ -1490,18 +1051,7 @@ somesaythedevilisdead = Some say the Devil is Dead = {%
 	}
 }
 
-teekkarihymni = Teekkarihymni = {%
-	\verse{%
-		Yö kuin sielu teekkarin on pimiä,\\%
-		Takajoukko nukkuu vain, nukkuu vain.\\%
-		Tarhapöllön ääni kimiä,\\%
-		Kuuluu pappilasta päin, kuuluu päin.\\%
-		Ja taas, ja siis,\\%
-		Ja yks, kaks, kolme, neljä, viis\\%
-	}
-}
-
-engineersdrinkingsong = The Engineers' Drinking Song = {%
+en_engineersdrinkingsong =  The Engineers' Drinking Song = {%
 	\sing{To the tune of “The Son of a Gambolier”}
 	\verse{%
 		We are, we are, we are, we are, we are the Engineers,\\%
@@ -1574,7 +1124,7 @@ engineersdrinkingsong = The Engineers' Drinking Song = {%
 	}
 }
 
-finland = Finland = {%
+en_finland =  Finland = {%
 	\verse{%
 		Finland, Finland, Finland,\\%
 		The country where I want to be,\\%
@@ -1614,85 +1164,7 @@ finland = Finland = {%
 	}
 }
 
-takkipois = Takki pois = {%
-	\verse{%
-		Hei takki poies kiskaikaamme,\\%
-		On Polin poikain tapa tää.\\%
-		:;: Ja sitten laulu laulakaamme,\\%
-		Niin että katto tärähtää! :;:\\%
-	}
-	\verse{%
-		Me emme laulamasta lakkaa,\\%
-		Ennekuin aamu sarastaa.\\%
-		:;: Ei täältä ennen poistutakaan,\\%
-		Tääll' juodaan kautta Pohjanmaan! :;:\\%
-	}
-}
-
-ryyppaaEN = Ryyppää = {%
-	\verse{%
-		Ryyppää, ryyppää, ryyppää vaan,\\%
-		Huomenna on sulla krapula.\\%
-		Kun sä ryyppäät, ryyppäät, ryyppäät vaan,\\%
-		Niin krapula ei tulekaan!\\%
-	}
-	\verse{%
-		Just drink, and drink, and drink some more,\\%
-		Tomorrow you’ll have a hangover,\\%
-		But if you drink, and drink, and drink some more,\\%
-		The hangover won’t come at all!\\%
-	}
-}
-
-tanaanotetaanshort = Tänään Otetaan = {%
-	\verse{%
-		:;: Tänään otetaan, tänään otetaan,\\%
-		Helvetin paljon viinaa. :;:\\%
-		:;: Huomenna on, huomenna on,\\%
-		Helvetin kova krapula. :;:\\%
-	}
-	\verse{%
-		:;: Idag ska vi ta, idag ska vi ta,\\%
-		Helvetes mycket brännvin. :;:\\%
-		:;: I morgon ska vi ha, i morgon ska vi ha,\\%
-		Helvetes kova krapula. :;:\\%
-	}
-	\verse{%
-		:;: Today we shall get, today we shall get\\%
-		Absolutely fucking wasted. :;:\\%
-		:;: Tomorrow we will have, tomorrow we will have,\\%
-		A hangover beyond reason. :;:\\%
-	}
-}
-
-tanaanotetaan = Tänään Otetaan = {%
-	\verse{%
-		:;: Tänään otetaan, tänään otetaan,\\%
-		Helvetin paljon viinaa. :;:\\%
-		:;: Huomenna on, huomenna on,\\%
-		Helvetin kova krapula. :;:\\%
-	}
-	\verse{%
-		:;: Idag ska vi ta, idag ska vi ta,\\%
-		Helvetes mycket brännvin. :;:\\%
-		:;: I morgon ska vi ha, i morgon ska vi ha,\\%
-		Helvetes kova krapula. :;:\\%
-	}
-	\verse{%
-		:;: Tänä vötame, tänä vötame\\%
-		Kuradima palju viina :;:\\%
-		:;: Homme meil on, homme meil on,\\%
-		Kuradima kova pohmakas. :;:\\%
-	}
-	\verse{%
-		:;: Today we shall get, today we shall get\\%
-		Absolutely fucking wasted. :;:\\%
-		:;: Tomorrow we will have, tomorrow we will have,\\%
-		A hangover beyond reason. :;:\\%
-	}
-}
-
-sorkansallit = Mandatory Russian Song = {%
+en_sorkansallit =  Mandatory Russian Song = {%
 	\verse{%
 		Father Stalin, mother Krushchova,\\%
 		Shared a kiss, with Vodka on the rocks!\\%
@@ -1713,91 +1185,7 @@ sorkansallit = Mandatory Russian Song = {%
 	}
 }
 
-labamba = La Bamba = {%
-	\verse{%
-		Para bailar La Bamba\\%
-		Para bailar La Bamba\\%
-		Se necessita una poca de gracia\\%
-		Una poca de gracia\\%
-		Para me para ti, ay arriba, ay arriba\\%
-		Ay, arriba arriba\\%
-		Por ti sere, por ti sere, por ti sere\\%
-	}
-	\verse{%
-		Yo no soy marinero\\%
-		Yo no soy marinero\\%
-		Soy capitan, soy capitan, soy capitan\\%
-		Bam ba bamba (x3)\\%
-	}
-}
-
-dovakhiin = Dovakhiin = {%
-	\verse{%
-		Who ! Hoa ! Rha ! (x8)\\%
-	}
-	\verse{%
-		Dovahkiin, Dovahkiin\\%
-		Naal ok zin los vahriin\\%
-		Wah dein vokul\\%
-		Mahfaeraak ahst vaal!\\%
-		Ahrk fin norok paal graan\\%
-		Fod nust hon zindro zaan\\%
-		Dovahkiin, fah hin\\%
-		Kogaan mu draal!\\%
-	}
-	\verse{%
-		Nuz aan sul, fent alok\\%
-		Fod fin vul dovah nok\\%
-		Fen kos nahlot mahfaeraak\\%
-		Ahrk ruz!\\%
-		Paaz Keizaal fen kos stin nol bein\\%
-		Alduin jot!\\%
-	}
-	\verse{%
-		Dovahkiin, Dovahkiin...\\%
-	}
-	\verse{%
-		Nuz aan sul, fent alok...\\%
-	}
-	\verse{%
-		Dovahkiin, Dovahkiin...\\%
-	}
-	\verse{%
-		Who ! Hoa ! Haa ! Rha ! (x2)\\%
-	}
-}
-
-varpunenjouluaamuna = Varpunen jouluaamuna = {%
-	\verse{%
-		Lumi on jo peittänyt kukat laaksosessa,\\%
-		järven aalto jäätynyt talvipakkasessa.\\%
-		Varpunen pienoinen, syönyt kesäeinehen,\\%
-		järven aalto jäätynyt talvipakkasessa.\\%
-	}
-}
-
-vemihelvete = Vem i helvete = {%
-	\verse{%
-		Vem i helvete kastar sten på min flaska brännvin? (fyra gånger)\\%
-	}
-	\verse{%
-		Kuka helvetti heitti kiven mun viinapulloon? (neljästi)\\%
-	}
-	\verse{%
-		Who the hell threw a rolling stone to my whiskey bottle? (four times)\\%
-	}
-	\verse{%
-		Kes kuurats ku viskas kivi mun viinaputelisseen?\\%
-	}
-	\verse{%
-		Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)\\%
-	}
-	\verse{%
-		Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)\\%
-	}
-}
-
-ourfamily = Our Family = {%
+en_ourfamily =  Our Family = {%
 	\sing{To the tune of “My Bonny Lies Over the Ocean”}
 	\verse{%
 		My father makes counterfeit money,\\%
@@ -1846,7 +1234,7 @@ ourfamily = Our Family = {%
 	}
 }
 
-myfavoritedrinks = My Favorite Drinks = {%
+en_myfavoritedrinks =  My Favorite Drinks = {%
 	\sing{To the tune of “My Favorite Things”}
 	\verse{%
 		Negroni, Manhattan, Tequila sunrise,\\%
@@ -1869,7 +1257,7 @@ myfavoritedrinks = My Favorite Drinks = {%
 	}
 }
 
-jallusmagicstarlight = Jallu’s Magic Starlight = {%
+en_jallusmagicstarlight =  Jallu’s Magic Starlight = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		Under Jallu’s magic starlight\\%
@@ -1905,61 +1293,7 @@ jallusmagicstarlight = Jallu’s Magic Starlight = {%
 	}
 }
 
-alcohol = Alcohol = {%
-	\verse{%
-		Alcohol\\%
-		Alcohol\\%
-		Alcohol alcohol alcohol\\%
-		Hemos venido\\%
-		A emborracharnos\\%
-		El resultado nos da igual\\%
-	}
-}
-
-internationalen = Internationalen = {%
-	\verse{%
-		Mera brännvin i glasen,\\%
-		Mera glas på vårt bord,\\%
-		Mera bord på kalasen,\\%
-		Mera kalas på vår jord.\\%
-		Mera jordar kring månen,\\%
-		Mera månar kring mars,\\%
-		Mera marscher till Skåne,\\%
-		Mera Skåne, bevars bevars bevars!\\%
-	}
-	\verse{%
-		Lisää viinaa mun lasiin,\\%
-		lisää laseja pöydälle.\\%
-		Lisää pöytiä näihin juhliin,\\%
-		lisää juhlia kansalle.\\%
-		Lisää kansaa Suomeen,\\%
-		lisää Suomea päälle maan.\\%
-		Lisää maata Suomelle,\\%
-		Marssitaan, marssitaan, Karjalaan, KARJALAAN!\\%
-	}
-	\verse{%
-		Mehr Sprit in die Gläser,\\%
-		mehr Gläser auf den Tisch,\\%
-		mehr Tische für dieses Fest,\\%
-		mehr Feste für das Volk.\\%
-		Mehr Volk in den Wagen,\\%
-		mehr Wagen auf die Bahn,\\%
-		mehr Autobahnen für Europa.\\%
-		Gib Gas, gib Gas du Arsch.\\%
-	}
-	\verse{%
-		More booze in our glasses\\%
-		More glasses on the bar\\%
-		More bars for this small town of ours\\%
-		More towns for this Free State\\%
-		More states in America\\%
-		More Americans on this Earth\\%
-		More Earth for us to pump oil from\\%
-		Cheap gas is all we’re worth.\\%
-	}
-}
-
-rollmeover = Roll Me Over = {%
+en_rollmeover =  Roll Me Over = {%
 	\verse{%
 		This is number one\\%
 		And the fun has just begun\\%
@@ -2020,7 +1354,7 @@ rollmeover = Roll Me Over = {%
 	}
 }
 
-fastfoodLong = Fast Food and Other Things = {%
+en_fastfood_long =  Fast Food and Other Things = {%
 	\verse{%
 		:;: A Pizza Hut, a Pizza Hut,\\%
 		Kentucky Fried Chicken and a Pizza Hut :;:\\%
@@ -2059,7 +1393,7 @@ fastfoodLong = Fast Food and Other Things = {%
 	}
 }
 
-fastfood = Fast Food and Other Things = {%
+en_fastfood =  Fast Food and Other Things = {%
 	\verse{%
 		:;: A Pizza Hut, a Pizza Hut,\\%
 		Kentucky Fried Chicken and a Pizza Hut :;:\\%
@@ -2080,7 +1414,7 @@ fastfood = Fast Food and Other Things = {%
 	}
 }
 
-paratrooperShort = Paratrooper = {%
+en_paratrooper_short =  Paratrooper = {%
 	\sing{To the tune of “Battle Hymn of the Republic”}
 	\verse{%
 		My brother was a paratrooper in the US Marines (x3)\\%
@@ -2104,7 +1438,7 @@ paratrooperShort = Paratrooper = {%
 	}
 }
 
-paratrooper = Paratrooper = {%
+en_paratrooper =  Paratrooper = {%
 	\sing{To the tune of “Battle Hymn of the Republic”}
 	\verse{%
 		My brother was a paratrooper in the US Marines (x3)\\%
@@ -2152,83 +1486,7 @@ paratrooper = Paratrooper = {%
 	}
 }
 
-koskenkorva = Ko-Ko-Ko-Koskenkorva = {%
-	\verse{%
-		Ko-ko-ko-kosken ko-ko-ko-korvaa\\%
-		Siitä aina kunnon räkä-kä-kännit saa.\\%
-		Ko-ko-ko-kosken ko-ko-ko-korvaa\\%
-		Siitä aina kunnon räkä-kä-kännit,\\%
-		Aina kunnon räkä-kä-kännit,\\%
-		Aina kunnon räkä-kä-kännit saa.\\%
-	}
-	\verse{%
-		Kokokokosken kokokokorvaa,\\%
-		What a wonderful way to get totally, totally drunk!\\%
-		...\\%
-	}
-	\verse{%
-		Lalalalappeen rarararanta,\\%
-		What a wonderful place to get totally, totally drunk!\\%
-		...\\%
-	}
-}
-
-minne = Minne = {%
-	\sing{To the tune of “Memory”}
-	\verse{%
-		Minne!\\%
-		Jag har tappat mitt minne!\\%
-		Är jag svensk eller finne?\\%
-		Kommer inte ihåg.\\%
-	}
-	\verse{%
-		Inne!\\%
-		Är jag ut eller inne?\\%
-		Jag har luckor i minne.\\%
-		Sån’ där små alkohål.\\%
-	}
-	\verse{%
-		Men besinn er,\\%
-		Man tätar med det brännvin man får,\\%
-		Fastän minnet och helan går!\\%
-	}
-	\verse{%
-		Minne?\\%
-		Muisti hävis, mutt’ minne?\\%
-		Juhlista selvisimme\\%
-		Muistikatkoja on.\\%
-	}
-	\verse{%
-		Minne,\\%
-		Lähtisin vaikka minne,\\%
-		Kunhan selvittäisimme\\%
-		Mitä tapahtunut on.\\%
-	}
-	\verse{%
-		Mutta tiedän mä keinon\\%
-		Mikä auttaapi tuo:\\%
-		Ota ryyppy, ja muistis juo!\\%
-	}
-	\verse{%
-		Oh where\\%
-		Are my memories? Oh where?\\%
-		Well as far as I’m aware\\%
-		Last night’s naught but a blur.\\%
-	}
-	\verse{%
-		Anywhere\\%
-		I’d go near about anywhere\\%
-		To get my mem’ries back there\\%
-		In my head as they were.\\%
-	}
-	\verse{%
-		But now they’re gone, and it just seems\\%
-		That I’ll never learn...\\%
-		I’ll just drink more and hope they return!\\%
-	}
-}
-
-yogibear = Yogi Bear = {%
+en_yogibear =  Yogi Bear = {%
 	\sing{To the tune of “Camptown Races”}
 	\verse{%
 		I know someone you don't know, Yogi, Yogi,\\%
@@ -2280,7 +1538,7 @@ yogibear = Yogi Bear = {%
 	}
 }
 
-iloverocknroll = I Love Rock'n'Roll = {%
+en_iloverocknroll =  I Love Rock'n'Roll = {%
 	\verse{%
 		I love Rock'n'Roll\\%
 		So put another dime in the jukebox, baby\\%
@@ -2289,7 +1547,7 @@ iloverocknroll = I Love Rock'n'Roll = {%
 	}
 }
 
-wewillrockyou = We Will Rock You = {%
+en_wewillrockyou =  We Will Rock You = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		Buddy you're a boy make a big noise\\%
@@ -2331,7 +1589,7 @@ wewillrockyou = We Will Rock You = {%
 	}
 }
 
-twelvedays = Twelve Days of Binge-Drinking = {%
+en_twelvedays =  Twelve Days of Binge-Drinking = {%
 	\sing{To the tune of “Twelve Days of Christmas”, increasingly drunkenly}
 	\verse{%
 		My first day of binge-drinking started happily,\\%
@@ -2360,7 +1618,7 @@ twelvedays = Twelve Days of Binge-Drinking = {%
 	}
 }
 
-drunkenstudent = Drunken Student = {%
+en_drunkenstudent =  Drunken Student = {%
 	\sing{To the tune of “Drunken Sailor”}
 	\verse{%
 		What shall we do with the drunken student? (x3)\\%
@@ -2378,7 +1636,7 @@ drunkenstudent = Drunken Student = {%
 	}
 }
 
-eurovision = Eurovision = {%
+en_eurovision =  Eurovision = {%
 	\sing{To the tune of “Eurovision Theme”}
 	\verse{%
 		The French drink Champagne and Chardonnay\\%
@@ -2402,33 +1660,7 @@ eurovision = Eurovision = {%
 	}
 }
 
-henkilokuntaFI = Henkilökunta = {%
-	\verse{%
-		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
-		Henkilökuntaa (x4)\\%
-		:;: Henkilökuntaa parlevuu. :;:\\%
-	}
-	\verse{%
-		:;: Lissää viinaa... :;:\\%
-		:;: Konjakki ois poikaa... :;:\\%
-		:;: Kaljakin kelpaa... :;:\\%
-	}
-}
-
-henkilokuntaEN = Henkilökunta = {%
-	\verse{%
-		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
-		Henkilökuntaa (x4)\\%
-		:;: Henkilökuntaa parlevuu. :;:\\%
-	}
-	\verse{%
-		:;: Bring us brandy... :;:\\%
-		:;: Where is my food... :;:\\%
-		:;: Beer is fine, too... :;:\\%
-	}
-}
-
-softkitty = Soft Kitty = {%
+en_softkitty =  Soft Kitty = {%
 	\verse{%
 		Soft kitty, warm kitty,\\%
 		Little ball of fur.\\%
@@ -2437,7 +1669,7 @@ softkitty = Soft Kitty = {%
 	}
 }
 
-thisfeeling = This Feeling = {%
+en_thisfeeling =  This Feeling = {%
 	\sing{To the tune of “Everytime we touch”}
 	\verse{%
 		I still feel the symptoms,\\%
@@ -2462,7 +1694,7 @@ thisfeeling = This Feeling = {%
 	}
 }
 
-syphilis = Syphilis = {%
+en_syphilis =  Syphilis = {%
 	\sing{To the tune of “Yesterday”}
 	\verse{%
 		Syphilis, it just started with a simple kiss.\\%
@@ -2514,7 +1746,7 @@ syphilis = Syphilis = {%
 	}
 }
 
-wastedLong = Wasted = {%
+en_wasted_long =  Wasted = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -2537,7 +1769,7 @@ wastedLong = Wasted = {%
 	}
 }
 
-wasted = Wasted = {%
+en_wasted =  Wasted = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -2552,7 +1784,7 @@ wasted = Wasted = {%
 	}
 }
 
-bigbangtheory = The Big Bang Theory = {%
+en_bigbangtheory =  The Big Bang Theory = {%
 	\verse{%
 		Our whole universe was in a hot dense state,\\%
 		Then nearly fourteen billion years ago expansion started. Wait...\\%
@@ -2565,7 +1797,7 @@ bigbangtheory = The Big Bang Theory = {%
 	}
 }
 
-heresthefirst = Here's the First = {%
+en_helangar_alternate =  Here's the First = {%
 	\sing{To the tune of “Helan Går”}
 	\verse{%
 		Here’s the first,\\%
@@ -2579,28 +1811,7 @@ heresthefirst = Here's the First = {%
 	}
 }
 
-beercannonlong = Beer Cannon = {%
-	\verse{%
-		:;: Lapin Kulta :;:\\%
-		:;: Karjala :;:\\%
-		:;: Sininen ja Olvi :;:\\%
-		:;: Koff, Koff, Koff :;:\\%
-	}
-	\verse{%
-		:;: Koskenkorva :;:\\%
-		:;: Pontikka :;:\\%
-		:;: Sinoli ja Lasoli :;:\\%
-		:;: Tärpätti :;:\\%
-	}
-	\verse{%
-		:;: Coca-Cola :;:\\%
-		:;: Ja-affa :;:\\%
-		:;: Spraitti ja Pepsi :;:\\%
-		:;: Hämähäkkimies :;:\\%
-	}
-}
-
-beercannonCH = Beer Cannon = {%
+en_beercannon =  Beer Cannon = {%
 	\verse{%
 		Eichhof Lager, Eichhof Lager\\%
 		Cardinal, Cardinal\\%
@@ -2611,18 +1822,7 @@ beercannonCH = Beer Cannon = {%
 	}
 }
 
-beercannon = Beer Cannon = {%
-	\verse{%
-		Lapin Kulta, Lapin Kulta\\%
-		Karjala, Karjala\\%
-		Sininen ja Olvi\\%
-		Sininen ja Olvi\\%
-		Koff, Koff, Koff\\%
-		Koff, Koff, Koff\\%
-	}
-}
-
-hellandgore = Hell and Gore = {%
+en_helangar =  Hell and Gore = {%
 	\sing{To the tune of “Helan Går”}
 	\verse{%
 		Hell and gore\\%
@@ -2637,7 +1837,7 @@ hellandgore = Hell and Gore = {%
 	}
 }
 
-dearfriends = Dear Friends = {%
+en_dearfriends =  Dear Friends = {%
 	\verse{%
 		My dear friends our grand feast will begin here,\\%
 		Our glasses we raise with a wild cheer.\\%
@@ -2658,7 +1858,7 @@ dearfriends = Dear Friends = {%
 	}
 }
 
-farover = Far Over = {%
+en_farover =  Far Over = {%
 	\verse{%
 		Far over the Misty Mountains cold,\\%
 		To dungeons deep and caverns old.\\%
@@ -2685,7 +1885,7 @@ farover = Far Over = {%
 	}
 }
 
-marchofthewaterboys = March of the Water-Boys = {%
+en_marchofthewaterboys =  March of the Water-Boys = {%
 	\verse{%
 		This we swear upon our lives or even death\\%
 		That we will not drink at all that devilish alcohol\\%
@@ -2701,7 +1901,828 @@ marchofthewaterboys = March of the Water-Boys = {%
 	}
 }
 
-trinkFI = Jos eukkosi kieltää sua juomasta = {%
+fr_lescomediens =  Les Comédiens = {%
+	\verse{%
+		:;: Viens voir les comédiens,\\%
+		Voir les musiciens,\\%
+		Voir les magiciens,\\%
+		Qui arrivent :;:\\%
+	}
+	\verse{%
+		Les comédiens ont installé leurs tréteaux,\\%
+		Ils ont dressé leur estrade,\\%
+		Et tendu des calicots.\\%
+		Les comédiens ont parcouru les faubourgs,\\%
+		Ils ont donné la parade,\\%
+		A grand renfort de tambour.\\%
+		Devant l’église une roulotte peinte en vert,\\%
+		Avec les chaises d’un théâtre à ciel ouvert,\\%
+		Et derrière eux comme un cortège en folie,\\%
+		Ils drainent tout le pays, les comédiens.\\%
+	}
+	\verse{%
+		:;: Viens voir les comédiens... :;:\\%
+	}
+	\verse{%
+		Si vous voulez voir confondus les coquins,\\%
+		Dans une histoire un peu triste,\\%
+		Où tout s’arrange à la fin.\\%
+		Si vous aimez voir trembler les amoureux,\\%
+		Vous lamenter sur Baptiste,\\%
+		Ou rire avec les heureux.\\%
+		Poussez la toile et entrez donc vous installer,\\%
+		Sous les étoiles le rideau va se lever,\\%
+		Quand les trois coups retentiront dans la nuit,\\%
+		Ils vont renaître à la vie, les comédiens.\\%
+	}
+	\verse{%
+		:;: Viens voir les comédiens... :;:\\%
+	}
+	\verse{%
+		Les comédiens ont démonté leurs tréteaux,\\%
+		Ils ont ôté leur estrade,\\%
+		Et plié les calicots.\\%
+		Ils laisseront au fond du cœur de chacun,\\%
+		Un peu de la sérénade,\\%
+		Et du bonheur d’Arlequin.\\%
+		Demain matin quand le soleil va se lever,\\%
+		Ils seront loin, et nous croirons avoir rêvé,\\%
+		Mais pour l’instant ils traversent dans la nuit,\\%
+		D’autres villages endormis, les comédiens.\\%
+	}
+	\verse{%
+		:;: Viens voir les comédiens... :;:\\%
+	}
+}
+
+fr_gegene =  Gégène = {%
+	\verse{%
+		\textit{(Songmaster solo:)}\\%
+		Juste après m’être apprêté, avant de m’aventurer,\\%
+		Je m’apprête à préparer mon beau sac d’aventurier,\\%
+		Quels objets dois-je emmener ? Ai-je assez pour m’équiper?\\%
+		Au moment de tout lister, j’ai bien envie de pleurer,\\%
+		Caaaaaar...\\%
+	}
+	\verse{%
+		\textit{(Everyone:)}\\%
+		J’ai une épée molle, des bottes qui rigolent,\\%
+		Un bouclier rose et bleu, une armure qui craint le feu.\\%
+		J’ai un casque en tôle, une ceinture qui colle,\\%
+		Un caillou défectueux, une arbalète pour les vieux.\\%
+		Et la suite n’est pas mieux...\\%
+	}
+	\verse{%
+		J’ai des gants débiles, des sardines à l’huile,\\%
+		Une cape qui sent le bouc, un chapeau qui me rend plouc,\\%
+		J’ai un arc en laine, un chandail en chêne,\\%
+		Un couteau de 20 kilos, une hache pour fendre l’eau,\\%
+		Et la suite c’est cadeau...\\%
+	}
+	\verse{%
+		J’ai une bouillotte, une potion de flotte,\\%
+		Un parchemin pour vêler, des godasses qui font danser,\\%
+		J’ai l’anneau magique qui rend alcoolique,\\%
+		Et cet anneau le voici, grâce à lui je suis ici!\\%
+	}
+}
+
+fr_labeletteLong =  Mais qui est la Belette? = {%
+	\verse{%
+		:;: J'entends le loup, le renard et la belette,\\%
+		J'entends le loup et le renard chanter! :;:\\%
+		:;: Manau viendra les gars, Manau viendra,\\%
+		C'est à ce moment-là qu'il faut lever les bras! :;:\\%
+	}
+	\verse{%
+		Et v'la les amateurs de chambrettes, les Bretons qui se la pètent\\%
+		Les déchireurs de galettes, les bouffeurs de crêpes\\%
+		Après avoir bravé bien des galères et des tempêtes\\%
+		Regarde bien la tête de jeunes guerriers celtes\\%
+		Il y a le loup, le renard bien sûr y'a la belette\\%
+		Autocritique parfaite mais ça reste correct, pas d'idée abjecte\\%
+		C'est pour faire la fête\\%
+		Voilà comment Manau avance sans se prendre la tête!\\%
+	}
+	\verse{%
+		J'entends le loup...\\%
+	}
+}
+
+fr_labelette =  Mais qui est la Belette? = {%
+	\verse{%
+		:;: J'entends le loup, le renard et la belette,\\%
+		J'entends le loup et le renard chanter! :;:\\%
+		:;: Manau viendra les gars, Manau viendra,\\%
+		C'est à ce moment-là qu'il faut lever les bras! :;:\\%
+	}
+}
+
+fr_apoil =  À Poil = {%
+	\verse{%
+		:;: Il descend de la montagne... À POIL! :;:\\%
+		Il descend de la montagne (x3)\\%
+		À POIL!\\%
+	}
+}
+
+fr_tristitude =  La Tristitude = {%
+	\verse{%
+		La Tristitude,\\%
+		C'est quand tu viens juste d'avaler un cure-dent,\\%
+		Quand tu te rends compte que ton père est suisse-allemand,\\%
+		Quand un copain t'appelle pour son déménagement,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est quand un 20 tonnes se rabat sur ton deux-roues,\\%
+		Quand tu dois aller vivre à Nogent-le-Rotrou,\\%
+		Quand ton coiffeur t'apprend que t'as des reflets roux,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est toi, c'est moi,\\%
+		C'est nous, c'est quoi,\\%
+		C'est un peu de détresse dans le creux de nos bras.\\%
+		La Tristitude,\\%
+		C'est hmmm, c'est wooooooh,\\%
+		C'est eux, c'est vous,\\%
+		C'est la vie qui te dit que ça va pas du tout.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\%
+		Quand t'es prise comme secrétaire chez Bernard Nicod,\\%
+		Quand Jamel Debbouzze fait un solo au piano,\\%
+		Et ça fait rien.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est Pierre Desproges qui signe avec ses initiales,\\%
+		Quand t'as le hoquet en assemblée générale,\\%
+		When you don't get the song but try to act social,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est faire une hémiplégie mais des deux côtés,\\%
+		C'est quand tu fais pipi debout dans l'TGV,\\%
+		Quand Kev Adams te mord si t'es pas vacciné,\\%
+		Lâ c'est la merde.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est quand ton frère siamois t'apprend qu'il a le SIDA,\\%
+		Quand ta femme fait de l'échangisme un peu sans toi,\\%
+		Quand des jeunes t'appellent "Monsieur" pour la première fois,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est conjuguer "bouillir" au subjonctif pluriel,\\%
+		C'est quand tu choisis GC à l'EPFL,\\%
+		C'est quand au Scrabble t'as K, F, J, Q, X et L,\\%
+		Et ça fait kfjqxl.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est répondre à un "Bonjour" qui était pas pour toi,\\%
+		C'est célébrer sa Bar-Mitzvah en '43,\\%
+		C'est tenter d'ouvrir un bar gay au Nigeria,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+}
+
+fr_tristitude2 =  La Tristitude = {%
+	\verse{%
+		La Tristitude,\\%
+		C'est quand tu dois aller chez le prêtre à 12 ans,\\%
+		Quand tu te rends compte que ton père est suisse-allemand,\\%
+		Quand y'a les gilets jaunes et que t'es Président,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est quand lors d'un voyage en Inde tu bois de l'eau,\\%
+		Quand t’es prise comme secrétaire chez Bernard Nicod,\\%
+		Quand Jamel Debbouzze fait un solo au piano,\\%
+		Et ça fait rien.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est toi, c'est moi,\\%
+		C'est nous, c'est quoi,\\%
+		C'est un peu de détresse dans le creux de nos bras.\\%
+		La Tristitude,\\%
+		C'est hmmm, c'est wooooooh,\\%
+		C'est eux, c'est vous,\\%
+		C'est la vie qui te dit que ça va pas du tout.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est quand t'es choisi pour être gardien au hand-ball,\\%
+		Quand t’as le hoquet en assemblée générale,\\%
+		When you don’t get the song but try to act social,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C'est conjuguer "bouillir" au subjonctif pluriel,\\%
+		C'est être un frère Dalton mais que t'es Averell,\\%
+		C'est mettre du savon liquide dans le lave-vaisselle,\\%
+		Ca fait des bulles.\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C’est faire une hémiplégie mais des deux côtés,\\%
+		C’est quand tu fais pipi debout dans l’TGV,\\%
+		C'est quand à ton audition y'a un canapé,\\%
+		Et ça fait mal.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C’est quand un 20 tonnes se rabat sur ta Vespa,\\%
+		Quand ta femme fait de l'échangisme un peu sans toi,\\%
+		Quand ta grande sœur t'annonce que c'est toi le papa,\\%
+		Et ça fait Ch'ti.\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C’est quand t'as choisi GC à l’EPFL,\\%
+		C'est quand tes parents s'appellent Jacquie et Michel,\\%
+		C’est quand au Scrabble t’as K, F, J, Q, X et L,\\%
+		Et ça fait kfjqxl.\\%
+	}
+	\verse{%
+		La Tristitude,\\%
+		C’est célébrer sa Bar-Mitzvah en ’43,\\%
+		C’est tenter d’ouvrir un bar gay au Nigeria,\\%
+		C'est quand le DJ sait que tu t'appelles Dana,\\%
+		Et ça fait DANS LA VALLÉE OOOOOO-OH...\\%
+	}
+	\verse{%
+		La Tristitude...\\%
+	}
+}
+
+fr_switzerlandcuisine =  Switzerland Cuisine = {%
+	\verse{%
+		Je suis monté dans un avion direction le Japon\\%
+		J'ai gouté le sushi et le sukiyaki\\%
+		J'ai regardé le kabuki en buvant du Saké\\%
+		Après dix jours, il a fallu rentrer\\%
+	}
+	\verse{%
+		Tous les matins\\%
+		J'bois mon café et mange mon pain\\%
+		Et à midi, c'est mon plat de röstis\\%
+		Quand vient le soir\\%
+		Le fromage et la tarte aux poires\\%
+		J'en ai assez, demain ça va changer\\%
+	}
+	\verse{%
+		J'ai pris le train pour l'Italie et viva Napoli\\%
+		J'ai goûté les spaghettis, les macaronis\\%
+		Les pizzas aux pepperonis avec du parmesan\\%
+		Après dix jours, il n'y avait plus d'argent\\%
+	}
+	\verse{%
+		Tous les matins...\\%
+	}
+	\verse{%
+		J'ai pris l'avion pour l'Angleterre et viva Manchester\\%
+		J'ai dégusté le pudding de Sa Majesté\\%
+		At five o'clock c'est l'heure du thé en levant le p'tit doigt\\%
+		Comme il pleuvait je suis rentré chez moi\\%
+	}
+	\verse{%
+		Tous les matins...\\%
+	}
+	\verse{%
+		Pour faire connaître mon pays, j'inviterai mes amis:\\%
+		Les Italiens, les Anglais et les Japonais\\%
+		Réunis dans un vieux chalet nous mangerons la fondue\\%
+		En Switzerland vous serez bienvenus\\%
+	}
+	\verse{%
+		Tous les matins...\\%
+	}
+}
+
+fr_latiaffe =  La Tiaffe = {%
+	\verse{%
+		Y'a ceux qui n'aiment pas l'hiver,\\%
+		Le ski et le grand air.\\%
+		Y'a ceux qui n'aiment pas l'printemps,\\%
+		Le rhume des foins, l'retour du beau temps!\\%
+		Y'a ceux qui n'aiment pas l'automne,\\%
+		Et les feuilles qui tombent, ces connes.\\%
+		Moi c'est l'été qu'j'aime pas,\\%
+		Car elle revient pour moi...\\%
+	}
+	\verse{%
+		La tiaffe! Quand ça commence à coller\\%
+		La tiaffe! Je sue de tous les côtés\\%
+		Le tiaffe! Les grosses gouttes dans le dos\\%
+		La tiaffe! J'vous jure c'est pas rigolo\\%
+		La tiaffe! Les auréoles sous les bras\\%
+		La tiaffe! Comme si j'sortais du sauna\\%
+		Quand il commence à tiaffer,\\%
+		Je suis trempé jusqu'aux pieds.\\%
+	}
+	\verse{%
+		À Lausanne quand j'me promène,\\%
+		Même si j'vais pas bien loin,\\%
+		C'est toujours le meme problème,\\%
+		Sont tout en pente, ces chemins!\\%
+		La malette et l'costard de traviole,\\%
+		C'est le déluge à chaque pas.\\%
+		Je mouille même des guibolles,\\%
+		Elle ne m'abandonne pas...\\%
+	}
+	\verse{%
+		La tiaffe!...\\%
+	}
+	\verse{%
+		Mais c'qui est désepérant,\\%
+		C'est qu'la tiaffe, c'est permanent!\\%
+	}
+}
+
+fr_chansondelabbayeShort =  Di-ya-ya-oh = {%
+	\verse{%
+		Au bord de la Sarine\\%
+		Tout près de Château-d'Oex\\%
+		Au flanc de la colline\\%
+		Se trouve mon chalet\\%
+		Autour de mon domaine\\%
+		Tout est si verdoyant\\%
+		Un beau sentier me mène\\%
+		Jusqu'au Pont Turrian\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh (x3)\\%
+		Di ya ya di ya ya oh\\%
+		Ya oh, ya oh\\%
+		Di ya ya di ya ya di ya ya oh\\%
+		Ya oh, ya oh\\%
+		Di ya ya di ya ya oh\\%
+	}
+	\verse{%
+		Du rocher de la Sarouche\\%
+		Avec ses grands sapins\\%
+		Je domine la Louge\\%
+		Le Pré et puis les Moulins\\%
+		La large Laitemaire\\%
+		Me ferme le vallon\\%
+		Et plus en arrière\\%
+		Les bois de Rodomont\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh...\\%
+	}
+	\verse{%
+		Un cirque de montagnes\\%
+		Cray, Vanil et Rubli\\%
+		Dominent nos campagnes\\%
+		Offre aux chamois l'abri\\%
+		La Gumfluh avec ses tourelles\\%
+		Corjon et Planachaux\\%
+		Forment les sentinelles\\%
+		Du beau Pays-d'Enhaut\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh...\\%
+	}
+}
+
+fr_chansondelabbaye =  Le Beau Pays-d'Enhaut = {%
+	\verse{%
+		Au bord de la Sarine\\%
+		Tout près de Château-d'Oex\\%
+		Au flanc de la colline\\%
+		Se trouve mon chalet\\%
+		Autour de mon domaine\\%
+		Tout est si verdoyant\\%
+		Un beau sentier me mène\\%
+		Jusqu'au Pont Turrian\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh (x3)\\%
+		Di ya ya di ya ya oh\\%
+		Ya oh, ya oh\\%
+		Di ya ya di ya ya di ya ya oh\\%
+		Ya oh, ya oh\\%
+		Di ya ya di ya ya oh\\%
+	}
+	\verse{%
+		Du rocher de la Sarouche\\%
+		Avec ses grands sapins\\%
+		Je domine la Louge\\%
+		Le Pré et puis les Moulins\\%
+		La large Laitemaire\\%
+		Me ferme le vallon\\%
+		Et plus en arrière\\%
+		Les bois de Rodomont\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh...\\%
+	}
+	\verse{%
+		Au bord de la Torneresse\\%
+		Se trouve le hameau\\%
+		Où les chamois sans cesse\\%
+		Sont là en bas comme en haut\\%
+		Fromage à fondue, à rebibes\\%
+		On en fabrique à tour de bras\\%
+		C'est un produit de l'Etivaz\\%
+		Un bon AOP bien gras!\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh...\\%
+	}
+	\verse{%
+		Un cirque de montagnes\\%
+		Cray, Vanil et Rubli\\%
+		Dominent nos campagnes\\%
+		Offre aux chamois l'abri\\%
+		La Gumfluh avec ses tourelles\\%
+		Corjon et Planachaux\\%
+		Forment les sentinelles\\%
+		Du beau Pays-d'Enhaut\\%
+	}
+	\verse{%
+		Di ya ya di ya ya di ya ya oh...\\%
+	}
+}
+
+fr_connemara =  Les Lacs du Connemara = {%
+	\verse{%
+		Terre brûlée au vent des landes de pierre,\\%
+		Autour des lacs, c'est pour les vivants\\%
+		Un peu d'enfer, le Connemara.\\%
+	}
+	\verse{%
+		Des nuages noirs qui viennent du nord\\%
+		Colorent la terre, les lacs, les rivières:\\%
+		C'est le décor du Connemara.\\%
+	}
+	\verse{%
+		Au printemps suivant, le ciel irlandais\\%
+		Etait en paix. Maureen a plongé\\%
+		Nue dans un lac du Connemara.\\%
+	}
+	\verse{%
+		Sean Kelly s'est dit : "Je suis catholique.\\%
+		Maureen aussi." L'église en granit\\%
+		De Limerick, Maureen a dit "oui".\\%
+	}
+	\verse{%
+		De Tiperrary, Bally-Connelly\\%
+		Et de Galway, ils sont arrivés\\%
+		Dans le comté du Connemara.\\%
+	}
+	\verse{%
+		Y avait les Connor, les O'Conolly,\\%
+		Les Flaherty du Ring of Kerry\\%
+		Et de quoi boire trois jours et deux nuits.\\%
+	}
+	\verse{%
+		Là-bas, au Connemara, on sait tout le prix du silence.\\%
+		Là-bas, au Connemara, on dit que la vie\\%
+		C'est une folie, et que la folie, ca se danse.\\%
+	}
+	\verse{%
+		Terre brûlée au vent des landes de pierre,\\%
+		Autour des lacs, c'est pour les vivants\\%
+		Un peu d'enfer, le Connemara.\\%
+	}
+	\verse{%
+		Des nuages noirs qui viennent du nord\\%
+		Colorent la terre, les lacs, les rivières:\\%
+		C'est le décor du Connemara.\\%
+	}
+	\verse{%
+		On y vit aussi au temps des Gaels\\%
+		Et de Cromwell, au rythme des pluies\\%
+		Et du soleil, au pas des chevaux.\\%
+	}
+	\verse{%
+		On y croit encore aux monstres des lacs\\%
+		Qu'on voit nager certains soirs d'été\\%
+		Et replonger pour l'éternité.\\%
+	}
+	\verse{%
+		On y voit encore des hommes d'ailleurs\\%
+		Venus chercher le repos de l'âme\\%
+		Et pour le cœur, un goût de meilleur.\\%
+	}
+	\verse{%
+		L'on y croit encore que le jour viendra,\\%
+		Il est tout près, où les Irlandais\\%
+		Feront la paix autour de la croix.\\%
+	}
+	\verse{%
+		Là-bas, au Connemara, on sait tout le prix de la guerre.\\%
+		Là-bas, au Connemara, on n'accepte pas\\%
+		La paix des Gallois ni celle des rois d'Angleterre...\\%
+	}
+}
+
+fr_santiano_pervert =  Santiano = {%
+	\verse{%
+		C'est mon fameux grand mât plein comme un verre d'eau\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Dix-huit pouces, droit comme un poireau\\%
+		Je suis fier d'y être matelot\\%
+	}
+	\verse{%
+		Tiens bon ma barre et tiens bon le vent\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Tous les deux, toujours par devant,\\%
+		Nous irons jusqu'à San Francisco\\%
+	}
+	\verse{%
+		Je pars pour de longs mois en emmenant Margot\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		D'y penser j'avais le manche gros\\%
+		En doublant les feux de Saint-Malo\\%
+	}
+	\verse{%
+		Tiens bon...\\%
+	}
+	\verse{%
+		On prétend que là-bas le vin coule à flots\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		On s'prend tous au fond des ruisseaux\\%
+		J'en ramènerai plusieurs photos\\%
+	}
+	\verse{%
+		Tiens bon...\\%
+	}
+	\verse{%
+		Un jour, je reviendrai chargé de cadeaux\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Au pays, j'ramènerai Margot\\%
+		On espère avec aucun loupiot\\%
+	}
+	\verse{%
+		Tiens bon mon cap et tiens bon mon flot\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Et quand je reverrai Margot,\\%
+		Nous irons jusqu’à San Francisco\\%
+	}
+}
+
+fr_santiano =  Santiano = {%
+	\verse{%
+		C'est un fameux trois-mâts fin comme un oiseau\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Dix-huit nœuds, quatre cents tonneaux\\%
+		Je suis fier d'y être matelot\\%
+	}
+	\verse{%
+		Tiens bon la barre et tiens bon le vent\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Si Dieu veut toujours droit devant,\\%
+		Nous irons jusqu'à San Francisco\\%
+	}
+	\verse{%
+		Je pars pour de longs mois en laissant Margot\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		D'y penser j'avais le cœur gros\\%
+		En doublant les feux de Saint-Malo\\%
+	}
+	\verse{%
+		Tiens bon...\\%
+	}
+	\verse{%
+		On prétend que là-bas l'argent coule à flots\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		On trouve l'or au fond des ruisseaux\\%
+		J'en ramènerai plusieurs lingots\\%
+	}
+	\verse{%
+		Tiens bon...\\%
+	}
+	\verse{%
+		Un jour, je reviendrai chargé de cadeaux\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Au pays, j'irai voir Margot\\%
+		A son doigt, je passerai l'anneau\\%
+	}
+	\verse{%
+		Tiens bon le cap et tiens bon le flot\\%
+		Hissez haut (Hissez haut!) Santiano!\\%
+		Sur la mer qui fait le gros dos,\\%
+		Nous irons jusqu’à San Francisco\\%
+	}
+}
+
+fr_chansondelataverne =  Pom popom popom = {%
+	\verse{%
+		:;: Pom, popom, popom popom popom popom po :;:\\%
+	}
+	\verse{%
+		Tous les petits Kobolds dansent dans la forêt,\\%
+		Moi et mes compagnons allons tous les crever!\\%
+		Ne sont-ils pas mignons, embrochés morcelés,\\%
+		Autour des champignons, on pourrait en manger! OUAIS!\\%
+	}
+	\verse{%
+		Pom, popom...\\%
+	}
+	\verse{%
+		Tous les petits Gobelins, dansent dans la forêt,\\%
+		Moi et mes compagnons, allons les approcher!\\%
+		Ils sont vraiment mignons quant ils se font flécher,\\%
+		Nous les achèverons à coups d’épées rouillées! OUAIS!\\%
+	}
+	\verse{%
+		Pom, popom...\\%
+	}
+	\verse{%
+		Quand tous les petits Orques, dansent dans la forêt,\\%
+		Moi et mes compagnons préférons nous cacher!\\%
+		Ils ne sont pas mignons, ils sont bêtes à pleurer,\\%
+		Mais nous les évitons pour pas finir broyés! OUAIS!\\%
+	}
+	\verse{%
+		Pom, popom...\\%
+	}
+	\verse{%
+		Quand tous les petits Trolls, dansent dans la forêt,\\%
+		Moi et mes compagnons préférons nous barrer!\\%
+		Ceux qui les trouvent mignons sont vraiment dérangés,\\%
+		Un jour ils finiront en compote de...\\%
+	}
+	\verse{%
+		:;: Pommes, popom... :;:\\%
+	}
+}
+
+fr_ilestdesnotres =  Il est des nôtres = {%
+	\verse{%
+		:;: Ami(e) \textbf{\textit{name}} lève ton verre\\%
+		Et surtout, ne le renverse pas :;:\\%
+		Et porte le\\%
+		Au frontibus\\%
+		Au nasibus\\%
+		Au mentibus\\%
+		Au ventribus\\%
+		Au sexibus\\%
+		Et glou, et glou, et glou, et glou...\\%
+	}
+	\verse{%
+		Il est des nôtres,\\%
+		Il a bu son verre comme les autres!\\%
+		C'est un ivrogne,\\%
+		On le reconnaît rien qu'à sa trogne!\\%
+	}
+}
+
+fi_ikuisenteekkarinlaulu =  Ikuisen Teekkarin Laulu = {%
+	\verse{%
+		Talvi-iltain tummentuessa\\%
+		Polin suojiin me saavumme taas.\\%
+		:;: Meidät tekniikka jälkeen on jättänyt,\\%
+		sen me tahdomme unhoittaa. :;:\\%
+	}
+	\verse{%
+		Unelma vain on diplomityömme,\\%
+		joka tenttimme vanhennut.\\%
+		:;: Jo ruostunut harpikko käyttämätön,\\%
+		tushi pulloihin jähmennyt. :;:\\%
+	}
+	\verse{%
+		Aina teekkaripolvien uutten\\%
+		ohi pöytämme käyvän nään.\\%
+		:;: Mutta meillä ei voimaa enää kylliksi\\%
+		heidän joukkoonsa liittymään. :;:\\%
+	}
+	\verse{%
+		Viini laseissa ilkkuen päilyy,\\%
+		meitä kutsuen kuohuillaan.\\%
+		:;: Pois murheemme tahdomme karkoittaa.\\%
+		Äly pois mitä maksoikaan! :;:\\%
+	}
+	\verse{%
+		Ja kun integer vitae meille\\%
+		kerran viimeisen lauletaan.\\%
+		:;: Silloin ikuisen teekkarin haudalle\\%
+		oluttynnyrinostetaan. :;:\\%
+	}
+}
+
+fi_kenompifuksi =  Ken ompi Fuksi = {%
+	\verse{%
+		:;: Ken ompi fuksi XX\\%
+		Ylös nouskohon. :;:\\%
+		Hän lasin käteen ottakoon,\\%
+		Sen huulillensa nostakoon.\\%
+		:;: Juo pois, juopois, juo pois, juo pois.\\%
+		Juo Herran tähden pois. :;:\\%
+	}
+}
+
+fi_teekkarihymni =  Teekkarihymni = {%
+	\verse{%
+		Yö kuin sielu teekkarin on pimiä,\\%
+		Takajoukko nukkuu vain, nukkuu vain.\\%
+		Tarhapöllön ääni kimiä,\\%
+		Kuuluu pappilasta päin, kuuluu päin.\\%
+		Ja taas, ja siis,\\%
+		Ja yks, kaks, kolme, neljä, viis\\%
+	}
+}
+
+fi_takkipois =  Takki pois = {%
+	\verse{%
+		Hei takki poies kiskaikaamme,\\%
+		On Polin poikain tapa tää.\\%
+		:;: Ja sitten laulu laulakaamme,\\%
+		Niin että katto tärähtää! :;:\\%
+	}
+	\verse{%
+		Me emme laulamasta lakkaa,\\%
+		Ennekuin aamu sarastaa.\\%
+		:;: Ei täältä ennen poistutakaan,\\%
+		Tääll' juodaan kautta Pohjanmaan! :;:\\%
+	}
+}
+
+fi_varpunenjouluaamuna =  Varpunen jouluaamuna = {%
+	\verse{%
+		Lumi on jo peittänyt kukat laaksosessa,\\%
+		järven aalto jäätynyt talvipakkasessa.\\%
+		Varpunen pienoinen, syönyt kesäeinehen,\\%
+		järven aalto jäätynyt talvipakkasessa.\\%
+	}
+}
+
+fi_henkilokunta =  Henkilökunta = {%
+	\verse{%
+		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
+		Henkilökuntaa (x4)\\%
+		:;: Henkilökuntaa parlevuu. :;:\\%
+	}
+	\verse{%
+		:;: Lissää viinaa... :;:\\%
+		:;: Konjakki ois poikaa... :;:\\%
+		:;: Kaljakin kelpaa... :;:\\%
+	}
+}
+
+fi_beercannon_long =  Beer Cannon = {%
+	\verse{%
+		:;: Lapin Kulta :;:\\%
+		:;: Karjala :;:\\%
+		:;: Sininen ja Olvi :;:\\%
+		:;: Koff, Koff, Koff :;:\\%
+	}
+	\verse{%
+		:;: Koskenkorva :;:\\%
+		:;: Pontikka :;:\\%
+		:;: Sinoli ja Lasoli :;:\\%
+		:;: Tärpätti :;:\\%
+	}
+	\verse{%
+		:;: Coca-Cola :;:\\%
+		:;: Ja-affa :;:\\%
+		:;: Spraitti ja Pepsi :;:\\%
+		:;: Hämähäkkimies :;:\\%
+	}
+}
+
+fi_beercannon =  Beer Cannon = {%
+	\verse{%
+		Lapin Kulta, Lapin Kulta\\%
+		Karjala, Karjala\\%
+		Sininen ja Olvi\\%
+		Sininen ja Olvi\\%
+		Koff, Koff, Koff\\%
+		Koff, Koff, Koff\\%
+	}
+}
+
+fi_trink =  Jos eukkosi kieltää sua juomasta = {%
 	\verse{%
 		Jos eukkosi kieltää sua juomasta,\\%
 		Niin juo, niin juo.\\%
@@ -2748,52 +2769,28 @@ trinkFI = Jos eukkosi kieltää sua juomasta = {%
 	}
 }
 
-trinkEN = Just Drink = {%
+fi_nyt =  A Finnish Drinking Song = {%
 	\verse{%
-		If your wife tells you not to drink,\\%
-		Just drink, just drink!\\%
-		If she says you’ve had too much of beer,\\%
-		Just drink, just drink!\\%
-		And if she keeps nagging just go ahead ‘n ditch her,\\%
-		There’s plenty of fish in the ocean to capture,\\%
-		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\%
-	}
-	\verse{%
-		Trink, trink, Brüderlein trink\\%
-		Lass doch die Sorgen zu Haus!\\%
-		Trink (HEY!), trink (HEY!), Brüderlein trink\\%
-		Leere dein Glas mit mir aus!\\%
-		Meide den Kummer und meide den Schmerz\\%
-		Dann ist das Leben ein Scherz\\%
-		Zu lieber Augustin!\\%
-		Kauf dir ein Auto und fahr gegen Baum\\%
-		Dann ist das Leben ein Traum!\\%
-	}
-	\verse{%
-		When soldiers march to war, you’ll see:\\%
-		They drink, they drink!\\%
-		And generals in their bunkers then?\\%
-		They drink, they drink!\\%
-		Cause war is pure hell and they know it’s quite rotten,\\%
-		When one guy can end it by pushing a button,\\%
-		So drink and sing and drink and sing and drink and sing and drink and sing and...\\%
-	}
-	\verse{%
-		Trink, trink...\\%
-	}
-	\verse{%
-		\textit{(Songmaster solo:)}\\%
-		High up in a fir tree right under the branches,\\%
-		There lives a small squirrel with its little stashes.\\%
-		\textit{(Everyone:)}\\%
-		It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...\\%
-	}
-	\verse{%
-		Trink, trink...\\%
+		Nyt!\\%
 	}
 }
 
-livetarharligt = Livet är Härligt = {%
+fi_hyvatystavat =  Hyvät Ystävät = {%
+	\verse{%
+		Hyvät ystävät juhla voi alkaa\\%
+		Sankarille me nostamme maljaa\\%
+		:;: Tääll’ ei juodakaan kolmosen kaljaa\\%
+		Meille viihdyn suo samppanja vaan :;:\\%
+	}
+	\verse{%
+		Hauska juomia kurkkuun on suistaa\\%
+		Siten teekkariaikoja muistaa\\%
+		:;: Yhteinen juomalaulumme luistaa\\%
+		Juhlamieli on parhaimmillaan :;:\\%
+	}
+}
+
+sw_livetarharligt =  Livet är Härligt = {%
 	\verse{%
 		Livet är härligt, HEJ!\\%
 		Tavaritj, vårt liv är härligt.\\%
@@ -2810,7 +2807,7 @@ livetarharligt = Livet är Härligt = {%
 	}
 }
 
-helangar = Helan Går = {%
+sw_helangar =  Helan Går = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
 		En liten fågel satt en gång,\\%
@@ -2833,24 +2830,27 @@ helangar = Helan Går = {%
 	}
 }
 
-nyt = A Finnish Drinking Song = {%
+hu_yoszefvaros =  Yoszefváros = {%
 	\verse{%
-		Nyt!\\%
+		:;: Yo-Yo-Yozsefváros (x3)\\%
+		Sötét ez a hely, há-há-há, világos :;:\\%
 	}
 }
 
-hyvatystavat = Hyvät Ystävät = {%
+hu_yoszefvaros_long =  Yoszefváros = {%
 	\verse{%
-		Hyvät ystävät juhla voi alkaa\\%
-		Sankarille me nostamme maljaa\\%
-		:;: Tääll’ ei juodakaan kolmosen kaljaa\\%
-		Meille viihdyn suo samppanja vaan :;:\\%
+		Yo, yo, hogy itt vagyunk\\%
+		Most végre valamit bemutathatunk\\%
+		Ez a Yozsefváros, a mi tanyánk\\%
+		Itt nevelt fel minket a yoanyánk\\%
+		Ahol velünk együtt már sok hülye felnőtt\\%
+		Hiába, ez a hely a szívünkhöz nőtt\\%
+		A kérdésem csak ennyi, yo elég!\\%
+		Ez mind-mind egy yozsefvárosi utcakép!\\%
 	}
 	\verse{%
-		Hauska juomia kurkkuun on suistaa\\%
-		Siten teekkariaikoja muistaa\\%
-		:;: Yhteinen juomalaulumme luistaa\\%
-		Juhlamieli on parhaimmillaan :;:\\%
+		:;: Yo-Yo-Yozsefváros (x3)\\%
+		Sötét ez a hely, há-há-há, világos :;:\\%
 	}
 }
 

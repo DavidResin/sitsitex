@@ -1,6 +1,7 @@
-import re
+import os, re
 import markdown as md
 
+# Read markdown song
 def from_md(lines):
 	# state can be :
 	# - 0 (beginning)
@@ -22,7 +23,7 @@ def from_md(lines):
 		if state == 0:
 			if l == "":
 				print("WARNING: Useless empty line in markdown")
-			elif len(l) > 2 and l[:2] == "# ":
+			elif len(l) > 2 and l[:3] == "## ":
 				song["title"] = l[2:]
 				state = 1
 			else:
@@ -32,8 +33,8 @@ def from_md(lines):
 		elif state == 1:
 			if l == "":
 				print("WARNING: Useless empty line in markdown")
-			elif len(l) > 6 and l[:6] == "##### ":
-				song["code"] = l[6:]
+			elif len(l) > 6 and l[:12] == "##### Code: ":
+				code = l[12:]
 				state = 2
 			else:
 				invalid = True
@@ -102,10 +103,12 @@ def from_md(lines):
 		if invalid:
 			print("ERROR: Invalid markdown, please check the style guide")
 			print("Line: " + l)
+			print("State: " + str(state))
+			print(lines)
 			return None
 
 	if state == 4:
-		return song
+		return code, song
 	else:
 		if state == 0:
 			missing = "title"
@@ -117,6 +120,7 @@ def from_md(lines):
 		print("ERROR: Incomplete markdown, " + missing + " missing")
 		return None
 
+# Read latex song
 def from_latex(lines):
 	# state can be :
 	# - 0 (beginning)
@@ -150,7 +154,7 @@ def from_latex(lines):
 			if bool(match):
 				seg = match.groupdict()
 				song["title"] = seg["title"]
-				song["code"] = seg["code"]
+				code = seg["code"]
 				state = 1
 			else:
 				invalid = True
@@ -222,7 +226,7 @@ def from_latex(lines):
 			return None
 
 	if state == 3:
-		return song
+		return code, song
 	else:
 		if state == 0:
 			missing = "title and code"
@@ -234,11 +238,12 @@ def from_latex(lines):
 		print("ERROR: Incomplete latex, " + missing + " missing")
 		return None
 
-def to_md(song):
+# Write markdown song
+def to_md(code, song):
 	try:
 		# Add title and code lines
-		lines = [ "# " + song['title'] ]
-		lines += [ ("#" * 5) + " " + song['code'] ]
+		lines = [ "## " + song['title'] ]
+		lines += [ ("#" * 5) + " " + code ]
 
 		# Add subtitle if present
 		subtitle = song["subtitle"]
@@ -269,19 +274,22 @@ def to_md(song):
 
 			lines += v_arr + [""]
 	except:
-		print("ERROR: Invalid song")
+		print("ERROR: Invalid song with code '" + code + "'")
 		return None
 
 	# Return lines with added suffix
 	return [ l + "  \n" for l in lines ]
 
-def to_latex(song):
+# Write latex song
+def to_latex(code, song):
+	lines = []
+
 	try:
 		# Add subtitle if present
-		subtitle = song["subtitle"]
+		subtitle = song.get("subtitle")
 
-		if subtitle != "":
-			lines = [ f"\\sing{{{subtitle}}}" ]
+		if subtitle:
+			lines += [ f"\\sing{{{subtitle}}}" ]
 
 		# Generate verses
 		for verse in song["verses"]:
@@ -303,16 +311,20 @@ def to_latex(song):
 
 				v_arr += ["".join(l_arr)]
 
-			lines += [ "\\verse{" ] + [ "\t" + v + "\\\\" for v in v_arr ] + ["}"]
+			lines += [ "\\verse{%" ] + [ "\t" + v + "\\\\%" for v in v_arr ] + ["}"]
 
 		# Tabulate all inner lines
 		lines = [ "\t" + line for line in lines ]
 
 		# Add opening and closing lines
-		newline = f"{song['code']} = {song['title']} = {{"
+		newline = f"{code} = {song['title']} = {{%"
 		lines = [ newline ] + lines + ["}"]
 	except:
-		print("ERROR: Invalid song")
+		import pprint
+		pp = pprint.PrettyPrinter(indent=4)
+		pp.pprint(song)
+
+		print("ERROR: Invalid song with code '" + code + "'")
 		return None
 
 	# Append each open line with a comment sign
@@ -323,18 +335,52 @@ def to_latex(song):
 	# Return lines with added suffix
 	return [ l + "\n" for l in lines ]
 
-song = {
-	"title": "TITLE",
-	"subtitle": "SUB",
-	"code": "CODE",
-	"verses": [
-		[
-			[
-				{
-					"v": "(Solo:)",
-					"s": "i",
-				},
-			],
-		],
-	],
-}
+# Parse markdown song file
+def parse_md(fn, lines):
+	language = None
+	songs = {}
+
+	if lines[0][:2] == "# ":
+		language = lines[0].strip().split("in ")[-1]
+
+	ids = [i for l, i in zip(lines, range(len(lines))) if l[:3] == "## "]
+	end = len(lines)
+
+	for i in ids[::-1]:
+		code, song = from_md(lines[i:end])
+
+		if songs.get(code):
+			print("ERROR: Duplicate song code '" + code + "' in " + fn)
+
+		songs[code] = song
+		end = i
+
+	return language, songs
+
+def generate_song_file(path):
+	filenames = [e for e in os.listdir(path) if e[-3:] == ".md"]
+	song_sets = {}
+
+	for fn in filenames:
+
+		with open(os.path.join(path, fn), "r") as f:
+			lines = f.readlines()
+			language, songs = parse_md(fn, lines)
+			key = fn.split(".md")[0]
+
+			print("Processing " + lines[0][2:-1])
+
+			song_sets[key] = {
+				"language": language,
+				"songs": songs,
+			}
+
+	with open("songbook.dat", "w") as f:
+		for key in song_sets.keys():
+			song_set = song_sets[key]["songs"]
+
+			for code in song_set.keys():
+				song = song_set[code]
+
+				f.writelines(to_latex(key + "_" + code, song))
+				f.write("\n")
