@@ -4,7 +4,6 @@ Here is the standard format for a song:
 
 # Title
 ##### codeofthesong
-
 - Subtitle
 
 > Comments

@@ -40,7 +40,10 @@ def from_md(lines):
 
 		# Parse end of verse or comment to ignore
 		elif l == "" or l[0] == ">":
-			in_verse == False
+			in_verse = False
+			
+			if state < 3:
+				state = 4
 
 		# Parse subtitle
 		elif state == 2 and l[0] == '-':
@@ -51,7 +54,7 @@ def from_md(lines):
 				invalid = True
 
 		# Parse verses
-		elif state in [3, 4]:
+		elif state in [2, 3, 4]:
 			if not in_verse:
 				song["verses"].append([])
 				in_verse = True
@@ -115,20 +118,133 @@ def from_md(lines):
 		return None
 
 def from_latex(lines):
-	pass
+	# state can be :
+	# - 0 (beginning)
+	# - 1 (waiting for verse)
+	# - 2 (in verse)
+	# - 3 (end)
+	state = 0
+	song = {"verses" : []}
+	invalid = False
+
+	patterns = [("_" * i, t) for i, t in zip([3, 2, 1], ['bi', 'b', 'i'])]
+
+	for l in lines:
+		# Remove useless clutter
+		if l[-1] == "\n":
+			l = l[:-1]
+
+		if l[-1] == "%":
+			l = l[:-1]
+
+		if l[-2:] == "\\\\":
+			l = l[:-2]
+
+		l = l.strip()
+
+		# Parse title & code
+		if state == 0:
+			pat = "^(?P<code>.+) = (?P<title>.+) = {$"
+			match = re.match(pat, l)
+			
+			if bool(match):
+				seg = match.groupdict()
+				song["title"] = seg["title"]
+				song["code"] = seg["code"]
+				state = 1
+			else:
+				invalid = True
+
+		# Parse verse start or subtitle
+		elif state == 1:
+			pat = "^\\\sing{(?P<subtitle>.+)}$"
+			match = re.match(pat, l)
+
+			if bool(match):
+				seg = match.groupdict()
+				song["subtitle"] = seg["subtitle"]
+			elif l == "\\verse{":
+				song["verses"].append([])
+				state = 2
+			elif l == "}":
+				state = 3
+			else:
+				invalid = True
+
+		# Parse verse content and end
+		elif state == 2:
+			if l == "}":
+				if len(song["verses"][-1]):
+					state = 1
+				else:
+					invalid = True
+			else:
+				style = ""
+				line = []
+
+				elems = [e for e in l \
+					.replace("\\", "*\\") \
+					.replace("{", "{*") \
+					.replace("}", "*}*").split("*") if len(e)]
+
+				for e in elems:
+					if e == "\\textbf{":
+						style += "b"
+					elif e == "\\textit{":
+						style += "i"
+					elif e == "}":
+						style = style[:-1]
+					else:
+						entry = {}
+
+						entry["s"] = ("b" if "b" in style else "") + ("i" if "i" in style else "")
+						entry["v"] = e
+
+						line.append(entry)
+
+				# Test if all style fields are closed
+				if len(style):
+					invalid = True
+				else:
+					song["verses"][-1].append(line)
+
+		# Check for extra lines
+		elif state == 3:
+			invalid = True
+		else:
+			print("ERROR: Illegal state: ", str(state))
+			return None
+
+		if invalid:
+			print("ERROR: Invalid latex, please check the style guide")
+			print("Line: " + l)
+			print("State: " + str(state))
+			return None
+
+	if state == 3:
+		return song
+	else:
+		if state == 0:
+			missing = "title and code"
+		elif state == 1:
+			missing = "end of song"
+		else:
+			missing = "end of verse"
+
+		print("ERROR: Incomplete latex, " + missing + " missing")
+		return None
 
 def to_md(song):
 	try:
 		# Add title and code lines
 		lines = [ "# " + song['title'] ]
 		lines += [ ("#" * 5) + " " + song['code'] ]
-		lines += [""]
 
 		# Add subtitle if present
 		subtitle = song["subtitle"]
 
 		if subtitle != "":
-			lines += [ f"- {{subtitle}}" ]
+			lines += [ f"- {subtitle}" ]
 			lines += [""]
 
 		# Generate verses
