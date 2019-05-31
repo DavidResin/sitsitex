@@ -375,7 +375,7 @@ def generate_song_file(path):
 				"songs": songs,
 			}
 
-	with open("songbook.dat", "w") as f:
+	with open("songs.dat", "w") as f:
 		for key in song_sets.keys():
 			song_set = song_sets[key]["songs"]
 

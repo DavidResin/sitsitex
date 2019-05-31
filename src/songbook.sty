@@ -25,7 +25,7 @@
 \usepackage[T1]{fontenc}
 
 % For data extraction from external file
-\usepackage{datatool, readarray}
+\usepackage{datatool,readarray}
 
 % Allows to set line spacing in songs
 \usepackage{setspace}
@@ -192,7 +192,7 @@
 
 % Setup for the data extractor
 \DTLsetseparator{ = }
-\DTLloaddb[noheader, keys={key,title,text}]{mydata}{songbook.dat}
+\DTLloaddb[noheader, keys={key,title,text}]{mydata}{data/songs.dat}
 
 % Automatic data extractor and formatter for song data
 \renewcommand{\song}[1]{%
@@ -234,6 +234,7 @@
 	\end{enumerate}\bigskip
 }
 
+% Displays the seating instructions
 \newcommand{\seating}{
 	\noindent\textbf{\Large Toasting}\medskip\\
 	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on the other side and finally with the person in front. You should always look the person you're toasting with in the eyes!\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
@@ -267,11 +268,12 @@
 	\end{center}
 }
 
+% Displays the license
 \newcommand{\license}{
 	\texttransparent{0.5}{
 		\begin{tabular}{l|r}
 		Made with Sitsi\TeX{} v0.2 & \multirow{3}{*}{\raggedright%
-			\includegraphics[width=.2\textwidth]{test.png}
+			\includegraphics[width=.2\textwidth]{images/repo-qr.png}
 		} \\
 		\textcopyright{} 2017--2019 David Resin & \\
 		Freely available under GNU GPLv3 & \\

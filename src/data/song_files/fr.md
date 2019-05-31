@@ -4,7 +4,7 @@
 ## Il est des nôtres
 ##### Code: ilestdesnotres  
   
-:;: Ami(e) ***name*** lève ton verre  
+:;: Ami(e) ..... lève ton verre  
 Et surtout, ne le renverse pas :;:  
 Et porte le  
 Au frontibus  
@@ -350,7 +350,7 @@ En Switzerland vous serez bienvenus
 Tous les matins...  
 
 ## La Tristitude
-##### Code: tristitude2  
+##### Code: tristitude_2  
   
 La Tristitude,  
 C'est quand tu dois aller chez le prêtre à 12 ans,  
@@ -497,7 +497,7 @@ J'entends le loup et le renard chanter! :;:
 C'est à ce moment-là qu'il faut lever les bras! :;:  
 
 ## Mais qui est la Belette?
-##### Code: labeletteLong  
+##### Code: labelette_long  
   
 :;: J'entends le loup, le renard et la belette,  
 J'entends le loup et le renard chanter! :;:  
@@ -526,6 +526,36 @@ Au moment de tout lister, j’ai bien envie de pleurer,
 Caaaaaar...  
   
 _(Everyone:)_  
+J’ai une épée molle, des bottes qui rigolent,  
+Un bouclier rose et bleu, une armure qui craint le feu.  
+J’ai un casque en tôle, une ceinture qui colle,  
+Un caillou défectueux, une arbalète pour les vieux.  
+Et la suite n’est pas mieux...  
+  
+J’ai des gants débiles, des sardines à l’huile,  
+Une cape qui sent le bouc, un chapeau qui me rend plouc,  
+J’ai un arc en laine, un chandail en chêne,  
+Un couteau de 20 kilos, une hache pour fendre l’eau,  
+Et la suite c’est cadeau...  
+  
+J’ai une bouillotte, une potion de flotte,  
+Un parchemin pour vêler, des godasses qui font danser,  
+J’ai l’anneau magique qui rend alcoolique,  
+Et cet anneau le voici, grâce à lui je suis ici!  
+
+## Gégène (WIP)
+##### Code: gegene_solo  
+  
+Il approche le moment, avant de m’aventurer,  
+Je bois tout en équipant mon beau sac d’aventurier,  
+Que faut-il que je prépare ? Ai-je assez pour m’équiper?  
+Au milieu de ces déboires, j’ai bien envie de pleurer,  
+Caaaaaar...  
+
+bois, boire, aboyer, boite, eboua, flamboie, pourboire, hautbois, framboise
+
+Des gants qui donnent des ulcères, des framboises pour le dessert,
+  
 J’ai une épée molle, des bottes qui rigolent,  
 Un bouclier rose et bleu, une armure qui craint le feu.  
 J’ai un casque en tôle, une ceinture qui colle,  
@@ -590,3 +620,32 @@ D’autres villages endormis, les comédiens.
   
 :;: Viens voir les comédiens... :;:  
 
+## Chanson Grivoise
+##### Code: chansongrivoise
+
+Hier soir à la télé y'avait un film très osé,
+Me suis dit "Ca tombe bien, je voulais me ......",
+La première scène, y'avait un mec et deux belles acolytes,
+Idéal pour virevolter ma .......
+
+Pourtant moi ça ne me fait que dalle,
+J'aime mieux regarder le journal,
+Ce type de cinéma ne plaît qu'à un anormal.
+
+Mais tout à coup y'a la scène dans le train avec un monsieur,
+Et une passagère qui lui ronge la ......,
+Il la remercie et puis lui propose en plus,
+De la lui introduire dans l'.......
+
+D'habitude, ça ne me fait rien du tout,
+Ces scénarios un peu fous,
+Mais pourrrrquoi ne pas en voirrrr encorrrre un p'tit bout?
+
+Mais maintenant ça y est c'est la scène du garagiste,
+Avec la pompiste qui lui ...... les ......,
+Le voilà qui la ...... dans la ...... avec ardeur,
+Pendant qu'elle ...... sous le radiateur.
+
+Mais ça ne me fait pas grand-chose,
+Tous ces mouvements de chair rose,
+Tiens, je crois qu'ça continue après la pause.

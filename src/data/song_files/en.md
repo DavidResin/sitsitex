@@ -951,6 +951,16 @@ Oh my darling...
 ##### Code: whoisafreshman  
   
 :;: Who is a freshman of XX  
+Stand up on your chair. :;:  
+Take your drink into your hand  
+Then raise it up to your lips and  
+:;: Drink up, drink up, drink up, drink up.  
+Drink up, drink bottoms up! :;:  
+
+## Who is a Freshman
+##### Code: whoisafreshman_safe  
+  
+:;: Who is a freshman of XX  
 Stand up, stand up right now. :;:  
 Take your drink into your hand  
 Then raise it up to your lips and  
@@ -1154,6 +1164,8 @@ Down and down into the deep,
 Who knows what we'll find beneath?  
 Diamonds, rubies, gold and more,  
 Hidden in the mountain store.  
+
+_(Bang the drums!)_  
   
 _(Everyone:)_  
 Born underground,  
@@ -1164,6 +1176,8 @@ Skin made of iron,
 Steel in our bones,  
 To dig and dig makes us free!  
 Come on brothers sing with me!  
+
+_(Bang the drums!)_  
   
 I am a dwarf and I'm digging a hole,  
 Diggy diggy hole, diggy diggy hole!  
@@ -1180,6 +1194,8 @@ Fill a glass and down some mead!
 Stuff your bellies at the feast!  
 Stumble home and fall asleep,  
 Dreaming in our mountain keep.  
+
+_(Bang the drums!)_  
   
 _(Everyone:)_  
 Born underground,  
@@ -1190,6 +1206,8 @@ Face us on the battlefield,
 You will meet your doom.  
 We do not fear what lies beneath!  
 We can never dig too deep!  
+
+_(Bang the drums!)_  
   
 :;: I am a dwarf... :;:  
 
@@ -1255,3 +1273,73 @@ I SMOKED THEM ALL!
 And that’s the end...  
 ‘TILL NEXT WEEK!  
 
+## Get Lucky
+##### Code: getlucky
+  
+We've come too far,  
+To give up who we are.  
+So let's raise the bar,  
+And our cups to the stars.  
+  
+She's up all night 'til the sun,  
+I'm up all night to get some,  
+She's up all night for good gun,  
+I'm up all night to get lucky.  
+  
+We're up all night 'til the sun...  
+  
+## The Internet
+##### Code: internetisforporn
+  
+_(Solo:)_ The internet is really really great.  
+_(All:)_ For porn!  
+_(Solo:)_ I got a fast connection so I didn't have to wait.  
+_(All:)_ For porn!  
+_(Solo:)_ There's always some new site.  
+_(All:)_ For porn!  
+_(Solo:)_ I browse all day and night.  
+_(All:)_ For porn!  
+_(Solo:)_ It's like I'm surfing at the speed of light.  
+_(All:)_ For porn!  
+  
+:;: The internet is for porn! :;:  
+Why do you think the net was born?  
+Porn! Porn! Porn!  
+  
+_(Solo:)_ I'm glad we have this new technology.  
+_(All:)_ For porn. (oop!)  
+_(Solo:)_ Which gives us untold opportunity.  
+_(All:)_ For porn. (ooops, sorry!)  
+_(Solo:)_ Right from your own desktop.  
+_(All:)_ For p----.  
+_(Solo:)_ You can research, browse and shop, until you've had enough and you're ready to stop!  
+_(All:)_ For porn!  
+  
+:;: The internet is for porn! :;:  
+Me up all night honking me  
+Horn to porn, porn, porn!  
+  
+:;: The internet is for porn! :;:  
+All these guys unzip their flies for  
+Porn! Porn! Porn!  
+  
+:;: The internet is for porn! :;:  
+Grab your dick and double click  
+For porn! Porn! Porn!  
+Poooorn!  
+Poooorn!  
+The internet is for,  
+Internet is for,  
+Internet is for porn! HAAAA!  
+  
+## In Heaven (WIP)
+##### Code: inheaven
+
+In Heaven there is no beer,
+That's why we drink it here.
+And when we are gone from here,
+Our friends will be drinking all our beer.
+
+In Heaven there is no wine, (no wine?)
+Well that's why we drink moonshine.
+And when we drink moonshine,

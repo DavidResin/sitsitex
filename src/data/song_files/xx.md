@@ -10,7 +10,8 @@ Just drink, just drink!
 And if she keeps nagging just go ahead ‘n ditch her,  
 There’s plenty of fish in the ocean to capture,  
 Just drink and sing and drink and sing and drink and sing and drink and sing and...  
-  
+
+_(Left and Right)_  
 Trink, trink, Brüderlein trink  
 Lass doch die Sorgen zu Haus!  
 Trink (HEY!), trink (HEY!), Brüderlein trink  
@@ -29,6 +30,7 @@ Cause war is pure hell and they know it’s quite rotten,
 When one guy can end it by pushing a button,  
 So drink and sing and drink and sing and drink and sing and drink and sing and...  
   
+_(Back and Forth)_  
 Trink, trink...  
   
 _(Songmaster solo:)_  
@@ -37,6 +39,7 @@ There lives a small squirrel with its little stashes.
 _(Everyone:)_  
 It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...  
   
+_(Up and Down)_  
 Trink, trink...  
 
 ## Minne

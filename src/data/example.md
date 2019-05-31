@@ -23,7 +23,7 @@ Verse 2 Verse 2 Verse 2 Verse 2
 :;: Repeat Repeat Repeat :;:  
 Repeat More Repeat More (x3)  
 
-Absence of a *title* and a *code* will prevent your song to be used and might mess up other songs in the process!
+Absence of a *title* and a *code* will prevent your song to be used!
 
 - The **title**, which must be preceeded by `#`. Here we wrote `# Title`.
 - The **code**, which must be preceeded by `#####` (5 times). Here we wrote `##### Code: codeofthesong`. **This code is very important**, as it will allow you to select the song for use in the songbook.
@@ -41,6 +41,5 @@ Absence of a *title* and a *code* will prevent your song to be used and might me
     - `*ITALIC*` or `_ITALIC_`
     - `**BOLD**` or `__BOLD__`
     - `***BOTH AT ONCE***` or `___BOTH AT ONCE___`
-
 
 **Double spaces are needed** at the end of each line. Some markdown viewers will not break those lines otherwise. The compilation script is a nice fellow and will fix your song bank where double spaces are missing. When in doubt, just run it once!  

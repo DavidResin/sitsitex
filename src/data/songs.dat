@@ -332,6 +332,7 @@ xx_trink =  Just Drink = {%
 		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\%
 	}
 	\verse{%
+		\textit{(Left and Right)}\\%
 		Trink, trink, Brüderlein trink\\%
 		Lass doch die Sorgen zu Haus!\\%
 		Trink (HEY!), trink (HEY!), Brüderlein trink\\%
@@ -352,6 +353,7 @@ xx_trink =  Just Drink = {%
 		So drink and sing and drink and sing and drink and sing and drink and sing and...\\%
 	}
 	\verse{%
+		\textit{(Back and Forth)}\\%
 		Trink, trink...\\%
 	}
 	\verse{%
@@ -362,6 +364,7 @@ xx_trink =  Just Drink = {%
 		It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...\\%
 	}
 	\verse{%
+		\textit{(Up and Down)}\\%
 		Trink, trink...\\%
 	}
 }
@@ -403,6 +406,88 @@ es_alcohol =  Alcohol = {%
 		Hemos venido\\%
 		A emborracharnos\\%
 		El resultado nos da igual\\%
+	}
+}
+
+en_inheaven =  In Heaven (WIP) = {%
+	\verse{%
+		In Heaven there is no beer,\\%
+		That's why we drink it here.\\%
+		And when we are gone from here,\\%
+		Our friends will be drinking all our beer.\\%
+	}
+	\verse{%
+		In Heaven there is no wine, (no wine?)\\%
+		Well that's why we drink moonshine.\\%
+		And when we drink moonshine,\\%
+	}
+}
+
+en_internetisforporn =  The Internet = {%
+	\verse{%
+		\textit{(Solo:)} The internet is really really great.\\%
+		\textit{(All:)} For porn!\\%
+		\textit{(Solo:)} I got a fast connection so I didn't have to wait.\\%
+		\textit{(All:)} For porn!\\%
+		\textit{(Solo:)} There's always some new site.\\%
+		\textit{(All:)} For porn!\\%
+		\textit{(Solo:)} I browse all day and night.\\%
+		\textit{(All:)} For porn!\\%
+		\textit{(Solo:)} It's like I'm surfing at the speed of light.\\%
+		\textit{(All:)} For porn!\\%
+	}
+	\verse{%
+		:;: The internet is for porn! :;:\\%
+		Why do you think the net was born?\\%
+		Porn! Porn! Porn!\\%
+	}
+	\verse{%
+		\textit{(Solo:)} I'm glad we have this new technology.\\%
+		\textit{(All:)} For porn. (oop!)\\%
+		\textit{(Solo:)} Which gives us untold opportunity.\\%
+		\textit{(All:)} For porn. (ooops, sorry!)\\%
+		\textit{(Solo:)} Right from your own desktop.\\%
+		\textit{(All:)} For p----.\\%
+		\textit{(Solo:)} You can research, browse and shop, until you've had enough and you're ready to stop!\\%
+		\textit{(All:)} For porn!\\%
+	}
+	\verse{%
+		:;: The internet is for porn! :;:\\%
+		Me up all night honking me\\%
+		Horn to porn, porn, porn!\\%
+	}
+	\verse{%
+		:;: The internet is for porn! :;:\\%
+		All these guys unzip their flies for\\%
+		Porn! Porn! Porn!\\%
+	}
+	\verse{%
+		:;: The internet is for porn! :;:\\%
+		Grab your dick and double click\\%
+		For porn! Porn! Porn!\\%
+		Poooorn!\\%
+		Poooorn!\\%
+		The internet is for,\\%
+		Internet is for,\\%
+		Internet is for porn! HAAAA!\\%
+	}
+}
+
+en_getlucky =  Get Lucky = {%
+	\verse{%
+		We've come too far,\\%
+		To give up who we are.\\%
+		So let's raise the bar,\\%
+		And our cups to the stars.\\%
+	}
+	\verse{%
+		She's up all night 'til the sun,\\%
+		I'm up all night to get some,\\%
+		She's up all night for good gun,\\%
+		I'm up all night to get lucky.\\%
+	}
+	\verse{%
+		We're up all night 'til the sun...\\%
 	}
 }
 
@@ -499,6 +584,9 @@ en_diggydiggyhole =  Diggy Diggy Hole = {%
 		Hidden in the mountain store.\\%
 	}
 	\verse{%
+		\textit{(Bang the drums!)}\\%
+	}
+	\verse{%
 		\textit{(Everyone:)}\\%
 		Born underground,\\%
 		Suckled from a teat of stone.\\%
@@ -508,6 +596,9 @@ en_diggydiggyhole =  Diggy Diggy Hole = {%
 		Steel in our bones,\\%
 		To dig and dig makes us free!\\%
 		Come on brothers sing with me!\\%
+	}
+	\verse{%
+		\textit{(Bang the drums!)}\\%
 	}
 	\verse{%
 		I am a dwarf and I'm digging a hole,\\%
@@ -529,6 +620,9 @@ en_diggydiggyhole =  Diggy Diggy Hole = {%
 		Dreaming in our mountain keep.\\%
 	}
 	\verse{%
+		\textit{(Bang the drums!)}\\%
+	}
+	\verse{%
 		\textit{(Everyone:)}\\%
 		Born underground,\\%
 		Grown inside a rocky womb.\\%
@@ -538,6 +632,9 @@ en_diggydiggyhole =  Diggy Diggy Hole = {%
 		You will meet your doom.\\%
 		We do not fear what lies beneath!\\%
 		We can never dig too deep!\\%
+	}
+	\verse{%
+		\textit{(Bang the drums!)}\\%
 	}
 	\verse{%
 		:;: I am a dwarf... :;:\\%
@@ -767,10 +864,21 @@ en_eurovision_lausanne =  Eurovision = {%
 	}
 }
 
-en_whoisafreshman =  Who is a Freshman = {%
+en_whoisafreshman_safe =  Who is a Freshman = {%
 	\verse{%
 		:;: Who is a freshman of XX\\%
 		Stand up, stand up right now. :;:\\%
+		Take your drink into your hand\\%
+		Then raise it up to your lips and\\%
+		:;: Drink up, drink up, drink up, drink up.\\%
+		Drink up, drink bottoms up! :;:\\%
+	}
+}
+
+en_whoisafreshman =  Who is a Freshman = {%
+	\verse{%
+		:;: Who is a freshman of XX\\%
+		Stand up on your chair. :;:\\%
 		Take your drink into your hand\\%
 		Then raise it up to your lips and\\%
 		:;: Drink up, drink up, drink up, drink up.\\%
@@ -1901,6 +2009,42 @@ en_marchofthewaterboys =  March of the Water-Boys = {%
 	}
 }
 
+fr_chansongrivoise =  Chanson Grivoise = {%
+	\verse{%
+		Hier soir à la télé y'avait un film très osé,\\%
+		Me suis dit "Ca tombe bien, je voulais me ......",\\%
+		La première scène, y'avait un mec et deux belles acolytes,\\%
+		Idéal pour virevolter ma .......\\%
+	}
+	\verse{%
+		Pourtant moi ça ne me fait que dalle,\\%
+		J'aime mieux regarder le journal,\\%
+		Ce type de cinéma ne plaît qu'à un anormal.\\%
+	}
+	\verse{%
+		Mais tout à coup y'a la scène dans le train avec un monsieur,\\%
+		Et une passagère qui lui ronge la ......,\\%
+		Il la remercie et puis lui propose en plus,\\%
+		De la lui introduire dans l'.......\\%
+	}
+	\verse{%
+		D'habitude, ça ne me fait rien du tout,\\%
+		Ces scénarios un peu fous,\\%
+		Mais pourrrrquoi ne pas en voirrrr encorrrre un p'tit bout?\\%
+	}
+	\verse{%
+		Mais maintenant ça y est c'est la scène du garagiste,\\%
+		Avec la pompiste qui lui ...... les ......,\\%
+		Le voilà qui la ...... dans la ...... avec ardeur,\\%
+		Pendant qu'elle ...... sous le radiateur.\\%
+	}
+	\verse{%
+		Mais ça ne me fait pas grand-chose,\\%
+		Tous ces mouvements de chair rose,\\%
+		Tiens, je crois qu'ça continue après la pause.\\%
+	}
+}
+
 fr_lescomediens =  Les Comédiens = {%
 	\verse{%
 		:;: Viens voir les comédiens,\\%
@@ -1955,6 +2099,42 @@ fr_lescomediens =  Les Comédiens = {%
 	}
 }
 
+fr_gegene_solo =  Gégène (WIP) = {%
+	\verse{%
+		Il approche le moment, avant de m’aventurer,\\%
+		Je bois tout en équipant mon beau sac d’aventurier,\\%
+		Que faut-il que je prépare ? Ai-je assez pour m’équiper?\\%
+		Au milieu de ces déboires, j’ai bien envie de pleurer,\\%
+		Caaaaaar...\\%
+	}
+	\verse{%
+		bois, boire, aboyer, boite, eboua, flamboie, pourboire, hautbois, framboise\\%
+	}
+	\verse{%
+		Des gants qui donnent des ulcères, des framboises pour le dessert,\\%
+	}
+	\verse{%
+		J’ai une épée molle, des bottes qui rigolent,\\%
+		Un bouclier rose et bleu, une armure qui craint le feu.\\%
+		J’ai un casque en tôle, une ceinture qui colle,\\%
+		Un caillou défectueux, une arbalète pour les vieux.\\%
+		Et la suite n’est pas mieux...\\%
+	}
+	\verse{%
+		J’ai des gants débiles, des sardines à l’huile,\\%
+		Une cape qui sent le bouc, un chapeau qui me rend plouc,\\%
+		J’ai un arc en laine, un chandail en chêne,\\%
+		Un couteau de 20 kilos, une hache pour fendre l’eau,\\%
+		Et la suite c’est cadeau...\\%
+	}
+	\verse{%
+		J’ai une bouillotte, une potion de flotte,\\%
+		Un parchemin pour vêler, des godasses qui font danser,\\%
+		J’ai l’anneau magique qui rend alcoolique,\\%
+		Et cet anneau le voici, grâce à lui je suis ici!\\%
+	}
+}
+
 fr_gegene =  Gégène = {%
 	\verse{%
 		\textit{(Songmaster solo:)}\\%
@@ -1987,7 +2167,7 @@ fr_gegene =  Gégène = {%
 	}
 }
 
-fr_labeletteLong =  Mais qui est la Belette? = {%
+fr_labelette_long =  Mais qui est la Belette? = {%
 	\verse{%
 		:;: J'entends le loup, le renard et la belette,\\%
 		J'entends le loup et le renard chanter! :;:\\%
@@ -2104,7 +2284,7 @@ fr_tristitude =  La Tristitude = {%
 	}
 }
 
-fr_tristitude2 =  La Tristitude = {%
+fr_tristitude_2 =  La Tristitude = {%
 	\verse{%
 		La Tristitude,\\%
 		C'est quand tu dois aller chez le prêtre à 12 ans,\\%
@@ -2580,7 +2760,7 @@ fr_chansondelataverne =  Pom popom popom = {%
 
 fr_ilestdesnotres =  Il est des nôtres = {%
 	\verse{%
-		:;: Ami(e) \textbf{\textit{name}} lève ton verre\\%
+		:;: Ami(e) ..... lève ton verre\\%
 		Et surtout, ne le renverse pas :;:\\%
 		Et porte le\\%
 		Au frontibus\\%
