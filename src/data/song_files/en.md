@@ -1311,13 +1311,15 @@ _(All:)_ For porn. (oop!)
 _(Solo:)_ Which gives us untold opportunity.  
 _(All:)_ For porn. (ooops, sorry!)  
 _(Solo:)_ Right from your own desktop.  
-_(All:)_ For p----.  
-_(Solo:)_ You can research, browse and shop, until you've had enough and you're ready to stop!  
+_(All:)_ For p-.  
+_(Solo:)_ You can research, browse and shop.  
+_(All:)_ ....  
+_(Solo:)_ Until you've had enough and you're ready to stop!  
 _(All:)_ For porn!  
   
 :;: The internet is for porn! :;:  
-Me up all night honking me  
-Horn to porn, porn, porn!  
+Me up all night honking me horn  
+To porn, porn, porn!  
   
 :;: The internet is for porn! :;:  
 All these guys unzip their flies for  
