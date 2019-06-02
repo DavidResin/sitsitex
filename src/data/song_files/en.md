@@ -1283,7 +1283,7 @@ And our cups to the stars.
   
 She's up all night 'til the sun,  
 I'm up all night to get some,  
-She's up all night for good gun,  
+She's up all night for good fun,  
 I'm up all night to get lucky.  
   
 We're up all night 'til the sun...  
