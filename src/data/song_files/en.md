@@ -72,12 +72,10 @@ Hey!
 ## Beer Cannon
 ##### Code: beercannon  
   
-Eichhof Lager, Eichhof Lager  
-Cardinal, Cardinal  
-Heineken and Boxer  
-Heineken and Boxer  
-Feldschlösschen  
-Feldschlösschen  
+:;: Eichhof Lager :;:  
+:;: Cardinal :;:  
+:;: Heineken and Boxer :;:  
+:;: Feldschlösschen :;:  
 
 ## Here's the First
 ##### Code: helangar_alternate  
@@ -212,22 +210,22 @@ Purr, purr, purr.
 ##### Code: eurovision  
 - To the tune of “Eurovision Theme”  
   
-The French drink Champagne and Chardonnay  
-In Germany they drink beer  
-In Russia they drink Vodka  
-In Finland we drink everything  
-So let's all raise a glass to that  
+The French drink Champagne and Chardonnay,  
+In Germany they drink beer,  
+In Russia they drink Vodka,  
+In Finland we drink everything,  
+So let's all raise a glass to that!  
   
-Austria exports kangaroos  
-Swedes export IKEA  
-Ukraine exports Crimea  
-Germany exports refugees  
-All Finland does is send them back  
+Austria exports kangaroos,  
+Swedes export IKEA,  
+Ukraine exports Crimea,  
+Germany exports refugees,  
+All Finland does is send them back!  
   
-Here we would've sung of the UK  
-But they went on and did a stupid thing they call "Brexit"  
-All hope is lost for England  
-But Scots and Irish, welcome back!  
+Here we would've sung of the UK,  
+But they went on and did a stupid thing they call "Brexit",  
+All hope is lost for England,  
+But Scots and Irish: welcome back!  
 
 ## Drunken Student
 ##### Code: drunkenstudent  
@@ -281,8 +279,7 @@ You big disgrace
 Kickin' your can all over the place, singin'  
   
 _(Everyone:)_  
-We will we will rock you  
-We will we will rock you  
+:;: We will we will rock you :;:  
   
 _(Songmaster solo:)_  
 Buddy you're a young man hard man  
@@ -292,8 +289,7 @@ You big disgrace
 Wavin' your banner all over the place  
   
 _(Everyone:)_  
-We will we will rock you  
-We will we will rock you  
+:;: We will we will rock you :;:  
   
 _(Songmaster solo:)_  
 Buddy you're an old man poor man  
@@ -303,8 +299,7 @@ Big disgrace
 Somebody better put you back into your place  
   
 _(Everyone:)_  
-We will we will rock you  
-We will we will rock you  
+:;: We will we will rock you :;:  
 
 ## I Love Rock'n'Roll
 ##### Code: iloverocknroll  
@@ -758,54 +753,46 @@ Some say the Devil is dead...
 ## My Lady in Red
 ##### Code: myladyinred_short  
   
-_(Songmaster solo:)_  
+_(Solo:)_  
 She's my Lady in red  
-_(Everyone:)_  
+_(All:)_  
 She's my Lady in red  
-_(Songmaster solo:)_  
+_(Solo:)_  
 She likes to do it in the bed  
-_(Everyone:)_  
+_(All:)_  
 She likes to do it in the bed  
   
-_(Songmaster solo:)_  
+_(Solo:)_  
 Singing na-na-na-na  
-_(Everyone:)_  
+_(All:)_  
 Singing na-na-na-na  
-_(Songmaster solo:)_  
+_(Solo:)_  
 Singing wo-ho-oh-ho  
-_(Everyone:)_  
+_(All:)_  
 Singing wo-ho-oh-ho  
   
-_(Songmaster solo:)_  
+_(Solo:)_  
 She's my Lady in...  
 
 ## My Lady in Red
 ##### Code: myladyinred  
   
-She's my Lady in red  
-She likes to do it in the bed  
-She's my Lady in red  
-She likes to do it in the bed  
+:;: She's my Lady in red  
+She likes to do it in the bed :;:  
   
-She's my Lady in yellow  
-She likes to do it with your fellow  
-She's my Lady in yellow  
-She likes to do it with your fellow  
+:;: She's my Lady in yellow  
+She likes to do it with your fellow :;:  
   
-She's my Lady in white  
-She likes to do it all night  
-She's my Lady in white  
-She likes to do it all night  
+:;: She's my Lady in white  
+She likes to do it all night :;:  
+  
+:;: She's my Lady in black  
+She likes to take it from the back :;:  
   
 She's my Lady in brown  
 She likes to do it upside-down  
 She's my Lady in brown  
 That one really goes to town  
-  
-She's my Lady in black  
-She likes to take it from the back  
-She's my Lady in black  
-She likes to take it from the back  
   
 She's my Lady in blue  
 She likes to do it with two  
@@ -1074,7 +1061,7 @@ And brought back my Bonnie to me!
   
 Bring back...  
 
-## The Lion sleeps tonight
+## The Lion Sleeps Tonight
 ##### Code: wimoweh  
   
 O-wimoweh (x16)  
@@ -1293,46 +1280,49 @@ We're up all night 'til the sun...
   
 _(Solo:)_ The internet is really really great.  
 _(All:)_ For porn!  
-_(Solo:)_ I got a fast connection so I didn't have to wait.  
+_(Solo:)_ I've got a fast connection so I don't have to wait.  
 _(All:)_ For porn!  
 _(Solo:)_ There's always some new site.  
 _(All:)_ For porn!  
 _(Solo:)_ I browse all day and night.  
 _(All:)_ For porn!  
-_(Solo:)_ It's like I'm surfing at the speed of light.  
-_(All:)_ For porn!  
+_(Solo:)_ It's like I'm surfing at the speed of light!  
+_(All:)_ Foooor poooorn!  
   
 :;: The internet is for porn! :;:  
 Why do you think the net was born?  
 Porn! Porn! Porn!  
   
 _(Solo:)_ I'm glad we have this new technology.  
-_(All:)_ For porn. (oop!)  
+_(All:)_ For porn! (oop!)  
 _(Solo:)_ Which gives us untold opportunity.  
-_(All:)_ For porn. (ooops, sorry!)  
+_(All:)_ For porn (ooops, sorry!)  
 _(Solo:)_ Right from your own desktop.  
-_(All:)_ For p-.  
+_(All:)_ For p-  
 _(Solo:)_ You can research, browse and shop.  
 _(All:)_ ....  
 _(Solo:)_ Until you've had enough and you're ready to stop!  
-_(All:)_ For porn!  
+_(All:)_ Foooor poooorn!  
   
 :;: The internet is for porn! :;:  
 Me up all night honking me horn  
-To porn, porn, porn!  
+To porn! Porn! Porn!  
+
+_(Solo:)_ That's gross. You're all perverts! ....  
   
 :;: The internet is for porn! :;:  
 All these guys unzip their flies for  
 Porn! Porn! Porn!  
+
+_(Solo:)_ HOLD ON A SECOND! ....  
   
 :;: The internet is for porn! :;:  
 Grab your dick and double click  
 For porn! Porn! Porn!  
-Poooorn!  
-Poooorn!  
+Poooorn! Poooorn!  
 The internet is for,  
 Internet is for,  
-Internet is for porn! HAAAA!  
+Internet is for porn! HAHAAA!  
   
 ## In Heaven (WIP)
 ##### Code: inheaven
@@ -1345,3 +1335,4 @@ Our friends will be drinking all our beer.
 In Heaven there is no wine, (no wine?)
 Well that's why we drink moonshine.
 And when we drink moonshine,
+tastes mighty fine!

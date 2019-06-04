@@ -257,41 +257,41 @@ The hangover won’t come at all!
 ## Internationalen
 ##### Code: internationalen_2  
   
-Lisää viinaa mun lasiin  
-Lisää laseja pöydälle  
-Lisää pöytiä näihin juhliin  
-Lisää juhlia kansalle  
-Lisää kansaa Suomeen  
-Lisää Suomea päälle maan  
-Lisää maata Suomelle  
+Lisää viinaa mun lasiin,  
+Lisää laseja pöydälle,  
+Lisää pöytiä näihin juhliin,  
+Lisää juhlia kansalle.  
+Lisää kansaa Suomeen,  
+Lisää Suomea päälle maan,  
+Lisää maata Suomelle,  
 Marssitaan, marssitaan, Karjalaan, KARJALAAN!  
   
-Mehr Sprit in die Gläser  
-Mehr Gläser auf den Tisch  
-Mehr Tische für dieses Fest  
-Mehr Feste für das Volk  
-Mehr Volk in den Wagen  
-Mehr Wagen auf die Bahn  
-Mehr Autobahnen für Europa  
+Mehr Sprit in die Gläser,  
+Mehr Gläser auf den Tisch,  
+Mehr Tische für dieses Fest,  
+Mehr Feste für das Volk.  
+Mehr Volk in den Wagen,  
+Mehr Wagen auf die Bahn,  
+Mehr Autobahnen für Europa,  
 Gib Gas, gib Gas du Arsch!  
   
-More booze in our glasses  
-More glasses on the bar  
-More bars for this small town of ours  
-More towns for this Free State  
-More states in America  
-More Americans on this Earth  
-More Earth for us to pump oil from  
+More booze in our glasses,  
+More glasses on the bar,  
+More bars for this small town of ours,  
+More towns for this Free State.  
+More states in America,  
+More Americans on this Earth,  
+More Earth for us to pump oil from,  
 Cheap gas is all we’re worth!  
   
-Plus de vin dans nos verres  
-Plus de verres sur la table  
-Plus de tables sous nos baguettes  
-Plus de baguettes pour la France  
-Plus de France pour la grève  
-Plus de grèves pour nos enfants  
-_Switch to “La Marseillaise”_  
-Plus d'enfants pour la patrie  
+Plus de vin dans nos verres,  
+Plus de verres sur la table,  
+Plus de tables sous nos baguettes,  
+Plus de baguettes pour la France.  
+Plus de France pour la grève,  
+Plus de grèves pour nos enfants,  
+_(Switch to “La Marseillaise”)_  
+Plus d'enfants pour la patrie,  
 Le jour de gloire est arrivé! ARRIVÉ!  
 
 ## Io Vivat
@@ -317,4 +317,3 @@ Jam tota Academia
 Nobiscum amet gaudia  
 Io vivat! Io vivat!  
 Nostrorum sanitas  
-

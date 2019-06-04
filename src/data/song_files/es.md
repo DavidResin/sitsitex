@@ -30,10 +30,10 @@ Bam ba bamba (x3)
 ## Spanish Toast
 ##### Code: spanishtoast  
   
-Arriba! (glasses up)  
-Abajo! (glasses down)  
-Al Lado! (to the left)  
-Al Otro! (to the right)  
-Al Centro! (to the center)  
-Para Dentro! (drink)  
+Arriba! _(glasses up)_  
+Abajo! _(glasses down)_  
+Al Lado! _(to the left)_  
+Al Otro! _(to the right)_  
+Al Centro! _(to the center)_  
+Para Dentro! _(drink)_  
 
