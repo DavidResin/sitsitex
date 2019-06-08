@@ -2,6 +2,7 @@ src/*
 !src/*.tex
 !src/*.sty
 !src/*.sh
+!src/*.dat
 
 src/aux_files/*
 !src/aux_files/.gitkeep

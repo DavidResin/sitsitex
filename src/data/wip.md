@@ -132,3 +132,16 @@ Sailing, moonlight in the skies
 Classes
   
 Party boats...  
+  
+## In Heaven
+##### Code: inheaven
+  
+In Heaven there is no beer,  
+That's why we drink it here.  
+And when we are gone from here,  
+Our friends will be drinking all our beer.  
+  
+In Heaven there is no wine, (no wine?)  
+Well that's why we drink moonshine.  
+And when we drink moonshine,  
+tastes mighty fine!  
