@@ -1,5 +1,0 @@
-aux_files/*
-!aux_files/.gitkeep
-data/__pycache__/*
-outputs/*
-!outputs/.gitkeep

@@ -34,34 +34,34 @@ get it with Renault!
 
 ## Chanson Grivoise
 ##### Code: chansongrivoise
-
-Hier soir à la télé y'avait un film très osé,
-Me suis dit "Ca tombe bien, je voulais me ......",
-La première scène, y'avait un mec et deux belles acolytes,
-Idéal pour virevolter ma .......
-
-Pourtant moi ça ne me fait que dalle,
-J'aime mieux regarder le journal,
-Ce type de cinéma ne plaît qu'à un anormal.
-
-Mais tout à coup y'a la scène dans le train avec un monsieur,
-Et une passagère qui lui ronge la ......,
-Il la remercie et puis lui propose en plus,
-De la lui introduire dans l'.......
-
-D'habitude, ça ne me fait rien du tout,
-Ces scénarios un peu fous,
-Mais pourrrrquoi ne pas en voirrrr encorrrre un p'tit bout?
-
-Mais maintenant ça y est c'est la scène du garagiste,
-Avec la pompiste qui lui ...... les ......,
-Le voilà qui la ...... dans la ...... avec ardeur,
-Pendant qu'elle ...... sous le radiateur.
-
-Mais ça ne me fait pas grand-chose,
-Tous ces mouvements de chair rose,
-Tiens, je crois qu'ça continue après la pause.
-
+  
+Hier soir à la télé y'avait un film très osé,  
+Me suis dit "Ca tombe bien, je voulais me ......",  
+La première scène, y'avait un mec et deux belles acolytes,  
+Idéal pour virevolter ma .......  
+  
+Pourtant moi ça ne me fait que dalle,  
+J'aime mieux regarder le journal,  
+Ce type de cinéma ne plaît qu'à un anormal.  
+  
+Mais tout à coup y'a la scène dans le train avec un monsieur,  
+Et une passagère qui lui ronge la ......,  
+Il la remercie et puis lui propose en plus,  
+De la lui introduire dans l'.......  
+  
+D'habitude, ça ne me fait rien du tout,  
+Ces scénarios un peu fous,  
+Mais pourrrrquoi ne pas en voirrrr encorrrre un p'tit bout?  
+  
+Mais maintenant ça y est c'est la scène du garagiste,  
+Avec la pompiste qui lui ...... les ......,  
+Le voilà qui la ...... dans la ...... avec ardeur,  
+Pendant qu'elle ...... sous le radiateur.  
+  
+Mais ça ne me fait pas grand-chose,  
+Tous ces mouvements de chair rose,  
+Tiens, je crois qu'ça continue après la pause.  
+  
 ## Gégène (WIP)
 ##### Code: gegene_solo  
   
@@ -96,11 +96,39 @@ Et cet anneau le voici, grâce à lui je suis ici!
 ##### mystudentloan
 - To the tune of  “Hej, Tomtegubbar”
 
-:;: My student loan is not enough,
-it goes to punch and brandy. :;: 
-For punch and brandy it is,
-and beautiful girls/boys occasionally. 
-My student loan is not enough,
-it goes to punch and brandy.
+:;: My student loan is not enough,  
+For all the beer and marijuana. :;:  
+It pays for clothes, as you can see,
+And beautiful [girls/boys] occasionally.   
+My student loan is not enough,  
+For all the beer and marijuana.
 
-NEEDS MORE VERSES
+:;: My student loan is not enough,  
+[something worse every time] :;:  
+
+:;: My student loan was not enough,  
+[something worse every time] :;:  
+
+## Lake Geneva
+##### lakegeneva
+- To the tune of "Take Me Home, Country Roads"
+
+Almost Heaven, Lake Geneva,  
+Pelican Beach, PGs near the water.  
+Life is good there, sitting near the trees,  
+Simpler than the classes, wilder than abroad.  
+Drinking 'til midnight,   breeze
+  
+Party boats, take me home,  
+To the place I belong.  
+Lake Geneva, student drama,  
+Take me home, party boats.  
+  
+All my memories gather 'round it,  
+Lakeside parties, Titanic Lémanique.  
+  
+Sailing, moonlight in the skies  
+
+Classes
+  
+Party boats...  

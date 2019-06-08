@@ -11,7 +11,7 @@ And if she keeps nagging just go ahead ‘n ditch her,
 There’s plenty of fish in the ocean to capture,  
 Just drink and sing and drink and sing and drink and sing and drink and sing and...  
 
-_(Left and Right)_  
+_(Lean left and right)_  
 Trink, trink, Brüderlein trink  
 Lass doch die Sorgen zu Haus!  
 Trink (HEY!), trink (HEY!), Brüderlein trink  
@@ -30,7 +30,7 @@ Cause war is pure hell and they know it’s quite rotten,
 When one guy can end it by pushing a button,  
 So drink and sing and drink and sing and drink and sing and drink and sing and...  
   
-_(Back and Forth)_  
+_(Lean back and forth)_  
 Trink, trink...  
   
 _(Songmaster solo:)_  
@@ -39,7 +39,7 @@ There lives a small squirrel with its little stashes.
 _(Everyone:)_  
 It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...  
   
-_(Up and Down)_  
+_(Stand up and sit down)_  
 Trink, trink...  
 
 ## Minne
@@ -102,9 +102,9 @@ Henkilökuntaa (x4)
 ## Ko-Ko-Ko-Koskenkorva
 ##### Code: koskenkorva  
   
-Ko-ko-ko-kosken ko-ko-ko-korvaa  
+Ko-ko-ko-kosken ko-ko-ko-korvaa,  
 Siitä aina kunnon räkä-kä-kännit saa.  
-Ko-ko-ko-kosken ko-ko-ko-korvaa  
+Ko-ko-ko-kosken ko-ko-ko-korvaa,  
 Siitä aina kunnon räkä-kä-kännit,  
 Aina kunnon räkä-kä-kännit,  
 Aina kunnon räkä-kä-kännit saa.  
@@ -115,46 +115,7 @@ What a wonderful way to get totally, totally drunk!
   
 Lalalalappeen rarararanta,  
 What a wonderful place to get totally, totally drunk!  
-...  
-
-## Internationalen
-##### Code: internationalen  
-  
-Mera brännvin i glasen,  
-Mera glas på vårt bord,  
-Mera bord på kalasen,  
-Mera kalas på vår jord.  
-Mera jordar kring månen,  
-Mera månar kring mars,  
-Mera marscher till Skåne,  
-Mera Skåne, bevars bevars bevars!  
-  
-Lisää viinaa mun lasiin,  
-lisää laseja pöydälle.  
-Lisää pöytiä näihin juhliin,  
-lisää juhlia kansalle.  
-Lisää kansaa Suomeen,  
-lisää Suomea päälle maan.  
-Lisää maata Suomelle,  
-Marssitaan, marssitaan, Karjalaan, KARJALAAN!  
-  
-Mehr Sprit in die Gläser,  
-mehr Gläser auf den Tisch,  
-mehr Tische für dieses Fest,  
-mehr Feste für das Volk.  
-Mehr Volk in den Wagen,  
-mehr Wagen auf die Bahn,  
-mehr Autobahnen für Europa.  
-Gib Gas, gib Gas du Arsch.  
-  
-More booze in our glasses  
-More glasses on the bar  
-More bars for this small town of ours  
-More towns for this Free State  
-More states in America  
-More Americans on this Earth  
-More Earth for us to pump oil from  
-Cheap gas is all we’re worth.  
+...   
 
 ## Vem i helvete
 ##### Code: vemihelvete  
@@ -174,7 +135,7 @@ Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)
 ## Dovakhiin
 ##### Code: dovakhiin  
   
-Who ! Hoa ! Rha ! (x8)  
+Who! Hoa! Rha! (x8)  
   
 Dovahkiin, Dovahkiin  
 Naal ok zin los vahriin  
@@ -198,7 +159,7 @@ Nuz aan sul, fent alok...
   
 Dovahkiin, Dovahkiin...  
   
-Who ! Hoa ! Haa ! Rha ! (x2)  
+Who! Hoa! Haa! Rha! (x2)  
 
 ## Tänään Otetaan
 ##### Code: tanaanotetaan  
@@ -253,6 +214,45 @@ Just drink, and drink, and drink some more,
 Tomorrow you’ll have a hangover,  
 But if you drink, and drink, and drink some more,  
 The hangover won’t come at all!  
+
+## Internationalen
+##### Code: internationalen  
+  
+Mera brännvin i glasen,  
+Mera glas på vårt bord,  
+Mera bord på kalasen,  
+Mera kalas på vår jord.  
+Mera jordar kring månen,  
+Mera månar kring mars,  
+Mera marscher till Skåne,  
+Mera Skåne, bevars bevars bevars!  
+  
+Lisää viinaa mun lasiin,  
+lisää laseja pöydälle.  
+Lisää pöytiä näihin juhliin,  
+lisää juhlia kansalle.  
+Lisää kansaa Suomeen,  
+lisää Suomea päälle maan.  
+Lisää maata Suomelle,  
+Marssitaan, marssitaan, Karjalaan, KARJALAAN!  
+  
+Mehr Sprit in die Gläser,  
+mehr Gläser auf den Tisch,  
+mehr Tische für dieses Fest,  
+mehr Feste für das Volk.  
+Mehr Volk in den Wagen,  
+mehr Wagen auf die Bahn,  
+mehr Autobahnen für Europa.  
+Gib Gas, gib Gas du Arsch.  
+  
+More booze in our glasses,  
+More glasses on the bar,  
+More bars for this small town of ours,  
+More towns for this Free State.  
+More states in America,  
+More Americans on this Earth,  
+More Earth for us to pump oil from,  
+Cheap gas is all we’re worth.  
 
 ## Internationalen
 ##### Code: internationalen_2  

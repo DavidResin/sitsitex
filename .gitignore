@@ -1,0 +1,13 @@
+src/*
+!src/*.tex
+!src/*.sty
+!src/*.sh
+
+src/aux_files/*
+!src/aux_files/.gitkeep
+
+src/data/__pycache__/*
+!src/data/.gitkeep
+
+src/outputs/*
+!src/outputs/.gitkeep
