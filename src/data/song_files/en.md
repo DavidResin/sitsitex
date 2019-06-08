@@ -451,9 +451,9 @@ a World Trade Center and a Jumbo Jet :;:
 a World Trade Center and a Jumbo Jet :;:  
   
 :;: A lunatic, a lunatic,  
-A cripple, cripple, cripple and a lunatic :;:  
+a cripple, cripple, cripple and a lunatic :;:  
 :;: Your momma, your momma,  
-A cripple, cripple, cripple and a lunatic :;:  
+a cripple, cripple, cripple and a lunatic :;:  
   
 :;: An Erasmus, an Erasmus,  
 a pretty drunk couple and an Erasmus :;:  
