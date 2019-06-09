@@ -1486,11 +1486,11 @@ en_helangar_alternate = Here's the First = {%
 		The one who doesn’t drink the first\\%
 		Shall never, ever quench his thirst\\%
 		Here’s the first!\\%
-		Sing hop-faderallan-lay\\%
+		Sing hop-faderallan-lay! Hey!\\%
 	}
 }
 
-en_beercannon = Beer Cannon = {%
+en_beercannon_swiss = Beer Cannon = {%
 	\verse{%
 		:;: Eichhof Lager :;:\\%
 		:;: Cardinal :;:\\%
@@ -1509,8 +1509,7 @@ en_helangar = Hell and Gore = {%
 		And handsome in the hell and tar\\%
 		Handsome in the half and four\\%
 		Hell and gore\\%
-		Sing hop Father Allan lay\\%
-		Hey!\\%
+		Sing hop Father Allan lay! Hey!\\%
 	}
 }
 
@@ -2640,7 +2639,7 @@ sw_helangar = Helan Går = {%
 		Och den som inte helan tar,\\%
 		Han ej heller halvan får.\\%
 		Helan går!\\%
-		Sjung hopp-falderallan-lallan-lei!\\%
+		Sjung hopp-falderallan-lallan-lei! Hej!\\%
 	}
 }
 

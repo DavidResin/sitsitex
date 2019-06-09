@@ -387,3 +387,6 @@ def generate_song_file(path):
 
 				f.writelines(to_latex(key + "_" + code, song))
 				f.write("\n")
+
+def __init__():
+	print("INIT")

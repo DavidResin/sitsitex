@@ -19,7 +19,7 @@ Sjung hopp-falderallan-lallan-lei! :;:
 Och den som inte helan tar,  
 Han ej heller halvan får.  
 Helan går!  
-Sjung hopp-falderallan-lallan-lei!  
+Sjung hopp-falderallan-lallan-lei! Hej!  
 
 ## Livet är Härligt
 ##### Code: livetarharligt  

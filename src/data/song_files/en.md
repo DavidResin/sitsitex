@@ -66,11 +66,10 @@ Sing hop Father Allan lay
 And handsome in the hell and tar  
 Handsome in the half and four  
 Hell and gore  
-Sing hop Father Allan lay  
-Hey!  
+Sing hop Father Allan lay! Hey!  
 
 ## Beer Cannon
-##### Code: beercannon  
+##### Code: beercannon_swiss  
   
 :;: Eichhof Lager :;:  
 :;: Cardinal :;:  
@@ -88,7 +87,7 @@ Sing hopp-faderallan-lei.
 The one who doesn’t drink the first  
 Shall never, ever quench his thirst  
 Here’s the first!  
-Sing hop-faderallan-lay  
+Sing hop-faderallan-lay! Hey!  
 
 ## The Big Bang Theory
 ##### Code: bigbangtheory  

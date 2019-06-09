@@ -4,6 +4,7 @@ src/*.*
 !src/*.sty
 !src/*.sh
 !src/*.dat
+!src/*.py
 
 # Ignore all Latex output folder contents
 src/aux_files/*
