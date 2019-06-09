@@ -1,14 +1,20 @@
-src/*
+# Ignore all Latex temp files in main folder
+src/*.*
 !src/*.tex
 !src/*.sty
 !src/*.sh
 !src/*.dat
 
+# Ignore all Latex output folder contents
 src/aux_files/*
-!src/aux_files/.gitkeep
-
-src/data/__pycache__/*
-!src/data/.gitkeep
-
 src/outputs/*
-!src/outputs/.gitkeep
+
+# Ignore all images except the bundled ones
+src/images/*
+!src/images/base
+
+# Ignore all Python caches
+**/__pycache__
+
+# Keep directories even if empty
+!**/.gitkeep
