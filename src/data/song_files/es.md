@@ -1,7 +1,7 @@
-# Songs in Spanish
-# Canciones en Español
-
-## Alcohol
+# Songs in Spanish  
+# Canciones en Español  
+  
+## Alcohol  
 ##### Code: alcohol  
   
 Alcohol  
@@ -10,8 +10,8 @@ Alcohol alcohol alcohol
 Hemos venido  
 A emborracharnos  
 El resultado nos da igual  
-
-## La Bamba
+  
+## La Bamba  
 ##### Code: labamba  
   
 Para bailar La Bamba  
@@ -26,8 +26,8 @@ Yo no soy marinero
 Yo no soy marinero  
 Soy capitan, soy capitan, soy capitan  
 Bam ba bamba (x3)  
-
-## Spanish Toast
+  
+## Spanish Toast  
 ##### Code: spanishtoast  
   
 Arriba! _(glasses up)_  
@@ -36,4 +36,4 @@ Al Lado! _(to the left)_
 Al Otro! _(to the right)_  
 Al Centro! _(to the center)_  
 Para Dentro! _(drink)_  
-
+  

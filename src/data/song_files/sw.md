@@ -1,7 +1,7 @@
-# Songs in Swedish
-# Sångar på Svenska
-
-## Helan Går
+# Songs in Swedish  
+# Sångar på Svenska  
+  
+## Helan Går  
 ##### Code: helangar  
   
 _(Songmaster solo:)_  
@@ -20,8 +20,8 @@ Och den som inte helan tar,
 Han ej heller halvan får.  
 Helan går!  
 Sjung hopp-falderallan-lallan-lei! Hej!  
-
-## Livet är Härligt
+  
+## Livet är Härligt  
 ##### Code: livetarharligt  
   
 Livet är härligt, HEJ!  
@@ -35,4 +35,4 @@ Tavaritj, en liten Vodka.
 Glasen i botten vi tillsammans tömmer.  
 Det kommer mera efter hand.  
 En SKÅL!  
-
+  

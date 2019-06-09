@@ -1,7 +1,7 @@
-# Songs in French
-# Chansons en Français
-
-## Il est des nôtres
+# Songs in French  
+# Chansons en Français  
+  
+## Il est des nôtres  
 ##### Code: ilestdesnotres  
   
 :;: Ami(e) ..... lève ton verre  
@@ -18,8 +18,8 @@ Il est des nôtres,
 Il a bu son verre comme les autres!  
 C'est un ivrogne,  
 On le reconnaît rien qu'à sa trogne!  
-
-## Pom popom popom
+  
+## Pom popom popom  
 ##### Code: chansondelataverne  
   
 :;: Pom, popom, popom popom popom popom po :;:  
@@ -51,8 +51,8 @@ Ceux qui les trouvent mignons sont vraiment dérangés,
 Un jour ils finiront en compote de...  
   
 :;: Pommes, popom... :;:  
-
-## Santiano
+  
+## Santiano  
 ##### Code: santiano  
   
 C'est un fameux trois-mâts fin comme un oiseau  
@@ -88,8 +88,8 @@ Tiens bon le cap et tiens bon le flot
 Hissez haut (Hissez haut!) Santiano!  
 Sur la mer qui fait le gros dos,  
 Nous irons jusqu’à San Francisco  
-
-## Santiano
+  
+## Santiano  
 ##### Code: santiano_pervert  
   
 C'est mon fameux grand mât plein comme un verre d'eau  
@@ -125,67 +125,67 @@ Tiens bon mon cap et tiens bon mon flot
 Hissez haut (Hissez haut!) Santiano!  
 Et quand je reverrai Margot,  
 Nous irons jusqu’à San Francisco  
-
-## Les Lacs du Connemara
+  
+## Les Lacs du Connemara  
 ##### Code: connemara  
   
-Terre brûlée au vent des landes de pierre,   
+Terre brûlée au vent des landes de pierre,  
 Autour des lacs, c'est pour les vivants  
-Un peu d'enfer, le Connemara.   
+Un peu d'enfer, le Connemara.  
   
-Des nuages noirs qui viennent du nord   
+Des nuages noirs qui viennent du nord  
 Colorent la terre, les lacs, les rivières:  
-C'est le décor du Connemara.   
+C'est le décor du Connemara.  
   
 Au printemps suivant, le ciel irlandais  
 Etait en paix. Maureen a plongé  
-Nue dans un lac du Connemara.   
+Nue dans un lac du Connemara.  
   
-Sean Kelly s'est dit : "Je suis catholique.   
-Maureen aussi." L'église en granit   
-De Limerick, Maureen a dit "oui".   
+Sean Kelly s'est dit : "Je suis catholique.  
+Maureen aussi." L'église en granit  
+De Limerick, Maureen a dit "oui".  
   
-De Tiperrary, Bally-Connelly   
-Et de Galway, ils sont arrivés   
-Dans le comté du Connemara.   
+De Tiperrary, Bally-Connelly  
+Et de Galway, ils sont arrivés  
+Dans le comté du Connemara.  
   
-Y avait les Connor, les O'Conolly,   
-Les Flaherty du Ring of Kerry   
-Et de quoi boire trois jours et deux nuits.   
+Y avait les Connor, les O'Conolly,  
+Les Flaherty du Ring of Kerry  
+Et de quoi boire trois jours et deux nuits.  
   
-Là-bas, au Connemara, on sait tout le prix du silence.   
-Là-bas, au Connemara, on dit que la vie   
-C'est une folie, et que la folie, ca se danse.   
+Là-bas, au Connemara, on sait tout le prix du silence.  
+Là-bas, au Connemara, on dit que la vie  
+C'est une folie, et que la folie, ca se danse.  
   
-Terre brûlée au vent des landes de pierre,   
-Autour des lacs, c'est pour les vivants   
-Un peu d'enfer, le Connemara.   
+Terre brûlée au vent des landes de pierre,  
+Autour des lacs, c'est pour les vivants  
+Un peu d'enfer, le Connemara.  
   
-Des nuages noirs qui viennent du nord   
-Colorent la terre, les lacs, les rivières:   
-C'est le décor du Connemara.   
+Des nuages noirs qui viennent du nord  
+Colorent la terre, les lacs, les rivières:  
+C'est le décor du Connemara.  
   
-On y vit aussi au temps des Gaels   
-Et de Cromwell, au rythme des pluies   
-Et du soleil, au pas des chevaux.   
+On y vit aussi au temps des Gaels  
+Et de Cromwell, au rythme des pluies  
+Et du soleil, au pas des chevaux.  
   
-On y croit encore aux monstres des lacs   
-Qu'on voit nager certains soirs d'été   
-Et replonger pour l'éternité.   
+On y croit encore aux monstres des lacs  
+Qu'on voit nager certains soirs d'été  
+Et replonger pour l'éternité.  
   
-On y voit encore des hommes d'ailleurs   
-Venus chercher le repos de l'âme   
-Et pour le cœur, un goût de meilleur.   
+On y voit encore des hommes d'ailleurs  
+Venus chercher le repos de l'âme  
+Et pour le cœur, un goût de meilleur.  
   
-L'on y croit encore que le jour viendra,   
-Il est tout près, où les Irlandais   
-Feront la paix autour de la croix.   
+L'on y croit encore que le jour viendra,  
+Il est tout près, où les Irlandais  
+Feront la paix autour de la croix.  
   
-Là-bas, au Connemara, on sait tout le prix de la guerre.   
-Là-bas, au Connemara, on n'accepte pas   
+Là-bas, au Connemara, on sait tout le prix de la guerre.  
+Là-bas, au Connemara, on n'accepte pas  
 La paix des Gallois ni celle des rois d'Angleterre...  
-
-## Le Beau Pays-d'Enhaut
+  
+## Le Beau Pays-d'Enhaut  
 ##### Code: chansondelabbaye  
   
 Au bord de la Sarine  
@@ -236,8 +236,8 @@ Forment les sentinelles
 Du beau Pays-d'Enhaut  
   
 Di ya ya di ya ya di ya ya oh...  
-
-## Di-ya-ya-oh
+  
+## Di-ya-ya-oh  
 ##### Code: chansondelabbayeShort  
   
 Au bord de la Sarine  
@@ -277,8 +277,8 @@ Forment les sentinelles
 Du beau Pays-d'Enhaut  
   
 Di ya ya di ya ya di ya ya oh...  
-
-## La Tiaffe
+  
+## La Tiaffe  
 ##### Code: latiaffe  
   
 Y'a ceux qui n'aiment pas l'hiver,  
@@ -312,8 +312,8 @@ La tiaffe!...
   
 Mais c'qui est désepérant,  
 C'est qu'la tiaffe, c'est permanent!  
-
-## Switzerland Cuisine
+  
+## Switzerland Cuisine  
 ##### Code: switzerlandcuisine  
   
 Je suis monté dans un avion direction le Japon  
@@ -348,8 +348,8 @@ Réunis dans un vieux chalet nous mangerons la fondue
 En Switzerland vous serez bienvenus  
   
 Tous les matins...  
-
-## La Tristitude
+  
+## La Tristitude  
 ##### Code: tristitude_2  
   
 La Tristitude,  
@@ -414,8 +414,8 @@ C'est quand le DJ sait que tu t'appelles Dana,
 Et ça fait DANS LA VALLÉE OOOOOO-OH...  
   
 La Tristitude...  
-
-## La Tristitude
+  
+## La Tristitude  
 ##### Code: tristitude  
   
 La Tristitude,  
@@ -480,23 +480,23 @@ C'est tenter d'ouvrir un bar gay au Nigeria,
 Et ça fait mal.  
   
 La Tristitude...  
-
-## À Poil
+  
+## À Poil  
 ##### Code: apoil  
   
 :;: Il descend de la montagne... À POIL! :;:  
 Il descend de la montagne (x3)  
 À POIL!  
-
-## Mais qui est la Belette?
+  
+## Mais qui est la Belette?  
 ##### Code: labelette  
   
 :;: J'entends le loup, le renard et la belette,  
 J'entends le loup et le renard chanter! :;:  
 :;: Manau viendra les gars, Manau viendra,  
 C'est à ce moment-là qu'il faut lever les bras! :;:  
-
-## Mais qui est la Belette?
+  
+## Mais qui est la Belette?  
 ##### Code: labelette_long  
   
 :;: J'entends le loup, le renard et la belette,  
@@ -514,8 +514,8 @@ C'est pour faire la fête
 Voilà comment Manau avance sans se prendre la tête!  
   
 J'entends le loup...  
-
-## Gégène
+  
+## Gégène  
 ##### Code: gegene  
   
 _(Songmaster solo:)_  
@@ -542,8 +542,8 @@ J’ai une bouillotte, une potion de flotte,
 Un parchemin pour vêler, des godasses qui font danser,  
 J’ai l’anneau magique qui rend alcoolique,  
 Et cet anneau le voici, grâce à lui je suis ici!  
-
-## Les Comédiens
+  
+## Les Comédiens  
 ##### Code: lescomediens  
   
 :;: Viens voir les comédiens,  
@@ -589,10 +589,10 @@ Mais pour l’instant ils traversent dans la nuit,
 D’autres villages endormis, les comédiens.  
   
 :;: Viens voir les comédiens... :;:  
-
-## Madame la Marquise
-##### Code: madamelamarquise
-
+  
+## Madame la Marquise  
+##### Code: madamelamarquise  
+  
 Allô, allô James! Quelles nouvelles?  
 Absente depuis quinze jours,  
 Au bout du fil, je vous appelle;  
@@ -605,7 +605,7 @@ On déplore un tout petit rien:
 Un incident, une bêtise,  
 La mort de votre jument grise,  
 Mais à part ça, Madame la Marquise,  
-Tout va très bien, tout va très bien.
+Tout va très bien, tout va très bien.  
   
 Allô, allô James! Quelles nouvelles?  
 Ma jument grise morte aujourd'hui!  
@@ -654,3 +654,4 @@ Et c'est ainsi qu'en un moment,
 On vit périr votre jument!  
 Mais à part ça, Madame la Marquise,  
 Tout va très bien, tout va très bien.  
+  

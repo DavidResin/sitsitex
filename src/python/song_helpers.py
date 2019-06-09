@@ -247,14 +247,15 @@ def to_md(code, song):
 	try:
 		# Add title and code lines
 		lines = [ "## " + song['title'] ]
-		lines += [ ("#" * 5) + " " + code ]
+		lines += [ ("#" * 5) + " Code: " + code ]
 
 		# Add subtitle if present
-		subtitle = song["subtitle"]
+		subtitle = song.get("subtitle")
 
-		if subtitle != "":
+		if subtitle:
 			lines += [ f"- {subtitle}" ]
-			lines += [""]
+
+		lines += [""]
 
 		# Generate verses
 		for verse in song["verses"]:
@@ -336,9 +337,10 @@ def to_latex(code, song):
 	return [ l + "\n" for l in lines ]
 
 # Parse markdown song file
-def parse_md(fn, lines):
+def read_md_file(fn, lines):
 	language = "unknown language"
 	songs = {}
+	titles = []
 
 	if lines[0][:2] == "# ":
 		language = lines[0].strip().split("in ")[-1]
@@ -347,9 +349,10 @@ def parse_md(fn, lines):
 
 	end = len(lines)
 	ids = [i for l, i in zip(lines, range(end)) if l[:3] == "## "]
+	cpls = zip(ids, ids[1:] + [end])
 
-	for i in ids[::-1]:
-		code, song = from_md(lines[i:end])
+	for i, j in cpls:
+		code, song = from_md(lines[i:j])
 
 		if not code:
 			print("Invalid song located at lines", i, "to", end)
@@ -357,26 +360,40 @@ def parse_md(fn, lines):
 
 		if songs.get(code):
 			print("ERROR: Duplicate song code '" + code + "' in " + fn)
+			continue
 
 		songs[code] = song
-		end = i
+		titles += [song_suffix(code, song['title'])]
 
-	return language, songs
+	opener = lines[0:ids[0]]
+
+	return language, songs, titles, opener
 
 def generate_song_file(path):
 	filenames = [e for e in os.listdir(path) if e[-3:] == ".md"]
 	song_sets = {}
+	language, songs, titles, opener = None, None, None, None
 
+	# PUT THIS PART IN EXTERNAL FUNCTION?
 	for fn in filenames:
 		with open(os.path.join(path, fn), "r", encoding="utf8") as f:
 			lines = f.read().splitlines()
-			language, songs = parse_md(fn, lines)
+			language, songs, titles, opener = read_md_file(fn, lines)
 			key = fn.split(".md")[0]
 
 			song_sets[key] = {
 				"language": language,
 				"songs": songs,
 			}
+
+		# Correct missing spaces in the file
+		with open(os.path.join(path, fn), "w", encoding="utf8") as f:
+			lines = [o + "  \n" for o in opener]
+
+			for k in songs.keys():
+				lines += to_md(k, songs[k])
+
+			f.writelines(lines)
 
 	with open("songs.dat", "w", encoding="utf8") as f:
 		for key in song_sets.keys():
@@ -388,5 +405,17 @@ def generate_song_file(path):
 				f.writelines(to_latex(key + "_" + code, song))
 				f.write("\n")
 
-def __init__():
-	print("INIT")
+def song_suffix(key, title):
+	if '_' in key:
+		sep = " -"
+		ver = "Version"
+		num = ""
+		det = key.split('_')[1:]
+
+		if det[-1].isdigit():
+			num = det[-1]
+			det = det[:-1]
+
+		return (title + " ".join([sep] + det + [ver, num]).title()).strip()
+
+	return title

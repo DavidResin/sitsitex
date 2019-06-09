@@ -1,7 +1,7 @@
-# Songs in Finnish
-# Lauluja Suomeksi
-
-## Hyvät Ystävät
+# Songs in Finnish  
+# Lauluja Suomeksi  
+  
+## Hyvät Ystävät  
 ##### Code: hyvatystavat  
   
 Hyvät ystävät juhla voi alkaa  
@@ -13,13 +13,13 @@ Hauska juomia kurkkuun on suistaa
 Siten teekkariaikoja muistaa  
 :;: Yhteinen juomalaulumme luistaa  
 Juhlamieli on parhaimmillaan :;:  
-
-## A Finnish Drinking Song
+  
+## A Finnish Drinking Song  
 ##### Code: nyt  
   
 Nyt!  
-
-## Jos eukkosi kieltää sua juomasta
+  
+## Jos eukkosi kieltää sua juomasta  
 ##### Code: trink  
   
 Jos eukkosi kieltää sua juomasta,  
@@ -59,8 +59,8 @@ Niin illalla raitilla RÄYHÄÄ JA PAUHAA.
 Ja juo ja laula, ja juo ja laula, ja juo, ja laula, ja juo, ja laula...  
   
 Trink, trink...  
-
-## Beer Cannon
+  
+## Beer Cannon  
 ##### Code: beercannon  
   
 Lapin Kulta, Lapin Kulta  
@@ -69,8 +69,8 @@ Sininen ja Olvi
 Sininen ja Olvi  
 Koff, Koff, Koff  
 Koff, Koff, Koff  
-
-## Beer Cannon
+  
+## Beer Cannon  
 ##### Code: beercannon_long  
   
 :;: Lapin Kulta :;:  
@@ -87,8 +87,8 @@ Koff, Koff, Koff
 :;: Ja-affa :;:  
 :;: Spraitti ja Pepsi :;:  
 :;: Hämähäkkimies :;:  
-
-## Henkilökunta
+  
+## Henkilökunta  
 ##### Code: henkilokunta  
   
 :;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
@@ -98,16 +98,16 @@ Henkilökuntaa (x4)
 :;: Lissää viinaa... :;:  
 :;: Konjakki ois poikaa... :;:  
 :;: Kaljakin kelpaa... :;:  
-
-## Varpunen jouluaamuna
+  
+## Varpunen jouluaamuna  
 ##### Code: varpunenjouluaamuna  
   
 Lumi on jo peittänyt kukat laaksosessa,  
 järven aalto jäätynyt talvipakkasessa.  
 Varpunen pienoinen, syönyt kesäeinehen,  
 järven aalto jäätynyt talvipakkasessa.  
-
-## Takki pois
+  
+## Takki pois  
 ##### Code: takkipois  
   
 Hei takki poies kiskaikaamme,  
@@ -119,8 +119,8 @@ Me emme laulamasta lakkaa,
 Ennekuin aamu sarastaa.  
 :;: Ei täältä ennen poistutakaan,  
 Tääll' juodaan kautta Pohjanmaan! :;:  
-
-## Teekkarihymni
+  
+## Teekkarihymni  
 ##### Code: teekkarihymni  
   
 Yö kuin sielu teekkarin on pimiä,  
@@ -129,8 +129,8 @@ Tarhapöllön ääni kimiä,
 Kuuluu pappilasta päin, kuuluu päin.  
 Ja taas, ja siis,  
 Ja yks, kaks, kolme, neljä, viis  
-
-## Ken ompi Fuksi
+  
+## Ken ompi Fuksi  
 ##### Code: kenompifuksi  
   
 :;: Ken ompi fuksi XX  
@@ -139,8 +139,8 @@ Hän lasin käteen ottakoon,
 Sen huulillensa nostakoon.  
 :;: Juo pois, juopois, juo pois, juo pois.  
 Juo Herran tähden pois. :;:  
-
-## Ikuisen Teekkarin Laulu
+  
+## Ikuisen Teekkarin Laulu  
 ##### Code: ikuisenteekkarinlaulu  
   
 Talvi-iltain tummentuessa  
@@ -167,4 +167,4 @@ Ja kun integer vitae meille
 kerran viimeisen lauletaan.  
 :;: Silloin ikuisen teekkarin haudalle  
 oluttynnyrinostetaan. :;:  
-
+  
