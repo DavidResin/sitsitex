@@ -1,6 +1,6 @@
-# Songs in French  
-# Chansons en Français  
-  
+# Songs in French                                                                                                              
+# Chansons en Français                                                                                                              
+                                                                                                              
 ## Il est des nôtres  
 ##### Code: ilestdesnotres  
   
@@ -350,7 +350,7 @@ En Switzerland vous serez bienvenus
 Tous les matins...  
   
 ## La Tristitude  
-##### Code: tristitude_2  
+##### Code: tristitude_epfl_2  
   
 La Tristitude,  
 C'est quand tu dois aller chez le prêtre à 12 ans,  
@@ -416,7 +416,7 @@ Et ça fait DANS LA VALLÉE OOOOOO-OH...
 La Tristitude...  
   
 ## La Tristitude  
-##### Code: tristitude  
+##### Code: tristitude_epfl  
   
 La Tristitude,  
 C'est quand tu viens juste d'avaler un cure-dent,  

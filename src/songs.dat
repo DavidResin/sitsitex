@@ -85,7 +85,7 @@ en_beercannon_swiss = Beer Cannon = {%
 	}
 }
 
-en_helangar_alternate = Here's the First = {%
+en_heresthefirst = Here's the First = {%
 	\sing{To the tune of “Helan Går”}
 	\verse{%
 		Here’s the first,\\%
@@ -2225,7 +2225,7 @@ fr_switzerlandcuisine = Switzerland Cuisine = {%
 	}
 }
 
-fr_tristitude_2 = La Tristitude = {%
+fr_tristitude_epfl_2 = La Tristitude = {%
 	\verse{%
 		La Tristitude,\\%
 		C'est quand tu dois aller chez le prêtre à 12 ans,\\%
@@ -2303,7 +2303,7 @@ fr_tristitude_2 = La Tristitude = {%
 	}
 }
 
-fr_tristitude = La Tristitude = {%
+fr_tristitude_epfl = La Tristitude = {%
 	\verse{%
 		La Tristitude,\\%
 		C'est quand tu viens juste d'avaler un cure-dent,\\%

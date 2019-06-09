@@ -1,5 +1,7 @@
 import os, re
 import markdown as md
+import pylatex as pl
+import unicodedata as ud
 
 # Read markdown song
 def from_md(lines):
@@ -107,6 +109,7 @@ def from_md(lines):
 			return None, None
 
 	if state == 4:
+		song['entry'] = song_suffix(code, song['title'])
 		return code, song
 	else:
 		if state == 0:
@@ -237,11 +240,6 @@ def from_latex(lines):
 		print("ERROR: Incomplete latex, " + missing + " missing")
 		return None, None
 
-def fix_md():
-	#fix missing "Code:"
-	#fix missing double space
-	pass
-
 # Write markdown song
 def to_md(code, song):
 	try:
@@ -340,7 +338,6 @@ def to_latex(code, song):
 def read_md_file(fn, lines):
 	language = "unknown language"
 	songs = {}
-	titles = []
 
 	if lines[0][:2] == "# ":
 		language = lines[0].strip().split("in ")[-1]
@@ -363,22 +360,20 @@ def read_md_file(fn, lines):
 			continue
 
 		songs[code] = song
-		titles += [song_suffix(code, song['title'])]
 
 	opener = lines[0:ids[0]]
 
-	return language, songs, titles, opener
+	return language, songs, opener
 
-def generate_song_file(path):
+def generate_song_file(path, reg_path=""):
 	filenames = [e for e in os.listdir(path) if e[-3:] == ".md"]
 	song_sets = {}
-	language, songs, titles, opener = None, None, None, None
+	language, songs, opener = None, None, None
 
-	# PUT THIS PART IN EXTERNAL FUNCTION?
 	for fn in filenames:
 		with open(os.path.join(path, fn), "r", encoding="utf8") as f:
 			lines = f.read().splitlines()
-			language, songs, titles, opener = read_md_file(fn, lines)
+			language, songs, opener = read_md_file(fn, lines)
 			key = fn.split(".md")[0]
 
 			song_sets[key] = {
@@ -405,6 +400,8 @@ def generate_song_file(path):
 				f.writelines(to_latex(key + "_" + code, song))
 				f.write("\n")
 
+	make_register(reg_path, song_sets)
+
 def song_suffix(key, title):
 	if '_' in key:
 		sep = " -"
@@ -419,3 +416,42 @@ def song_suffix(key, title):
 		return (title + " ".join([sep] + det + [ver, num]).title()).strip()
 
 	return title
+
+# Removes accents from a given string
+def no_accents(input_str):
+    nfkd_form = ud.normalize('NFKD', input_str)
+    return u"".join([c for c in nfkd_form if not ud.combining(c)])
+
+def make_register(path, data, sort=True):
+	doc = pl.Document('registry', \
+						geometry_options={ "margin" : "1in"}, \
+						indent=False)
+
+	title = pl.utils.NoEscape(r'Sitsi\TeX{} Song Registry')
+
+	doc.preamble.append(pl.Command('title', title))
+	doc.preamble.append(pl.Command('date', ''))
+	doc.append(pl.utils.NoEscape(r'\maketitle'))
+
+	for v in data.values():
+		songs = v['songs']
+		
+		with doc.create(pl.Section(v['language'].title(), numbering=False)):
+
+			# Sort songs in alphabetical order, ignoring accentuation
+			for k, s in sorted(songs.items(), key=lambda item: no_accents(item[1]['entry'])):
+
+				# Prevent separation of title and code
+				with doc.create(pl.MiniPage(width=r"\textwidth")):
+					doc.append(pl.HorizontalSpace("1em"))
+					doc.append(s['entry'])
+					doc.append(pl.NewLine())
+					doc.append(pl.HorizontalSpace("2em"))
+					doc.append(pl.FootnoteText(pl.utils.bold(k)))
+				
+				# Space out entries
+				doc.append(pl.NewLine())
+				doc.append(pl.VerticalSpace(".5em"))
+				doc.append(pl.NewLine())
+
+	doc.generate_pdf(filepath=path, compiler='pdflatex', clean=True)
