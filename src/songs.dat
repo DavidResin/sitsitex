@@ -2034,7 +2034,7 @@ fr_connemara = Les Lacs du Connemara = {%
 	}
 }
 
-fr_chansondelabbaye = Le Beau Pays-d'Enhaut = {%
+fr_diyayaoh = Le Beau Pays-d'Enhaut = {%
 	\verse{%
 		Au bord de la Sarine\\%
 		Tout près de Château-d'Oex\\%
@@ -2094,7 +2094,7 @@ fr_chansondelabbaye = Le Beau Pays-d'Enhaut = {%
 	}
 }
 
-fr_chansondelabbayeShort = Di-ya-ya-oh = {%
+fr_diyayaoh_short = Le Beau Pays-d'Enhaut = {%
 	\verse{%
 		Au bord de la Sarine\\%
 		Tout près de Château-d'Oex\\%

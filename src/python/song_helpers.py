@@ -433,7 +433,7 @@ def make_register(path, data, sort=True):
 	doc.preamble.append(pl.Command('date', ''))
 	doc.append(pl.utils.NoEscape(r'\maketitle'))
 
-	for v in data.values():
+	for code, v in data.items():
 		songs = v['songs']
 		
 		with doc.create(pl.Section(v['language'].title(), numbering=False)):
@@ -447,7 +447,7 @@ def make_register(path, data, sort=True):
 					doc.append(s['entry'])
 					doc.append(pl.NewLine())
 					doc.append(pl.HorizontalSpace("2em"))
-					doc.append(pl.FootnoteText(pl.utils.bold(k)))
+					doc.append(pl.FootnoteText(pl.utils.bold(code + "_" + k)))
 				
 				# Space out entries
 				doc.append(pl.NewLine())

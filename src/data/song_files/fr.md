@@ -1,6 +1,6 @@
-# Songs in French                                                                                                              
-# Chansons en Français                                                                                                              
-                                                                                                              
+# Songs in French                                                                                                                  
+# Chansons en Français                                                                                                                  
+                                                                                                                  
 ## Il est des nôtres  
 ##### Code: ilestdesnotres  
   
@@ -186,7 +186,7 @@ Là-bas, au Connemara, on n'accepte pas
 La paix des Gallois ni celle des rois d'Angleterre...  
   
 ## Le Beau Pays-d'Enhaut  
-##### Code: chansondelabbaye  
+##### Code: diyayaoh  
   
 Au bord de la Sarine  
 Tout près de Château-d'Oex  
@@ -237,8 +237,8 @@ Du beau Pays-d'Enhaut
   
 Di ya ya di ya ya di ya ya oh...  
   
-## Di-ya-ya-oh  
-##### Code: chansondelabbayeShort  
+## Le Beau Pays-d'Enhaut  
+##### Code: diyayaoh_short  
   
 Au bord de la Sarine  
 Tout près de Château-d'Oex  
