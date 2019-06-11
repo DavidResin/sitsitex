@@ -3,9 +3,11 @@ from python import song_helpers as sh
 
 fn = "registry"
 
-try:
-	sh.generate_song_file(os.path.join("data", "song_files"), reg_fn=fn)
-except:
+#try:
+sh.generate_song_file(os.path.join("data", "song_files"), reg_fn=fn)
+
+#except:
+if False:
 	to_check = "! I can't write on file `" + fn + ".pdf'."
 
 	with open(fn + ".log", "r") as f:
@@ -20,3 +22,5 @@ except:
 	#hing `en_eurovisionCH'.
 
 	# line break happens for real
+
+	# only open log if exists

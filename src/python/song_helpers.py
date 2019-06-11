@@ -242,8 +242,8 @@ def from_latex(lines):
 
 # Write markdown song
 def to_md(code, song):
-	print("UNSAFE FOR NOW")
-	return
+	#print("UNSAFE FOR NOW")
+	#return
 	
 	try:
 		# Add title and code lines
@@ -252,10 +252,15 @@ def to_md(code, song):
 		# Add subtitle if present
 		subtitle = song.get("subtitle")
 
-		if subtitle:
-			lines += [ ("#" * 4) + f" {subtitle}" ]
+		#if subtitle:
+		#	lines += [ ("#" * 4) + f" {subtitle}" ]
 
-		lines += [ ("#" * 6) + " Code: " + code ]
+		lines += [ ("#" * 5) + " Code: " + code ]
+
+
+
+		if subtitle:
+			lines += [ f"- {subtitle}" ]
 
 		lines += [""]
 
@@ -370,7 +375,7 @@ def read_md_file(fn, lines):
 	return language, songs, opener
 
 def generate_song_file(path, reg_fn, reg_path=""):
-	filenames = [e for e in os.listdir(path) if e[-3:] == ".md"]
+	filenames = sorted([e for e in os.listdir(path) if e[-3:] == ".md"])
 	song_sets = {}
 	language, songs, opener = None, None, None
 
