@@ -242,16 +242,20 @@ def from_latex(lines):
 
 # Write markdown song
 def to_md(code, song):
+	print("UNSAFE FOR NOW")
+	return
+	
 	try:
 		# Add title and code lines
 		lines = [ "## " + song['title'] ]
-		lines += [ ("#" * 5) + " Code: " + code ]
 
 		# Add subtitle if present
 		subtitle = song.get("subtitle")
 
 		if subtitle:
-			lines += [ f"- {subtitle}" ]
+			lines += [ ("#" * 4) + f" {subtitle}" ]
+
+		lines += [ ("#" * 6) + " Code: " + code ]
 
 		lines += [""]
 
@@ -365,7 +369,7 @@ def read_md_file(fn, lines):
 
 	return language, songs, opener
 
-def generate_song_file(path, reg_path=""):
+def generate_song_file(path, reg_fn, reg_path=""):
 	filenames = [e for e in os.listdir(path) if e[-3:] == ".md"]
 	song_sets = {}
 	language, songs, opener = None, None, None
@@ -400,7 +404,7 @@ def generate_song_file(path, reg_path=""):
 				f.writelines(to_latex(key + "_" + code, song))
 				f.write("\n")
 
-	make_register(reg_path, song_sets)
+	make_register(path=reg_path, data=song_sets, fn=reg_fn)
 
 def song_suffix(key, title):
 	if '_' in key:
@@ -422,21 +426,27 @@ def no_accents(input_str):
     nfkd_form = ud.normalize('NFKD', input_str)
     return u"".join([c for c in nfkd_form if not ud.combining(c)])
 
-def make_register(path, data, sort=True):
-	doc = pl.Document('registry', \
-						geometry_options={ "margin" : "1in"}, \
-						indent=False)
+def make_register(path, data, fn, sort=True):
+	doc = pl.Document(default_filepath=fn, \
+						document_options={ "twocolumn" }, \
+						geometry_options={ "margin" : "1in" }, \
+						indent=False, \
+						fontenc="T1", \
+						inputenc="utf8")
 
+	# Preamble
 	title = pl.utils.NoEscape(r'Sitsi\TeX{} Song Registry')
-
 	doc.preamble.append(pl.Command('title', title))
 	doc.preamble.append(pl.Command('date', ''))
+
+	# Content
 	doc.append(pl.utils.NoEscape(r'\maketitle'))
 
 	for code, v in data.items():
 		songs = v['songs']
-		
-		with doc.create(pl.Section(v['language'].title(), numbering=False)):
+		section = v['language'].title() + " (" + str(len(songs)) + " songs)"
+
+		with doc.create(pl.Section(section, numbering=False)):
 
 			# Sort songs in alphabetical order, ignoring accentuation
 			for k, s in sorted(songs.items(), key=lambda item: no_accents(item[1]['entry'])):
@@ -454,4 +464,5 @@ def make_register(path, data, sort=True):
 				doc.append(pl.VerticalSpace(".5em"))
 				doc.append(pl.NewLine())
 
+	# Generate file
 	doc.generate_pdf(filepath=path, compiler='pdflatex', clean=True)

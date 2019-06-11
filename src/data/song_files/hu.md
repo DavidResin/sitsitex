@@ -1,6 +1,6 @@
-# Songs in Hungarian                                                                                                                  
-# Dalok Magyarul                                                                                                                  
-                                                                                                                  
+# Songs in Hungarian                                                                                                                                                                  
+# Dalok Magyarul                                                                                                                                                                  
+                                                                                                                                                                  
 ## Yoszefváros  
 ##### Code: yoszefvaros_long  
   

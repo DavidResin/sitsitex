@@ -1,5 +1,5 @@
-# Songs in English                                                                                                                  
-                                                                                                                  
+# Songs in English                                                                                                                                                                  
+                                                                                                                                                                  
 ## March of the Water-Boys  
 ##### Code: marchofthewaterboys  
   
@@ -599,7 +599,7 @@ And now no more money rolls in.
 Rolls in, rolls in...  
   
 ## Mandatory Russian Song  
-##### Code: sorkansallit  
+##### Code: russiansong  
   
 Father Stalin, mother Krushchova,  
 Shared a kiss, with Vodka on the rocks!  
@@ -638,7 +638,7 @@ Or snack lunch in the hall.
 Finland, Finland, Finland.  
 Finland has it all.  
   
-You're so sadly neglected  
+You're so sadly neglected,  
 And often ignored,  
 A poor second to Belgium,  
 When going abroad.  
@@ -676,7 +676,7 @@ We are, we are, we are, we are...
   
 MIT was MIT when Harvard was a pup,  
 And MIT will be MIT when Harvard's time is up,  
-And any Harvard Son of a bitch who thinks he's in our class,  
+And any Harvard son of a bitch who thinks he's in our class,  
 Can pucker up his rosy lips and kiss the Beaver's ass.  
   
 We are, we are, we are, we are...  

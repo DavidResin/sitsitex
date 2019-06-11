@@ -708,7 +708,7 @@ en_ourfamily = Our Family = {%
 	}
 }
 
-en_sorkansallit = Mandatory Russian Song = {%
+en_russiansong = Mandatory Russian Song = {%
 	\verse{%
 		Father Stalin, mother Krushchova,\\%
 		Shared a kiss, with Vodka on the rocks!\\%
@@ -753,7 +753,7 @@ en_finland = Finland = {%
 		Finland has it all.\\%
 	}
 	\verse{%
-		You're so sadly neglected\\%
+		You're so sadly neglected,\\%
 		And often ignored,\\%
 		A poor second to Belgium,\\%
 		When going abroad.\\%
@@ -798,7 +798,7 @@ en_engineersdrinkingsong = The Engineers' Drinking Song = {%
 	\verse{%
 		MIT was MIT when Harvard was a pup,\\%
 		And MIT will be MIT when Harvard's time is up,\\%
-		And any Harvard Son of a bitch who thinks he's in our class,\\%
+		And any Harvard son of a bitch who thinks he's in our class,\\%
 		Can pucker up his rosy lips and kiss the Beaver's ass.\\%
 	}
 	\verse{%
