@@ -1,5 +1,5 @@
-# Songs in English                                                                                                                                                                                
-                                                                                                                                                                                
+# Songs in English  
+  
 ## March of the Water-Boys  
 ##### Code: marchofthewaterboys  
   
@@ -1322,4 +1322,33 @@ Poooorn! Poooorn!
 The internet is for,  
 Internet is for,  
 Internet is for porn! HAHAAA!  
+
+## YUROP  
+##### Code: yurop  
+- To the tune of “Beethoven's 9th - Finale”  
+  
+Praise our Yuropean Yunion, ain't no land as great as She,  
+I will always love our treasured land of peace and harmony.  
+Sure did help to get all the states we nicked from the late C.C.C.P.  
+Flying high our blue and yellow from Norway to Italy.  
+  
+Polish trucks all over and there's vampires in Romania,  
+Soccer-addict Portuguese and Viking Scandinavia.    
+Latvia is just pissed that we always mix them with Lithuania,  
+I was there last summer, wait I think it was Estonia.  
+  
+Ireland is too drunk to be offended by this Symphony,
+Iceland has no ice while Greenland still can't grow a fuckin' tree.  
+Bosnia likes a swim but Croatia snagged all the Adriatic Sea,  
+Serbia still has nightmares when it hears "Austria-Hungary".  
+  
+Dutch and French are waiting to get Flanders and Wallonia,  
+Spain is still asleep and where the fuck is Macedonia.
+Czechs are tired of jokes on their name so Czech out their neighbor Slovakia,  
+Moldova still high as fuck on that plane singing Mai-Ya.  
+  
+Praise our Yuropean Yunion, ain't no better place to be,  
+Everything is prosperous except the Greek economy.  
+English as a choice for this anthem holds quite a bit of irony,  
+Proud would our ancestors be to see us ruled by Germany.  
   
