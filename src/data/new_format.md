@@ -24,7 +24,7 @@ song = {
 	"verses": [
 		{
 			# Lines
-			lines: [
+			"lines": [
 				{
 					"type": <meta/text>,
 					"segments": [

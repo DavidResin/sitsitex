@@ -2,9 +2,9 @@
 # Sångar på Svenska  
   
 ## Helan Går  
-##### Code: helangar  
+###### helangar  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 En liten fågel satt en gång,  
 Och sjöng i furuskog.  
 :;: Han hade sjungit dagen lång,  
@@ -13,7 +13,7 @@ Men dock ej sjungit nog! :;:
 Vad sjöng den lilla fågeln då?  
 JO!  
   
-_(Everyone:)_  
+> Everyone:  
 :;: Helan går,  
 Sjung hopp-falderallan-lallan-lei! :;:  
 Och den som inte helan tar,  
@@ -22,7 +22,7 @@ Helan går!
 Sjung hopp-falderallan-lallan-lei! Hej!  
   
 ## Livet är Härligt  
-##### Code: livetarharligt  
+###### livetarharligt  
   
 Livet är härligt, HEJ!  
 Tavaritj, vårt liv är härligt.  
