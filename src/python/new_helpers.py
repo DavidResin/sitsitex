@@ -14,7 +14,13 @@ match = {
 	"p": "line",
 }
 
-def cat_line(line):
+def verify_song(cat_lines):
+	for tag, data in cat_lines:
+		
+
+def cat_line(raw_line):
+	line = raw_line.strip()
+
 	# Check for empty lines
 	if not line:
 		return line, "empty"
@@ -35,9 +41,37 @@ def cat_line(line):
 	# remove all tags except those in keep with or without /
 
 	keep_str = "|".join(keep)
-	spans = set()
-	proc = parsed
+	i = 0
+	segs = []
+	bf, it = False, False
+	style = ""
+	text = ""
 
-	for i in range(len(parsed)):
-		g_lkp = re.search(r'<.*?>', proc)
-		k_lkp = re.search(r'</?(' + keep_str + ')>', proc)
+	while i < len(parsed):
+		# Any tag detected
+		g_lkp = re.search(r'<.*?>', parsed[i:])
+		# Style tag detected
+		k_lkp = re.search(r'</?(' + keep_str + ')>', parsed[i:])
+
+		if g_lkp:
+			start, end = g_lkp.span()
+			text += parsed[i:start]
+			i = end
+
+			if k_lkp:
+				bf = bf ^ "strong" in k_lkp.group()
+				it = it ^ "em" in k_lkp.group()
+			else:
+				# Ignore other tags
+				continue
+		else:
+			# If no more tags
+			text += parsed[i:]
+
+		segs += [{
+			"style": style,
+			"text": text
+		}]
+
+		text = ""
+		style = "b" * bf + "i" * it
