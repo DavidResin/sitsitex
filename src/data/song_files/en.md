@@ -1,7 +1,7 @@
 # Songs in English  
   
 ## March of the Water-Boys  
-##### Code: marchofthewaterboys  
+###### marchofthewaterboys  
   
 This we swear upon our lives or even death  
 That we will not drink at all that devilish alcohol  
@@ -15,7 +15,7 @@ Hooray, us jolly water playboys
 We're as fresh as one can be (indeed!)  
   
 ## Far Over  
-##### Code: farover  
+###### farover  
   
 Far over the Misty Mountains cold,  
 To dungeons deep and caverns old.  
@@ -38,7 +38,7 @@ We must away, ere break of day,
 To win our harps and gold from him!  
   
 ## Dear Friends  
-##### Code: dearfriends  
+###### dearfriends  
   
 My dear friends our grand feast will begin here,  
 Our glasses we raise with a wild cheer.  
@@ -56,8 +56,8 @@ They make new memories more than rather.
 We won’t run out of drinks, maybe food :;:  
   
 ## Hell and Gore  
-##### Code: helangar  
-- To the tune of “Helan Går”  
+#### To the tune of “Helan Går”  
+###### helangar  
   
 Hell and gore  
 Sing hop Father Allan, Allan lay  
@@ -69,7 +69,7 @@ Hell and gore
 Sing hop Father Allan lay! Hey!  
   
 ## Beer Cannon  
-##### Code: beercannon_swiss  
+###### beercannon_swiss  
   
 :;: Eichhof Lager :;:  
 :;: Cardinal :;:  
@@ -77,8 +77,8 @@ Sing hop Father Allan lay! Hey!
 :;: Feldschlösschen :;:  
   
 ## Here's the First  
-##### Code: heresthefirst  
-- To the tune of “Helan Går”  
+#### To the tune of “Helan Går”  
+###### heresthefirst  
   
 Here’s the first,  
 Sing hopp-faderallan-lallan-lay  
@@ -90,7 +90,7 @@ Here’s the first!
 Sing hop-faderallan-lay! Hey!  
   
 ## The Big Bang Theory  
-##### Code: bigbangtheory  
+###### bigbangtheory  
   
 Our whole universe was in a hot dense state,  
 Then nearly fourteen billion years ago expansion started. Wait...  
@@ -102,7 +102,7 @@ Math, science, history, unraveling the mystery,
 That all started with the big bang (Bang!)  
   
 ## Wasted  
-##### Code: wasted  
+###### wasted  
   
 :;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:  
   
@@ -114,7 +114,7 @@ To finally get me up to running speed!
 Wasted...  
   
 ## Wasted  
-##### Code: wasted_long  
+###### wasted_long  
   
 :;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:  
   
@@ -133,8 +133,8 @@ Ha-hang-hang-ha-hangover
 Ha-hang-hangover-hangover.  
   
 ## Syphilis  
-##### Code: syphilis  
-- To the tune of “Yesterday”  
+#### To the tune of “Yesterday”  
+###### syphilis  
   
 Syphilis, it just started with a simple kiss.  
 Now it hurts to even take a piss...  
@@ -176,8 +176,8 @@ I know something’s wrong,
 ‘Cause my leg just walked away.  
   
 ## This Feeling  
-##### Code: thisfeeling  
-- To the tune of “Everytime we touch”  
+#### To the tune of “Everytime we touch” 
+###### thisfeeling   
   
 I still feel the symptoms,  
 Do you get them too?  
@@ -198,7 +198,7 @@ I want this to last
 Tonight I’m sure I’ll score!  
   
 ## Soft Kitty  
-##### Code: softkitty  
+###### softkitty  
   
 Soft kitty, warm kitty,  
 Little ball of fur.  
@@ -206,8 +206,8 @@ Happy kitty, sleepy kitty,
 Purr, purr, purr.  
   
 ## Eurovision  
-##### Code: eurovision  
-- To the tune of “Eurovision Theme”  
+#### To the tune of “Eurovision Theme”  
+###### eurovision  
   
 The French drink Champagne and Chardonnay,  
 In Germany they drink beer,  
@@ -227,8 +227,8 @@ All hope is lost for England,
 But Scots and Irish: welcome back!  
   
 ## Drunken Student  
-##### Code: drunkenstudent  
-- To the tune of “Drunken Sailor”  
+#### To the tune of “Drunken Sailor”  
+###### drunkenstudent  
   
 What shall we do with the drunken student? (x3)  
 Early in the morning  
@@ -243,8 +243,8 @@ Wake him up with a glass of Vodka...
 That’s what we do with a drunken student...  
   
 ## Twelve Days of Binge-Drinking  
-##### Code: twelvedays  
-- To the tune of “Twelve Days of Christmas”, increasingly drunkenly  
+#### To the tune of “Twelve Days of Christmas”, increasingly drunkenly  
+###### twelvedays  
   
 My first day of binge-drinking started happily,  
 With a large Long Island Ice Tea.  
@@ -268,40 +268,40 @@ My twelfth day of binge-drinking was a sight to see,
 With twelve shots of Absinthe,  
   
 ## We Will Rock You  
-##### Code: wewillrockyou  
+###### wewillrockyou  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Buddy you're a boy make a big noise  
 Playin' in the street gonna be a big man some day  
 You got mud on yo' face  
 You big disgrace  
 Kickin' your can all over the place, singin'  
   
-_(Everyone:)_  
+> Everyone:  
 :;: We will we will rock you :;:  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Buddy you're a young man hard man  
 Shoutin' in the street gonna take on the world some day  
 You got blood on yo' face  
 You big disgrace  
 Wavin' your banner all over the place  
   
-_(Everyone:)_  
+> Everyone:  
 :;: We will we will rock you :;:  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Buddy you're an old man poor man  
 Pleadin' with your eyes gonna make you some peace some day  
 You got mud on your face  
 Big disgrace  
 Somebody better put you back into your place  
   
-_(Everyone:)_  
+> Everyone:  
 :;: We will we will rock you :;:  
   
 ## I Love Rock'n'Roll  
-##### Code: iloverocknroll  
+###### iloverocknroll  
   
 I love Rock'n'Roll  
 So put another dime in the jukebox, baby  
@@ -309,8 +309,8 @@ I love Rock'n'Roll
 So come an' take your time an' dance with me  
   
 ## Yogi Bear  
-##### Code: yogibear  
-- To the tune of “Camptown Races”  
+#### To the tune of “Camptown Races”  
+###### yogibear  
   
 I know someone you don't know, Yogi, Yogi,  
 I know someone you don't know, Yogi, Yogi bear.  
@@ -353,8 +353,8 @@ Yogi likes it in the fridge, polar, polar bear,
 Yogi likes it in the fridge, polar, polar bear.  
   
 ## Paratrooper  
-##### Code: paratrooper  
-- To the tune of “Battle Hymn of the Republic”  
+#### To the tune of “Battle Hymn of the Republic”  
+###### paratrooper  
   
 My brother was a paratrooper in the US Marines (x3)  
 And he ain’t gonna jump no more.  
@@ -382,15 +382,15 @@ And he ain’t gonna jump no more.
   
 Gory, gory...  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 So think of my dear brother when you eat at Burger King's (x3)  
   
-_(Everyone:)_  
+> Everyone:  
 Cause he ain’t gonna jump no more!  
   
 ## Paratrooper  
-##### Code: paratrooper_short  
-- To the tune of “Battle Hymn of the Republic”  
+#### To the tune of “Battle Hymn of the Republic”  
+###### paratrooper_short  
   
 My brother was a paratrooper in the US Marines (x3)  
 And he ain’t gonna jump no more.  
@@ -402,14 +402,14 @@ He was the last to leave the plane but first to hit the ground...
 He hit the ground and turned into a ten-by-ten feet square...  
 They scraped him off and sent him to the ketchup factory...  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 So think of my dear brother when you eat at Burger King's (x3)  
   
-_(Everyone:)_  
+> Everyone:  
 Cause he ain’t gonna jump no more!  
   
 ## Fast Food and Other Things  
-##### Code: fastfood  
+###### fastfood  
   
 :;: A Pizza Hut, a Pizza Hut,  
 Kentucky Fried Chicken and a Pizza Hut :;:  
@@ -427,7 +427,7 @@ a Heli, Heli, Heli and a Jumbo Jet :;:
 a Heli, Heli, Heli and a Jumbo Jet :;:  
   
 ## Fast Food and Other Things  
-##### Code: fastfood_long  
+###### fastfood_long  
   
 :;: A Pizza Hut, a Pizza Hut,  
 Kentucky Fried Chicken and a Pizza Hut :;:  
@@ -460,7 +460,7 @@ a pretty drunk couple and an Erasmus :;:
 a pretty drunk couple and an Erasmus :;:  
   
 ## Roll Me Over  
-##### Code: rollmeover  
+###### rollmeover  
   
 This is number one  
 And the fun has just begun  
@@ -508,9 +508,9 @@ This is number 10'394
 And oh my God she still wants more...  
   
 ## Jallu’s Magic Starlight  
-##### Code: jallusmagicstarlight  
+###### jallusmagicstarlight  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Under Jallu’s magic starlight  
 Not the highest star, but most bright  
 I look through my empty shot glass  
@@ -520,13 +520,13 @@ Our strong drinks are cut from first bite
 From this magic drink, a shelter  
 I will make for my sad days  
   
-_(Everyone:)_  
+> Everyone:  
 :;: And under Jallu’s starlight  
 I will take one, for a safe flight  
 Only under Jallu’s soft sight  
 I will cry a joyful tear. :;:  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Under Jallu’s magic starlight,  
 Singer’s throat gets dry and so tight  
 Only getting booze he feels right  
@@ -536,12 +536,12 @@ Creeps a frost my soul cannot fight
 But by corking one more tonight  
 My heart’s chill is thawed away.  
   
-_(Everyone:)_  
+> Everyone:  
 :;: And under Jallu’s starlight... :;:  
   
 ## My Favorite Drinks  
-##### Code: myfavoritedrinks  
-- To the tune of “My Favorite Things”  
+#### To the tune of “My Favorite Things”  
+###### myfavoritedrinks  
   
 Negroni, Manhattan, Tequila sunrise,  
 Gin Tonic, Blue Angel, a Vodka on ice,  
@@ -560,8 +560,8 @@ I mix up a few of my favourite drinks
 And then I don't feel so bad!  
   
 ## Our Family  
-##### Code: ourfamily  
-- To the tune of “My Bonny Lies Over the Ocean”  
+#### To the tune of “My Bonny Lies Over the Ocean”  
+###### ourfamily  
   
 My father makes counterfeit money,  
 my mother brews synthetic gin.  
@@ -599,7 +599,7 @@ And now no more money rolls in.
 Rolls in, rolls in...  
   
 ## Mandatory Russian Song  
-##### Code: russiansong  
+###### russiansong  
   
 Father Stalin, mother Krushchova,  
 Shared a kiss, with Vodka on the rocks!  
@@ -617,7 +617,7 @@ Not a single friend left in the world.
 Now they're coming back to take my teeth. :;:  
   
 ## Finland  
-##### Code: finland  
+###### finland  
   
 Finland, Finland, Finland,  
 The country where I want to be,  
@@ -652,8 +652,8 @@ Finland has it all.
 Finland has it all.  
   
 ## The Engineers' Drinking Song  
-##### Code: engineersdrinkingsong  
-- To the tune of “The Son of a Gambolier”  
+#### To the tune of “The Son of a Gambolier”  
+###### engineersdrinkingsong  
   
 We are, we are, we are, we are, we are the Engineers,  
 We can, we can, we can, we can, demolish forty beers.  
@@ -710,15 +710,15 @@ But the only thing that's constant is the work at MIT!
 We are, we are, we are, we are...  
   
 ## Some say the Devil is Dead  
-##### Code: somesaythedevilisdead  
+###### somesaythedevilisdead  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Some say the Devil is dead, the Devil is dead, the Devil is dead,  
 Some say the Devil is dead and buried in Killarney.  
 More say he rose again (x3)  
 And joined the British army.  
   
-_(Everyone:)_  
+> Everyone:  
 Feed the pigs and milk the cow, milk the cow, milk the cow,  
 Feed the pigs and milk the cow, so early in the morning.  
 Tuck your leg up, Paddy dear.  
@@ -750,31 +750,22 @@ It's going back on Monday.
 Some say the Devil is dead...  
   
 ## My Lady in Red  
-##### Code: myladyinred_short  
+###### myladyinred_short  
   
-_(Solo:)_  
-She's my Lady in red  
-_(All:)_  
-She's my Lady in red  
-_(Solo:)_  
-She likes to do it in the bed  
-_(All:)_  
-She likes to do it in the bed  
+_(Solo:)_ She's my Lady in red  
+_(All:)_ She's my Lady in red  
+_(Solo:)_ She likes to do it in the bed  
+_(All:)_ She likes to do it in the bed  
   
-_(Solo:)_  
-Singing na-na-na-na  
-_(All:)_  
-Singing na-na-na-na  
-_(Solo:)_  
-Singing wo-ho-oh-ho  
-_(All:)_  
-Singing wo-ho-oh-ho  
+_(Solo:)_ Singing na-na-na-na  
+_(All:)_ Singing na-na-na-na  
+_(Solo:)_ Singing wo-ho-oh-ho  
+_(All:)_ Singing wo-ho-oh-ho  
   
-_(Solo:)_  
-She's my Lady in...  
+_(Solo:)_ She's my Lady in...  
   
 ## My Lady in Red  
-##### Code: myladyinred  
+###### myladyinred  
   
 :;: She's my Lady in red  
 She likes to do it in the bed :;:  
@@ -819,9 +810,9 @@ She's my Lady from ESN
 With her there's no where or when  
   
 ## What She's Got  
-##### Code: whatshesgot  
+###### whatshesgot  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Being gay has its problems, it's true,  
 But being straight has its problems too.  
 I met this girl,  
@@ -830,7 +821,7 @@ But the problem is that I am straight.
 You ask "How can this be?"  
 Sing along and you will see:  
   
-_(Everyone:)_  
+> Everyone:  
 She's got that style,  
 She's got that smile,  
 She's got the walk,  
@@ -848,7 +839,7 @@ But then again,
 A penis (pom, pom, pom)  
 She's got a penis (pom, pom, pom)  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Now nobody's perfect,  
 I must admit.  
 Say how many times do all the pieces fit.  
@@ -856,7 +847,7 @@ She's got more going,
 Than most of the dolls.  
 Oops, I forgot about the balls!  
   
-_(Everyone:)_  
+> Everyone:  
 But she's so hip,  
 This babe's a trip,  
 She's distingué,  
@@ -869,7 +860,7 @@ Those lips those eyes,
 Then big surprise,  
 That penis (pom, pom, pom)  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 There's always some failure,  
 Always some flaw,  
 Ain't that what they call Murphy's Law?  
@@ -877,7 +868,7 @@ But male genitalia,
 That's where I draw the line.  
 Besides hers is bigger than mine...  
   
-_(Everyone:)_  
+> Everyone:  
 She's got class,  
 She's got that sass,  
 She's got that chic,  
@@ -891,16 +882,16 @@ But where that should be,
 She's got a penis (pom, pom, pom)  
 She had a penis (pom, pom, pom)  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 My life's a mess,  
 Cause under that dress,  
 She's got a P-E-N-I-S.  
   
-_(Everyone:)_  
+> Everyone:  
 Yes!  
   
 ## Clementine  
-##### Code: clementine  
+###### clementine  
   
 In a cavern, in a canyon,  
 Excavating for a mine,  
@@ -934,7 +925,7 @@ So I lost my Clementine.
 Oh my darling...  
   
 ## Who is a Freshman  
-##### Code: whoisafreshman  
+###### whoisafreshman  
   
 :;: Who is a freshman of XX  
 Stand up on your chair. :;:  
@@ -944,7 +935,7 @@ Then raise it up to your lips and
 Drink up, drink bottoms up! :;:  
   
 ## Who is a Freshman  
-##### Code: whoisafreshman_safe  
+###### whoisafreshman_safe  
   
 :;: Who is a freshman of XX  
 Stand up, stand up right now. :;:  
@@ -954,8 +945,8 @@ Then raise it up to your lips and
 Drink up, drink bottoms up! :;:  
   
 ## Eurovision  
-##### Code: eurovision_lausanne  
-- To the tune of “Eurovision Theme”  
+#### To the tune of “Eurovision Theme”  
+###### eurovision_lausanne  
   
 The French drink Champagne and Chardonnay,  
 In Germany they drink beer,  
@@ -975,7 +966,7 @@ All hope is lost for England,
 But Scots and Irish, welcome back!  
   
 ## Thrift Shop  
-##### Code: thriftshop  
+###### thriftshop  
   
 I'm gonna pop some tags  
 Only got twenty dollars in my pocket  
@@ -990,7 +981,7 @@ From that thrift shop down the road :;:
 I'm gonna pop some tags...  
   
 ## The Nations of the World  
-##### Code: yakkosworld  
+###### yakkosworld  
   
 United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru  
 Republic Dominican, Cuba, Caribbean, Greenland, El Salvador too  
@@ -1027,7 +1018,7 @@ Crete, Mauritania, then Transylvania—
 Monaco, Liechtenstein, Malta, and Palestine, Fiji, Australia, Sudan!  
   
 ## My Bonnie  
-##### Code: mybonnie  
+###### mybonnie  
   
 My Bonnie is over the ocean  
 My Bonnie is over the sea  
@@ -1061,7 +1052,7 @@ And brought back my Bonnie to me!
 Bring back...  
   
 ## The Lion Sleeps Tonight  
-##### Code: wimoweh  
+###### wimoweh  
   
 O-wimoweh (x16)  
   
@@ -1087,8 +1078,8 @@ The Lion sleeps tonight
 O-wimoweh...  
   
 ## Fizzy Cider  
-##### Code: fizzycider  
-- To the tune of “Bob the Builder”  
+#### To the tune of “Bob the Builder”  
+###### fizzycider  
   
 Fizzy cider, CAN WE DRINK IT?  
 Fizzy cider, YES WE CAN!  
@@ -1101,7 +1092,7 @@ Drinking more cider ain’t that dumb!
 Fizzy cider...  
   
 ## Let's Do It Anyway!  
-##### Code: letsdoitanyway  
+###### letsdoitanyway  
   
 It's hard to stay up, it's been a long long day  
 And you've got the sandman at your door  
@@ -1138,22 +1129,22 @@ It's hard to stay up...
 It's okay...  
   
 ## Diggy Diggy Hole  
-##### Code: diggydiggyhole  
+###### diggydiggyhole  
   
 _(Solo:)_ Brothers of the mine rejoice!  
 _(All:)_ Swing, swing, swing with me!  
 _(Solo:)_ Raise your pick and raise your voice!  
 _(All:)_ Sing, sing, sing with me!  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Down and down into the deep,  
 Who knows what we'll find beneath?  
 Diamonds, rubies, gold and more,  
 Hidden in the mountain store.  
   
-_(Bang the drums!)_  
+> Bang the drums!  
   
-_(Everyone:)_  
+> Everyone:  
 Born underground,  
 Suckled from a teat of stone.  
 Raised in the dark,  
@@ -1163,7 +1154,7 @@ Steel in our bones,
 To dig and dig makes us free!  
 Come on brothers sing with me!  
   
-_(Bang the drums!)_  
+> Bang the drums!  
   
 I am a dwarf and I'm digging a hole,  
 Diggy diggy hole, diggy diggy hole!  
@@ -1175,15 +1166,15 @@ _(All:)_ Deep, deep in the mine!
 _(Solo:)_ Never seen the blue moon glow,  
 _(All:)_ Dwarves won't fly so high!  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Fill a glass and down some mead!  
 Stuff your bellies at the feast!  
 Stumble home and fall asleep,  
 Dreaming in our mountain keep.  
   
-_(Bang the drums!)_  
+> Bang the drums!  
   
-_(Everyone:)_  
+> Everyone:  
 Born underground,  
 Grown inside a rocky womb.  
 The earth is our cradle,  
@@ -1193,13 +1184,13 @@ You will meet your doom.
 We do not fear what lies beneath!  
 We can never dig too deep!  
   
-_(Bang the drums!)_  
+> Bang the drums!  
   
 :;: I am a dwarf... :;:  
   
 ## Erasmus  
-##### Code: erasmus  
-- To the tune of “Wild Rover”  
+#### To the tune of “Wild Rover”  
+###### erasmus  
   
 I've been on Erasmus for almost one year,  
 And I've spent all me money on party and beer.  
@@ -1227,7 +1218,7 @@ When we drink them together they fuck up our mind.
 :;: And it's No, Nay, never... :;:  
   
 ## An Irish Tale  
-##### Code: irishtale  
+###### irishtale  
   
 There was only one bar...  
 A MILE LONG!  
@@ -1260,7 +1251,7 @@ And that’s the end...
 ‘TILL NEXT WEEK!  
   
 ## Get Lucky  
-##### Code: getlucky  
+###### getlucky  
   
 We've come too far,  
 To give up who we are.  
@@ -1275,7 +1266,7 @@ I'm up all night to get lucky.
 We're up all night 'til the sun...  
   
 ## The Internet  
-##### Code: internetisforporn  
+###### internetisforporn  
   
 _(Solo:)_ The internet is really really great.  
 _(All:)_ For porn!  
@@ -1324,8 +1315,8 @@ Internet is for,
 Internet is for porn! HAHAAA!  
 
 ## YUROP  
-##### Code: yurop  
-- To the tune of “Beethoven's 9th - Finale”  
+#### To the tune of “Beethoven's 9th - Ode to Joy”  
+###### yurop  
   
 Praise our Yuropean Yunion, ain't no land as great as She,  
 I will always love our treasured land of peace and harmony.  

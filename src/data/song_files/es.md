@@ -2,7 +2,7 @@
 # Canciones en Español                        
   
 ## Alcohol  
-##### Code: alcohol  
+###### alcohol  
   
 Alcohol  
 Alcohol  
@@ -12,7 +12,7 @@ A emborracharnos
 El resultado nos da igual  
   
 ## La Bamba  
-##### Code: labamba  
+###### labamba  
   
 Para bailar La Bamba  
 Para bailar La Bamba  
@@ -28,7 +28,7 @@ Soy capitan, soy capitan, soy capitan
 Bam ba bamba (x3)  
   
 ## Spanish Toast  
-##### Code: spanishtoast  
+###### spanishtoast  
   
 Arriba! _(glasses up)_  
 Abajo! _(glasses down)_  

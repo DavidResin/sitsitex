@@ -1,6 +1,10 @@
+# Standard libraries
 import os, re
+# For Markdown parsing
 import markdown as md
+# For Latex compilation
 import pylatex as pl
+# For accentuation removal
 import unicodedata as ud
 
 # tags to keep
@@ -18,7 +22,8 @@ match = {
 }
 
 # Parse Markdown song
-def parse_md(lines, position=0):
+# Comments are not yet supported
+def from_md(lines, position=0):
 	# Exception handling is delegated to the calling module
 	check_song(lines, position)
 
@@ -30,7 +35,7 @@ def parse_md(lines, position=0):
 	
 	for i in range(len(lines)):
 		text = "Line " + str(position + i) + ": "
-		tag, content = cat_line(lines[i], text)
+		tag, content, _ = cat_line(lines[i], text)
 
 		if tag in ["title", "subtitle", "code"]:
 			song[tag] = content
@@ -44,13 +49,15 @@ def parse_md(lines, position=0):
 			line = {}
 			line["type"] = tag
 			line["segments"] = content
-			verse += [line]
+			verse["lines"] += [line]
 
 	# If empty line was missing at the end
 	if not newline:
 		verses += [verse]
 
 	song["verses"] = verses
+
+	return song
 
 # Check that a song is valid, return value is for minor syntax problems
 def check_song(lines, position=0):
@@ -135,6 +142,9 @@ def check_song(lines, position=0):
 def cat_line(line, text=""):
 	space = len(line) < 2 or line[-2:] != "  "
 
+	if not space:
+		line = line[:-2]
+
 	# Check for empty lines
 	if not line.strip():
 		return "empty", None, space
@@ -145,7 +155,7 @@ def cat_line(line, text=""):
 
 	# Check first tag to categorize
 	pat = "<(?P<tag>\w+)>"
-	parsed = md.markdown(line.replace("_", "*"))
+	parsed = md.markdown(line.replace("_", "*")).replace("\n", "")
 	tag = match.get(re.findall(pat, parsed)[0])
 
 	# If tag not in validation list or asterisks persist the line is invalid
@@ -202,129 +212,8 @@ def cat_line(line, text=""):
 
 	return tag, segments, space
 
-# Read latex song (DO NOT USE)
-def from_latex(lines):
-	# state can be :
-	# - 0 (beginning)
-	# - 1 (waiting for verse)
-	# - 2 (in verse)
-	# - 3 (end)
-	state = 0
-	song = {"verses" : []}
-	invalid = False
-
-	patterns = [("_" * i, t) for i, t in zip([3, 2, 1], ['bi', 'b', 'i'])]
-
-	for l in lines:
-		# Remove useless clutter
-		if l[-1] == "\n":
-			l = l[:-1]
-
-		if l[-1] == "%":
-			l = l[:-1]
-
-		if l[-2:] == "\\\\":
-			l = l[:-2]
-
-		l = l.strip()
-
-		# Parse title & code
-		if state == 0:
-			pat = "^(?P<code>.+) = (?P<title>.+) = {$"
-			match = re.match(pat, l)
-			
-			if bool(match):
-				seg = match.groupdict()
-				song["title"] = seg["title"]
-				code = seg["code"]
-				state = 1
-			else:
-				invalid = True
-
-		# Parse verse start or subtitle
-		elif state == 1:
-			pat = "^\\\sing{(?P<subtitle>.+)}$"
-			match = re.match(pat, l)
-
-			if bool(match):
-				seg = match.groupdict()
-				song["subtitle"] = seg["subtitle"]
-			elif l == "\\verse{":
-				song["verses"].append([])
-				state = 2
-			elif l == "}":
-				state = 3
-			else:
-				invalid = True
-
-		# Parse verse content and end
-		elif state == 2:
-			if l == "}":
-				if len(song["verses"][-1]):
-					state = 1
-				else:
-					invalid = True
-			else:
-				style = ""
-				line = []
-
-				elems = [e for e in l \
-					.replace("\\", "*\\") \
-					.replace("{", "{*") \
-					.replace("}", "*}*").split("*") if len(e)]
-
-				for e in elems:
-					if e == "\\textbf{":
-						style += "b"
-					elif e == "\\textit{":
-						style += "i"
-					elif e == "}":
-						style = style[:-1]
-					else:
-						entry = {}
-
-						entry["s"] = ("b" if "b" in style else "") + ("i" if "i" in style else "")
-						entry["v"] = e
-
-						line.append(entry)
-
-				# Test if all style fields are closed
-				if len(style):
-					invalid = True
-				else:
-					song["verses"][-1].append(line)
-
-		# Check for extra lines
-		elif state == 3:
-			invalid = True
-		else:
-			print("ERROR: Illegal state: ", str(state))
-			return None, None
-
-		if invalid:
-			print("ERROR: Invalid latex, please check the style guide")
-			print("Line: " + l)
-			print("State: " + str(state))
-			return None, None
-
-	if state == 3:
-		return code, song
-	else:
-		if state == 0:
-			missing = "title and code"
-		elif state == 1:
-			missing = "end of song"
-		else:
-			missing = "end of verse"
-
-		print("ERROR: Incomplete latex, " + missing + " missing")
-		return None, None
-
 # Write markdown song
-def to_md(code, song):
-	#print("UNSAFE FOR NOW")
-	#return
-	
+def to_md(code, song):	
 	try:
 		# Add title and code lines
 		lines = [ "## " + song['title'] ]
@@ -332,15 +221,10 @@ def to_md(code, song):
 		# Add subtitle if present
 		subtitle = song.get("subtitle")
 
-		#if subtitle:
-		#	lines += [ ("#" * 4) + f" {subtitle}" ]
-
-		lines += [ ("#" * 5) + " Code: " + code ]
-
-
-
 		if subtitle:
-			lines += [ f"- {subtitle}" ]
+			lines += [ ("#" * 4) + f" {subtitle}" ]
+
+		lines += [ ("#" * 6) + " " + code ]
 
 		lines += [""]
 
@@ -427,6 +311,7 @@ def to_latex(code, song):
 def read_md_file(fn, lines):
 	language = "unknown language"
 	songs = {}
+	flag = False
 
 	if lines[0][:2] == "# ":
 		language = lines[0].strip().split("in ")[-1]
@@ -438,31 +323,37 @@ def read_md_file(fn, lines):
 	cpls = zip(ids, ids[1:] + [end])
 
 	for i, j in cpls:
-		code, song = from_md(lines[i:j])
+		try:
+			song = from_md(lines[i:j])
+			code = song.get(code)
 
-		if not code:
-			print("Invalid song located at lines", i, "to", end)
-			continue
+			if not code:
+				print("Invalid song located at lines", i, "to", j)
+				continue
 
-		if songs.get(code):
-			print("ERROR: Duplicate song code '" + code + "' in " + fn)
-			continue
+			if songs.get(code):
+				print("ERROR: Duplicate song code '" + code + "' in " + fn + ". Will overwrite previous instances.")
+				continue
 
-		songs[code] = song
+			songs[code] = song
+		except SyntaxError as err:
+			print("Critical error in", fn, ":")
+			print(err.msg)
+			flag = True
 
 	opener = lines[0:ids[0]]
 
-	return language, songs, opener
+	return language, songs, opener, flag
 
 def generate_song_file(path, reg_fn, reg_path=""):
 	filenames = sorted([e for e in os.listdir(path) if e[-3:] == ".md"])
 	song_sets = {}
-	language, songs, opener = None, None, None
+	language, songs, opener, flag = None, None, None, None
 
 	for fn in filenames:
 		with open(os.path.join(path, fn), "r", encoding="utf8") as f:
 			lines = f.read().splitlines()
-			language, songs, opener = read_md_file(fn, lines)
+			language, songs, opener, flag = read_md_file(fn, lines)
 			key = fn.split(".md")[0]
 
 			song_sets[key] = {
@@ -470,14 +361,17 @@ def generate_song_file(path, reg_fn, reg_path=""):
 				"songs": songs,
 			}
 
-		# Correct missing spaces in the file
-		with open(os.path.join(path, fn), "w", encoding="utf8") as f:
-			lines = [o + "  \n" for o in opener]
+		# Correct missing spaces in the file unless an error arises.
+		if flag:
+			print("File", fn, "presented critical errors. It will not be autocorrected to prevent loss of data.")
+		else:
+			with open(os.path.join(path, fn), "w", encoding="utf8") as f:
+				lines = [o + "  \n" for o in opener]
 
-			for k in songs.keys():
-				lines += to_md(k, songs[k])
+				for k in songs.keys():
+					lines += to_md(k, songs[k])
 
-			f.writelines(lines)
+				f.writelines(lines)
 
 	with open("songs.dat", "w", encoding="utf8") as f:
 		for key in song_sets.keys():
@@ -491,6 +385,7 @@ def generate_song_file(path, reg_fn, reg_path=""):
 
 	make_register(path=reg_path, data=song_sets, fn=reg_fn)
 
+# Pretty prints titles with suffixes for the song reference document
 def song_suffix(key, title):
 	if '_' in key:
 		sep = " -"
@@ -511,6 +406,7 @@ def no_accents(input_str):
     nfkd_form = ud.normalize('NFKD', input_str)
     return u"".join([c for c in nfkd_form if not ud.combining(c)])
 
+# Creates reference file for songs, sorted by language
 def make_register(path, data, fn, sort=True):
 	doc = pl.Document(default_filepath=fn, \
 						document_options={ "twocolumn" }, \

@@ -1,7 +1,7 @@
 # Songs in multiple languages, dead languages, and fictional languages  
   
 ## Just Drink  
-##### Code: trink  
+###### trink  
   
 If your wife tells you not to drink,  
 Just drink, just drink!  
@@ -11,7 +11,7 @@ And if she keeps nagging just go ahead ‘n ditch her,
 There’s plenty of fish in the ocean to capture,  
 Just drink and sing and drink and sing and drink and sing and drink and sing and...  
   
-_(Lean left and right)_  
+> Lean left and right  
 Trink, trink, Brüderlein trink  
 Lass doch die Sorgen zu Haus!  
 Trink (HEY!), trink (HEY!), Brüderlein trink  
@@ -30,21 +30,21 @@ Cause war is pure hell and they know it’s quite rotten,
 When one guy can end it by pushing a button,  
 So drink and sing and drink and sing and drink and sing and drink and sing and...  
   
-_(Lean back and forth)_  
+> Lean back and forth  
 Trink, trink...  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 High up in a fir tree right under the branches,  
 There lives a small squirrel with its little stashes.  
-_(Everyone:)_  
+> Everyone:  
 It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...  
   
-_(Stand up and sit down)_  
+> Stand up and sit down  
 Trink, trink...  
   
 ## Minne  
-##### Code: minne  
-- To the tune of “Memory”  
+#### To the tune of “Memory”  
+###### minne  
   
 Minne!  
 Jag har tappat mitt minne!  
@@ -89,7 +89,7 @@ That I’ll never learn...
 I’ll just drink more and hope they return!  
   
 ## Henkilökunta  
-##### Code: henkilokunta  
+###### henkilokunta  
   
 :;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
 Henkilökuntaa (x4)  
@@ -100,7 +100,7 @@ Henkilökuntaa (x4)
 :;: Beer is fine, too... :;:  
   
 ## Ko-Ko-Ko-Koskenkorva  
-##### Code: koskenkorva  
+###### koskenkorva  
   
 Ko-ko-ko-kosken ko-ko-ko-korvaa,  
 Siitä aina kunnon räkä-kä-kännit saa.  
@@ -118,7 +118,7 @@ What a wonderful place to get totally, totally drunk!
 ...  
   
 ## Vem i helvete  
-##### Code: vemihelvete  
+###### vemihelvete  
   
 Vem i helvete kastar sten på min flaska brännvin? (fyra gånger)  
   
@@ -133,7 +133,7 @@ Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)
 Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)  
   
 ## Dovakhiin  
-##### Code: dovakhiin  
+###### dovakhiin  
   
 Who! Hoa! Rha! (x8)  
   
@@ -162,7 +162,7 @@ Dovahkiin, Dovahkiin...
 Who! Hoa! Haa! Rha! (x2)  
   
 ## Tänään Otetaan  
-##### Code: tanaanotetaan  
+###### tanaanotetaan  
   
 :;: Tänään otetaan, tänään otetaan,  
 Helvetin paljon viinaa. :;:  
@@ -185,7 +185,7 @@ Absolutely fucking wasted. :;:
 A hangover beyond reason. :;:  
   
 ## Tänään Otetaan  
-##### Code: tanaanotetaan_short  
+###### tanaanotetaan_short  
   
 :;: Tänään otetaan, tänään otetaan,  
 Helvetin paljon viinaa. :;:  
@@ -203,7 +203,7 @@ Absolutely fucking wasted. :;:
 A hangover beyond reason. :;:  
   
 ## Ryyppää  
-##### Code: ryyppaa  
+###### ryyppaa  
   
 Ryyppää, ryyppää, ryyppää vaan,  
 Huomenna on sulla krapula.  
@@ -216,7 +216,7 @@ But if you drink, and drink, and drink some more,
 The hangover won’t come at all!  
   
 ## Internationalen  
-##### Code: internationalen  
+###### internationalen  
   
 Mera brännvin i glasen,  
 Mera glas på vårt bord,  
@@ -255,7 +255,7 @@ More Earth for us to pump oil from,
 Cheap gas is all we’re worth.  
   
 ## Internationalen  
-##### Code: internationalen_2  
+###### internationalen_2  
   
 Lisää viinaa mun lasiin,  
 Lisää laseja pöydälle,  
@@ -290,12 +290,12 @@ Plus de tables sous nos baguettes,
 Plus de baguettes pour la France.  
 Plus de France pour la grève,  
 Plus de grèves pour nos enfants,  
-_(Switch to “La Marseillaise”)_  
+> Switch to “La Marseillaise”  
 Plus d'enfants pour la patrie,  
 Le jour de gloire est arrivé! ARRIVÉ!  
   
 ## Io Vivat  
-##### Code: iovivat  
+###### iovivat  
   
 Io vivat! Io vivat!  
 Nostrorum sanitas  

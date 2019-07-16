@@ -1,5 +1,5 @@
 import unittest
-import new_helpers as module
+import song_helpers as module
 
 class TestHelpers(unittest.TestCase):
 	def setUp(self):
@@ -10,7 +10,7 @@ class TestHelpers(unittest.TestCase):
 		self.empty = "  "
 		self.comment = "    COMMENT  "
 		self.meta = "> META  "
-		self.text = "TEXT  "
+		self.text = "TEXT *ITALIC* _ITALIC_ **BOLD** __BOLD__ ***ALL*** ___ALL___  "
 
 	def test_tagging(self):
 		self.assertEqual("title", 		module.cat_line(self.title)[0])
@@ -90,6 +90,40 @@ class TestHelpers(unittest.TestCase):
 				self.empty]
 
 		self.assertFalse(module.check_song(song))
+
+	def test_parsing(self):
+		song = [self.title, \
+				self.subtitle, \
+				self.code, \
+				self.empty, \
+				self.comment, \
+				self.empty, \
+				self.meta, \
+				self.text, \
+				self.empty]
+
+		data = module.from_md(song)
+		
+		self.assertEqual(data["title"][0]["v"], "TITLE")
+		self.assertEqual(data["subtitle"][0]["v"], "SUBTITLE")
+		self.assertEqual(data["code"][0]["v"], "CODE")
+		self.assertEqual(data["verses"][0]["lines"][0]["type"], "meta")
+		self.assertEqual(data["verses"][0]["lines"][0]["segments"][0]["v"], "META")
+		self.assertEqual(data["verses"][0]["lines"][1]["type"], "text")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][0]["s"], "")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][0]["v"], "TEXT ")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][1]["s"], "i")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][1]["v"], "ITALIC")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][3]["s"], "i")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][3]["v"], "ITALIC")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][5]["s"], "b")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][5]["v"], "BOLD")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][7]["s"], "b")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][7]["v"], "BOLD")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][9]["s"], "bi")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][9]["v"], "ALL")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][11]["s"], "bi")
+		self.assertEqual(data["verses"][0]["lines"][1]["segments"][11]["v"], "ALL")
 
 if __name__ == '__main__':
 	unittest.main()
