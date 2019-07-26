@@ -1,5 +1,5 @@
 # Standard libraries
-import os, re
+import copy, os, re
 # For Markdown parsing
 import markdown as md
 # For Latex compilation
@@ -27,25 +27,26 @@ def from_md(lines, position=0):
 	# Exception handling is delegated to the calling module
 	check_song(lines, position)
 
-	newline = False
+	newline = True
 	song = dict()
 	verses = []
 	empty_verse = {"lines": []}
-	verse = empty_verse.copy()
+	verse = copy.deepcopy(empty_verse)
 	
 	for i in range(len(lines)):
 		text = "Line " + str(position + i) + ": "
 		tag, content, _ = cat_line(lines[i], text)
 
-		if tag in ["title", "subtitle", "code"]:
-			song[tag] = content
-
-		elif tag == "empty" and not newline:
+		if tag == "empty" and not newline:
 			newline = True
 			verses += [verse]
-			verse = empty_verse.copy()
+			verse = copy.deepcopy(empty_verse)
+
+		elif tag in ["title", "subtitle", "code"]:
+			song[tag] = flatten_line(content)
 
 		elif tag in ["meta", "text"]:
+			newline = False
 			line = {}
 			line["type"] = tag
 			line["segments"] = content
@@ -56,8 +57,11 @@ def from_md(lines, position=0):
 		verses += [verse]
 
 	song["verses"] = verses
-
 	return song
+
+# Gets the raw text of a stylized line
+def flatten_line(line):
+	return "".join([s["text"] for s in line])
 
 # Check that a song is valid, return value is for minor syntax problems
 def check_song(lines, position=0):
@@ -72,7 +76,7 @@ def check_song(lines, position=0):
 	ret = False
 
 	for i in range(len(lines)):
-		text = "Line " + str(position + i) + ": "
+		text = "Line " + str(position + i + 1) + ": "
 		tag, _, space = cat_line(lines[i], text)
 
 		if space:
@@ -155,11 +159,11 @@ def cat_line(line, text=""):
 
 	# Check first tag to categorize
 	pat = "<(?P<tag>\w+)>"
-	parsed = md.markdown(line.replace("_", "*")).replace("\n", "")
+	parsed = md.markdown(line).replace("\n", "")
 	tag = match.get(re.findall(pat, parsed)[0])
 
 	# If tag not in validation list or asterisks persist the line is invalid
-	if not tag or "*" in parsed:
+	if not tag or "*" in parsed or "_ " in parsed or " _" in parsed:
 		raise SyntaxError(text + "Invalid markdown.")
 
 	# Remove all tags except those in keep with or without /
@@ -205,8 +209,8 @@ def cat_line(line, text=""):
 		else:
 			entry = {}
 
-			entry["s"] = ("b" if bold else "") + ("i" if italic else "")
-			entry["v"] = e
+			entry["style"] = ("b" if bold else "") + ("i" if italic else "")
+			entry["text"] = e
 
 			segments.append(entry)
 
@@ -224,7 +228,7 @@ def to_md(code, song):
 		if subtitle:
 			lines += [ ("#" * 4) + f" {subtitle}" ]
 
-		lines += [ ("#" * 6) + " " + code ]
+		lines += [ ("#" * 6) + " " + song["code"] ]
 
 		lines += [""]
 
@@ -232,16 +236,16 @@ def to_md(code, song):
 		for verse in song["verses"]:
 			v_arr = []
 
-			for line in verse:
-				l_arr = []
+			for line in verse["lines"]:
+				l_arr = [] if line["type"] == "text" else ["> "]
 
-				for seq in line:
-					chars = seq["v"]
+				for seg in line["segments"]:
+					chars = seg["text"]
 
-					if "i" in seq["s"]:
+					if "i" in seg["style"]:
 						chars = f"_{chars}_"
 
-					if "b" in seq["s"]:
+					if "b" in seg["style"]:
 						chars = f"**{chars}**"
 
 					l_arr += [ chars ]
@@ -251,49 +255,50 @@ def to_md(code, song):
 			lines += v_arr + [""]
 	except:
 		print("ERROR: Invalid song with code '" + code + "'")
-		return None
+		return [], True
 
 	# Return lines with added suffix
-	return [ l + "  \n" for l in lines ]
+	return [ l + "  \n" for l in lines ], False
 
 # Write latex song
 def to_latex(code, song):
 	lines = []
 
 	try:
-		# Add subtitle if present
-		subtitle = song.get("subtitle")
-
-		if subtitle:
-			lines += [ f"\\sing{{{subtitle}}}" ]
-
 		# Generate verses
 		for verse in song["verses"]:
 			v_arr = []
 
-			for line in verse:
+			for line in verse["lines"]:
 				l_arr = []
 
-				for seq in line:
-					chars = seq["v"]
+				for seg in line["segments"]:
+					chars = seg["text"]
 
-					if "i" in seq["s"]:
+					if "i" in seg["style"]:
 						chars = f"\\textit{{{chars}}}"
 
-					if "b" in seq["s"]:
+					if "b" in seg["style"]:
 						chars = f"\\textbf{{{chars}}}"
 
 					l_arr += [chars]
 
+				if line["type"] == "meta":
+					l_arr = ["\\colorbox{gray!30}{\\sc "] + \
+						l_arr + \
+						["}"]
+
 				v_arr += ["".join(l_arr)]
 
-			lines += [ "\\verse{%" ] + [ "\t" + v + "\\\\%" for v in v_arr ] + ["}"]
+			lines += [ "\\verse{%" ] + [ "\t" + v + "\\\\%" for v in v_arr] + ["}"]
 
 		# Tabulate all inner lines
 		lines = [ "\t" + line for line in lines ]
 
 		# Add opening and closing lines
-		newline = f"{code} = {song['title']} = {{%"
+		title = song['title']
+		subtitle = song.get("subtitle") or "?"
+		newline = f"{code} = {title} = {subtitle} = {{%"
 		lines = [ newline ] + lines + ["}"]
 	except:
 		print("ERROR: Invalid song with code '" + code + "'")
@@ -324,15 +329,15 @@ def read_md_file(fn, lines):
 
 	for i, j in cpls:
 		try:
-			song = from_md(lines[i:j])
-			code = song.get(code)
+			song = from_md(lines[i:j], position=i)
+			code = song.get("code")
 
 			if not code:
 				print("Invalid song located at lines", i, "to", j)
 				continue
 
 			if songs.get(code):
-				print("ERROR: Duplicate song code '" + code + "' in " + fn + ". Will overwrite previous instances.")
+				print("Duplicate song code '" + code + "' in " + fn + ". Will overwrite previous instances.")
 				continue
 
 			songs[code] = song
@@ -365,13 +370,19 @@ def generate_song_file(path, reg_fn, reg_path=""):
 		if flag:
 			print("File", fn, "presented critical errors. It will not be autocorrected to prevent loss of data.")
 		else:
-			with open(os.path.join(path, fn), "w", encoding="utf8") as f:
-				lines = [o + "  \n" for o in opener]
+			flag = False
+			lines = [o + "  \n" for o in opener]
 
-				for k in songs.keys():
-					lines += to_md(k, songs[k])
+			for k in songs.keys():
+				new_lines, new_flag = to_md(k, songs[k])
+				lines += new_lines
+				flag |= new_flag
 
-				f.writelines(lines)
+			if flag:
+				print('Markdown compilation failed for song with code "' + k + '" in file "' + fn + '". This should not happen. Autocorrection aborted.')
+			else:
+				with open(os.path.join(path, fn), "w", encoding="utf8") as f:
+					f.writelines(lines)
 
 	with open("songs.dat", "w", encoding="utf8") as f:
 		for key in song_sets.keys():
@@ -387,9 +398,10 @@ def generate_song_file(path, reg_fn, reg_path=""):
 
 # Pretty prints titles with suffixes for the song reference document
 def song_suffix(key, title):
+	sep = " -"
+	ver = "Version"
+
 	if '_' in key:
-		sep = " -"
-		ver = "Version"
 		num = ""
 		det = key.split('_')[1:]
 
@@ -409,7 +421,7 @@ def no_accents(input_str):
 # Creates reference file for songs, sorted by language
 def make_register(path, data, fn, sort=True):
 	doc = pl.Document(default_filepath=fn, \
-						document_options={ "twocolumn" }, \
+						document_options=[ "a4paper", "twocolumn" ], \
 						geometry_options={ "margin" : "1in" }, \
 						indent=False, \
 						fontenc="T1", \
@@ -430,12 +442,12 @@ def make_register(path, data, fn, sort=True):
 		with doc.create(pl.Section(section, numbering=False)):
 
 			# Sort songs in alphabetical order, ignoring accentuation
-			for k, s in sorted(songs.items(), key=lambda item: no_accents(item[1]['entry'])):
+			for k, s in sorted(songs.items(), key=lambda item: no_accents(item[1]['title'])):
 
 				# Prevent separation of title and code
 				with doc.create(pl.MiniPage(width=r"\textwidth")):
 					doc.append(pl.HorizontalSpace("1em"))
-					doc.append(s['entry'])
+					doc.append(s['title'])
 					doc.append(pl.NewLine())
 					doc.append(pl.HorizontalSpace("2em"))
 					doc.append(pl.FootnoteText(pl.utils.bold(code + "_" + k)))

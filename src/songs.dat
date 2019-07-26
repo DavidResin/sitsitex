@@ -1,4 +1,4 @@
-en_marchofthewaterboys = March of the Water-Boys = {%
+en_marchofthewaterboys = March of the Water-Boys = ? = {%
 	\verse{%
 		This we swear upon our lives or even death\\%
 		That we will not drink at all that devilish alcohol\\%
@@ -14,7 +14,7 @@ en_marchofthewaterboys = March of the Water-Boys = {%
 	}
 }
 
-en_farover = Far Over = {%
+en_farover = Far Over = ? = {%
 	\verse{%
 		Far over the Misty Mountains cold,\\%
 		To dungeons deep and caverns old.\\%
@@ -41,7 +41,7 @@ en_farover = Far Over = {%
 	}
 }
 
-en_dearfriends = Dear Friends = {%
+en_dearfriends = Dear Friends = ? = {%
 	\verse{%
 		My dear friends our grand feast will begin here,\\%
 		Our glasses we raise with a wild cheer.\\%
@@ -62,8 +62,7 @@ en_dearfriends = Dear Friends = {%
 	}
 }
 
-en_helangar = Hell and Gore = {%
-	\sing{To the tune of “Helan Går”}
+en_helangar = Hell and Gore = To the tune of “Helan Går” = {%
 	\verse{%
 		Hell and gore\\%
 		Sing hop Father Allan, Allan lay\\%
@@ -76,7 +75,7 @@ en_helangar = Hell and Gore = {%
 	}
 }
 
-en_beercannon_swiss = Beer Cannon = {%
+en_beercannon_swiss = Beer Cannon = ? = {%
 	\verse{%
 		:;: Eichhof Lager :;:\\%
 		:;: Cardinal :;:\\%
@@ -85,8 +84,7 @@ en_beercannon_swiss = Beer Cannon = {%
 	}
 }
 
-en_heresthefirst = Here's the First = {%
-	\sing{To the tune of “Helan Går”}
+en_heresthefirst = Here's the First = To the tune of “Helan Går” = {%
 	\verse{%
 		Here’s the first,\\%
 		Sing hopp-faderallan-lallan-lay\\%
@@ -99,7 +97,7 @@ en_heresthefirst = Here's the First = {%
 	}
 }
 
-en_bigbangtheory = The Big Bang Theory = {%
+en_bigbangtheory = The Big Bang Theory = ? = {%
 	\verse{%
 		Our whole universe was in a hot dense state,\\%
 		Then nearly fourteen billion years ago expansion started. Wait...\\%
@@ -112,7 +110,7 @@ en_bigbangtheory = The Big Bang Theory = {%
 	}
 }
 
-en_wasted = Wasted = {%
+en_wasted = Wasted = ? = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -127,7 +125,7 @@ en_wasted = Wasted = {%
 	}
 }
 
-en_wasted_long = Wasted = {%
+en_wasted_long = Wasted = ? = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -150,8 +148,7 @@ en_wasted_long = Wasted = {%
 	}
 }
 
-en_syphilis = Syphilis = {%
-	\sing{To the tune of “Yesterday”}
+en_syphilis = Syphilis = To the tune of “Yesterday” = {%
 	\verse{%
 		Syphilis, it just started with a simple kiss.\\%
 		Now it hurts to even take a piss...\\%
@@ -202,8 +199,7 @@ en_syphilis = Syphilis = {%
 	}
 }
 
-en_thisfeeling = This Feeling = {%
-	\sing{To the tune of “Everytime we touch”}
+en_thisfeeling = This Feeling = To the tune of “Everytime we touch” = {%
 	\verse{%
 		I still feel the symptoms,\\%
 		Do you get them too?\\%
@@ -227,7 +223,7 @@ en_thisfeeling = This Feeling = {%
 	}
 }
 
-en_softkitty = Soft Kitty = {%
+en_softkitty = Soft Kitty = ? = {%
 	\verse{%
 		Soft kitty, warm kitty,\\%
 		Little ball of fur.\\%
@@ -236,14 +232,27 @@ en_softkitty = Soft Kitty = {%
 	}
 }
 
-en_eurovision = Eurovision = {%
-	\sing{To the tune of “Eurovision Theme”}
+en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 	\verse{%
 		The French drink Champagne and Chardonnay,\\%
 		In Germany they drink beer,\\%
 		In Russia they drink Vodka,\\%
 		In Finland we drink everything,\\%
 		So let's all raise a glass to that!\\%
+	}
+	\verse{%
+		I've heard they eat snow in Norway,\\%
+		In Sweden mostly crisp slush,\\%
+		In Russia frozen Vodka,\\%
+		But if you're into cold food,\\%
+		Well Sitsit is the place to be!\\%
+	}
+	\verse{%
+		In Norway they smoke salmon,\\%
+		In Germany sausages,\\%
+		In Sweden giant hay goats,\\%
+		The Netherlands smoke everything,\\%
+		So let's all roll a joint to that!\\%
 	}
 	\verse{%
 		Austria exports kangaroos,\\%
@@ -260,8 +269,44 @@ en_eurovision = Eurovision = {%
 	}
 }
 
-en_drunkenstudent = Drunken Student = {%
-	\sing{To the tune of “Drunken Sailor”}
+en_eurovision_lausanne = Eurovision = To the tune of “Eurovision Theme” = {%
+	\verse{%
+		The French drink Champagne and Chardonnay,\\%
+		In Germany they drink beer,\\%
+		In Russia they drink Vodka,\\%
+		In Lausanne we drink everything,\\%
+		So let's all raise a glass to that!\\%
+	}
+	\verse{%
+		I've heard they eat snow in Norway,\\%
+		In Sweden mostly crisp slush,\\%
+		In Russia frozen Vodka,\\%
+		But if you're into cold food,\\%
+		Well Sitsit is the place to be!\\%
+	}
+	\verse{%
+		In Norway they smoke salmon,\\%
+		In Germany sausages,\\%
+		In Sweden giant hay goats,\\%
+		The Netherlands smoke everything,\\%
+		So let's all roll a joint to that!\\%
+	}
+	\verse{%
+		Austria exports kangaroos,\\%
+		Swedes export IKEA,\\%
+		Ukraine exports Crimea,\\%
+		Germany exports refugees,\\%
+		All Finland does is send them back!\\%
+	}
+	\verse{%
+		Here we would've sung of the UK,\\%
+		But they went on and did a stupid thing they call "Brexit",\\%
+		All hope is lost for England,\\%
+		But Scots and Irish: welcome back!\\%
+	}
+}
+
+en_drunkenstudent = Drunken Student = To the tune of “Drunken Sailor” = {%
 	\verse{%
 		What shall we do with the drunken student? (x3)\\%
 		Early in the morning\\%
@@ -278,8 +323,7 @@ en_drunkenstudent = Drunken Student = {%
 	}
 }
 
-en_twelvedays = Twelve Days of Binge-Drinking = {%
-	\sing{To the tune of “Twelve Days of Christmas”, increasingly drunkenly}
+en_twelvedays = Twelve Days of Binge-Drinking = To the tune of “Twelve Days of Christmas”, increasingly drunkenly = {%
 	\verse{%
 		My first day of binge-drinking started happily,\\%
 		With a large Long Island Ice Tea.\\%
@@ -307,9 +351,9 @@ en_twelvedays = Twelve Days of Binge-Drinking = {%
 	}
 }
 
-en_wewillrockyou = We Will Rock You = {%
+en_wewillrockyou = We Will Rock You = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Buddy you're a boy make a big noise\\%
 		Playin' in the street gonna be a big man some day\\%
 		You got mud on yo' face\\%
@@ -317,11 +361,11 @@ en_wewillrockyou = We Will Rock You = {%
 		Kickin' your can all over the place, singin'\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: We will we will rock you :;:\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Buddy you're a young man hard man\\%
 		Shoutin' in the street gonna take on the world some day\\%
 		You got blood on yo' face\\%
@@ -329,11 +373,11 @@ en_wewillrockyou = We Will Rock You = {%
 		Wavin' your banner all over the place\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: We will we will rock you :;:\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Buddy you're an old man poor man\\%
 		Pleadin' with your eyes gonna make you some peace some day\\%
 		You got mud on your face\\%
@@ -341,12 +385,12 @@ en_wewillrockyou = We Will Rock You = {%
 		Somebody better put you back into your place\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: We will we will rock you :;:\\%
 	}
 }
 
-en_iloverocknroll = I Love Rock'n'Roll = {%
+en_iloverocknroll = I Love Rock'n'Roll = ? = {%
 	\verse{%
 		I love Rock'n'Roll\\%
 		So put another dime in the jukebox, baby\\%
@@ -355,8 +399,7 @@ en_iloverocknroll = I Love Rock'n'Roll = {%
 	}
 }
 
-en_yogibear = Yogi Bear = {%
-	\sing{To the tune of “Camptown Races”}
+en_yogibear = Yogi Bear = To the tune of “Camptown Races” = {%
 	\verse{%
 		I know someone you don't know, Yogi, Yogi,\\%
 		I know someone you don't know, Yogi, Yogi bear.\\%
@@ -407,8 +450,7 @@ en_yogibear = Yogi Bear = {%
 	}
 }
 
-en_paratrooper = Paratrooper = {%
-	\sing{To the tune of “Battle Hymn of the Republic”}
+en_paratrooper = Paratrooper = To the tune of “Battle Hymn of the Republic” = {%
 	\verse{%
 		My brother was a paratrooper in the US Marines (x3)\\%
 		And he ain’t gonna jump no more.\\%
@@ -446,17 +488,16 @@ en_paratrooper = Paratrooper = {%
 		Gory, gory...\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		So think of my dear brother when you eat at Burger King's (x3)\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Cause he ain’t gonna jump no more!\\%
 	}
 }
 
-en_paratrooper_short = Paratrooper = {%
-	\sing{To the tune of “Battle Hymn of the Republic”}
+en_paratrooper_short = Paratrooper = To the tune of “Battle Hymn of the Republic” = {%
 	\verse{%
 		My brother was a paratrooper in the US Marines (x3)\\%
 		And he ain’t gonna jump no more.\\%
@@ -470,16 +511,16 @@ en_paratrooper_short = Paratrooper = {%
 		They scraped him off and sent him to the ketchup factory...\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		So think of my dear brother when you eat at Burger King's (x3)\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Cause he ain’t gonna jump no more!\\%
 	}
 }
 
-en_fastfood = Fast Food and Other Things = {%
+en_fastfood = Fast Food and Other Things = ? = {%
 	\verse{%
 		:;: A Pizza Hut, a Pizza Hut,\\%
 		Kentucky Fried Chicken and a Pizza Hut :;:\\%
@@ -500,7 +541,7 @@ en_fastfood = Fast Food and Other Things = {%
 	}
 }
 
-en_fastfood_long = Fast Food and Other Things = {%
+en_fastfood_long = Fast Food and Other Things = ? = {%
 	\verse{%
 		:;: A Pizza Hut, a Pizza Hut,\\%
 		Kentucky Fried Chicken and a Pizza Hut :;:\\%
@@ -539,7 +580,7 @@ en_fastfood_long = Fast Food and Other Things = {%
 	}
 }
 
-en_rollmeover = Roll Me Over = {%
+en_rollmeover = Roll Me Over = ? = {%
 	\verse{%
 		This is number one\\%
 		And the fun has just begun\\%
@@ -600,9 +641,9 @@ en_rollmeover = Roll Me Over = {%
 	}
 }
 
-en_jallusmagicstarlight = Jallu’s Magic Starlight = {%
+en_jallusmagicstarlight = Jallu’s Magic Starlight = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Under Jallu’s magic starlight\\%
 		Not the highest star, but most bright\\%
 		I look through my empty shot glass\\%
@@ -613,14 +654,14 @@ en_jallusmagicstarlight = Jallu’s Magic Starlight = {%
 		I will make for my sad days\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: And under Jallu’s starlight\\%
 		I will take one, for a safe flight\\%
 		Only under Jallu’s soft sight\\%
 		I will cry a joyful tear. :;:\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Under Jallu’s magic starlight,\\%
 		Singer’s throat gets dry and so tight\\%
 		Only getting booze he feels right\\%
@@ -631,13 +672,12 @@ en_jallusmagicstarlight = Jallu’s Magic Starlight = {%
 		My heart’s chill is thawed away.\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: And under Jallu’s starlight... :;:\\%
 	}
 }
 
-en_myfavoritedrinks = My Favorite Drinks = {%
-	\sing{To the tune of “My Favorite Things”}
+en_myfavoritedrinks = My Favorite Drinks = To the tune of “My Favorite Things” = {%
 	\verse{%
 		Negroni, Manhattan, Tequila sunrise,\\%
 		Gin Tonic, Blue Angel, a Vodka on ice,\\%
@@ -659,8 +699,7 @@ en_myfavoritedrinks = My Favorite Drinks = {%
 	}
 }
 
-en_ourfamily = Our Family = {%
-	\sing{To the tune of “My Bonny Lies Over the Ocean”}
+en_ourfamily = Our Family = To the tune of “My Bonny Lies Over the Ocean” = {%
 	\verse{%
 		My father makes counterfeit money,\\%
 		my mother brews synthetic gin.\\%
@@ -708,7 +747,7 @@ en_ourfamily = Our Family = {%
 	}
 }
 
-en_russiansong = Mandatory Russian Song = {%
+en_russiansong = Mandatory Russian Song = ? = {%
 	\verse{%
 		Father Stalin, mother Krushchova,\\%
 		Shared a kiss, with Vodka on the rocks!\\%
@@ -729,7 +768,7 @@ en_russiansong = Mandatory Russian Song = {%
 	}
 }
 
-en_finland = Finland = {%
+en_finland = Finland = ? = {%
 	\verse{%
 		Finland, Finland, Finland,\\%
 		The country where I want to be,\\%
@@ -769,8 +808,7 @@ en_finland = Finland = {%
 	}
 }
 
-en_engineersdrinkingsong = The Engineers' Drinking Song = {%
-	\sing{To the tune of “The Son of a Gambolier”}
+en_engineersdrinkingsong = The Engineers' Drinking Song = To the tune of “The Son of a Gambolier” = {%
 	\verse{%
 		We are, we are, we are, we are, we are the Engineers,\\%
 		We can, we can, we can, we can, demolish forty beers.\\%
@@ -842,16 +880,16 @@ en_engineersdrinkingsong = The Engineers' Drinking Song = {%
 	}
 }
 
-en_somesaythedevilisdead = Some say the Devil is Dead = {%
+en_somesaythedevilisdead = Some say the Devil is Dead = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Some say the Devil is dead, the Devil is dead, the Devil is dead,\\%
 		Some say the Devil is dead and buried in Killarney.\\%
 		More say he rose again (x3)\\%
 		And joined the British army.\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Feed the pigs and milk the cow, milk the cow, milk the cow,\\%
 		Feed the pigs and milk the cow, so early in the morning.\\%
 		Tuck your leg up, Paddy dear.\\%
@@ -891,34 +929,25 @@ en_somesaythedevilisdead = Some say the Devil is Dead = {%
 	}
 }
 
-en_myladyinred_short = My Lady in Red = {%
+en_myladyinred_short = My Lady in Red = ? = {%
 	\verse{%
-		\textit{(Solo:)}\\%
-		She's my Lady in red\\%
-		\textit{(All:)}\\%
-		She's my Lady in red\\%
-		\textit{(Solo:)}\\%
-		She likes to do it in the bed\\%
-		\textit{(All:)}\\%
-		She likes to do it in the bed\\%
+		\textit{(Solo:)} She's my Lady in red\\%
+		\textit{(All:)} She's my Lady in red\\%
+		\textit{(Solo:)} She likes to do it in the bed\\%
+		\textit{(All:)} She likes to do it in the bed\\%
 	}
 	\verse{%
-		\textit{(Solo:)}\\%
-		Singing na-na-na-na\\%
-		\textit{(All:)}\\%
-		Singing na-na-na-na\\%
-		\textit{(Solo:)}\\%
-		Singing wo-ho-oh-ho\\%
-		\textit{(All:)}\\%
-		Singing wo-ho-oh-ho\\%
+		\textit{(Solo:)} Singing na-na-na-na\\%
+		\textit{(All:)} Singing na-na-na-na\\%
+		\textit{(Solo:)} Singing wo-ho-oh-ho\\%
+		\textit{(All:)} Singing wo-ho-oh-ho\\%
 	}
 	\verse{%
-		\textit{(Solo:)}\\%
-		She's my Lady in...\\%
+		\textit{(Solo:)} She's my Lady in...\\%
 	}
 }
 
-en_myladyinred = My Lady in Red = {%
+en_myladyinred = My Lady in Red = ? = {%
 	\verse{%
 		:;: She's my Lady in red\\%
 		She likes to do it in the bed :;:\\%
@@ -973,9 +1002,9 @@ en_myladyinred = My Lady in Red = {%
 	}
 }
 
-en_whatshesgot = What She's Got = {%
+en_whatshesgot = What She's Got = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Being gay has its problems, it's true,\\%
 		But being straight has its problems too.\\%
 		I met this girl,\\%
@@ -985,7 +1014,7 @@ en_whatshesgot = What She's Got = {%
 		Sing along and you will see:\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		She's got that style,\\%
 		She's got that smile,\\%
 		She's got the walk,\\%
@@ -1005,7 +1034,7 @@ en_whatshesgot = What She's Got = {%
 		She's got a penis (pom, pom, pom)\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Now nobody's perfect,\\%
 		I must admit.\\%
 		Say how many times do all the pieces fit.\\%
@@ -1014,7 +1043,7 @@ en_whatshesgot = What She's Got = {%
 		Oops, I forgot about the balls!\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		But she's so hip,\\%
 		This babe's a trip,\\%
 		She's distingué,\\%
@@ -1029,7 +1058,7 @@ en_whatshesgot = What She's Got = {%
 		That penis (pom, pom, pom)\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		There's always some failure,\\%
 		Always some flaw,\\%
 		Ain't that what they call Murphy's Law?\\%
@@ -1038,7 +1067,7 @@ en_whatshesgot = What She's Got = {%
 		Besides hers is bigger than mine...\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		She's got class,\\%
 		She's got that sass,\\%
 		She's got that chic,\\%
@@ -1054,18 +1083,18 @@ en_whatshesgot = What She's Got = {%
 		She had a penis (pom, pom, pom)\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		My life's a mess,\\%
 		Cause under that dress,\\%
 		She's got a P-E-N-I-S.\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Yes!\\%
 	}
 }
 
-en_clementine = Clementine = {%
+en_clementine = Clementine = ? = {%
 	\verse{%
 		In a cavern, in a canyon,\\%
 		Excavating for a mine,\\%
@@ -1107,7 +1136,7 @@ en_clementine = Clementine = {%
 	}
 }
 
-en_whoisafreshman = Who is a Freshman = {%
+en_whoisafreshman = Who is a Freshman = ? = {%
 	\verse{%
 		:;: Who is a freshman of XX\\%
 		Stand up on your chair. :;:\\%
@@ -1118,7 +1147,7 @@ en_whoisafreshman = Who is a Freshman = {%
 	}
 }
 
-en_whoisafreshman_safe = Who is a Freshman = {%
+en_whoisafreshman_safe = Who is a Freshman = ? = {%
 	\verse{%
 		:;: Who is a freshman of XX\\%
 		Stand up, stand up right now. :;:\\%
@@ -1129,31 +1158,7 @@ en_whoisafreshman_safe = Who is a Freshman = {%
 	}
 }
 
-en_eurovision_lausanne = Eurovision = {%
-	\sing{To the tune of “Eurovision Theme”}
-	\verse{%
-		The French drink Champagne and Chardonnay,\\%
-		In Germany they drink beer,\\%
-		In Russia they drink Vodka,\\%
-		In Lausanne we drink everything,\\%
-		So let's all raise a glass to that!\\%
-	}
-	\verse{%
-		Austria exports kangaroos,\\%
-		Swedes export IKEA,\\%
-		Ukraine exports Crimea,\\%
-		Germany exports refugees,\\%
-		All Finland does is send them back!\\%
-	}
-	\verse{%
-		Here we would've sung of the UK,\\%
-		But they went on and did a stupid thing they call "Brexit",\\%
-		All hope is lost for England,\\%
-		But Scots and Irish, welcome back!\\%
-	}
-}
-
-en_thriftshop = Thrift Shop = {%
+en_thriftshop = Thrift Shop = ? = {%
 	\verse{%
 		I'm gonna pop some tags\\%
 		Only got twenty dollars in my pocket\\%
@@ -1171,7 +1176,7 @@ en_thriftshop = Thrift Shop = {%
 	}
 }
 
-en_yakkosworld = The Nations of the World = {%
+en_yakkosworld = The Nations of the World = ? = {%
 	\verse{%
 		United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru\\%
 		Republic Dominican, Cuba, Caribbean, Greenland, El Salvador too\\%
@@ -1216,7 +1221,7 @@ en_yakkosworld = The Nations of the World = {%
 	}
 }
 
-en_mybonnie = My Bonnie = {%
+en_mybonnie = My Bonnie = ? = {%
 	\verse{%
 		My Bonnie is over the ocean\\%
 		My Bonnie is over the sea\\%
@@ -1258,7 +1263,7 @@ en_mybonnie = My Bonnie = {%
 	}
 }
 
-en_wimoweh = The Lion Sleeps Tonight = {%
+en_wimoweh = The Lion Sleeps Tonight = ? = {%
 	\verse{%
 		O-wimoweh (x16)\\%
 	}
@@ -1291,8 +1296,7 @@ en_wimoweh = The Lion Sleeps Tonight = {%
 	}
 }
 
-en_fizzycider = Fizzy Cider = {%
-	\sing{To the tune of “Bob the Builder”}
+en_fizzycider = Fizzy Cider = To the tune of “Bob the Builder” = {%
 	\verse{%
 		Fizzy cider, CAN WE DRINK IT?\\%
 		Fizzy cider, YES WE CAN!\\%
@@ -1308,7 +1312,7 @@ en_fizzycider = Fizzy Cider = {%
 	}
 }
 
-en_letsdoitanyway = Let's Do It Anyway! = {%
+en_letsdoitanyway = Let's Do It Anyway! = ? = {%
 	\verse{%
 		It's hard to stay up, it's been a long long day\\%
 		And you've got the sandman at your door\\%
@@ -1352,7 +1356,7 @@ en_letsdoitanyway = Let's Do It Anyway! = {%
 	}
 }
 
-en_diggydiggyhole = Diggy Diggy Hole = {%
+en_diggydiggyhole = Diggy Diggy Hole = ? = {%
 	\verse{%
 		\textit{(Solo:)} Brothers of the mine rejoice!\\%
 		\textit{(All:)} Swing, swing, swing with me!\\%
@@ -1360,17 +1364,17 @@ en_diggydiggyhole = Diggy Diggy Hole = {%
 		\textit{(All:)} Sing, sing, sing with me!\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Down and down into the deep,\\%
 		Who knows what we'll find beneath?\\%
 		Diamonds, rubies, gold and more,\\%
 		Hidden in the mountain store.\\%
 	}
 	\verse{%
-		\textit{(Bang the drums!)}\\%
+		\colorbox{gray!30}{\sc Bang the drums!}\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Born underground,\\%
 		Suckled from a teat of stone.\\%
 		Raised in the dark,\\%
@@ -1381,7 +1385,7 @@ en_diggydiggyhole = Diggy Diggy Hole = {%
 		Come on brothers sing with me!\\%
 	}
 	\verse{%
-		\textit{(Bang the drums!)}\\%
+		\colorbox{gray!30}{\sc Bang the drums!}\\%
 	}
 	\verse{%
 		I am a dwarf and I'm digging a hole,\\%
@@ -1396,17 +1400,17 @@ en_diggydiggyhole = Diggy Diggy Hole = {%
 		\textit{(All:)} Dwarves won't fly so high!\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Fill a glass and down some mead!\\%
 		Stuff your bellies at the feast!\\%
 		Stumble home and fall asleep,\\%
 		Dreaming in our mountain keep.\\%
 	}
 	\verse{%
-		\textit{(Bang the drums!)}\\%
+		\colorbox{gray!30}{\sc Bang the drums!}\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		Born underground,\\%
 		Grown inside a rocky womb.\\%
 		The earth is our cradle,\\%
@@ -1417,15 +1421,14 @@ en_diggydiggyhole = Diggy Diggy Hole = {%
 		We can never dig too deep!\\%
 	}
 	\verse{%
-		\textit{(Bang the drums!)}\\%
+		\colorbox{gray!30}{\sc Bang the drums!}\\%
 	}
 	\verse{%
 		:;: I am a dwarf... :;:\\%
 	}
 }
 
-en_erasmus = Erasmus = {%
-	\sing{To the tune of “Wild Rover”}
+en_erasmus_lausanne = Erasmus = To the tune of “Wild Rover” = {%
 	\verse{%
 		I've been on Erasmus for almost one year,\\%
 		And I've spent all me money on party and beer.\\%
@@ -1459,7 +1462,7 @@ en_erasmus = Erasmus = {%
 	}
 }
 
-en_irishtale = An Irish Tale = {%
+en_irishtale = An Irish Tale = ? = {%
 	\verse{%
 		There was only one bar...\\%
 		A MILE LONG!\\%
@@ -1502,7 +1505,7 @@ en_irishtale = An Irish Tale = {%
 	}
 }
 
-en_getlucky = Get Lucky = {%
+en_getlucky = Get Lucky = ? = {%
 	\verse{%
 		We've come too far,\\%
 		To give up who we are.\\%
@@ -1520,7 +1523,7 @@ en_getlucky = Get Lucky = {%
 	}
 }
 
-en_internetisforporn = The Internet = {%
+en_internetisforporn = The Internet = ? = {%
 	\verse{%
 		\textit{(Solo:)} The internet is really really great.\\%
 		\textit{(All:)} For porn!\\%
@@ -1577,7 +1580,61 @@ en_internetisforporn = The Internet = {%
 	}
 }
 
-es_alcohol = Alcohol = {%
+en_yurop = YUROP = To the tune of “Beethoven's 9th - Ode to Joy” = {%
+	\verse{%
+		Praise our Yuropean Yunion, ain't no land as great as She,\\%
+		I will always love our treasured land of peace and harmony.\\%
+		Sure did help to get all the states we nicked from the late C.C.C.P.\\%
+		Flying high our blue and yellow from Norway to Italy.\\%
+	}
+	\verse{%
+		Polish trucks all over and there's vampires in Romania,\\%
+		Soccer-addict Portuguese and Viking Scandinavia.  \\%
+		Latvia is just pissed that we always mix them with Lithuania,\\%
+		I was there last summer, wait I think it was Estonia.\\%
+	}
+	\verse{%
+		Ireland is too drunk to be offended by this Symphony,\\%
+		Iceland has no ice while Greenland still can't grow a fuckin' tree.\\%
+		Bosnia likes a swim but Croatia snagged all the Adriatic Sea,\\%
+		Serbia still has nightmares when it hears "Austria-Hungary".\\%
+	}
+	\verse{%
+		Dutch and French are waiting to get Flanders and Wallonia,\\%
+		Spain is still asleep and where the fuck is Macedonia.\\%
+		Czechs are tired of jokes on their name so Czech out their neighbor Slovakia,\\%
+		Moldova still high as fuck on that plane singing Mai-Ya.\\%
+	}
+	\verse{%
+		Praise our Yuropean Yunion, ain't no better place to be,\\%
+		Everything is prosperous except the Greek economy.\\%
+		English as a choice for this anthem holds quite a bit of irony,\\%
+		Proud would our ancestors be to see us ruled by Germany.\\%
+	}
+}
+
+en_coatsoff = Coats off = To the tune of “Takki Pois” = {%
+	\verse{%
+		Well now it's time for coats to come off,\\%
+		That's just the way we do it here.\\%
+		:;: And then let's sing to top this all off,\\%
+		Our mighty song's a cause for fear. :;:\\%
+	}
+	\verse{%
+		We shall not cease our song for no cause,\\%
+		Before the night breaks into dawn.\\%
+		:;: We will not leave, we'll seal shut all doors,\\%
+		We will just drink, no-one will yawn. :;:\\%
+	}
+	\verse{%
+		But now that we're all done to undress,\\%
+		Our hands are free to crack that beer.\\%
+		:;: For as we all sink towards drunkness,\\%
+		The time has come for us to cheer. :;:\\%
+	}
+}
+
+es_alcohol = Alcohol = ? = {%
 	\verse{%
 		Alcohol\\%
 		Alcohol\\%
@@ -1588,7 +1645,7 @@ es_alcohol = Alcohol = {%
 	}
 }
 
-es_labamba = La Bamba = {%
+es_labamba = La Bamba = ? = {%
 	\verse{%
 		Para bailar La Bamba\\%
 		Para bailar La Bamba\\%
@@ -1606,7 +1663,7 @@ es_labamba = La Bamba = {%
 	}
 }
 
-es_spanishtoast = Spanish Toast = {%
+es_spanishtoast = Spanish Toast = ? = {%
 	\verse{%
 		Arriba! \textit{(glasses up)}\\%
 		Abajo! \textit{(glasses down)}\\%
@@ -1617,7 +1674,7 @@ es_spanishtoast = Spanish Toast = {%
 	}
 }
 
-fi_hyvatystavat = Hyvät Ystävät = {%
+fi_hyvatystavat = Hyvät Ystävät = ? = {%
 	\verse{%
 		Hyvät ystävät juhla voi alkaa\\%
 		Sankarille me nostamme maljaa\\%
@@ -1632,13 +1689,13 @@ fi_hyvatystavat = Hyvät Ystävät = {%
 	}
 }
 
-fi_nyt = A Finnish Drinking Song = {%
+fi_nyt = A Finnish Drinking Song = ? = {%
 	\verse{%
 		Nyt!\\%
 	}
 }
 
-fi_trink = Jos eukkosi kieltää sua juomasta = {%
+fi_trink = Jos eukkosi kieltää sua juomasta = ? = {%
 	\verse{%
 		Jos eukkosi kieltää sua juomasta,\\%
 		Niin juo, niin juo.\\%
@@ -1685,7 +1742,7 @@ fi_trink = Jos eukkosi kieltää sua juomasta = {%
 	}
 }
 
-fi_beercannon = Beer Cannon = {%
+fi_beercannon = Beer Cannon = ? = {%
 	\verse{%
 		Lapin Kulta, Lapin Kulta\\%
 		Karjala, Karjala\\%
@@ -1696,7 +1753,7 @@ fi_beercannon = Beer Cannon = {%
 	}
 }
 
-fi_beercannon_long = Beer Cannon = {%
+fi_beercannon_long = Beer Cannon = ? = {%
 	\verse{%
 		:;: Lapin Kulta :;:\\%
 		:;: Karjala :;:\\%
@@ -1717,7 +1774,7 @@ fi_beercannon_long = Beer Cannon = {%
 	}
 }
 
-fi_henkilokunta = Henkilökunta = {%
+fi_henkilokunta = Henkilökunta = ? = {%
 	\verse{%
 		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
 		Henkilökuntaa (x4)\\%
@@ -1730,7 +1787,7 @@ fi_henkilokunta = Henkilökunta = {%
 	}
 }
 
-fi_varpunenjouluaamuna = Varpunen jouluaamuna = {%
+fi_varpunenjouluaamuna = Varpunen jouluaamuna = ? = {%
 	\verse{%
 		Lumi on jo peittänyt kukat laaksosessa,\\%
 		järven aalto jäätynyt talvipakkasessa.\\%
@@ -1739,7 +1796,7 @@ fi_varpunenjouluaamuna = Varpunen jouluaamuna = {%
 	}
 }
 
-fi_takkipois = Takki pois = {%
+fi_takkipois = Takki pois = ? = {%
 	\verse{%
 		Hei takki poies kiskaikaamme,\\%
 		On Polin poikain tapa tää.\\%
@@ -1754,7 +1811,7 @@ fi_takkipois = Takki pois = {%
 	}
 }
 
-fi_teekkarihymni = Teekkarihymni = {%
+fi_teekkarihymni = Teekkarihymni = ? = {%
 	\verse{%
 		Yö kuin sielu teekkarin on pimiä,\\%
 		Takajoukko nukkuu vain, nukkuu vain.\\%
@@ -1765,7 +1822,7 @@ fi_teekkarihymni = Teekkarihymni = {%
 	}
 }
 
-fi_kenompifuksi = Ken ompi Fuksi = {%
+fi_kenompifuksi = Ken ompi Fuksi = ? = {%
 	\verse{%
 		:;: Ken ompi fuksi XX\\%
 		Ylös nouskohon. :;:\\%
@@ -1776,7 +1833,7 @@ fi_kenompifuksi = Ken ompi Fuksi = {%
 	}
 }
 
-fi_ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {%
+fi_ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = ? = {%
 	\verse{%
 		Talvi-iltain tummentuessa\\%
 		Polin suojiin me saavumme taas.\\%
@@ -1809,7 +1866,7 @@ fi_ikuisenteekkarinlaulu = Ikuisen Teekkarin Laulu = {%
 	}
 }
 
-fr_ilestdesnotres = Il est des nôtres = {%
+fr_ilestdesnotres = Il est des nôtres = ? = {%
 	\verse{%
 		:;: Ami(e) ..... lève ton verre\\%
 		Et surtout, ne le renverse pas :;:\\%
@@ -1829,7 +1886,7 @@ fr_ilestdesnotres = Il est des nôtres = {%
 	}
 }
 
-fr_chansondelataverne = Pom popom popom = {%
+fr_chansondelataverne = Pom popom popom = ? = {%
 	\verse{%
 		:;: Pom, popom, popom popom popom popom po :;:\\%
 	}
@@ -1871,7 +1928,7 @@ fr_chansondelataverne = Pom popom popom = {%
 	}
 }
 
-fr_santiano = Santiano = {%
+fr_santiano = Santiano = ? = {%
 	\verse{%
 		C'est un fameux trois-mâts fin comme un oiseau\\%
 		Hissez haut (Hissez haut!) Santiano!\\%
@@ -1916,7 +1973,7 @@ fr_santiano = Santiano = {%
 	}
 }
 
-fr_santiano_pervert = Santiano = {%
+fr_santiano_pervert = Santiano = ? = {%
 	\verse{%
 		C'est mon fameux grand mât plein comme un verre d'eau\\%
 		Hissez haut (Hissez haut!) Santiano!\\%
@@ -1961,7 +2018,7 @@ fr_santiano_pervert = Santiano = {%
 	}
 }
 
-fr_connemara = Les Lacs du Connemara = {%
+fr_connemara = Les Lacs du Connemara = ? = {%
 	\verse{%
 		Terre brûlée au vent des landes de pierre,\\%
 		Autour des lacs, c'est pour les vivants\\%
@@ -2034,7 +2091,7 @@ fr_connemara = Les Lacs du Connemara = {%
 	}
 }
 
-fr_diyayaoh = Le Beau Pays-d'Enhaut = {%
+fr_diyayaoh = Le Beau Pays-d'Enhaut = ? = {%
 	\verse{%
 		Au bord de la Sarine\\%
 		Tout près de Château-d'Oex\\%
@@ -2094,7 +2151,7 @@ fr_diyayaoh = Le Beau Pays-d'Enhaut = {%
 	}
 }
 
-fr_diyayaoh_short = Le Beau Pays-d'Enhaut = {%
+fr_diyayaoh_short = Le Beau Pays-d'Enhaut = ? = {%
 	\verse{%
 		Au bord de la Sarine\\%
 		Tout près de Château-d'Oex\\%
@@ -2141,7 +2198,7 @@ fr_diyayaoh_short = Le Beau Pays-d'Enhaut = {%
 	}
 }
 
-fr_latiaffe = La Tiaffe = {%
+fr_latiaffe = La Tiaffe = ? = {%
 	\verse{%
 		Y'a ceux qui n'aiment pas l'hiver,\\%
 		Le ski et le grand air.\\%
@@ -2181,7 +2238,7 @@ fr_latiaffe = La Tiaffe = {%
 	}
 }
 
-fr_switzerlandcuisine = Switzerland Cuisine = {%
+fr_switzerlandcuisine = Switzerland Cuisine = ? = {%
 	\verse{%
 		Je suis monté dans un avion direction le Japon\\%
 		J'ai gouté le sushi et le sukiyaki\\%
@@ -2225,7 +2282,7 @@ fr_switzerlandcuisine = Switzerland Cuisine = {%
 	}
 }
 
-fr_tristitude_epfl_2 = La Tristitude = {%
+fr_tristitude_epfl_2 = La Tristitude = ? = {%
 	\verse{%
 		La Tristitude,\\%
 		C'est quand tu dois aller chez le prêtre à 12 ans,\\%
@@ -2303,7 +2360,7 @@ fr_tristitude_epfl_2 = La Tristitude = {%
 	}
 }
 
-fr_tristitude_epfl = La Tristitude = {%
+fr_tristitude_epfl = La Tristitude = ? = {%
 	\verse{%
 		La Tristitude,\\%
 		C'est quand tu viens juste d'avaler un cure-dent,\\%
@@ -2381,7 +2438,7 @@ fr_tristitude_epfl = La Tristitude = {%
 	}
 }
 
-fr_apoil = À Poil = {%
+fr_apoil = À Poil = ? = {%
 	\verse{%
 		:;: Il descend de la montagne... À POIL! :;:\\%
 		Il descend de la montagne (x3)\\%
@@ -2389,7 +2446,7 @@ fr_apoil = À Poil = {%
 	}
 }
 
-fr_labelette = Mais qui est la Belette? = {%
+fr_labelette = Mais qui est la Belette? = ? = {%
 	\verse{%
 		:;: J'entends le loup, le renard et la belette,\\%
 		J'entends le loup et le renard chanter! :;:\\%
@@ -2398,7 +2455,7 @@ fr_labelette = Mais qui est la Belette? = {%
 	}
 }
 
-fr_labelette_long = Mais qui est la Belette? = {%
+fr_labelette_long = Mais qui est la Belette? = ? = {%
 	\verse{%
 		:;: J'entends le loup, le renard et la belette,\\%
 		J'entends le loup et le renard chanter! :;:\\%
@@ -2420,9 +2477,9 @@ fr_labelette_long = Mais qui est la Belette? = {%
 	}
 }
 
-fr_gegene = Gégène = {%
+fr_gegene = Gégène = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		Juste après m’être apprêté, avant de m’aventurer,\\%
 		Je m’apprête à préparer mon beau sac d’aventurier,\\%
 		Quels objets dois-je emmener ? Ai-je assez pour m’équiper?\\%
@@ -2430,7 +2487,7 @@ fr_gegene = Gégène = {%
 		Caaaaaar...\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		J’ai une épée molle, des bottes qui rigolent,\\%
 		Un bouclier rose et bleu, une armure qui craint le feu.\\%
 		J’ai un casque en tôle, une ceinture qui colle,\\%
@@ -2452,7 +2509,7 @@ fr_gegene = Gégène = {%
 	}
 }
 
-fr_lescomediens = Les Comédiens = {%
+fr_lescomediens = Les Comédiens = ? = {%
 	\verse{%
 		:;: Viens voir les comédiens,\\%
 		Voir les musiciens,\\%
@@ -2506,7 +2563,7 @@ fr_lescomediens = Les Comédiens = {%
 	}
 }
 
-fr_madamelamarquise = Madame la Marquise = {%
+fr_madamelamarquise = Madame la Marquise = ? = {%
 	\verse{%
 		Allô, allô James! Quelles nouvelles?\\%
 		Absente depuis quinze jours,\\%
@@ -2579,7 +2636,7 @@ fr_madamelamarquise = Madame la Marquise = {%
 	}
 }
 
-hu_yoszefvaros_long = Yoszefváros = {%
+hu_yoszefvaros_long = Yoszefváros = ? = {%
 	\verse{%
 		Yo, yo, hogy itt vagyunk\\%
 		Most végre valamit bemutathatunk\\%
@@ -2596,16 +2653,16 @@ hu_yoszefvaros_long = Yoszefváros = {%
 	}
 }
 
-hu_yoszefvaros = Yoszefváros = {%
+hu_yoszefvaros = Yoszefváros = ? = {%
 	\verse{%
 		:;: Yo-Yo-Yozsefváros (x3)\\%
 		Sötét ez a hely, há-há-há, világos :;:\\%
 	}
 }
 
-sw_helangar = Helan Går = {%
+sw_helangar = Helan Går = ? = {%
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		En liten fågel satt en gång,\\%
 		Och sjöng i furuskog.\\%
 		:;: Han hade sjungit dagen lång,\\%
@@ -2616,7 +2673,7 @@ sw_helangar = Helan Går = {%
 		JO!\\%
 	}
 	\verse{%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: Helan går,\\%
 		Sjung hopp-falderallan-lallan-lei! :;:\\%
 		Och den som inte helan tar,\\%
@@ -2626,7 +2683,7 @@ sw_helangar = Helan Går = {%
 	}
 }
 
-sw_livetarharligt = Livet är Härligt = {%
+sw_livetarharligt = Livet är Härligt = ? = {%
 	\verse{%
 		Livet är härligt, HEJ!\\%
 		Tavaritj, vårt liv är härligt.\\%
@@ -2643,7 +2700,7 @@ sw_livetarharligt = Livet är Härligt = {%
 	}
 }
 
-xx_trink = Just Drink = {%
+xx_trink = Just Drink = ? = {%
 	\verse{%
 		If your wife tells you not to drink,\\%
 		Just drink, just drink!\\%
@@ -2654,7 +2711,7 @@ xx_trink = Just Drink = {%
 		Just drink and sing and drink and sing and drink and sing and drink and sing and...\\%
 	}
 	\verse{%
-		\textit{(Lean left and right)}\\%
+		\colorbox{gray!30}{\sc Lean left and right}\\%
 		Trink, trink, Brüderlein trink\\%
 		Lass doch die Sorgen zu Haus!\\%
 		Trink (HEY!), trink (HEY!), Brüderlein trink\\%
@@ -2675,24 +2732,23 @@ xx_trink = Just Drink = {%
 		So drink and sing and drink and sing and drink and sing and drink and sing and...\\%
 	}
 	\verse{%
-		\textit{(Lean back and forth)}\\%
+		\colorbox{gray!30}{\sc Lean back and forth}\\%
 		Trink, trink...\\%
 	}
 	\verse{%
-		\textit{(Songmaster solo:)}\\%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
 		High up in a fir tree right under the branches,\\%
 		There lives a small squirrel with its little stashes.\\%
-		\textit{(Everyone:)}\\%
+		\colorbox{gray!30}{\sc Everyone:}\\%
 		It drinks and sings and drinks and sings and drinks and sings and drinks and sings and...\\%
 	}
 	\verse{%
-		\textit{(Stand up and sit down)}\\%
+		\colorbox{gray!30}{\sc Stand up and sit down}\\%
 		Trink, trink...\\%
 	}
 }
 
-xx_minne = Minne = {%
-	\sing{To the tune of “Memory”}
+xx_minne = Minne = To the tune of “Memory” = {%
 	\verse{%
 		Minne!\\%
 		Jag har tappat mitt minne!\\%
@@ -2746,7 +2802,7 @@ xx_minne = Minne = {%
 	}
 }
 
-xx_henkilokunta = Henkilökunta = {%
+xx_henkilokunta = Henkilökunta = ? = {%
 	\verse{%
 		:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:\\%
 		Henkilökuntaa (x4)\\%
@@ -2759,7 +2815,7 @@ xx_henkilokunta = Henkilökunta = {%
 	}
 }
 
-xx_koskenkorva = Ko-Ko-Ko-Koskenkorva = {%
+xx_koskenkorva = Ko-Ko-Ko-Koskenkorva = ? = {%
 	\verse{%
 		Ko-ko-ko-kosken ko-ko-ko-korvaa,\\%
 		Siitä aina kunnon räkä-kä-kännit saa.\\%
@@ -2780,7 +2836,7 @@ xx_koskenkorva = Ko-Ko-Ko-Koskenkorva = {%
 	}
 }
 
-xx_vemihelvete = Vem i helvete = {%
+xx_vemihelvete = Vem i helvete = ? = {%
 	\verse{%
 		Vem i helvete kastar sten på min flaska brännvin? (fyra gånger)\\%
 	}
@@ -2801,7 +2857,7 @@ xx_vemihelvete = Vem i helvete = {%
 	}
 }
 
-xx_dovakhiin = Dovakhiin = {%
+xx_dovakhiin = Dovakhiin = ? = {%
 	\verse{%
 		Who! Hoa! Rha! (x8)\\%
 	}
@@ -2837,7 +2893,7 @@ xx_dovakhiin = Dovakhiin = {%
 	}
 }
 
-xx_tanaanotetaan = Tänään Otetaan = {%
+xx_tanaanotetaan = Tänään Otetaan = ? = {%
 	\verse{%
 		:;: Tänään otetaan, tänään otetaan,\\%
 		Helvetin paljon viinaa. :;:\\%
@@ -2864,7 +2920,7 @@ xx_tanaanotetaan = Tänään Otetaan = {%
 	}
 }
 
-xx_tanaanotetaan_short = Tänään Otetaan = {%
+xx_tanaanotetaan_short = Tänään Otetaan = ? = {%
 	\verse{%
 		:;: Tänään otetaan, tänään otetaan,\\%
 		Helvetin paljon viinaa. :;:\\%
@@ -2885,7 +2941,7 @@ xx_tanaanotetaan_short = Tänään Otetaan = {%
 	}
 }
 
-xx_ryyppaa = Ryyppää = {%
+xx_ryyppaa = Ryyppää = ? = {%
 	\verse{%
 		Ryyppää, ryyppää, ryyppää vaan,\\%
 		Huomenna on sulla krapula.\\%
@@ -2900,7 +2956,7 @@ xx_ryyppaa = Ryyppää = {%
 	}
 }
 
-xx_internationalen = Internationalen = {%
+xx_internationalen = Internationalen = ? = {%
 	\verse{%
 		Mera brännvin i glasen,\\%
 		Mera glas på vårt bord,\\%
@@ -2943,7 +2999,7 @@ xx_internationalen = Internationalen = {%
 	}
 }
 
-xx_internationalen_2 = Internationalen = {%
+xx_internationalen_2 = Internationalen = ? = {%
 	\verse{%
 		Lisää viinaa mun lasiin,\\%
 		Lisää laseja pöydälle,\\%
@@ -2981,13 +3037,13 @@ xx_internationalen_2 = Internationalen = {%
 		Plus de baguettes pour la France.\\%
 		Plus de France pour la grève,\\%
 		Plus de grèves pour nos enfants,\\%
-		\textit{(Switch to “La Marseillaise”)}\\%
+		\colorbox{gray!30}{\sc Switch to “La Marseillaise”}\\%
 		Plus d'enfants pour la patrie,\\%
 		Le jour de gloire est arrivé! ARRIVÉ!\\%
 	}
 }
 
-xx_iovivat = Io Vivat = {%
+xx_iovivat = Io Vivat = ? = {%
 	\verse{%
 		Io vivat! Io vivat!\\%
 		Nostrorum sanitas\\%

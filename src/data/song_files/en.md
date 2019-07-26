@@ -1,5 +1,5 @@
-# Songs in English  
-  
+# Songs in English                                      
+                                      
 ## March of the Water-Boys  
 ###### marchofthewaterboys  
   
@@ -176,8 +176,8 @@ I know something’s wrong,
 ‘Cause my leg just walked away.  
   
 ## This Feeling  
-#### To the tune of “Everytime we touch” 
-###### thisfeeling   
+#### To the tune of “Everytime we touch”  
+###### thisfeeling  
   
 I still feel the symptoms,  
 Do you get them too?  
@@ -214,6 +214,51 @@ In Germany they drink beer,
 In Russia they drink Vodka,  
 In Finland we drink everything,  
 So let's all raise a glass to that!  
+  
+I've heard they eat snow in Norway,  
+In Sweden mostly crisp slush,  
+In Russia frozen Vodka,  
+But if you're into cold food,  
+Well Sitsit is the place to be!  
+  
+In Norway they smoke salmon,  
+In Germany sausages,  
+In Sweden giant hay goats,  
+The Netherlands smoke everything,  
+So let's all roll a joint to that!  
+  
+Austria exports kangaroos,  
+Swedes export IKEA,  
+Ukraine exports Crimea,  
+Germany exports refugees,  
+All Finland does is send them back!  
+  
+Here we would've sung of the UK,  
+But they went on and did a stupid thing they call "Brexit",  
+All hope is lost for England,  
+But Scots and Irish: welcome back!  
+  
+## Eurovision  
+#### To the tune of “Eurovision Theme”  
+###### eurovision_lausanne  
+  
+The French drink Champagne and Chardonnay,  
+In Germany they drink beer,  
+In Russia they drink Vodka,  
+In Lausanne we drink everything,  
+So let's all raise a glass to that!  
+  
+I've heard they eat snow in Norway,  
+In Sweden mostly crisp slush,  
+In Russia frozen Vodka,  
+But if you're into cold food,  
+Well Sitsit is the place to be!  
+  
+In Norway they smoke salmon,  
+In Germany sausages,  
+In Sweden giant hay goats,  
+The Netherlands smoke everything,  
+So let's all roll a joint to that!  
   
 Austria exports kangaroos,  
 Swedes export IKEA,  
@@ -944,27 +989,6 @@ Then raise it up to your lips and
 :;: Drink up, drink up, drink up, drink up.  
 Drink up, drink bottoms up! :;:  
   
-## Eurovision  
-#### To the tune of “Eurovision Theme”  
-###### eurovision_lausanne  
-  
-The French drink Champagne and Chardonnay,  
-In Germany they drink beer,  
-In Russia they drink Vodka,  
-In Lausanne we drink everything,  
-So let's all raise a glass to that!  
-  
-Austria exports kangaroos,  
-Swedes export IKEA,  
-Ukraine exports Crimea,  
-Germany exports refugees,  
-All Finland does is send them back!  
-  
-Here we would've sung of the UK,  
-But they went on and did a stupid thing they call "Brexit",  
-All hope is lost for England,  
-But Scots and Irish, welcome back!  
-  
 ## Thrift Shop  
 ###### thriftshop  
   
@@ -1190,7 +1214,7 @@ We can never dig too deep!
   
 ## Erasmus  
 #### To the tune of “Wild Rover”  
-###### erasmus  
+###### erasmus_lausanne  
   
 I've been on Erasmus for almost one year,  
 And I've spent all me money on party and beer.  
@@ -1313,7 +1337,7 @@ Poooorn! Poooorn!
 The internet is for,  
 Internet is for,  
 Internet is for porn! HAHAAA!  
-
+  
 ## YUROP  
 #### To the tune of “Beethoven's 9th - Ode to Joy”  
 ###### yurop  
@@ -1328,13 +1352,13 @@ Soccer-addict Portuguese and Viking Scandinavia.
 Latvia is just pissed that we always mix them with Lithuania,  
 I was there last summer, wait I think it was Estonia.  
   
-Ireland is too drunk to be offended by this Symphony,
+Ireland is too drunk to be offended by this Symphony,  
 Iceland has no ice while Greenland still can't grow a fuckin' tree.  
 Bosnia likes a swim but Croatia snagged all the Adriatic Sea,  
 Serbia still has nightmares when it hears "Austria-Hungary".  
   
 Dutch and French are waiting to get Flanders and Wallonia,  
-Spain is still asleep and where the fuck is Macedonia.
+Spain is still asleep and where the fuck is Macedonia.  
 Czechs are tired of jokes on their name so Czech out their neighbor Slovakia,  
 Moldova still high as fuck on that plane singing Mai-Ya.  
   
@@ -1342,4 +1366,23 @@ Praise our Yuropean Yunion, ain't no better place to be,
 Everything is prosperous except the Greek economy.  
 English as a choice for this anthem holds quite a bit of irony,  
 Proud would our ancestors be to see us ruled by Germany.  
+  
+## Coats off  
+#### To the tune of “Takki Pois”  
+###### coatsoff  
+  
+Well now it's time for coats to come off,  
+That's just the way we do it here.  
+:;: And then let's sing to top this all off,  
+Our mighty song's a cause for fear. :;:  
+  
+We shall not cease our song for no cause,  
+Before the night breaks into dawn.  
+:;: We will not leave, we'll seal shut all doors,  
+We will just drink, no-one will yawn. :;:  
+  
+But now that we're all done to undress,  
+Our hands are free to crack that beer.  
+:;: For as we all sink towards drunkness,  
+The time has come for us to cheer. :;:  
   

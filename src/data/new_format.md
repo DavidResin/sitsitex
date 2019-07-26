@@ -19,11 +19,11 @@ Verse 2 Verse 2 Verse 2 Verse 2
 Repeat More Repeat More (x3)  
 
 song = {
+	"code": code,
 	"title": title,
 	"subtitle": subtitle,
 	"verses": [
 		{
-			# Lines
 			"lines": [
 				{
 					"type": <meta/text>,

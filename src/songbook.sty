@@ -1,13 +1,16 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
+% Necessary to avoid color warnings from the songs package, must come before
+\usepackage{xcolor}
+
 % This document heavily relies on the songs package
 % Documentation : http://songs.sourceforge.net/songsdoc/songs.html
 % Extra doc : http://mirror.unl.edu/ctan/macros/latex/contrib/songs/songs.pdf
 \usepackage{songs}
 
-% For booklet printing (WIP)
-\usepackage{booklet}
+% To avoid font expansion error on some systems
+\usepackage{lmodern}
 
 % For ifthenelse
 \usepackage{xifthen}
@@ -41,6 +44,9 @@
 
 % To use a custom date
 \usepackage{datetime}
+
+% To use text background color for meta lines
+\usepackage[most]{tcolorbox}
 
 % To use backgrounds
 \usepackage[pages=some]{background}
@@ -160,51 +166,28 @@
 	\endverse\brk
 }
 
-\newcommand{\sing}[1]{\textit{(#1)}}
-
-% Writes "(Songmaster solo:)" in italics
-\newcommand{\solo}{\sing{Songmaster solo:}\\}
-
-% Writes "(Everyone:)" in italics
-\newcommand{\everyone}{\sing{Everyone:}\\}
-
-% Writes "Repeat whole song" in italics as a verse
-\newcommand{\wholesong}{\verse{\sing{Repeat whole song}}}
-\versesep=12pt
-% Writes "This song begins from ABSOLUTE SILENCE" in italics as a verse
-\newcommand{\silence}{\verse{\sing{This song begins from ABSOLUTE SILENCE}}}
-
-% Writes "To the tune of <song>" in italics with possible extension
-\newcommand{\tuneof}[2][]{%%
-	\sing{%
-		To the tune of "#2"%
-		\ifthenelse{%
-			\equal{#1}{}%
-		}{%
-		}{, #1%
-		}%
-	}
-}
-
-% Surrounds the text with ":;:" to signal a repeat
-% NEVER USE OUTSIDE A VERSE
-\newcommand{\twice}[1]{:;: #1 :;:}
-
 % Setup for the data extractor
 \DTLsetseparator{ = }
-\DTLloaddb[noheader, keys={key,title,text}]{mydata}{songs.dat}
+\DTLloaddb[noheader, keys={key,title,subtitle,text}]{songdata}{songs.dat}
+
+\newcommand{\DTLfetchsave}[5]{%
+  \edtlgetrowforvalue{#2}{\dtlcolumnindex{#2}{#3}}{#4}%
+  \dtlgetentryfromcurrentrow{\dtlcurrentvalue}{\dtlcolumnindex{#2}{#5}}%
+  \let#1\dtlcurrentvalue
+}
 
 % Automatic data extractor and formatter for song data
 \renewcommand{\song}[1]{%
+	\DTLfetchsave{\subtitle}{songdata}{key}{#1}{subtitle}%
 	\addcontentsline{toc}{subsection}{%
 		{\textbf{\textit{\thesongnum\hspace{.4cm}}}}\protect%
-		\DTLfetch{mydata}{key}{#1}{title}%
+		\DTLfetch{songdata}{key}{#1}{title}%
 	}%
 	\beginsong{%
-		\DTLfetch{mydata}{key}{#1}{title}%
-	}%[]
+		\DTLfetch{songdata}{key}{#1}{title}
+	}[sr=\footnotesize \ifthenelse{\equal{\subtitle}{?}}{}{\subtitle}]
 	\vskip -\versesep %Remove versesep for first verse
-	\DTLfetch{mydata}{key}{#1}{text}%
+	\DTLfetch{songdata}{key}{#1}{text}%
 	\endsong%
 }
 
@@ -218,9 +201,19 @@
 	\thispagestyle{empty}
 }
 
+\newcommand{\sitsit}[1]{
+	\begin{center}
+	\noindent\textbf{\Large What is Sitsit?}\medskip\\
+	\end{center}
+
+	{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+}
+
 % Displays the rules, set argument to "Teekkari" if the last song is The Eternal Teekkari, or to nothing if the last song is who is a freshman
 \newcommand{\rules}[1]{
-	\noindent\textbf{\Large The Rules}
+	\begin{center}
+	\noindent\textbf{\Large The Rules}\medskip\\
+	\end{center}
 	\begin{enumerate}[leftmargin=*]
 	\item The party is led by the Songmasters.
 	\item {\bf Do not eat, drink or talk when a Songmaster is speaking}, someone is giving a speech or if there is a show/\allowbreak competition. This is very important so that people can enjoy the event! 
@@ -236,7 +229,9 @@
 
 % Displays the seating instructions
 \newcommand{\seating}{
+	\begin{center}
 	\noindent\textbf{\Large Toasting}\medskip\\
+	\end{center}
 	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on the other side and finally with the person in front. You should always look the person you're toasting with in the eyes!\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
 	\begin{center}
 		% Styles
@@ -288,8 +283,8 @@
 % Displays the license
 \newcommand{\license}{
 	\texttransparent{0.5}{
-		\begin{tabular}{l|r}
-		Made with Sitsi\TeX{} v0.2 & \multirow{3}{*}{\raggedright%
+		\begin{tabular}{@{} l|r @{}}
+		Made with Sitsi\TeX{} v0.3 DEV & \multirow{3}{*}{\raggedright%
 			\includegraphics[width=.2\textwidth]{images/base/repo-qr.png}
 		} \\
 		\textcopyright{} 2017--2019 David Resin & \\
