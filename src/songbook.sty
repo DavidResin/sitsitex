@@ -104,6 +104,10 @@
 \setlength{\sbarheight}{0pt}
 \renewcommand{\colbotglue}{0pt plus .5\textheight minus 0pt}
 
+\let\oldsn\printsongnum
+\renewcommand{\printsongnum}[1]{\color{white}\oldsn{#1}}
+\renewcommand{\snumbgcolor}{black}
+
 % Prevents any kind of page breaking
 \newenvironment{absolutelynopagebreak}
   {\par\nobreak\vfil\penalty0\vfilneg
@@ -163,7 +167,7 @@
 		\vskip -\versesep
 		\singlespacing #1 
 	\end{absolutelynopagebreak}
-	\endverse\brk
+	\endverse
 }
 
 % Setup for the data extractor
@@ -186,7 +190,6 @@
 	\beginsong{%
 		\DTLfetch{songdata}{key}{#1}{title}
 	}[sr=\footnotesize \ifthenelse{\equal{\subtitle}{?}}{}{\subtitle}]
-	\vskip -\versesep %Remove versesep for first verse
 	\DTLfetch{songdata}{key}{#1}{text}%
 	\endsong%
 }
