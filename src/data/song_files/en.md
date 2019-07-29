@@ -1,5 +1,5 @@
-# Songs in English                                      
-                                      
+# Songs in English                                                    
+                                                    
 ## March of the Water-Boys  
 ###### marchofthewaterboys  
   
@@ -215,14 +215,14 @@ In Russia they drink Vodka,
 In Finland we drink everything,  
 So let's all raise a glass to that!  
   
-I've heard they eat snow in Norway,  
-In Sweden mostly crisp slush,  
+I've heard they eat snow in Helsinki,  
+In Sweden mostly weird trash,  
 In Russia frozen Vodka,  
-But if you're into cold food,  
+Thus if you're into cold food,  
 Well Sitsit is the place to be!  
   
+Germany smokes their Bregenwurst,  
 In Norway they smoke salmon,  
-In Germany sausages,  
 In Sweden giant hay goats,  
 The Netherlands smoke everything,  
 So let's all roll a joint to that!  
@@ -248,14 +248,14 @@ In Russia they drink Vodka,
 In Lausanne we drink everything,  
 So let's all raise a glass to that!  
   
-I've heard they eat snow in Norway,  
-In Sweden mostly crisp slush,  
+I've heard they eat snow in Helsinki,  
+In Sweden mostly weird trash,  
 In Russia frozen Vodka,  
-But if you're into cold food,  
+Thus if you're into cold food,  
 Well Sitsit is the place to be!  
   
+Germany smokes their Bregenwurst,  
 In Norway they smoke salmon,  
-In Germany sausages,  
 In Sweden giant hay goats,  
 The Netherlands smoke everything,  
 So let's all roll a joint to that!  
@@ -1339,7 +1339,7 @@ Internet is for,
 Internet is for porn! HAHAAA!  
   
 ## YUROP  
-#### To the tune of “Beethoven's 9th - Ode to Joy”  
+#### To the tune of “Beethoven's 9th -- Ode to Joy”  
 ###### yurop  
   
 Praise our Yuropean Yunion, ain't no land as great as She,  

@@ -145,3 +145,25 @@ In Heaven there is no wine, (no wine?)
 Well that's why we drink moonshine.  
 And when we drink moonshine,  
 tastes mighty fine!  
+
+## Gotta catch 'em all!
+#### To the tune of "Pokérap"
+###### stds
+
+I wanna be the best there ever was,
+To trigger all tests, yeah that's my cause!
+
+Syphilis
+AIDS
+Hepatitis
+Leprosy
+Chlamydia
+Gonorrhea
+Herpes
+HPV
+Warts
+
+Catch 'em, catch 'em, gotta catch 'em all, STDs!
+
+Catch 'em, catch 'em, gotta catch 'em all,
+Gotta catch 'em all, STDs!

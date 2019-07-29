@@ -241,15 +241,15 @@ en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 		So let's all raise a glass to that!\\%
 	}
 	\verse{%
-		I've heard they eat snow in Norway,\\%
-		In Sweden mostly crisp slush,\\%
+		I've heard they eat snow in Helsinki,\\%
+		In Sweden mostly weird trash,\\%
 		In Russia frozen Vodka,\\%
-		But if you're into cold food,\\%
+		Thus if you're into cold food,\\%
 		Well Sitsit is the place to be!\\%
 	}
 	\verse{%
+		Germany smokes their Bregenwurst,\\%
 		In Norway they smoke salmon,\\%
-		In Germany sausages,\\%
 		In Sweden giant hay goats,\\%
 		The Netherlands smoke everything,\\%
 		So let's all roll a joint to that!\\%
@@ -278,15 +278,15 @@ en_eurovision_lausanne = Eurovision = To the tune of “Eurovision Theme” = {%
 		So let's all raise a glass to that!\\%
 	}
 	\verse{%
-		I've heard they eat snow in Norway,\\%
-		In Sweden mostly crisp slush,\\%
+		I've heard they eat snow in Helsinki,\\%
+		In Sweden mostly weird trash,\\%
 		In Russia frozen Vodka,\\%
-		But if you're into cold food,\\%
+		Thus if you're into cold food,\\%
 		Well Sitsit is the place to be!\\%
 	}
 	\verse{%
+		Germany smokes their Bregenwurst,\\%
 		In Norway they smoke salmon,\\%
-		In Germany sausages,\\%
 		In Sweden giant hay goats,\\%
 		The Netherlands smoke everything,\\%
 		So let's all roll a joint to that!\\%
@@ -1580,7 +1580,7 @@ en_internetisforporn = The Internet = ? = {%
 	}
 }
 
-en_yurop = YUROP = To the tune of “Beethoven's 9th - Ode to Joy” = {%
+en_yurop = YUROP = To the tune of “Beethoven's 9th -- Ode to Joy” = {%
 	\verse{%
 		Praise our Yuropean Yunion, ain't no land as great as She,\\%
 		I will always love our treasured land of peace and harmony.\\%
