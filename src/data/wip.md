@@ -1,6 +1,6 @@
-## Punsch VS Cognac
-##### Code: punschvscognac
-- To the tune of “Play a Simple Melody” 
+## Punsch VS Cognac  
+#### To the tune of “Play a Simple Melody”  
+###### punschvscognac  
 
 https://www.youtube.com/watch?v=FaGkvhxcOWI
 
@@ -33,7 +33,7 @@ get it with Renault!
 1 male songmaster, 1 female songmaster
 
 ## Chanson Grivoise
-##### Code: chansongrivoise
+###### chansongrivoise
   
 Hier soir à la télé y'avait un film très osé,  
 Me suis dit "Ca tombe bien, je voulais me ......",  
@@ -63,7 +63,7 @@ Tous ces mouvements de chair rose,
 Tiens, je crois qu'ça continue après la pause.  
   
 ## Gégène (WIP)
-##### Code: gegene_solo  
+###### gegene_solo  
   
 Il approche le moment, avant de m’aventurer,  
 Je bois tout en équipant mon beau sac d’aventurier,  
@@ -93,8 +93,8 @@ J’ai l’anneau magique qui rend alcoolique,
 Et cet anneau le voici, grâce à lui je suis ici!  
 
 ## My Student Loan
-##### mystudentloan
-- To the tune of  “Hej, Tomtegubbar”
+#### To the tune of  “Hej, Tomtegubbar”
+###### mystudentloan
 
 :;: My student loan is not enough,  
 For all the beer and marijuana. :;:  
@@ -110,8 +110,8 @@ For all the beer and marijuana.
 [something worse every time] :;:  
 
 ## Lake Geneva
-##### lakegeneva
-- To the tune of "Take Me Home, Country Roads"
+#### To the tune of "Take Me Home, Country Roads"
+###### lakegeneva
 
 Almost Heaven, Lake Geneva,  
 Pelican Beach, PGs near the water.  
@@ -134,7 +134,7 @@ Classes
 Party boats...  
   
 ## In Heaven
-##### Code: inheaven
+###### inheaven
   
 In Heaven there is no beer,  
 That's why we drink it here.  
@@ -145,3 +145,25 @@ In Heaven there is no wine, (no wine?)
 Well that's why we drink moonshine.  
 And when we drink moonshine,  
 tastes mighty fine!  
+
+## Gotta catch 'em all!
+#### To the tune of "Pokérap"
+###### stds
+
+I wanna be the best there ever was,
+To trigger all tests, yeah that's my cause!
+
+Syphilis
+AIDS
+Hepatitis
+Leprosy
+Chlamydia
+Gonorrhea
+Herpes
+HPV
+Warts
+
+Catch 'em, catch 'em, gotta catch 'em all, STDs!
+
+Catch 'em, catch 'em, gotta catch 'em all,
+Gotta catch 'em all, STDs!

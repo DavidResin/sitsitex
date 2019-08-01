@@ -1,8 +1,8 @@
-# Songs in French                                                                                                                                                                                
-# Chansons en Français                                                                                                                                                                                
-                                                                                                                                                                                
+# Songs in French                                                                                                            
+# Chansons en Français                                                                                                            
+                                                                                                            
 ## Il est des nôtres  
-##### Code: ilestdesnotres  
+###### ilestdesnotres  
   
 :;: Ami(e) ..... lève ton verre  
 Et surtout, ne le renverse pas :;:  
@@ -20,7 +20,7 @@ C'est un ivrogne,
 On le reconnaît rien qu'à sa trogne!  
   
 ## Pom popom popom  
-##### Code: chansondelataverne  
+###### chansondelataverne  
   
 :;: Pom, popom, popom popom popom popom po :;:  
   
@@ -53,7 +53,7 @@ Un jour ils finiront en compote de...
 :;: Pommes, popom... :;:  
   
 ## Santiano  
-##### Code: santiano  
+###### santiano  
   
 C'est un fameux trois-mâts fin comme un oiseau  
 Hissez haut (Hissez haut!) Santiano!  
@@ -90,7 +90,7 @@ Sur la mer qui fait le gros dos,
 Nous irons jusqu’à San Francisco  
   
 ## Santiano  
-##### Code: santiano_pervert  
+###### santiano_pervert  
   
 C'est mon fameux grand mât plein comme un verre d'eau  
 Hissez haut (Hissez haut!) Santiano!  
@@ -127,7 +127,7 @@ Et quand je reverrai Margot,
 Nous irons jusqu’à San Francisco  
   
 ## Les Lacs du Connemara  
-##### Code: connemara  
+###### connemara  
   
 Terre brûlée au vent des landes de pierre,  
 Autour des lacs, c'est pour les vivants  
@@ -186,7 +186,7 @@ Là-bas, au Connemara, on n'accepte pas
 La paix des Gallois ni celle des rois d'Angleterre...  
   
 ## Le Beau Pays-d'Enhaut  
-##### Code: diyayaoh  
+###### diyayaoh  
   
 Au bord de la Sarine  
 Tout près de Château-d'Oex  
@@ -238,7 +238,7 @@ Du beau Pays-d'Enhaut
 Di ya ya di ya ya di ya ya oh...  
   
 ## Le Beau Pays-d'Enhaut  
-##### Code: diyayaoh_short  
+###### diyayaoh_short  
   
 Au bord de la Sarine  
 Tout près de Château-d'Oex  
@@ -279,7 +279,7 @@ Du beau Pays-d'Enhaut
 Di ya ya di ya ya di ya ya oh...  
   
 ## La Tiaffe  
-##### Code: latiaffe  
+###### latiaffe  
   
 Y'a ceux qui n'aiment pas l'hiver,  
 Le ski et le grand air.  
@@ -314,7 +314,7 @@ Mais c'qui est désepérant,
 C'est qu'la tiaffe, c'est permanent!  
   
 ## Switzerland Cuisine  
-##### Code: switzerlandcuisine  
+###### switzerlandcuisine  
   
 Je suis monté dans un avion direction le Japon  
 J'ai gouté le sushi et le sukiyaki  
@@ -350,7 +350,7 @@ En Switzerland vous serez bienvenus
 Tous les matins...  
   
 ## La Tristitude  
-##### Code: tristitude_epfl_2  
+###### tristitude_epfl_2  
   
 La Tristitude,  
 C'est quand tu dois aller chez le prêtre à 12 ans,  
@@ -416,7 +416,7 @@ Et ça fait DANS LA VALLÉE OOOOOO-OH...
 La Tristitude...  
   
 ## La Tristitude  
-##### Code: tristitude_epfl  
+###### tristitude_epfl  
   
 La Tristitude,  
 C'est quand tu viens juste d'avaler un cure-dent,  
@@ -482,14 +482,14 @@ Et ça fait mal.
 La Tristitude...  
   
 ## À Poil  
-##### Code: apoil  
+###### apoil  
   
 :;: Il descend de la montagne... À POIL! :;:  
 Il descend de la montagne (x3)  
 À POIL!  
   
 ## Mais qui est la Belette?  
-##### Code: labelette  
+###### labelette  
   
 :;: J'entends le loup, le renard et la belette,  
 J'entends le loup et le renard chanter! :;:  
@@ -497,7 +497,7 @@ J'entends le loup et le renard chanter! :;:
 C'est à ce moment-là qu'il faut lever les bras! :;:  
   
 ## Mais qui est la Belette?  
-##### Code: labelette_long  
+###### labelette_long  
   
 :;: J'entends le loup, le renard et la belette,  
 J'entends le loup et le renard chanter! :;:  
@@ -516,16 +516,16 @@ Voilà comment Manau avance sans se prendre la tête!
 J'entends le loup...  
   
 ## Gégène  
-##### Code: gegene  
+###### gegene  
   
-_(Songmaster solo:)_  
+> Songmaster solo:  
 Juste après m’être apprêté, avant de m’aventurer,  
 Je m’apprête à préparer mon beau sac d’aventurier,  
 Quels objets dois-je emmener ? Ai-je assez pour m’équiper?  
 Au moment de tout lister, j’ai bien envie de pleurer,  
 Caaaaaar...  
   
-_(Everyone:)_  
+> Everyone:  
 J’ai une épée molle, des bottes qui rigolent,  
 Un bouclier rose et bleu, une armure qui craint le feu.  
 J’ai un casque en tôle, une ceinture qui colle,  
@@ -544,7 +544,7 @@ J’ai l’anneau magique qui rend alcoolique,
 Et cet anneau le voici, grâce à lui je suis ici!  
   
 ## Les Comédiens  
-##### Code: lescomediens  
+###### lescomediens  
   
 :;: Viens voir les comédiens,  
 Voir les musiciens,  
@@ -591,7 +591,7 @@ D’autres villages endormis, les comédiens.
 :;: Viens voir les comédiens... :;:  
   
 ## Madame la Marquise  
-##### Code: madamelamarquise  
+###### madamelamarquise  
   
 Allô, allô James! Quelles nouvelles?  
 Absente depuis quinze jours,  

@@ -1,8 +1,8 @@
-# Songs in Hungarian                                                                                                                                                                                
-# Dalok Magyarul                                                                                                                                                                                
-                                                                                                                                                                                
+# Songs in Hungarian                                                                                                            
+# Dalok Magyarul                                                                                                                                                  
+                                                                                                            
 ## Yoszefváros  
-##### Code: yoszefvaros_long  
+###### yoszefvaros_long  
   
 Yo, yo, hogy itt vagyunk  
 Most végre valamit bemutathatunk  
@@ -17,7 +17,7 @@ Ez mind-mind egy yozsefvárosi utcakép!
 Sötét ez a hely, há-há-há, világos :;:  
   
 ## Yoszefváros  
-##### Code: yoszefvaros  
+###### yoszefvaros  
   
 :;: Yo-Yo-Yozsefváros (x3)  
 Sötét ez a hely, há-há-há, világos :;:  

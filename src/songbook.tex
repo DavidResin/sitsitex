@@ -1,8 +1,5 @@
-\documentclass[9pt]{article}
+\documentclass{article}
 
-% DO WE NEED THOSE OR NOT
-\usepackage{textcomp}
-\usepackage{array}
 
 % IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
 
@@ -12,6 +9,7 @@
 \newdate{date}{01}{01}{1970}
 \title{\vspace{34em}\textbf{\color{white}\Huge{SONGBOOK}}}
 \date{\vspace{-3em}\color{white}\Large\displaydate{date}}
+\author{}
 
 % Mandatory command. Parameters :
 % 1 - <Long> or <Short>, defines whether the booklet is folded long-edge or short-edge
@@ -45,11 +43,7 @@
 
 \vfill
 
-\begin{center}
-\noindent\textbf{\Large What is Sitsit?}\medskip\\
-\end{center}
-
-{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+\sitsit
 
 \vfill
 \newpage
@@ -61,7 +55,8 @@
 \seating
 
 \newpage
-\begin{multicols}{\columns}
+
+\ifthenelse{\equal{1}{\columns}}{}{\begin{multicols}{\columns}}
 \begin{songs}{}
 
 % Decide your song order here (all songs and their identifiers are in songbook.dat)
@@ -70,7 +65,6 @@
 \song{en_dearfriends}
 \song{en_thisfeeling}
 \song{en_wasted}
-\sclearpage
 \song{xx_henkilokunta}
 \song{en_drunkenstudent}
 \song{en_fizzycider}
@@ -83,17 +77,16 @@
 \song{xx_trink}
 \song{en_twelvedays}
 \song{es_alcohol}
-\song{en_yakkosworld}
 \song{en_mybonnie}
 \song{fr_diyayaoh_short}
 \song{en_marchofthewaterboys}
 \song{fr_tristitude_epfl_2}
 \song{xx_tanaanotetaan_short}
 \song{fi_nyt}
-\sclearpage
+\song{en_yurop}
+\song{en_internetisforporn}
 \song{en_wimoweh}
 \song{en_rollmeover}
-\song{en_somesaythedevilisdead}
 \song{xx_koskenkorva}
 \song{fr_santiano_pervert}
 \song{en_fastfood}
@@ -102,30 +95,25 @@
 \song{en_beercannon_swiss}
 \song{xx_internationalen_2}
 \song{en_russiansong}
-\song{fr_gegene}
 \song{en_bigbangtheory}
-\song{en_myfavoritedrinks}
 \song{sw_livetarharligt}
-\sclearpage
 \song{en_iloverocknroll}
 \song{en_thriftshop}
 \song{fr_latiaffe}
-\song{fr_apoil}
+\song{en_coatsoff}
 \song{fr_chansondelataverne}
-\sclearpage
 \song{en_softkitty}
-\song{en_erasmus}
-\song{fr_switzerlandcuisine}
+\song{en_erasmus_lausanne}
 \song{fr_connemara}
 \song{en_whoisafreshman}
-
+\song{fi_ikuisenteekkarinlaulu}
 \end{songs}
-\end{multicols}
+\ifthenelse{\equal{1}{\columns}}{}{\end{multicols}}
 \newpage
 \begin{center}
 \pagenumbering{gobble}
 \vspace*{25em}
-\includegraphics[width=8cm]{images/base/template-logo.png}
+\includegraphics[width=\linewidth]{images/base/template-logo.png}
 \end{center}
 \vfill
 \license

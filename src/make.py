@@ -1,20 +1,30 @@
-import os
+import os, PyPDF2
 from python import song_helpers as sh
+
+aux_dir = "aux_files"
+out_dir = "outputs"
+file = "songbook.tex"
+
+print()
+print("@@@ Processing songs")
+print()
 
 fn = "registry"
 
-#try:
-sh.generate_song_file(os.path.join("data", "song_files"), reg_fn=fn)
+try:
+	sh.generate_song_file(os.path.join("data", "song_files"), reg_fn=fn)
 
-#except:
-if False:
-	to_check = "! I can't write on file `" + fn + ".pdf'."
+except:
+	if False:
+		to_check = "! I can't write on file `" + fn + ".pdf'."
 
-	with open(fn + ".log", "r") as f:
-		if to_check in f.read().splitlines():
-			print("ERROR")
-			print("You need to close '" + fn + ".pdf' before you can recompile it.")
-			print("Some PDF readers block files while they are open.")
+		with open(fn + ".log", "r") as f:
+			if to_check in f.read().splitlines():
+				print("ERROR")
+				print("You need to close '" + fn + ".pdf' before you can recompile it.")
+				print("Some PDF readers make files read-only while they are open.")
+
+
 
 	# What about ! pdfTeX error (font expansion): auto expansion is only possible with scalable 
 
@@ -24,3 +34,50 @@ if False:
 	# line break happens for real
 
 	# only open log if exists
+
+print()
+print("@@@ Printing sequential PDF")
+print()
+
+# GENERATE (TAKE CARE THAT THE TOC IS READ AT THE 2ND TIME)
+# GOTTA CLEAN THE NAMING OF FILES (DYNAMIC OR STATIC?)
+# CHECKSUM FOR CHANGES
+# USE latexmk IF AVAILABLE OTHERWISE USE pdflatex
+os.system(f"latexmk -quiet -auxdir={ aux_dir } -outdir={ out_dir } -pdf { file }")
+
+with open(out_dir + "/songbook.pdf", "rb") as f:
+	pdf = PyPDF2.PdfFileReader(f)
+	pages = pdf.trailer["/Root"]["/Pages"]["/Count"]
+
+sheets = int((pages + 3) / 4)
+seqs = [[4 * sheets - x, x + 1, x + 2, 4 * sheets - x - 1] for x in range(0, 2 * sheets, 2)]
+ids = [str(item) for sub in seqs for item in sub]
+order = ",".join(ids)
+
+print()
+print(f"@@@ Printing booklet ({ pages } pages, { sheets } sheets)")
+print()
+
+os.system(f'''pdflatex \
+			-interaction=batchmode \
+			-output-directory={ aux_dir } \
+			-jobname="booklet" \
+			"\\def\\sso{{{ order }}} \\def\\ssf{{{ out_dir }/songbook.pdf}} \\input{{booklet.tex}}"''')
+
+print()
+print("@@@ Moving output files")
+print()
+
+for fn in ["songbook.pdf", "booklet.pdf"]:
+	aux_path = os.path.join(aux_dir, fn)
+	out_path = os.path.join(out_dir, fn)
+
+	# Need to remove fls file
+
+	if os.path.exists(aux_path):
+		os.remove(out_path)
+		os.rename(aux_path, out_path)
+	
+print()
+print("@@@ Done")
+print()

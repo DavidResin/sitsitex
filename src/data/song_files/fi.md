@@ -1,8 +1,8 @@
-# Songs in Finnish                                                                                                                                                                                
-# Lauluja Suomeksi                                                                                                                                                                                
-                                                                                                                                                                                
+# Songs in Finnish                                                                                                            
+# Lauluja Suomeksi                                                                                                            
+                                                                                                          
 ## Hyvät Ystävät  
-##### Code: hyvatystavat  
+###### hyvatystavat  
   
 Hyvät ystävät juhla voi alkaa  
 Sankarille me nostamme maljaa  
@@ -15,12 +15,12 @@ Siten teekkariaikoja muistaa
 Juhlamieli on parhaimmillaan :;:  
   
 ## A Finnish Drinking Song  
-##### Code: nyt  
+###### nyt  
   
 Nyt!  
   
 ## Jos eukkosi kieltää sua juomasta  
-##### Code: trink  
+###### trink  
   
 Jos eukkosi kieltää sua juomasta,  
 Niin juo, niin juo.  
@@ -61,7 +61,7 @@ Ja juo ja laula, ja juo ja laula, ja juo, ja laula, ja juo, ja laula...
 Trink, trink...  
   
 ## Beer Cannon  
-##### Code: beercannon  
+###### beercannon  
   
 Lapin Kulta, Lapin Kulta  
 Karjala, Karjala  
@@ -71,7 +71,7 @@ Koff, Koff, Koff
 Koff, Koff, Koff  
   
 ## Beer Cannon  
-##### Code: beercannon_long  
+###### beercannon_long  
   
 :;: Lapin Kulta :;:  
 :;: Karjala :;:  
@@ -89,7 +89,7 @@ Koff, Koff, Koff
 :;: Hämähäkkimies :;:  
   
 ## Henkilökunta  
-##### Code: henkilokunta  
+###### henkilokunta  
   
 :;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
 Henkilökuntaa (x4)  
@@ -100,7 +100,7 @@ Henkilökuntaa (x4)
 :;: Kaljakin kelpaa... :;:  
   
 ## Varpunen jouluaamuna  
-##### Code: varpunenjouluaamuna  
+###### varpunenjouluaamuna  
   
 Lumi on jo peittänyt kukat laaksosessa,  
 järven aalto jäätynyt talvipakkasessa.  
@@ -108,7 +108,7 @@ Varpunen pienoinen, syönyt kesäeinehen,
 järven aalto jäätynyt talvipakkasessa.  
   
 ## Takki pois  
-##### Code: takkipois  
+###### takkipois  
   
 Hei takki poies kiskaikaamme,  
 On Polin poikain tapa tää.  
@@ -121,7 +121,7 @@ Ennekuin aamu sarastaa.
 Tääll' juodaan kautta Pohjanmaan! :;:  
   
 ## Teekkarihymni  
-##### Code: teekkarihymni  
+###### teekkarihymni  
   
 Yö kuin sielu teekkarin on pimiä,  
 Takajoukko nukkuu vain, nukkuu vain.  
@@ -131,7 +131,7 @@ Ja taas, ja siis,
 Ja yks, kaks, kolme, neljä, viis  
   
 ## Ken ompi Fuksi  
-##### Code: kenompifuksi  
+###### kenompifuksi  
   
 :;: Ken ompi fuksi XX  
 Ylös nouskohon. :;:  
@@ -141,7 +141,7 @@ Sen huulillensa nostakoon.
 Juo Herran tähden pois. :;:  
   
 ## Ikuisen Teekkarin Laulu  
-##### Code: ikuisenteekkarinlaulu  
+###### ikuisenteekkarinlaulu  
   
 Talvi-iltain tummentuessa  
 Polin suojiin me saavumme taas.  
