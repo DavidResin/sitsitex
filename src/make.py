@@ -2,8 +2,10 @@ import os, PyPDF2
 from python import song_helpers as sh
 
 aux_dir = "aux_files"
-out_dir = "output"
+out_dir = "outputs"
+file = "songbook.tex"
 
+print()
 print("@@@ Processing songs")
 print()
 
@@ -20,7 +22,7 @@ except:
 			if to_check in f.read().splitlines():
 				print("ERROR")
 				print("You need to close '" + fn + ".pdf' before you can recompile it.")
-				print("Some PDF readers block files while they are open.")
+				print("Some PDF readers make files read-only while they are open.")
 
 
 
@@ -33,37 +35,49 @@ except:
 
 	# only open log if exists
 
+print()
 print("@@@ Printing sequential PDF")
 print()
 
 # GENERATE (TAKE CARE THAT THE TOC IS READ AT THE 2ND TIME)
-for i in range(2):
-	doc.generate_pdf(filepath=path, compiler='pdflatex', clean=True)
+# GOTTA CLEAN THE NAMING OF FILES (DYNAMIC OR STATIC?)
+# CHECKSUM FOR CHANGES
+# USE latexmk IF AVAILABLE OTHERWISE USE pdflatex
+os.system(f"latexmk -quiet -auxdir={ aux_dir } -outdir={ out_dir } -pdf { file }")
 
-with open("songbook.pdf", "rb") as f:
+with open(out_dir + "/songbook.pdf", "rb") as f:
 	pdf = PyPDF2.PdfFileReader(f)
 	pages = pdf.trailer["/Root"]["/Pages"]["/Count"]
 
-sheets = (pages + 3) / 4
-seqs = [[pages - x, x + 1, x + 2, pages - x - 1] for x in range(0, 2 * sheets, 2)]
-ids = [item for sub in seqs for item in sub]
+sheets = int((pages + 3) / 4)
+seqs = [[4 * sheets - x, x + 1, x + 2, 4 * sheets - x - 1] for x in range(0, 2 * sheets, 2)]
+ids = [str(item) for sub in seqs for item in sub]
 order = ",".join(ids)
 
-print("@@@ Printing booklet (" + pages + " pages, " + sheets + " sheets)")
+print()
+print(f"@@@ Printing booklet ({ pages } pages, { sheets } sheets)")
 print()
 
-# GENERATE
+os.system(f'''pdflatex \
+			-interaction=batchmode \
+			-output-directory={ aux_dir } \
+			-jobname="booklet" \
+			"\\def\\sso{{{ order }}} \\def\\ssf{{{ out_dir }/songbook.pdf}} \\input{{booklet.tex}}"''')
 
+print()
 print("@@@ Moving output files")
 print()
 
-for fn in ["songbook.pdf", "booklet.pdf"]
+for fn in ["songbook.pdf", "booklet.pdf"]:
 	aux_path = os.path.join(aux_dir, fn)
 	out_path = os.path.join(out_dir, fn)
 
-	if os.path.exists(out_path):
-		os.remove(out_path)
+	# Need to remove fls file
 
-	os.rename(aux_path, out_path)
+	if os.path.exists(aux_path):
+		os.remove(out_path)
+		os.rename(aux_path, out_path)
 	
+print()
 print("@@@ Done")
+print()
