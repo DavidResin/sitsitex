@@ -5,6 +5,17 @@ aux_dir = "aux_files"
 out_dir = "outputs"
 file = "songbook.tex"
 
+# Options:
+### No song compilation
+### Force song compilation
+### No booklet
+### Flush aux_files
+### custom output folder
+### verbose option (0=full, 1=warnings&errors, 2=errors only (default), 3=silent)
+### special options for single actions? (song compil, test packages)
+### version
+### custom name
+
 print()
 print("@@@ Processing songs")
 print()
@@ -43,9 +54,11 @@ print()
 # GOTTA CLEAN THE NAMING OF FILES (DYNAMIC OR STATIC?)
 # CHECKSUM FOR CHANGES
 # USE latexmk IF AVAILABLE OTHERWISE USE pdflatex
-os.system(f"latexmk -quiet -auxdir={ aux_dir } -outdir={ out_dir } -pdf { file }")
+# AUTO songs.sty INSTALL?
+# MESSAGES SAYING WHAT'S MISSING
+os.system(f"latexmk -quiet -outdir={ aux_dir } -pdf { file }")
 
-with open(out_dir + "/songbook.pdf", "rb") as f:
+with open(aux_dir + "/songbook.pdf", "rb") as f:
 	pdf = PyPDF2.PdfFileReader(f)
 	pages = pdf.trailer["/Root"]["/Pages"]["/Count"]
 
@@ -62,7 +75,7 @@ os.system(f'''pdflatex \
 			-interaction=batchmode \
 			-output-directory={ aux_dir } \
 			-jobname="booklet" \
-			"\\def\\sso{{{ order }}} \\def\\ssf{{{ out_dir }/songbook.pdf}} \\input{{booklet.tex}}"''')
+			"\\def\\sso{{{ order }}} \\def\\ssf{{{ aux_dir }/songbook.pdf}} \\input{{booklet.tex}}"''')
 
 print()
 print("@@@ Moving output files")
@@ -75,7 +88,9 @@ for fn in ["songbook.pdf", "booklet.pdf"]:
 	# Need to remove fls file
 
 	if os.path.exists(aux_path):
-		os.remove(out_path)
+		if os.path.exists(out_path):
+			os.remove(out_path)
+
 		os.rename(aux_path, out_path)
 	
 print()

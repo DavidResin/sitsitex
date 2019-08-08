@@ -1,5 +1,5 @@
-# Songs in English                                                                                                              
-                                                                                                              
+# Songs in English                                                                                                                      
+                                                                                                                      
 ## March of the Water-Boys  
 ###### marchofthewaterboys  
   
@@ -125,7 +125,7 @@ To finally get me up to running speed!
   
 Wasted...  
   
-_The Empire Strikes Back!_  
+> The Empire Strikes Back!  
 Hang-hang-hang-hangover, hangover  
 Hang-hang-hang-hangover, hangover  
 Hang-hang-ha-hang-hang-ha-hangover  
@@ -797,17 +797,17 @@ Some say the Devil is dead...
 ## My Lady in Red  
 ###### myladyinred_short  
   
-_(Solo:)_ She's my Lady in red  
-_(All:)_ She's my Lady in red  
-_(Solo:)_ She likes to do it in the bed  
-_(All:)_ She likes to do it in the bed  
+___(Solo:)___ She's my Lady in red  
+___(All:)___ She's my Lady in red  
+___(Solo:)___ She likes to do it in the bed  
+___(All:)___ She likes to do it in the bed  
   
-_(Solo:)_ Singing na-na-na-na  
-_(All:)_ Singing na-na-na-na  
-_(Solo:)_ Singing wo-ho-oh-ho  
-_(All:)_ Singing wo-ho-oh-ho  
+___(Solo:)___ Singing na-na-na-na  
+___(All:)___ Singing na-na-na-na  
+___(Solo:)___ Singing wo-ho-oh-ho  
+___(All:)___ Singing wo-ho-oh-ho  
   
-_(Solo:)_ She's my Lady in...  
+___(Solo:)___ She's my Lady in...  
   
 ## My Lady in Red  
 ###### myladyinred  
@@ -1155,10 +1155,10 @@ It's okay...
 ## Diggy Diggy Hole  
 ###### diggydiggyhole  
   
-_(Solo:)_ Brothers of the mine rejoice!  
-_(All:)_ Swing, swing, swing with me!  
-_(Solo:)_ Raise your pick and raise your voice!  
-_(All:)_ Sing, sing, sing with me!  
+___(Solo:)___ Brothers of the mine rejoice!  
+___(All:)___ Swing, swing, swing with me!  
+___(Solo:)___ Raise your pick and raise your voice!  
+___(All:)___ Sing, sing, sing with me!  
   
 > Songmaster solo:  
 Down and down into the deep,  
@@ -1185,10 +1185,10 @@ Diggy diggy hole, diggy diggy hole!
 I am a dwarf and I'm digging a hole,  
 Diggy diggy hole, digging a hole!  
   
-_(Solo:)_ The sunlight will not reach this low,  
-_(All:)_ Deep, deep in the mine!  
-_(Solo:)_ Never seen the blue moon glow,  
-_(All:)_ Dwarves won't fly so high!  
+___(Solo:)___ The sunlight will not reach this low,  
+___(All:)___ Deep, deep in the mine!  
+___(Solo:)___ Never seen the blue moon glow,  
+___(All:)___ Dwarves won't fly so high!  
   
 > Songmaster solo:  
 Fill a glass and down some mead!  
@@ -1292,49 +1292,49 @@ We're up all night 'til the sun...
 ## The Internet  
 ###### internetisforporn  
   
-_(Solo:)_ The internet is really really great.  
-_(All:)_ For porn!  
-_(Solo:)_ I've got a fast connection so I don't have to wait.  
-_(All:)_ For porn!  
-_(Solo:)_ There's always some new site.  
-_(All:)_ For porn!  
-_(Solo:)_ I browse all day and night.  
-_(All:)_ For porn!  
-_(Solo:)_ It's like I'm surfing at the speed of light!  
-_(All:)_ Foooor poooorn!  
+___(Solo:)___ The Internet is really really great.  
+___(All:)___ For porn!  
+___(Solo:)___ I've got a fast connection so I don't have to wait.  
+___(All:)___ For porn!  
+___(Solo:)___ There's always some new site.  
+___(All:)___ For porn!  
+___(Solo:)___ I browse all day and night.  
+___(All:)___ For porn!  
+___(Solo:)___ It's like I'm surfing at the speed of light!  
+___(All:)___ Foooor poooorn!  
   
-:;: The internet is for porn! :;:  
+:;: The Internet is for porn! :;:  
 Why do you think the net was born?  
 Porn! Porn! Porn!  
   
-_(Solo:)_ I'm glad we have this new technology.  
-_(All:)_ For porn! (oop!)  
-_(Solo:)_ Which gives us untold opportunity.  
-_(All:)_ For porn (ooops, sorry!)  
-_(Solo:)_ Right from your own desktop.  
-_(All:)_ For p-  
-_(Solo:)_ You can research, browse and shop.  
-_(All:)_ ....  
-_(Solo:)_ Until you've had enough and you're ready to stop!  
-_(All:)_ Foooor poooorn!  
+___(Solo:)___ I'm glad we have this new technology.  
+___(All:)___ For porn! (oop!)  
+___(Solo:)___ Which gives us untold opportunity.  
+___(All:)___ For porn (ooops, sorry!)  
+___(Solo:)___ Right from your own desktop.  
+___(All:)___ For p-  
+___(Solo:)___ You can research, browse and shop.  
+___(All:)___ ....  
+___(Solo:)___ Until you've had enough and you're ready to stop!  
+___(All:)___ Foooor poooorn!  
   
-:;: The internet is for porn! :;:  
+:;: The Internet is for porn! :;:  
 Me up all night honking me horn  
 To porn! Porn! Porn!  
   
-_(Solo:)_ That's gross. You're all perverts! ....  
+___(Solo:)___ That's gross. You're all perverts! ....  
   
-:;: The internet is for porn! :;:  
+:;: The Internet is for porn! :;:  
 All these guys unzip their flies for  
 Porn! Porn! Porn!  
   
-_(Solo:)_ HOLD ON A SECOND! ....  
+___(Solo:)___ HOLD ON A SECOND! ....  
   
-:;: The internet is for porn! :;:  
+:;: The Internet is for porn! :;:  
 Grab your dick and double click  
 For porn! Porn! Porn!  
 Poooorn! Poooorn!  
-The internet is for,  
+The Internet is for,  
 Internet is for,  
 Internet is for porn! HAHAAA!  
   

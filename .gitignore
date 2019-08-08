@@ -2,10 +2,9 @@
 src/*.*
 !src/*.tex
 !src/*.sty
-!src/*.sh
 !src/*.dat
 !src/*.py
-!src/registry.pdf
+!src/*.pdf
 
 # Ignore all Latex output folder contents
 src/aux_files/*
