@@ -20,3 +20,6 @@ src/images/*
 
 # Keep directories even if empty
 !**/.gitkeep
+
+# If you're on mac
+.DS_Store
