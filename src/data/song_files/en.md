@@ -1,5 +1,5 @@
-# Songs in English                                                                                                              
-                                                                                                              
+# Songs in English                                                                                                                                                                                      
+                                                                                                                                                                                      
 ## March of the Water-Boys  
 ###### marchofthewaterboys  
   
@@ -13,6 +13,35 @@ We are sober everyday, boy
 You're hung over? What a shame, boy.  
 Hooray, us jolly water playboys  
 We're as fresh as one can be (indeed!)  
+  
+## March of the Water-Boys  
+###### marchofthewaterboys2  
+  
+This we swear upon our lives or even death:  
+That we will not drink at all  
+that devilish alcohol.  
+You may join us and check every single breath  
+but you’ll see our edge is straight.  
+  
+Hooray, us jolly water playboys  
+alcohol won’t make us weary  
+we are always feeling cheery  
+Hooray, us sober water playboys  
+We’re as fresh as one can be.  
+  
+When you live your life in peaceful harmony,  
+Read and study all day long,  
+Never partake in beer pong,  
+Stay away from ill-behaving company,  
+What a bliss it all can be!  
+Hooray, us jolly water playboys…  
+  
+Karma surely punishes all sinful deeds,  
+Those that others always do,  
+When the drink their heads cuckoo,  
+It can ruin heritage and dynasties  
+And collapse the whole culture.  
+Hooray, us jolly water playboys…  
   
 ## Far Over  
 ###### farover  
@@ -105,7 +134,6 @@ That all started with the big bang (Bang!)
 ###### wasted  
   
 :;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:  
-  
 First I will drink down two bottles of sparkling wine,  
 Which gets me feeling more than fine!  
 And then a barrel of Whisky Rye is all I need,  
@@ -1385,4 +1413,72 @@ But now that we're all done to undress,
 Our hands are free to crack that beer.  
 :;: For as we all sink towards drunkness,  
 The time has come for us to cheer. :;:  
+  
+## Cigaretts Whiskey and Wild Wild Women  
+###### wildwildwomen  
+  
+Once I was happy and had a good wife  
+I had enough money to last me for life  
+I met with a girl and we went on a spree  
+She taught me to smoke and drink whiskey  
+  
+:,: Cigarettes, whiskey and wild, wild women  
+They'll drive you crazy, they'll drive you insane :,:   
+  
+And now I'm feeble and broken with age  
+The lines on my face make a well written page  
+I'm leaving this story, how sad but how true  
+On women and whiskey and what they will do  
+Cigarettes...  
+  
+Write on the cross at the head of my grave  
+'For women and whiskey, here lies a poor slave  
+Take warning, dear stranger, take warning, dear friend'  
+Then write in big letters these words at the end  
+Cigarettes...  
+  
+## Worries of Life  
+###### rullaati  
+  
+If worries of life are a weight on your shoulders  
+advice I’ll give you to bring you relief:  
+before your soul in the hellfire smoulders  
+join to our feast and just forget your grief!  
+:,: Hey rullaati rullaati rullaati rullaa  
+rullaati rullaati rullallallei :,:  
+  
+Life is so short and our perception smeary  
+That is the most we have time to deduce  
+Bottle your anguish with a melody cheery  
+building a paradise is our excuse  
+Hey rullaati...  
+  
+Spring takes up merely a quarter of our life.  
+Take haste and join us in marvelous feast  
+dear friend your youth isn’t meant for a moot strife  
+take me by hand since we’re not yet deceased  
+Hey rullaati...  
+  
+Searching a way home in our good old campus  
+the road that us took there has become so thin  
+like walking a tightrope while fighting an ambush  
+Is merriment starting to make my world spin?  
+Hey rullaati...    
+  
+## Hoist your glasses  
+###### nostakaamme  
+  
+Hoist your glasses up high.  
+Set aside thine ale.  
+Koskenkorva’s fire  
+makes the beer taste stale.  
+:,: Blessed with good intent,  
+drink with thine good friend! :,:  
+  
+By its fame and power  
+beer excites the crowd.  
+With some vodka proper  
+solace can be found.  
+:,: Solace, not repent.  
+Drink with thine good friend! :,:  
   
