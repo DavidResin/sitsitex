@@ -1,7 +1,7 @@
-# Songs in English                                                                                                                                                                                      
-                                                                                                                                                                                      
+# Songs in English                                                                                                                                                                                                    
+                                                                                                                                                                                                    
 ## March of the Water-Boys  
-###### marchofthewaterboys  
+###### waterboys  
   
 This we swear upon our lives or even death  
 That we will not drink at all that devilish alcohol  
@@ -15,7 +15,7 @@ Hooray, us jolly water playboys
 We're as fresh as one can be (indeed!)  
   
 ## March of the Water-Boys  
-###### marchofthewaterboys2  
+###### waterboyslong  
   
 This we swear upon our lives or even death:  
 That we will not drink at all  
