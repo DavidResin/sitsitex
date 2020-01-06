@@ -1,6 +1,6 @@
-# Songs in French                                                                                                                    
-# Chansons en Français                                                                                                                    
-                                                                                                                    
+# Songs in French  
+# Chansons en Français  
+  
 ## Il est des nôtres  
 ###### ilestdesnotres  
   
@@ -33,7 +33,7 @@ Pom, popom...
   
 Tous les petits Gobelins, dansent dans la forêt,  
 Moi et mes compagnons, allons les approcher!  
-Ils sont vraiment mignons quant ils se font flécher,  
+Ils sont vraiment mignons quand ils se font flécher,  
 Nous les achèverons à coups d’épées rouillées! OUAIS!  
   
 Pom, popom...  
@@ -350,12 +350,64 @@ En Switzerland vous serez bienvenus
 Tous les matins...  
   
 ## La Tristitude  
-###### tristitude_epfl_2  
+###### tristitude_epfl_3  
   
 La Tristitude,  
 C'est quand tu dois aller chez le prêtre à 12 ans,  
 Quand tu te rends compte que ton père est suisse-allemand,  
-Quand y'a les gilets jaunes et que t'es Président,  
+C'est tenter un tope-la avec un malvoyant,  
+Et ça fait mal.  
+  
+La **_Suissitude_**,  
+C'est avoir quatre langues sans pouvoir communiquer,  
+C'est quand tu dis "tailai" au lieu de dire télé,  
+C'est être neutre et vendre des armes à l'étranger,  
+Ca fait du blé.  
+  
+La Tristitude,  
+C'est moi, c'est toi,  
+C'est nous, c'est quoi,  
+C'est un peu de détresse dans le creux de nos bras.  
+La Tristitude,  
+C'est hmmm, c'est wooooooh,  
+C'est eux, c'est vous,  
+C'est la vie qui te dit que ça va pas du tout.  
+  
+La Tristitude,  
+C'est quand lors d'un voyage en Inde tu bois de l'eau,  
+Quand t’es prise comme secrétaire chez Bernard Nicod,  
+Quand Jamel Debbouzze fait un solo au piano,  
+Et ça fait rien.  
+  
+La Tristitude,  
+C'est faire une soirée pour des gens de toute l'Europe,  
+Avec une organisation qui est au top,  
+Et exploser tout ton budget sur des enveloppes,  
+C'est ESN.  
+  
+La Tristitude...  
+  
+La Tristitude,  
+C'est quand ton karaoké dit "instrumental",  
+C'est quand tout ton OC finit à l'hôpital,  
+When you don’t get the song but try to act social,  
+Et ça fait mal.  
+  
+La Tristitude,  
+C’est quand t'as choisi GC à l’EPFL,  
+C'est quand le studio s'appelle "Jacquie et Michel",  
+C’est quand au Scrabble t’as K, F, J, Q, X et L,  
+Et ça fait kfjqxl.  
+  
+La Tristitude...  
+  
+## La Tristitude  
+###### tristitude_epfl_2  
+  
+La Tristitude,  
+C'est quand tu dois aller chez le prêtre à 12 ans,  
+Quand tu te rends compte que ton père est suisse-allemand,   
+C'est tenter un tope-la avec un malvoyant,  
 Et ça fait mal.  
   
 La Tristitude,  
@@ -365,7 +417,7 @@ Quand Jamel Debbouzze fait un solo au piano,
 Et ça fait rien.  
   
 La Tristitude,  
-C'est toi, c'est moi,  
+C'est moi, c'est toi,  
 C'est nous, c'est quoi,  
 C'est un peu de détresse dans le creux de nos bras.  
 La Tristitude,  
@@ -374,23 +426,9 @@ C'est eux, c'est vous,
 C'est la vie qui te dit que ça va pas du tout.  
   
 La Tristitude,  
-C'est quand t'es choisi pour être gardien au hand-ball,  
+C'est quand ton karaoké dit "instrumental",  
 Quand t’as le hoquet en assemblée générale,  
 When you don’t get the song but try to act social,  
-Et ça fait mal.  
-  
-La Tristitude,  
-C'est conjuguer "bouillir" au subjonctif pluriel,  
-C'est être un frère Dalton mais que t'es Averell,  
-C'est mettre du savon liquide dans le lave-vaisselle,  
-Ca fait des bulles.  
-  
-La Tristitude...  
-  
-La Tristitude,  
-C’est faire une hémiplégie mais des deux côtés,  
-C’est quand tu fais pipi debout dans l’TGV,  
-C'est quand à ton audition y'a un canapé,  
 Et ça fait mal.  
   
 La Tristitude,  
@@ -403,7 +441,7 @@ La Tristitude...
   
 La Tristitude,  
 C’est quand t'as choisi GC à l’EPFL,  
-C'est quand tes parents s'appellent Jacquie et Michel,  
+C'est quand le studio s'appelle "Jacquie et Michel",  
 C’est quand au Scrabble t’as K, F, J, Q, X et L,  
 Et ça fait kfjqxl.  
   
@@ -430,14 +468,14 @@ Quand tu dois aller vivre à Nogent-le-Rotrou,
 Quand ton coiffeur t'apprend que t'as des reflets roux,  
 Et ça fait mal.  
   
-La Tristitude,  
-C'est toi, c'est moi,  
-C'est nous, c'est quoi,  
-C'est un peu de détresse dans le creux de nos bras.  
-La Tristitude,  
-C'est hmmm, c'est wooooooh,  
-C'est eux, c'est vous,  
-C'est la vie qui te dit que ça va pas du tout.  
+**La Tristitude,**  
+**C'est moi, c'est toi,**  
+**C'est nous, c'est quoi,**  
+**C'est un peu de détresse dans le creux de nos bras.**  
+**La Tristitude,**  
+**C'est hmmm, c'est wooooooh,**  
+**C'est eux, c'est vous,**  
+**C'est la vie qui te dit que ça va pas du tout.**  
   
 La Tristitude,  
 C'est quand lors d'un voyage en Inde tu bois de l'eau,  
@@ -446,12 +484,12 @@ Quand Jamel Debbouzze fait un solo au piano,
 Et ça fait rien.  
   
 La Tristitude,  
-C'est Pierre Desproges qui signe avec ses initiales,  
+C'est quand ton karaoké dit "instrumental",  
 Quand t'as le hoquet en assemblée générale,  
 When you don't get the song but try to act social,  
 Et ça fait mal.  
   
-La Tristitude...  
+**La Tristitude...**  
   
 La Tristitude,  
 C'est faire une hémiplégie mais des deux côtés,  
@@ -465,7 +503,7 @@ Quand ta femme fait de l'échangisme un peu sans toi,
 Quand des jeunes t'appellent "Monsieur" pour la première fois,  
 Et ça fait mal.  
   
-La Tristitude...  
+**La Tristitude...**  
   
 La Tristitude,  
 C'est conjuguer "bouillir" au subjonctif pluriel,  
@@ -479,7 +517,7 @@ C'est célébrer sa Bar-Mitzvah en '43,
 C'est tenter d'ouvrir un bar gay au Nigeria,  
 Et ça fait mal.  
   
-La Tristitude...  
+**La Tristitude...**  
   
 ## À Poil  
 ###### apoil  
@@ -654,4 +692,127 @@ Et c'est ainsi qu'en un moment,
 On vit périr votre jument!  
 Mais à part ça, Madame la Marquise,  
 Tout va très bien, tout va très bien.  
+  
+## La Tribu de Dana  
+###### dana_short  
+  
+Dans la vallée oh-oh, de Dana lalilalaaa,  
+Dans la vallée oh-oh, j'ai pu entendre les échos.  
+Dans la vallée oh-oh, de Dana lalilalaaa,  
+Dans la vallée oh-oh, des chants de guerre près des tombeaux.  
+  
+## La Tribu de Dana  
+###### dana_single_verse  
+  
+Le vent souffle sur les plaines de la Bretagne armoricaine  
+Je jette un dernier regard sur ma femme, mon fils et mon domaine  
+Akim, le fils du forgeron est venu me chercher  
+Les druides ont décidé de mener le combat dans la vallée  
+Là, où tous nos ancêtres, de géants guerriers Celtes  
+Après de grandes batailles, se sont imposés en maîtres  
+C'est l'heure maintenant de défendre notre terre  
+Contre une armée de Sumériens prête à croiser le fer  
+Toute la tribu s'est réunie autour de grands menhirs  
+Pour invoquer les dieux afin qu'ils puissent nous bénir  
+Après cette prière avec mes frères sans faire état de zèle  
+Les chefs nous ont donné à tous des gorgées d'hydromel  
+Pour le courage, pour pas qu'il y ait de faille  
+Pour rester grands et fiers quand nous serons dans la bataille  
+Car c'est la première fois pour moi que je pars au combat  
+Et j'espère être digne de la tribu de Dana (Dana)  
+  
+## La Tribu de Dana  
+###### dana  
+  
+Le vent souffle sur les plaines de la Bretagne armoricaine  
+Je jette un dernier regard sur ma femme, mon fils et mon domaine  
+Akim, le fils du forgeron est venu me chercher  
+Les druides ont décidé de mener le combat dans la vallée  
+Là, où tous nos ancêtres, de géants guerriers Celtes  
+Après de grandes batailles, se sont imposés en maîtres  
+C'est l'heure maintenant de défendre notre terre  
+Contre une armée de Sumériens prête à croiser le fer  
+Toute la tribu s'est réunie autour de grands menhirs  
+Pour invoquer les dieux afin qu'ils puissent nous bénir  
+Après cette prière avec mes frères sans faire état de zèle  
+Les chefs nous ont donné à tous des gorgées d'hydromel  
+Pour le courage, pour pas qu'il y ait de faille  
+Pour rester grands et fiers quand nous serons dans la bataille  
+Car c'est la première fois pour moi que je pars au combat  
+Et j'espère être digne de la tribu de Dana (Dana)  
+  
+Dans la vallée oh-oh, de Dana lalilalaaa,  
+Dans la vallée oh-oh, j'ai pu entendre les échos.  
+Dans la vallée oh-oh, de Dana lalilalaaa,  
+Dans la vallée oh-oh, des chants de guerre près des tombeaux.  
+  
+Après quelques incantations de druides et de magie  
+Toute la tribu, le glaive en main courait vers l'ennemi  
+La lutte était terrible et je ne voyais que les ombres  
+Tranchant l'ennemi qui revenait toujours en surnombre  
+Mes frères tombaient l'un après l'autre devant mon regard  
+Sous le poids des armes que possédaient tous ces barbares  
+Des lances, des haches et des épées dans le jardin d'Éden  
+Qui écoulaient du sang sur l'herbe verte de la plaine  
+Comme ces jours de peine où l'homme se traîne  
+À la limite du règne du mal et de la haine  
+Fallait-il continuer ce combat déjà perdu  
+Mais telle était la fierté de toute la tribu  
+La lutte a continué comme ça jusqu'au soleil couchant  
+De férocité extrême en plus d'acharnement  
+Fallait défendre la terre de nos ancêtres enterrés là  
+Et pour toutes les lois de la tribu de Dana (Dana)  
+  
+Dans la vallée...  
+  
+Au bout de la vallée on entendait le son d'une corne  
+D'un chef ennemi qui rappelait toute sa horde  
+Avait-il compris qu'on lutterait même en enfer  
+Et qu'à la tribu de Dana appartenaient ces terres  
+Les guerriers repartaient et je ne comprenais pas  
+Tout le chemin qu'ils avaient fait pour en arriver là  
+Quand mon regard se posa tout autour de moi  
+J'étais le seul debout de la tribu voilà pourquoi  
+Mes doigts se sont écartés tout en lâchant mes armes  
+Et le long de mes joues se sont mises à couler des larmes  
+Je n'ai jamais compris pourquoi les dieux m'ont épargné  
+De ce jour noir de notre histoire que j'ai conté  
+Le vent souffle toujours sur la Bretagne armoricaine  
+Et j'ai rejoint ma femme, mon fils et mon domaine  
+J'ai tout reconstruit de mes mains pour en arriver là  
+Je suis devenu roi de la tribu de Dana (Dana)  
+  
+Dans la vallée...  
+  
+## Fais-moi du couscous chéri  
+###### couscous  
+  
+:;: Fais-moi du couscous chéri, fais-moi du couscous :;:  
+  
+J'ai une joli femme dont je suis épris,  
+Mais voilà le drame elle se lève la nuit.  
+Sortant de sa chambre à peine vêtue,  
+Elle se frotte le ventre et me dit d'une voix menue :  
+  
+:;: Fais-moi du couscous... :;:  
+  
+Et moi qui m'endormais rêvant à ses baisers,  
+À ses lèvres vermeilles voilà mon reveil.  
+  
+:;: Fais-moi du couscous... :;:  
+  
+J'ai trouvé la recette pour décourager,  
+Sa passion secrète qui tient éveillé.  
+J'remplace les pois chiches par des haricots,  
+Et comme je m'en fiche je jette la semoule aux moineaux.  
+  
+:;: C'est plus du couscous chéri, c'est plus du couscous :;:  
+  
+Voilà comment ce soir rongé de désespoir,  
+Pour une femme affamée j'ai trouvé un nouveau met.  
+  
+:;: C'est plus du couscous... :;:  
+  
+Fini le couscous chéri, fini le couscous,  
+Mais desormais mon poulet, j'veux du cassoulet!  
   

@@ -1,5 +1,5 @@
-# Songs in multiple languages, dead languages, and fictional languages                                                                                                                    
-                                                                                                                    
+# Songs in multiple languages, dead languages, and fictional languages  
+  
 ## Just Drink  
 ###### trink  
   
@@ -89,7 +89,7 @@ That I’ll never learn...
 I’ll just drink more and hope they return!  
   
 ## Henkilökunta  
-###### henkilokunta  
+###### henkilokunta_long  
   
 :;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
 Henkilökuntaa (x4)  
@@ -98,6 +98,13 @@ Henkilökuntaa (x4)
 :;: Bring us brandy... :;:  
 :;: Where is my food... :;:  
 :;: Beer is fine, too... :;:  
+  
+## Henkilökunta  
+###### henkilokunta  
+  
+:;: Henkilökuntaa, henkilökuntaa, parlevuu. :;:  
+Henkilökuntaa (x4)  
+:;: Henkilökuntaa parlevuu. :;:  
   
 ## Ko-Ko-Ko-Koskenkorva  
 ###### koskenkorva  
@@ -115,6 +122,24 @@ What a wonderful way to get totally, totally drunk!
   
 Lalalalappeen rarararanta,  
 What a wonderful place to get totally, totally drunk!  
+...  
+  
+## Ko-Ko-Ko-Koskenkorva  
+###### koskenkorva_2  
+  
+Ko-ko-ko-kosken ko-ko-ko-korvaa,  
+Siitä aina kunnon räkä-kä-kännit saa.  
+Ko-ko-ko-kosken ko-ko-ko-korvaa,  
+Siitä aina kunnon räkä-kä-kännit,  
+Aina kunnon räkä-kä-kännit,  
+Aina kunnon räkä-kä-kännit saa.  
+  
+Kokokokosken kokokokorvaa,  
+What a wonderful way to get totally, totally drunk!  
+...  
+  
+Fififinlandia vovovovodka,  
+What an inferior way to get totally, totally drunk!  
 ...  
   
 ## Vem i helvete  
@@ -257,6 +282,15 @@ Cheap gas is all we’re worth.
 ## Internationalen  
 ###### internationalen_2  
   
+Mera brännvin i glasen,  
+Mera glas på vårt bord,  
+Mera bord på kalasen,  
+Mera kalas på vår jord.  
+Mera jordar kring månen,  
+Mera månar kring mars,  
+Mera marscher till Skåne,  
+Mera Skåne, bevars bevars bevars!   
+  
 Lisää viinaa mun lasiin,  
 Lisää laseja pöydälle,  
 Lisää pöytiä näihin juhliin,  
@@ -317,4 +351,69 @@ Jam tota Academia
 Nobiscum amet gaudia  
 Io vivat! Io vivat!  
 Nostrorum sanitas  
+  
+## Let it go  
+###### letitgo  
+  
+> English  
+The snow glows white on the mountain tonight  
+Not a footprint to be seen  
+> French  
+Un royaume de solitude  
+Ma place est là pour toujours  
+> German  
+Der Wind, er heult so wie der Sturm ganz tief in mir  
+> Dutch  
+Het werd mij teveel hoe 'k mijn best ook deed  
+> Mandarin  
+Bié ràng tāmen jìnlái, kànjiàn  
+zuò hǎo nǔhái, jiù xiàng nǐ de cóngqián  
+> Swedish  
+Visa ingenting, vad du än gör  
+Allt är förstört!  
+  
+> Japanese  
+Ari no mama no   
+Sugata miseru no yo  
+> Latin American Spanish   
+Libre soy, libre soy  
+Libertad sin vuelta atrás  
+> Polish   
+Wszystkim wbrew, na ten gest mnie stać!  
+> Hungarian   
+Jöjjön száz orkán  
+És közben a szívemen ül a jég  
+  
+> Castilian Spanish  
+Desde la distancia que pequeño todo es  
+> Catalan   
+I les pors que em dominaven   
+Per sempre han fugit  
+> Italian  
+Non è un difetto è una virtù  
+E non la fermerò mai più  
+> Korean  
+Nae ma-eumdaelo jayulobge sallae  
+  
+> Serbian   
+Sad je kraj, sad je kraj  
+Na krilima vetra sam  
+> Cantonese  
+Seui yik yiu cheui sam gong  
+Mong diu jok tin bei go  
+> Portuguese  
+Estou aqui, e vou ficar  
+Venha a tempestade  
+> Norwegian  
+La den gå, la den gå  
+Jeg skal stige lik solen nå  
+> Thai  
+Ploy aok mā, lerk son ren  
+Dĕk dī maì hĕn mī khā  
+> Canadian French  
+Je suis là,  
+Comme je l'ai rêvé  
+> Flemish  
+En de storm raast door  
+De vriekou daar zat ik toch lang niet mee  
   

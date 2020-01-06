@@ -25,42 +25,12 @@ AABBB
 For cognac it makes me rarely,
 Rémy Martin and Martell, 
 Courvoisier may well go.  
-Can I get Hlennessy, 
+Can I get Hennessy, 
 get it with Renault!
 
 3RD VERSE FOR EACH?
 
 1 male songmaster, 1 female songmaster
-
-## Chanson Grivoise
-###### chansongrivoise
-  
-Hier soir à la télé y'avait un film très osé,  
-Me suis dit "Ca tombe bien, je voulais me ......",  
-La première scène, y'avait un mec et deux belles acolytes,  
-Idéal pour virevolter ma .......  
-  
-Pourtant moi ça ne me fait que dalle,  
-J'aime mieux regarder le journal,  
-Ce type de cinéma ne plaît qu'à un anormal.  
-  
-Mais tout à coup y'a la scène dans le train avec un monsieur,  
-Et une passagère qui lui ronge la ......,  
-Il la remercie et puis lui propose en plus,  
-De la lui introduire dans l'.......  
-  
-D'habitude, ça ne me fait rien du tout,  
-Ces scénarios un peu fous,  
-Mais pourrrrquoi ne pas en voirrrr encorrrre un p'tit bout?  
-  
-Mais maintenant ça y est c'est la scène du garagiste,  
-Avec la pompiste qui lui ...... les ......,  
-Le voilà qui la ...... dans la ...... avec ardeur,  
-Pendant qu'elle ...... sous le radiateur.  
-  
-Mais ça ne me fait pas grand-chose,  
-Tous ces mouvements de chair rose,  
-Tiens, je crois qu'ça continue après la pause.  
   
 ## Gégène (WIP)
 ###### gegene_solo  
@@ -71,7 +41,7 @@ Que faut-il que je prépare ? Ai-je assez pour m’équiper?
 Au milieu de ces déboires, j’ai bien envie de pleurer,  
 Caaaaaar...  
 
-bois, boire, aboyer, boite, eboua, flamboie, pourboire, hautbois, framboise
+bois, boire, aboyer, boite, eboua, flamboie, pourboire, hautbois, framboise, déboires, boa
 
 Des gants qui donnent des ulcères, des framboises pour le dessert,
   
@@ -90,48 +60,7 @@ Et la suite c’est cadeau...
 J’ai une bouillotte, une potion de flotte,  
 Un parchemin pour vêler, des godasses qui font danser,  
 J’ai l’anneau magique qui rend alcoolique,  
-Et cet anneau le voici, grâce à lui je suis ici!  
-
-## My Student Loan
-#### To the tune of  “Hej, Tomtegubbar”
-###### mystudentloan
-
-:;: My student loan is not enough,  
-For all the beer and marijuana. :;:  
-It pays for clothes, as you can see,
-And beautiful [girls/boys] occasionally.   
-My student loan is not enough,  
-For all the beer and marijuana.
-
-:;: My student loan is not enough,  
-[something worse every time] :;:  
-
-:;: My student loan was not enough,  
-[something worse every time] :;:  
-
-## Lake Geneva
-#### To the tune of "Take Me Home, Country Roads"
-###### lakegeneva
-
-Almost Heaven, Lake Geneva,  
-Pelican Beach, PGs near the water.  
-Life is good there, sitting near the trees,  
-Simpler than the classes, wilder than abroad.  
-Drinking 'til midnight,   breeze
-  
-Party boats, take me home,  
-To the place I belong.  
-Lake Geneva, student drama,  
-Take me home, party boats.  
-  
-All my memories gather 'round it,  
-Lakeside parties, Titanic Lémanique.  
-  
-Sailing, moonlight in the skies  
-
-Classes
-  
-Party boats...  
+Et cet anneau le voici, grâce à lui je suis ici!
   
 ## In Heaven
 ###### inheaven
@@ -167,3 +96,82 @@ Catch 'em, catch 'em, gotta catch 'em all, STDs!
 
 Catch 'em, catch 'em, gotta catch 'em all,
 Gotta catch 'em all, STDs!
+
+I'll search across the land, look far and wide,
+Release from my hand the power that's inside!
+
+At least one hundred fifty or more to see,
+To be a Pokémon master is my destiny!
+
+## Tarzan & Jane  
+###### tarzan  
+  
+Tarzan and Jane were swingin' on a vine,  
+Sippin' on a bottle of Vodka double-wine.  
+
+
+  
+She whispered to him "boy you look mighty fine",
+
+ESN is a mighty good 
+
+
+Really puts the "" in 
+
+Roses are red and violets are blue,
+Liquor costs less than a dinner night for two.
+
+You're the cutest lad that I ever did see,
+I wouldn't mind a share of your lovely company.
+
+Although this tune dragged for way too long,
+I still have jokes that are morally wrong.
+
+My buddy once said "dude, you look really gay",
+Now we're happily married with children on the way.
+
+Straight Prides Parades in the US of A,
+Say what you want, but those are pretty gay.
+
+## ??
+###### ??
+
+I know someone from ESN, David, David.
+I know David from ESN, but he's super drunk.
+:;: But he's super drunk:;:
+I know David from ESN, but he's super drunk.
+
+Ho my God he just threw up, on the, on the...
+Ho my God he just threw up, on the, on the floor.
+:;:Threw up on the floor:;:
+Ho my God he just threw up, on the, on the floor.
+
+I should help him afterall, he's my, he's my...
+I should help him afterall, he's my, he's my friend.
+I should help David. Should I help David ?
+I just wanna go home, I'm half drunk and tired.
+
+Fuck him that's his problem, David, David....
+I told him it was too much, but he would not listen.
+:;:He would not listen:;:
+I'm not his mother nor girlfriend, so fuck you David.
+
+I'll just hit him in the belly, while he's, while he's...
+I'll just hit him in the belly, while he's, while he's down.
+Open his wallet, and take a few francs.
+I'll just hit him in the belly, while he's, while he's down.
+
+And I will kick out David, of the, of the...
+And I will kick out David, of the, of the house.
+:;:Of the, of the house:;:
+And I will kick out David, of the, of the house.
+
+117 ? there's a drunktard on the, on the...
+117 ? there's a drunktard on the, on the road.
+:;:Drunktard on the road:;:
+117 ? there's a drunktard on the, on the road.
+
+Moral of the whole story, if you, if you...
+Moral of the whole story, if you, if you drink.
+:;:Know your damn limit:;:
+And make sure to have with you, a really good friend.

@@ -10,7 +10,7 @@ src/*.*
 src/aux_files/*
 src/outputs/*
 
-# Ignore all images except the bundled ones
+# Ignore all images except the default ones
 src/images/*
 !src/images/base
 

@@ -23,9 +23,10 @@ match = {
 
 # Parse Markdown song
 # Comments are not yet supported
+# Returns a tuple containing the number of missing double spaces and the number of missing/excessive empty lines
 def from_md(lines, position=0):
 	# Exception handling is delegated to the calling module
-	check_song(lines, position)
+	n_space, n_empty = check_song(lines, position)
 
 	newline = True
 	song = dict()
@@ -43,7 +44,7 @@ def from_md(lines, position=0):
 			verse = copy.deepcopy(empty_verse)
 
 		elif tag in ["title", "subtitle", "code"]:
-			song[tag] = flatten_line(content)
+			song[tag] = "".join([s["text"] for s in content])
 
 		elif tag in ["meta", "text"]:
 			newline = False
@@ -57,30 +58,28 @@ def from_md(lines, position=0):
 		verses += [verse]
 
 	song["verses"] = verses
-	return song
+	return song, n_space, n_empty
 
-# Gets the raw text of a stylized line
-def flatten_line(line):
-	return "".join([s["text"] for s in line])
-
-# Check that a song is valid, return value is for minor syntax problems
+# Check that a song is valid
+# Returns a tuple containing the number of missing double spaces and the number of missing/excessive empty lines
 def check_song(lines, position=0):
 	# 0 : Start
 	# 1 : Title parsed
 	# 2 : Subtitle parsed
 	# 3 : Code parsed
 	# 4 : First line break parsed
+
 	state = 0
 	newline, newline_o = False, False
 	comment, comment_o = False, False
-	ret = False
+	n_space, n_empty = 0, 0
 
 	for i in range(len(lines)):
 		text = "Line " + str(position + i + 1) + ": "
 		tag, _, space = cat_line(lines[i], text)
 
 		if space:
-			print(text + "should end with a double space.")
+			n_space += 1
 
 		if tag == "title":
 			if state > 0:
@@ -107,40 +106,33 @@ def check_song(lines, position=0):
 		else:
 			if state < 3:
 				raise SyntaxError(text + "Invalid header.")
+
+			newline = tag == "empty"
+			comment = tag == "comment"
 				
-			if tag == "empty":
+			if newline:
+				# Successive empty lines
 				if newline_o:
-					print(text + "Successive empty lines are useless.")
-					ret = True
-
-				newline = True
-
-				if state == 3:
-					state = 4
+					n_empty += 1
 			else:
+				# Header not followed by empty line
 				if state == 3:
-					print(text + "Header should be followed by an empty line.")
-					ret = True
+					n_empty += 1
 
-				newline = False
-
-			if tag == "comment":
+			if comment:
+				# Comment not preceded by empty line
 				if not newline_o:
-					print(text + "Comments should be preceded by an empty line.")
-					ret = True
+					n_empty += 1
 
-				comment = True
-			else:
-				comment = False
-
+			# Comment not followed by empty line
 			if comment_o and not comment and not newline:
-				print(text + "Comments should be followed by an empty line.")
-				ret = True
+				n_empty += 1
 
+			state = 4
 			comment_o = comment
 			newline_o = newline
 
-	return ret
+	return n_space, n_empty
 
 # Function to categorize a markdown line
 def cat_line(line, text=""):
@@ -254,7 +246,7 @@ def to_md(code, song):
 
 			lines += v_arr + [""]
 	except:
-		print("ERROR: Invalid song with code '" + code + "'")
+		print("\tERROR: Invalid song with code '" + code + "'")
 		return [], True
 
 	# Return lines with added suffix
@@ -301,7 +293,7 @@ def to_latex(code, song):
 		newline = f"{code} = {title} = {subtitle} = {{%"
 		lines = [ newline ] + lines + ["}"]
 	except:
-		print("ERROR: Invalid song with code '" + code + "'")
+		print("\tERROR: Invalid song with code '" + code + "'")
 		return None
 
 	# Append each open line with a comment sign
@@ -317,6 +309,7 @@ def read_md_file(fn, lines):
 	language = "unknown language"
 	songs = {}
 	flag = False
+	n_space, n_empty = 0, 0
 
 	if lines[0][:2] == "# ":
 		language = lines[0].strip().split("in ")[-1]
@@ -329,22 +322,29 @@ def read_md_file(fn, lines):
 
 	for i, j in cpls:
 		try:
-			song = from_md(lines[i:j], position=i)
+			song, n_s, n_e = from_md(lines[i:j], position=i)
 			code = song.get("code")
+			n_space += n_s
+			n_empty += n_e
 
 			if not code:
-				print("Invalid song located at lines", i, "to", j)
+				print("\tInvalid song located at lines", i, "to", j)
 				continue
 
 			if songs.get(code):
-				print("Duplicate song code '" + code + "' in " + fn + ". Will overwrite previous instances.")
-				continue
+				raise SyntaxError("Duplicate song code '" + code + "'")
 
 			songs[code] = song
 		except SyntaxError as err:
-			print("Critical error in", fn, ":")
-			print(err.msg)
+			print("\tCritical error in", fn, ":")
+			print("\t\t" + err.msg)
 			flag = True
+
+	if n_space:
+		print("\tFound and fixed", n_space, "missing double ending spaces.")
+
+	if n_empty:
+		print("\tFound and fixed", n_empty, "missing/excessive empty line(s).")
 
 	opener = lines[0:ids[0]]
 
@@ -368,10 +368,10 @@ def generate_song_file(path, reg_fn, reg_path=""):
 
 		# Correct missing spaces in the file unless an error arises.
 		if flag:
-			print("File", fn, "presented critical errors. It will not be autocorrected to prevent loss of data.")
+			print("\tFile", fn, "presented critical errors. It will not be autocorrected to prevent loss of data.")
 		else:
 			flag = False
-			lines = [o + "  \n" for o in opener]
+			lines = [o.strip() + "  \n" for o in opener]
 
 			for k in songs.keys():
 				new_lines, new_flag = to_md(k, songs[k])
@@ -379,7 +379,7 @@ def generate_song_file(path, reg_fn, reg_path=""):
 				flag |= new_flag
 
 			if flag:
-				print('Markdown compilation failed for song with code "' + k + '" in file "' + fn + '". This should not happen. Autocorrection aborted.')
+				print('\tMarkdown compilation failed for song with code "' + k + '" in file "' + fn + '". This should not happen. Autocorrection aborted.')
 			else:
 				with open(os.path.join(path, fn), "w", encoding="utf8") as f:
 					f.writelines(lines)

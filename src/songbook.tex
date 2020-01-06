@@ -6,9 +6,9 @@
 % Importation of the settings file
 \input{songbook.sty}
  
-\newdate{date}{01}{01}{1970}
-\title{\vspace{34em}\textbf{\color{white}\Huge{SONGBOOK}}}
-\date{\vspace{-3em}\color{white}\Large\displaydate{date}}
+\newdate{date}{10}{09}{2019}
+\title{\vspace{40em}\textbf{\color{white}\Huge{}}}
+\date{\vspace{-3em}\color{white}}
 \author{}
 
 % Mandatory command. Parameters :
@@ -20,11 +20,11 @@
 \songpos{0}
 
 \backgroundsetup{
-	scale=1,
+	scale=2,
 	opacity=1,
-	angle=0,
-	vshift=0,
-	contents={\includegraphics[width=\paperwidth]{images/base/template-cover.png}}
+	angle=90,
+	hshift=0,
+	contents={\includegraphics[width=\paperwidth]{images/cover2020.png}}
 }
 
 \begin{document}
@@ -42,14 +42,20 @@
 \customtoc{Tonight's Songs}{.7cm}
 
 \vfill
+\begin{center}
+\includegraphics[width=\linewidth]{images/hippie_memes/sacred_texts.jpg}
+\end{center}
+\vfill
+\newpage
 
 \sitsit
 
 \vfill
-\newpage
 
 % Displays the rules
 \rules
+
+\vfill
 
 % Displays the seating information
 \seating
@@ -62,58 +68,68 @@
 % Decide your song order here (all songs and their identifiers are in songbook.dat)
 % If you dislike the way your songs are cut between pages, change their order or insert page breaks with "\sclearpage"
 
+\song{fi_hyvatystavat}
 \song{en_dearfriends}
+\song{xx_iovivat}
+\song{en_coatsoff}
+
+\song{en_wasted_long}
+\song{en_syphilis}
+\song{en_notredame}
 \song{en_thisfeeling}
-\song{en_wasted}
+\song{sw_helangar}
 \song{xx_henkilokunta}
 \song{en_drunkenstudent}
-\song{en_fizzycider}
-\song{sw_helangar}
-\song{en_helangar}
-\song{en_irishtale}
-\song{en_syphilis}
+
 \song{en_farover}
 \song{en_paratrooper_short}
 \song{xx_trink}
-\song{en_twelvedays}
-\song{es_alcohol}
+\song{en_yogibear}
+\image[1pt]{memes/dogg.jpg}
+\song{xx_minne}
+\song{ge_einprosit}
+
+
 \song{en_mybonnie}
-\song{fr_diyayaoh_short}
-\song{en_marchofthewaterboys}
-\song{fr_tristitude_epfl_2}
-\song{xx_tanaanotetaan_short}
-\song{fi_nyt}
-\song{en_yurop}
-\song{en_internetisforporn}
-\song{en_wimoweh}
-\song{en_rollmeover}
-\song{xx_koskenkorva}
-\song{fr_santiano_pervert}
-\song{en_fastfood}
-\song{en_diggydiggyhole}
-\song{en_eurovision_lausanne}
-\song{en_beercannon_swiss}
-\song{xx_internationalen_2}
-\song{en_russiansong}
-\song{en_bigbangtheory}
-\song{sw_livetarharligt}
-\song{en_iloverocknroll}
-\song{en_thriftshop}
-\song{fr_latiaffe}
-\song{en_coatsoff}
+\song{en_twelvedays_xmas}
 \song{fr_chansondelataverne}
+\song{en_wimoweh}
+\song{en_diggydiggyhole}
+\song{en_rollmeover}
+\sclearpage
+\song{fr_tristitude_epfl_3}
+\sclearpage
+\song{xx_koskenkorva_2}
+\song{en_lakegeneva}
+\song{xx_internationalen_2}
+\song{en_eurovision_lausanne}
+\song{en_fastfood}
+\song{en_jinglebells}
+\song{en_cursedxmas}
+
+
+\song{en_beercannon_swiss}
+\image[1pt]{memes/addiction.jpg}
+\song{sw_livetarharligt}
+\song{en_bigbangtheory}
 \song{en_softkitty}
-\song{en_erasmus_lausanne}
+\song{en_yurop}
+\song{en_sunshine}
+
 \song{fr_connemara}
-\song{en_whoisafreshman}
-\song{fi_ikuisenteekkarinlaulu}
+\song{en_erasmus_lausanne}
+\song{en_auldlangsyne_modern}
+\song{en_freshman_safe}
+
 \end{songs}
 \ifthenelse{\equal{1}{\columns}}{}{\end{multicols}}
 \newpage
 \begin{center}
 \pagenumbering{gobble}
-\vspace*{25em}
-\includegraphics[width=\linewidth]{images/base/template-logo.png}
+\vspace*{15em}
+{\Huge NOT\\}
+\vspace*{5em}
+\includegraphics[width=\linewidth]{images/back.png}
 \end{center}
 \vfill
 \license

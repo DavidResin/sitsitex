@@ -69,7 +69,10 @@
     {à}{{\`a}}1
     {Â}{{\^A}}1
     {â}{{\^a}}1
+    {Á}{{\'A}}1
+    {á}{{\'a}}1
     {Å}{{\AA}}1
+    {ā}{{\b{a}}}1
     {å}{{\aa}}1
     {ç}{{\c{c}}}1
     {È}{{\`E}}1
@@ -80,10 +83,14 @@
     {ë}{{\"e}}1
     {Ê}{{\^E}}1
     {ê}{{\^e}}1
+    {ĕ}{{\u{e}}}1
+    {h̄}{{\b{h}}}1
+    {h̀}{{\`h}}
     {Ï}{{\"I}}1
     {ï}{{\"i}}1
     {Î}{{\^I}}1
     {î}{{\^i}}1
+    {ī}{{\b{i}}}1
     {Ö}{{\"O}}1
     {ö}{{\"o}}1
     {Ô}{{\^O}}1
@@ -91,6 +98,7 @@
     {ø}{{\o}}1	
     {Ü}{{\"U}}1
     {ü}{{\"u}}1
+    {ǔ}{{\u{u}}}1
     {ß}{{\ss}}1
     {~}{{\textasciitilde}}1
 }
@@ -209,7 +217,7 @@
 	\noindent\textbf{\Large What is Sitsit?}\medskip\\
 	\end{center}
 
-	{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+	{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal, while a host leads them in all kinds of crazy songs and games as the night goes. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
 }
 
 % Displays the rules, set argument to "Teekkari" if the last song is The Eternal Teekkari, or to nothing if the last song is who is a freshman
@@ -218,16 +226,13 @@
 	\noindent\textbf{\Large The Rules}\medskip\\
 	\end{center}
 	\begin{enumerate}[leftmargin=*]
-	\item The party is led by the Songmasters.
-	\item {\bf Do not eat, drink or talk when a Songmaster is speaking}, someone is giving a speech or if there is a show/\allowbreak competition. This is very important so that people can enjoy the event! 
-	\item Sitsit normally begins with the song "Dear Friends" and ends with \ifthenelse{
-		\equal{#1}{Teekkari}
-	}{"Ikuisen teekkarin laulu" (= The Song of the Eternal Teekkari)}{"Who is a Freshman"}.
-	\item Do not touch your filled glass before we sing about it. There will be a song for every drink available.
+	\item The party is led by the Songmasters. Please pay attention to them; they worked hard for this.
+	\item {\bf Be a Lady/Gentleman throughout the event.} It implies to remain seated, and also to not eat, drink or talk during songs, speeches and other activities.
+	\item When a new drink arrives, please wait until after we've sung about it to drink it.
 	\item After every song it is customary to toast (see instructions below).
 	\item Don't be afraid to sing out loud; this is not a singing test!
-	\item {\bf Remember to behave!} Sitsit is supposed to be a fun event – let’s keep it that way! Have an amazing night!
-	\end{enumerate}\bigskip
+	\item {\bf Yes, this songbook is yours.} You are allowed to bring it home, so stop asking us about it! We hope you will enjoy keeping it as a souvenir and that it will maybe inspire you to spread Sitsit at home just like we did it here!
+	\end{enumerate}
 }
 
 % Displays the seating instructions
@@ -235,7 +240,7 @@
 	\begin{center}
 	\noindent\textbf{\Large Toasting}\medskip\\
 	\end{center}
-	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the person on the other side and finally with the person in front. You should always look the person you're toasting with in the eyes!\medskip\\\indent Remember that since it is almost impossible to have the same number of boys and girls, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
+	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the one on the other side and finally with the one in front. You should always {\bf look the person you're toasting with in the eyes!}\medskip\\\indent It is nearly impossible to have the same number of boys and girls. Therefore, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
 	\begin{center}
 		% Styles
 		\tikzstyle{thickarrow}=[decoration={markings,mark=at position 1 with {\arrow[scale=2.2,>=stealth]{>}}},postaction={decorate}]
@@ -260,9 +265,9 @@
 
 				% Arrows
 				\begin{scope}[thick]
-					\draw [thickarrow] (2*\n+1, 1.6) -- node [circlelabelr] {\bf3.} +(0, .8);
-					\draw [thickarrow] (1.6+.8*\n, 1) -- (2, 1) node [circlelabela] {\bf1.};
-					\draw [thickarrow] (.4+3.2*\n, 1) -- +(-.9+1.8*\n, 0) node [circlelabela, xshift=5-10*\n pt] {\bf2.};
+					\draw [thickarrow] (2*\n+1, 1.6) -- node [circlelabelr] {\bf3} +(0, .8);
+					\draw [thickarrow] (1.6+.8*\n, 1) -- (2, 1) node [circlelabela] {\bf1};
+					\draw [thickarrow] (.4+3.2*\n, 1) -- +(-.9+1.8*\n, 0) node [circlelabela, xshift=5-10*\n pt] {\bf2};
 				\end{scope}
 
 				% Male/female symbols
@@ -295,4 +300,18 @@
 		\texttt{github.com/DavidResin/sitsitex} & \\
 		\end{tabular}
 	}
+}
+
+\newcommand{\image}[2][0pt]{
+	\begin{intersong}
+	\begin{center}
+	{
+		\setlength{\fboxsep}{0pt}
+		\setlength{\fboxrule}{#1}
+		\fbox{\includegraphics[width=.8\linewidth]{images/#2}}
+	}
+	\vspace{1em}
+	\end{center}
+	\end{intersong}
+	
 }

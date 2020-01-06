@@ -1,5 +1,5 @@
-# Songs in English                                                                                                                      
-                                                                                                                      
+# Songs in English  
+  
 ## March of the Water-Boys  
 ###### marchofthewaterboys  
   
@@ -38,22 +38,23 @@ We must away, ere break of day,
 To win our harps and gold from him!  
   
 ## Dear Friends  
+#### To the tune of “Mozart's Figaro -- Non più andrai”  
 ###### dearfriends  
   
 My dear friends our grand feast will begin here,  
 Our glasses we raise with a wild cheer.  
-:;: But tonight we won’t drink any light beer  
-Just champagne will put us in the mood :;:  
+:;: But tonight we won’t drink any light beer,  
+Just champagne will put us in the mood. :;:  
   
 All night drinks down our throats we’ll be pouring,  
 We’ll remember good times, not the boring.  
-:;: Through the ceiling our song will be soaring  
-Finnish spirits are much more than good :;:  
+:;: Through the ceiling our song will be soaring,  
+Finnish spirits are much more than good. :;:  
   
 When friends drink too much with one another  
 They make new memories more than rather.  
 :;: You can trust everyone like your brother!  
-We won’t run out of drinks, maybe food :;:  
+We won’t run out of drinks, maybe food. :;:  
   
 ## Hell and Gore  
 #### To the tune of “Helan Går”  
@@ -126,11 +127,16 @@ To finally get me up to running speed!
 Wasted...  
   
 > The Empire Strikes Back!  
-Hang-hang-hang-hangover, hangover  
-Hang-hang-hang-hangover, hangover  
-Hang-hang-ha-hang-hang-ha-hangover  
-Ha-hang-hang-ha-hangover  
-Ha-hang-hangover-hangover.  
+Hang-hang-hang-hangover, hangover...  
+  
+> Return of the Jedi!  
+Wasted...  
+  
+> The Sequels?  
+Well that was quite a shit-show,  
+Might as well have shot myself in the knees.  
+But at least we got porn parodies,  
+My Skywalker rose and the Force flowed through me.  
   
 ## Syphilis  
 #### To the tune of “Yesterday”  
@@ -150,7 +156,7 @@ Now it needs two weeks to hide away.
 Oh I believe in yesterday.  
   
 Birth control, all my troubles seem so far away,  
-When I’m going up my girlfriend's hole.  
+When I'm on my way to score a goal.  
 Oh, I believe in birth control.  
   
 Suddenly, there’s a shotgun hanging over me.  
@@ -182,7 +188,7 @@ I know something’s wrong,
 I still feel the symptoms,  
 Do you get them too?  
 Am I just different or is it a flu?  
-I should go see a doctor, so I could be sure  
+I should see a doctor, so I could be sure  
 But I just don’t want to get cured!  
   
 'Cause every time I drink, I get this feeling  
@@ -216,14 +222,14 @@ In Finland we drink everything,
 So let's all raise a glass to that!  
   
 I've heard they eat snow in Helsinki,  
-In Sweden mostly weird trash,  
+In Norway rotten raw fish,  
 In Russia frozen Vodka,  
 Thus if you're into cold food,  
 Well Sitsit is the place to be!  
   
 Germany smokes their Bregenwurst,  
 In Norway they smoke salmon,  
-In Sweden giant hay goats,  
+In Brazil they smoke forests,  
 The Netherlands smoke everything,  
 So let's all roll a joint to that!  
   
@@ -249,14 +255,14 @@ In Lausanne we drink everything,
 So let's all raise a glass to that!  
   
 I've heard they eat snow in Helsinki,  
-In Sweden mostly weird trash,  
+In Norway rotten raw fish,  
 In Russia frozen Vodka,  
 Thus if you're into cold food,  
 Well Sitsit is the place to be!  
   
 Germany smokes their Bregenwurst,  
 In Norway they smoke salmon,  
-In Sweden giant hay goats,  
+In Brazil they smoke forests,  
 The Netherlands smoke everything,  
 So let's all roll a joint to that!  
   
@@ -310,6 +316,31 @@ And a large Long Island Ice Tea.
 ... ‘Leven nips of Whiskey,  
   
 My twelfth day of binge-drinking was a sight to see,  
+With twelve shots of Absinthe,  
+  
+## Twelve Days of Christmas (but with booze of course)  
+#### To the tune of “Twelve Days of Christmas”, increasingly drunkenly  
+###### twelvedays_xmas  
+  
+My first day of Christmas started happily,  
+With a large Long Island Ice Tea.  
+  
+My second day of Christmas started happily,  
+With two Rum and Cokes,  
+And a large Long Island Ice Tea.  
+  
+... Two Rum and Cokes,  
+... Three G and Ts,  
+... Four Jello shots,  
+... Five pints of Beer,  
+... Six Mai Tais,  
+... Seven Gin Martinis,  
+... Eight Bacardi Breezers,  
+... Nine Black Russians,  
+... Ten Raz’ Mojitos,  
+... ‘Leven nips of Whiskey,  
+  
+My twelfth day of Christmas was a sight to see,  
 With twelve shots of Absinthe,  
   
 ## We Will Rock You  
@@ -507,49 +538,49 @@ a pretty drunk couple and an Erasmus :;:
 ## Roll Me Over  
 ###### rollmeover  
   
-This is number one  
-And the fun has just begun  
-Roll me over, lay me down  
-And do it again,  
-“I like the feeling”  
-Roll me over in the clover  
+This is number one,  
+And the fun has just begun,  
+Roll me over, lay me down,  
+And do it again.  
+“I like the feeling!”  
+Roll me over in the clover,  
 Roll me over, lay me down and do it again.  
   
-This is number two  
-And my hand is on her shoe  
+This is number two,  
+And my hand is on her shoe,  
 Roll me over...  
   
-This is number three  
+This is number three,  
 And my hand is on her knee...  
   
-This is number four  
+This is number four,  
 And our clothes are on the floor...  
   
-This is number five  
+This is number five,  
 I'm surprised I'm still alive...  
   
-This is number six  
+This is number six,  
 And she says she likes my tricks...  
   
-This is number seven  
+This is number seven,  
 And she thinks that she's in heaven...  
   
-This is number eight  
+This is number eight,  
 And the doctor's at the gate...  
   
-This is number nine  
+This is number nine,  
 And the baby wasn't mine...  
   
-This is number ten  
+This is number ten,  
 And it's time to do it again ...  
   
-This is number twenty  
+This is number twenty,  
 And my gun is nearly empty...  
   
-This is number hundred  
+This is number hundred,  
 And the neighbors really wondered...  
   
-This is number 10'394  
+This is number 10'394,  
 And oh my God she still wants more...  
   
 ## Jallu’s Magic Starlight  
@@ -644,6 +675,7 @@ And now no more money rolls in.
 Rolls in, rolls in...  
   
 ## Mandatory Russian Song  
+#### To the tune of “Katyusha”  
 ###### russiansong  
   
 Father Stalin, mother Krushchova,  
@@ -658,7 +690,7 @@ Radiation gave her extra tits. :;:
   
 I am just a simple old granny,  
 Not a single friend left in the world.  
-:;: Men came here to take my chickens and cow and sheep,  
+:;: Men came here to take my chicken and cow and sheep,  
 Now they're coming back to take my teeth. :;:  
   
 ## Finland  
@@ -797,17 +829,17 @@ Some say the Devil is dead...
 ## My Lady in Red  
 ###### myladyinred_short  
   
-___(Solo:)___ She's my Lady in red  
-___(All:)___ She's my Lady in red  
-___(Solo:)___ She likes to do it in the bed  
-___(All:)___ She likes to do it in the bed  
+**_(Solo:)_** She's my Lady in red  
+**_(All:)_** She's my Lady in red  
+**_(Solo:)_** She likes to do it in the bed  
+**_(All:)_** She likes to do it in the bed  
   
-___(Solo:)___ Singing na-na-na-na  
-___(All:)___ Singing na-na-na-na  
-___(Solo:)___ Singing wo-ho-oh-ho  
-___(All:)___ Singing wo-ho-oh-ho  
+**_(Solo:)_** Singing na-na-na-na  
+**_(All:)_** Singing na-na-na-na  
+**_(Solo:)_** Singing wo-ho-oh-ho  
+**_(All:)_** Singing wo-ho-oh-ho  
   
-___(Solo:)___ She's my Lady in...  
+**_(Solo:)_** She's my Lady in...  
   
 ## My Lady in Red  
 ###### myladyinred  
@@ -970,23 +1002,23 @@ So I lost my Clementine.
 Oh my darling...  
   
 ## Who is a Freshman  
-###### whoisafreshman  
+###### freshman  
   
-:;: Who is a freshman of XX  
+:;: Who is a freshman of XX,  
 Stand up on your chair. :;:  
-Take your drink into your hand  
-Then raise it up to your lips and  
-:;: Drink up, drink up, drink up, drink up.  
+Take your drink into your hand,  
+Then raise it up to your lips and,  
+:;: Drink up, drink up, drink up, drink up,  
 Drink up, drink bottoms up! :;:  
   
 ## Who is a Freshman  
-###### whoisafreshman_safe  
+###### freshman_safe  
   
-:;: Who is a freshman of XX  
+:;: Who is a freshman of XX,  
 Stand up, stand up right now. :;:  
-Take your drink into your hand  
-Then raise it up to your lips and  
-:;: Drink up, drink up, drink up, drink up.  
+Take your drink into your hand,  
+Then raise it up to your lips and,  
+:;: Drink up, drink up, drink up, drink up,  
 Drink up, drink bottoms up! :;:  
   
 ## Thrift Shop  
@@ -1044,33 +1076,33 @@ Monaco, Liechtenstein, Malta, and Palestine, Fiji, Australia, Sudan!
 ## My Bonnie  
 ###### mybonnie  
   
-My Bonnie is over the ocean  
-My Bonnie is over the sea  
-My Bonnie is over the ocean  
+My Bonnie is over the ocean,  
+My Bonnie is over the sea,  
+My Bonnie is over the ocean,  
 O bring back my Bonnie to me!  
   
-Bring back, bring back  
+Bring back, bring back,  
 Bring back my Bonnie to me, to me!  
-Bring back, bring back  
+Bring back, bring back,  
 O bring back my Bonnie to me!  
   
-O blow ye winds over the ocean  
-O blow ye winds over the sea  
-O blow ye winds over the ocean  
+O blow ye winds over the ocean,  
+O blow ye winds over the sea,  
+O blow ye winds over the ocean,  
 And bring back my Bonnie to me!  
   
 Bring back...  
   
-Last night as I lay on my pillow  
-Last night as I lay on my bed  
-Last night as I lay on my pillow  
+Last night as I lay on my pillow,  
+Last night as I lay on my bed,  
+Last night as I lay on my pillow,  
 I dreamed that my Bonnie was dead!  
   
 Bring back...  
   
-The winds have blown over the ocean  
-The winds have blown over the sea  
-The winds have blown over the ocean  
+The winds have blown over the ocean,  
+The winds have blown over the sea,  
+The winds have blown over the ocean,  
 And brought back my Bonnie to me!  
   
 Bring back...  
@@ -1080,24 +1112,24 @@ Bring back...
   
 O-wimoweh (x16)  
   
-In the jungle, the mighty jungle  
-The Lion sleeps tonight  
-In the jungle, the quiet jungle  
-The Lion sleeps tonight  
+In the jungle, the mighty jungle,  
+The Lion sleeps tonight.  
+In the jungle, the quiet jungle,  
+The Lion sleeps tonight.  
   
 O-wimoweh...  
   
-Near the village, the peaceful village  
-The Lion sleeps tonight  
-Near the village, the quiet village  
-The Lion sleeps tonight  
+Near the village, the peaceful village,  
+The Lion sleeps tonight.  
+Near the village, the quiet village,  
+The Lion sleeps tonight.  
   
 O-wimoweh...  
   
-Hush my darling, don't fear my darling  
-The Lion sleeps tonight  
-Hush my darling, don't cry my darling  
-The Lion sleeps tonight  
+Hush my darling, don't fear my darling,  
+The Lion sleeps tonight.  
+Hush my darling, don't cry my darling,  
+The Lion sleeps tonight.  
   
 O-wimoweh...  
   
@@ -1155,10 +1187,10 @@ It's okay...
 ## Diggy Diggy Hole  
 ###### diggydiggyhole  
   
-___(Solo:)___ Brothers of the mine rejoice!  
-___(All:)___ Swing, swing, swing with me!  
-___(Solo:)___ Raise your pick and raise your voice!  
-___(All:)___ Sing, sing, sing with me!  
+**_(Solo:)_** Brothers of the mine rejoice!  
+**_(All:)_** Swing, swing, swing with me!  
+**_(Solo:)_** Raise your pick and raise your voice!  
+**_(All:)_** Sing, sing, sing with me!  
   
 > Songmaster solo:  
 Down and down into the deep,  
@@ -1185,13 +1217,13 @@ Diggy diggy hole, diggy diggy hole!
 I am a dwarf and I'm digging a hole,  
 Diggy diggy hole, digging a hole!  
   
-___(Solo:)___ The sunlight will not reach this low,  
-___(All:)___ Deep, deep in the mine!  
-___(Solo:)___ Never seen the blue moon glow,  
-___(All:)___ Dwarves won't fly so high!  
+**_(Solo:)_** The sunlight will not reach this low,  
+**_(All:)_** Deep, deep in the mine!  
+**_(Solo:)_** Never seen the blue moon glow,  
+**_(All:)_** Dwarves won't fly so high!  
   
 > Songmaster solo:  
-Fill a glass and down some mead!  
+Fill a glass and down some mead,  
 Stuff your bellies at the feast!  
 Stumble home and fall asleep,  
 Dreaming in our mountain keep.  
@@ -1221,25 +1253,24 @@ And I've spent all me money on party and beer.
 French kissing and pimping are games for the best,  
 Erasmus Orgasmus is not for the rest.  
   
-And it's No, Nay, never,  
-SEX ON THE FLOOR!  
+And it's no, nay, never (SEX ON THE FLOOR!)  
 No nay never, no more!  
 Will I share these hangovers,  
 No never, no more.  
   
-Satellite and Zelig are the places to be.  
+Satellite and Zelig are the places to be,  
 We usually think that the best is for free.  
 We told the bartender our money was spent,  
 But the poor drunken fellow did not understand.  
   
-And it's No, Nay, never...  
+And it's no, nay, never...  
   
 I'll go home to me parents, confess what I've done,  
 My eternal hangover is finally gone.  
 Chopfab and Trois Dames are beers of our kind,  
 When we drink them together they fuck up our mind.  
   
-:;: And it's No, Nay, never... :;:  
+:;: And it's no, nay, never... :;:  
   
 ## An Irish Tale  
 ###### irishtale  
@@ -1289,53 +1320,76 @@ I'm up all night to get lucky.
   
 We're up all night 'til the sun...  
   
+## Get Lucky  
+###### getlucky_long  
+  
+> Songmaster Solo  
+Like the legend of the phoenix  
+All ends with beginnings  
+What keeps the planet spinning (uh)  
+The force of love beginning  
+  
+> Everyone  
+We've come too far,  
+To give up who we are.  
+So let's raise the bar,  
+And our cups to the stars.  
+  
+She's up all night 'til the sun,  
+I'm up all night to get some,  
+She's up all night for good fun,  
+I'm up all night to get lucky.  
+  
+We're up all night 'til the sun...  
+  
 ## The Internet  
 ###### internetisforporn  
   
-___(Solo:)___ The Internet is really really great.  
-___(All:)___ For porn!  
-___(Solo:)___ I've got a fast connection so I don't have to wait.  
-___(All:)___ For porn!  
-___(Solo:)___ There's always some new site.  
-___(All:)___ For porn!  
-___(Solo:)___ I browse all day and night.  
-___(All:)___ For porn!  
-___(Solo:)___ It's like I'm surfing at the speed of light!  
-___(All:)___ Foooor poooorn!  
+**_(Solo:)_** The Internet is really really great.  
+**_(All:)_** For porn!  
+**_(Solo:)_** I've got a fast connection so I don't have to wait.  
+**_(All:)_** For porn!  
+**_(Solo:)_** There's always some new site.  
+**_(All:)_** For porn!  
+**_(Solo:)_** I browse all day and night.  
+**_(All:)_** For porn!  
+**_(Solo:)_** It's like I'm surfing at the speed of light!  
+**_(All:)_** Foooor poooorn!  
   
 :;: The Internet is for porn! :;:  
 Why do you think the net was born?  
 Porn! Porn! Porn!  
   
-___(Solo:)___ I'm glad we have this new technology.  
-___(All:)___ For porn! (oop!)  
-___(Solo:)___ Which gives us untold opportunity.  
-___(All:)___ For porn (ooops, sorry!)  
-___(Solo:)___ Right from your own desktop.  
-___(All:)___ For p-  
-___(Solo:)___ You can research, browse and shop.  
-___(All:)___ ....  
-___(Solo:)___ Until you've had enough and you're ready to stop!  
-___(All:)___ Foooor poooorn!  
+> Songmaster solo  
+  
+**_(Solo:)_** I'm glad we have this new technology.  
+**_(All:)_** For porn! (oop!)  
+**_(Solo:)_** Which gives us untold opportunity.  
+**_(All:)_** For porn (ooops, sorry!)  
+**_(Solo:)_** Right from your own desktop.  
+**_(All:)_** For p-  
+**_(Solo:)_** You can research, browse and shop.  
+**_(All:)_** ....  
+**_(Solo:)_** Until you've had enough and you're ready to stop!  
+**_(All:)_** Foooor poooorn!  
   
 :;: The Internet is for porn! :;:  
-Me up all night honking me horn  
-To porn! Porn! Porn!  
+Me up all night honking me horn to  
+Porn! Porn! Porn!  
   
-___(Solo:)___ That's gross. You're all perverts! ....  
+> Songmaster solo  
   
 :;: The Internet is for porn! :;:  
 All these guys unzip their flies for  
 Porn! Porn! Porn!  
   
-___(Solo:)___ HOLD ON A SECOND! ....  
+> Songmaster solo  
   
 :;: The Internet is for porn! :;:  
-Grab your dick and double click  
-For porn! Porn! Porn!  
+Grab your dick and double click for  
+Porn! Porn! Porn!  
 Poooorn! Poooorn!  
-The Internet is for,  
-Internet is for,  
+The Internet is for, Internet is for,  
 Internet is for porn! HAHAAA!  
   
 ## YUROP  
@@ -1381,8 +1435,292 @@ Before the night breaks into dawn.
 :;: We will not leave, we'll seal shut all doors,  
 We will just drink, no-one will yawn. :;:  
   
-But now that we're all done to undress,  
+But now that all our coats have come off,  
 Our hands are free to crack that beer.  
-:;: For as we all sink towards drunkness,  
+:;: For as this night is near its takeoff,  
 The time has come for us to cheer. :;:  
+  
+## My Student Loan  
+#### To the tune of  “Hej, Tomtegubbar”  
+###### mystudentloan  
+  
+> Songmaster solo  
+  
+:;: My student loan is not enough,  
+For all the beer and marijuana! :;:  
+It pays for clothes, as you can see,  
+And beautiful [girls/boys] occasionally.   
+My student loan is not enough,  
+For all the beer and marijuana!  
+  
+> Songmaster solo  
+  
+:;: My student loan is not enough,  
+It can barely buy shitty pizza! :;:  
+I thank the sky, when stuff is free,  
+I'm sinking deep into poverty.  
+My student loan is not enough,  
+It can barely buy shitty pizza!  
+  
+> Songmaster solo  
+  
+:;: My student loan was not enough,  
+All is gone and lost, my dear mama! :;:  
+Kidneys are pricey, you will agree,  
+I only need one, apparently.  
+My student loan was not enough,  
+All is gone and lost, my dear mama!  
+  
+## The Bells of Notre Dame  
+###### notredame  
+  
+Morning in Paris, the city awakes  
+To the bells of Notre Dame  
+The fisherman fishes, the bakerman bakes  
+To the bells of Notre Dame  
+To the big bells as loud as the thunder  
+To the little bells soft as a psalm  
+And some say the soul of the city's  
+The toll of the bells of Notre Dame  
+  
+Dark was the night when our tale was begun  
+On the docks near Notre Dame  
+Four frightened gypsies slid silently under  
+The docks near Notre Dame  
+But a trap had been laid for the gypsies  
+And they gazed up in fear and alarm  
+At a figure whose clutches  
+Were iron as much as the bells of Notre Dame  
+  
+See there the innocent blood you have spilt  
+On the steps of Notre Dame  
+Now you would add this child's blood to your guilt  
+On the steps of Notre Dame  
+You can lie to yourself and your minions  
+You can claim that you haven't a qualm  
+But you never can run from  
+Nor hide what you've done from the eyes of Notre Dame  
+  
+## The Bad Touch  
+###### badtouch  
+  
+You and me baby ain't nothin' but mammals  
+So let's do it like they do on the Discovery Channel  
+  
+## If you're going to San Francisco  
+###### sanfrancisco  
+  
+If you're going to San Francisco,  
+Be sure to wear some flowers in your hair.  
+If you're going to San Francisco,  
+You're gonna meet some gentle people there.  
+  
+For those who come to San Francisco,  
+Summertime will be a love-in there.  
+In the streets of San Francisco,  
+Gentle people with flowers in their hair.  
+  
+For those who come to San Francisco,  
+Be sure to wear some flowers in their hair.  
+If you come to San Francisco,  
+Summertime will be a love-in there.  
+  
+## Let the Sunshine in  
+###### sunshine  
+  
+We starve, look at one another short of breath  
+Walking proudly in our winter coats  
+Wearing smells from laboratories  
+Facing a dying nation of moving paper fantasies  
+Listening for the new told lies  
+With supreme visions of lonely tunes  
+  
+Somewhere, inside something, there is a rush of greatness  
+Who knows what stands in front of our lives  
+I fashion my future on films in space  
+Silence tells me secretly ev'rything, ev'rything  
+  
+Singing my space songs on a spiderweb sitar  
+"Life is around you and in you"  
+Answer for Timothy Leary, deary  
+  
+Let the sun shine  
+Let the sunshine in  
+The sun shine in  
+  
+## Lake Geneva  
+#### To the tune of "Take Me Home, Country Roads"  
+###### lakegeneva  
+  
+Almost Heaven, Lake Geneva,  
+Pelican Beach, PGs near the water.  
+Life is good there, lying with my beer,  
+Brighter when together, that's why we're all here.  
+  
+Country roads, take me home,  
+To the place I belong.  
+Lake Geneva, student drama,  
+Take me home, country roads.  
+  
+And just over the blue water,  
+Science campus, Rolex Learning Center.  
+Witty students, writing their theses,  
+Buildings beyond reason, many more than trees.  
+  
+Country roads...  
+  
+While besides it, close to nature,  
+Hippie students, sheep despite the weather.  
+Climate marches, vegetable diets,  
+Banana libraries, Nobel laureates.  
+  
+Country roads...  
+  
+All my memories gather 'round it,  
+Lakeside parties, Titanic Lémanique.  
+Sailing under the Sun or the snow,  
+Whatever the weather, I shall always go.  
+  
+Country roads...  
+  
+## Lake Geneva  
+#### To the tune of "Take Me Home, Country Roads"  
+###### lakegeneva_long  
+  
+Almost Heaven, Lake Geneva,  
+Pelican Beach, PGs near the water.  
+Life is slow there, slower than ????,  
+Faster than our buses, pricier than ????.  
+  
+Country roads, take me home,  
+To the place I belong.  
+Lake Geneva, student drama,  
+Take me home, country roads.  
+  
+And just over the blue water,  
+Science campus, Rolex Learning Center.  
+Witty students, writing their theses,  
+Buildings beyond reason, many more than trees.  
+  
+Country roads...  
+  
+While besides it, close to nature,  
+Hippie students, sheep despite the weather.  
+Climate marches, vegetable diets,  
+Banana libraries, Nobel laureates.  
+  
+Country roads...  
+  
+All my memories gather 'round it,  
+Lakeside parties, Titanic Lémanique.  
+Sailing under the Sun or the snow,  
+Whatever the weather, I shall always go.  
+  
+Country roads...  
+  
+## Cursed Christmas Song  
+###### cursedxmas  
+  
+Dashing through the snow,  
+With a pair of broken skis,  
+Over the hills we go,  
+Crashing through the trees!  
+The snow is turning red,  
+I think I might be dead,  
+I woke up in the hospital,  
+With stitches in my head!  
+  
+9-1-1, 9-1-1, Santa Claus is dead!  
+Rudolph pulled a .44 and shot him in the head!  
+Barbie doll, Barbie doll, tried to save his life!  
+But G.I. Joe, from Mexico, stabbed him with his knife!  
+  
+## Auld Lang Syne (Modern English)  
+###### auldlangsyne_modern  
+  
+Should old acquaintance be forgot,  
+And never brought to mind?  
+Should old acquaintance be forgot,  
+And auld lang syne?  
+  
+For auld lang syne, my dear,  
+For auld lang syne,  
+We'll take a cup of kindness yet,  
+For auld lang syne.  
+  
+We two have run about the braes,  
+And pulled the daisies fine,  
+But we’ve wandered many a weary foot,  
+Since auld lang syne.  
+  
+For auld lang syne...  
+  
+We two have paddled in the stream,  
+From noon 'till dinner time,  
+But seas between us broad have roared  
+Since auld lang syne.  
+  
+For auld lang syne...  
+  
+And there's a hand, my trusty friend!  
+And give a hand of thine!  
+We'll take a goodwill drink of ale,  
+For auld lang syne.  
+  
+For auld lang syne...  
+  
+And surely you'll pay for your pint,  
+And I will pay for mine!  
+We'll take a cup of kindness yet,  
+For auld lang syne.  
+  
+## Jingle Bells  
+###### jinglebells  
+  
+Dashing through the snow,  
+In a one-horse open sleigh,  
+O'er the fields we go,  
+Laughing all the way!  
+Bells on bobtails ring,  
+Making spirits bright,  
+What fun it is to ride and sing,  
+A sleighing song tonight.  
+  
+:;: Jingle bells, jingle bells,  
+Jingle all the way!  
+Oh, what fun it is to ride,  
+In a one-horse open sleigh. :;:   
+  
+A day or two ago,  
+I thought I'd take a ride,  
+And soon, Miss Fanny Bright,  
+Was seated by my side.  
+The horse was lean and lank,  
+Misfortune seemed his lot,  
+He got into a drifted bank,  
+And then we got upsot!  
+  
+Jingle bells...  
+  
+A day or two ago,  
+The story I must tell,  
+I went out on the snow,  
+And on my back I fell!  
+A gent was riding by,  
+In a one-horse open sleigh,  
+He laughed as there I sprawling lie,  
+But quickly drove away.  
+  
+Jingle bells...  
+  
+Now the ground is white,  
+To go while we are young,  
+Take the girls tonight,  
+And sing this sleighing song!  
+Just get a bobtailed bay,  
+Two forty as his speed,  
+Then hitch him to an open sleigh,  
+And crack, you'll take the lead!  
+  
+Jingle bells...  
   

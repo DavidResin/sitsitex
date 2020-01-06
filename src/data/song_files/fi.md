@@ -1,6 +1,6 @@
-# Songs in Finnish                                                                                                                    
-# Lauluja Suomeksi                                                                                                                    
-                                                                                                                  
+# Songs in Finnish  
+# Lauluja Suomeksi  
+  
 ## Hyvät Ystävät  
 ###### hyvatystavat  
   
@@ -143,28 +143,28 @@ Juo Herran tähden pois. :;:
 ## Ikuisen Teekkarin Laulu  
 ###### ikuisenteekkarinlaulu  
   
-Talvi-iltain tummentuessa  
+Talvi-iltain tummentuessa,  
 Polin suojiin me saavumme taas.  
 :;: Meidät tekniikka jälkeen on jättänyt,  
-sen me tahdomme unhoittaa. :;:  
+Sen me tahdomme unhoittaa. :;:  
   
 Unelma vain on diplomityömme,  
-joka tenttimme vanhennut.  
+Joka tenttimme vanhennut.  
 :;: Jo ruostunut harpikko käyttämätön,  
-tushi pulloihin jähmennyt. :;:  
+Tushi pulloihin jähmennyt. :;:  
   
-Aina teekkaripolvien uutten  
-ohi pöytämme käyvän nään.  
-:;: Mutta meillä ei voimaa enää kylliksi  
-heidän joukkoonsa liittymään. :;:  
+Aina teekkaripolvien uutten,  
+Ohi pöytämme käyvän nään.  
+:;: Mutta meillä ei voimaa enää kylliksi,  
+Heidän joukkoonsa liittymään. :;:  
   
 Viini laseissa ilkkuen päilyy,  
-meitä kutsuen kuohuillaan.  
-:;: Pois murheemme tahdomme karkoittaa.  
+Meitä kutsuen kuohuillaan.  
+:;: Pois murheemme tahdomme karkoittaa,  
 Äly pois mitä maksoikaan! :;:  
   
-Ja kun integer vitae meille  
-kerran viimeisen lauletaan.  
-:;: Silloin ikuisen teekkarin haudalle  
-oluttynnyrinostetaan. :;:  
+Ja kun integer vitae meille,  
+Kerran viimeisen lauletaan.  
+:;: Silloin ikuisen teekkarin haudalle,  
+Oluttynnyrinostetaan. :;:  
   
