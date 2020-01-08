@@ -12,7 +12,7 @@ src/latex/aux_files/*
 
 # Ignore all images except the default ones
 src/latex/images/*
-!src/latex/images/base
+!src/latex/images/base/*
 
 # Ignore all Python caches
 **/__pycache__
