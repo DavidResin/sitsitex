@@ -1,18 +1,18 @@
-# Ignore all Latex temp files in main folder
-src/*.*
-!src/*.tex
-!src/*.sty
-!src/*.dat
-!src/*.py
-!src/*.pdf
-
-# Ignore all Latex output folder contents
-src/aux_files/*
+# Ignore all outputs
 src/outputs/*
 
+# Ignore all latex waste except essential files
+src/latex/*
+!src/latex/*.tex
+!src/latex/*.sty
+!src/latex/*.dat
+
+# Ignore all Latex auxiliary files
+src/latex/aux_files/*
+
 # Ignore all images except the default ones
-src/images/*
-!src/images/base
+src/latex/images/*
+!src/latex/images/base
 
 # Ignore all Python caches
 **/__pycache__
