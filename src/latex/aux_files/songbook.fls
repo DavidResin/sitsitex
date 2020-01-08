@@ -1,0 +1,495 @@
+PWD C:\Users\david\Projects\sitsitex\src\latex
+INPUT C:\Users\david\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT songbook.tex
+OUTPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.log
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT songbook.sty
+INPUT songbook.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\songs\songs.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\songs\songs.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xfor\xfor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xfor\xfor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defpattern.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defpattern.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-basic.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-basic.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-addons.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-addons.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-snap.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-snap.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-exp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-exp.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-pas.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-pas.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-random.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-random.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-upn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-upn.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\readarray\readarray.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\readarray\readarray.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\listofitems\listofitems.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbraster.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbbreakable.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbhooks.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbtheorems.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbfitting.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbxparse.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\nul:.tex
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\nul:.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingsutf8.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcblistings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingscore.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbprocessing.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbexternal.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbmagazine.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbvignette.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+OUTPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.pdf
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbposter.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\background\background.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\background\background.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\everypage\everypage.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\everypage\everypage.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.markings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.markings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.markings.code.tex
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.markings.code.tex
+INPUT songs.dat
+INPUT songs.dat
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.aux
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.aux
+OUTPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.aux
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+INPUT images\cover2020.png
+INPUT .\images\cover2020.png
+INPUT .\images\cover2020.png
+INPUT .\images\cover2020.png
+INPUT .\images\cover2020.png
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.toc
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.toc
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbxi10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy5.tfm
+OUTPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.toc
+INPUT images\hippie_memes\sacred_texts.jpg
+INPUT .\images\hippie_memes\sacred_texts.jpg
+INPUT .\images\hippie_memes\sacred_texts.jpg
+INPUT .\images\hippie_memes\sacred_texts.jpg
+INPUT .\images\hippie_memes\sacred_texts.jpg
+INPUT C:\Users\david\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr7.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx7.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso10.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmsso12.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr5.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmro8.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx5.tfm
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmcsc10.tfm
+INPUT images\memes\dogg.jpg
+INPUT .\images\memes\dogg.jpg
+INPUT .\images\memes\dogg.jpg
+INPUT .\images\memes\dogg.jpg
+INPUT .\images\memes\dogg.jpg
+INPUT images\memes\addiction.jpg
+INPUT .\images\memes\addiction.jpg
+INPUT .\images\memes\addiction.jpg
+INPUT .\images\memes\addiction.jpg
+INPUT .\images\memes\addiction.jpg
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT images\back.png
+INPUT .\images\back.png
+INPUT .\images\back.png
+INPUT .\images\back.png
+INPUT .\images\back.png
+INPUT images\base\repo-qr.png
+INPUT .\images\base\repo-qr.png
+INPUT .\images\base\repo-qr.png
+INPUT .\images\base\repo-qr.png
+INPUT .\images\base\repo-qr.png
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmtt10.tfm
+INPUT C:\Users\david\Projects\sitsitex\src\latex\aux_files\songbook.aux
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx7.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx7.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro8.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro8.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso12.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsso12.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb

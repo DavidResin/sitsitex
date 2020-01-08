@@ -1,0 +1,786 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  8 JAN 2020 05:19
+entering extended mode
+**\def\sso{24,1,2,23,22,3,4,21,20,5,6,19,18,7,8,17,16,9,10,15,14,11,12,13} \def
+\ssf{aux_files/songbook.pdf} \input{booklet.tex}
+(booklet.tex ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\
+article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.
+sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.st
+y"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+))
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\AM@pagewidth=\dimen107
+\AM@pageheight=\dimen108
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.
+def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@global@opts=\toks15
+\AM@toc@title=\toks16
+\c@AM@survey=\count91
+\AM@templatesizebox=\box28
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen109
+\Gm@wd@mp=\dimen110
+\Gm@odd@mp=\dimen111
+\Gm@even@mp=\dimen112
+\Gm@layoutwidth=\dimen113
+\Gm@layoutheight=\dimen114
+\Gm@layouthoffset=\dimen115
+\Gm@layoutvoffset=\dimen116
+\Gm@dimlist=\toks17
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg")) (C:\Users\david\Projects\sitsitex\src\latex\aux_files\booklet.aux)
+\openout1 = `booklet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+\AtBeginShipoutBox=\box29
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen118
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape
+.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=597.50787pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<aux_files/songbook.pdf, id=1, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf>
+Package pdftex.def Info: aux_files/songbook.pdf  used on input line 20.
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+<aux_files/songbook.pdf, id=27, page=24, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 24>
+Package pdftex.def Info: aux_files/songbook.pdf , page24 used on input line 20.
+
+(pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 24>
+Package pdftex.def Info: aux_files/songbook.pdf , page24 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 24>
+Package pdftex.def Info: aux_files/songbook.pdf , page24 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 24>
+Package pdftex.def Info: aux_files/songbook.pdf , page24 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=28, page=1, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 1>
+Package pdftex.def Info: aux_files/songbook.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 1>
+Package pdftex.def Info: aux_files/songbook.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 24>
+Package pdftex.def Info: aux_files/songbook.pdf , page24 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 1>
+Package pdftex.def Info: aux_files/songbook.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[1
+
+ <./aux_files/songbook.pdf{C:/Users/david/AppData/Local/MiKTeX/2.9/pdftex/confi
+g/pdftex.map}> <./aux_files/songbook.pdf
+
+pdfTeX warning: pdflatex (file ./aux_files/songbook.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<aux_files/songbook.pdf, id=61, page=2, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 2>
+Package pdftex.def Info: aux_files/songbook.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 2>
+Package pdftex.def Info: aux_files/songbook.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=62, page=23, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 23>
+Package pdftex.def Info: aux_files/songbook.pdf , page23 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 23>
+Package pdftex.def Info: aux_files/songbook.pdf , page23 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 2>
+Package pdftex.def Info: aux_files/songbook.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 23>
+Package pdftex.def Info: aux_files/songbook.pdf , page23 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[2 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=87, page=22, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 22>
+Package pdftex.def Info: aux_files/songbook.pdf , page22 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 22>
+Package pdftex.def Info: aux_files/songbook.pdf , page22 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=88, page=3, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 3>
+Package pdftex.def Info: aux_files/songbook.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 3>
+Package pdftex.def Info: aux_files/songbook.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 22>
+Package pdftex.def Info: aux_files/songbook.pdf , page22 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 3>
+Package pdftex.def Info: aux_files/songbook.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[3 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=112, page=4, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 4>
+Package pdftex.def Info: aux_files/songbook.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 4>
+Package pdftex.def Info: aux_files/songbook.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=113, page=21, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 21>
+Package pdftex.def Info: aux_files/songbook.pdf , page21 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 21>
+Package pdftex.def Info: aux_files/songbook.pdf , page21 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 4>
+Package pdftex.def Info: aux_files/songbook.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 21>
+Package pdftex.def Info: aux_files/songbook.pdf , page21 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[4 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=117, page=20, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 20>
+Package pdftex.def Info: aux_files/songbook.pdf , page20 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 20>
+Package pdftex.def Info: aux_files/songbook.pdf , page20 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=118, page=5, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 5>
+Package pdftex.def Info: aux_files/songbook.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 5>
+Package pdftex.def Info: aux_files/songbook.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 20>
+Package pdftex.def Info: aux_files/songbook.pdf , page20 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 5>
+Package pdftex.def Info: aux_files/songbook.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[5 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=127, page=6, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 6>
+Package pdftex.def Info: aux_files/songbook.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 6>
+Package pdftex.def Info: aux_files/songbook.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=128, page=19, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 19>
+Package pdftex.def Info: aux_files/songbook.pdf , page19 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 19>
+Package pdftex.def Info: aux_files/songbook.pdf , page19 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 6>
+Package pdftex.def Info: aux_files/songbook.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 19>
+Package pdftex.def Info: aux_files/songbook.pdf , page19 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[6 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=133, page=18, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 18>
+Package pdftex.def Info: aux_files/songbook.pdf , page18 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 18>
+Package pdftex.def Info: aux_files/songbook.pdf , page18 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=134, page=7, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 7>
+Package pdftex.def Info: aux_files/songbook.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 7>
+Package pdftex.def Info: aux_files/songbook.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 18>
+Package pdftex.def Info: aux_files/songbook.pdf , page18 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 7>
+Package pdftex.def Info: aux_files/songbook.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[7 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=139, page=8, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 8>
+Package pdftex.def Info: aux_files/songbook.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 8>
+Package pdftex.def Info: aux_files/songbook.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=140, page=17, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 17>
+Package pdftex.def Info: aux_files/songbook.pdf , page17 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 17>
+Package pdftex.def Info: aux_files/songbook.pdf , page17 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 8>
+Package pdftex.def Info: aux_files/songbook.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 17>
+Package pdftex.def Info: aux_files/songbook.pdf , page17 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[8 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=144, page=16, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 16>
+Package pdftex.def Info: aux_files/songbook.pdf , page16 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 16>
+Package pdftex.def Info: aux_files/songbook.pdf , page16 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=145, page=9, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 9>
+Package pdftex.def Info: aux_files/songbook.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 9>
+Package pdftex.def Info: aux_files/songbook.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 16>
+Package pdftex.def Info: aux_files/songbook.pdf , page16 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 9>
+Package pdftex.def Info: aux_files/songbook.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[9 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=149, page=10, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 10>
+Package pdftex.def Info: aux_files/songbook.pdf , page10 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 10>
+Package pdftex.def Info: aux_files/songbook.pdf , page10 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=150, page=15, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 15>
+Package pdftex.def Info: aux_files/songbook.pdf , page15 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 15>
+Package pdftex.def Info: aux_files/songbook.pdf , page15 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 10>
+Package pdftex.def Info: aux_files/songbook.pdf , page10 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 15>
+Package pdftex.def Info: aux_files/songbook.pdf , page15 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[10 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=155, page=14, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 14>
+Package pdftex.def Info: aux_files/songbook.pdf , page14 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 14>
+Package pdftex.def Info: aux_files/songbook.pdf , page14 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=156, page=11, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 11>
+Package pdftex.def Info: aux_files/songbook.pdf , page11 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 11>
+Package pdftex.def Info: aux_files/songbook.pdf , page11 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 14>
+Package pdftex.def Info: aux_files/songbook.pdf , page14 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 11>
+Package pdftex.def Info: aux_files/songbook.pdf , page11 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[11 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>]
+<aux_files/songbook.pdf, id=160, page=12, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 12>
+Package pdftex.def Info: aux_files/songbook.pdf , page12 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 12>
+Package pdftex.def Info: aux_files/songbook.pdf , page12 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+<aux_files/songbook.pdf, id=161, page=13, 298.75415pt x 845.0471pt>
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 13>
+Package pdftex.def Info: aux_files/songbook.pdf , page13 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 13>
+Package pdftex.def Info: aux_files/songbook.pdf , page13 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 12>
+Package pdftex.def Info: aux_files/songbook.pdf , page12 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+File: aux_files/songbook.pdf Graphic file (type pdf)
+<use aux_files/songbook.pdf, page 13>
+Package pdftex.def Info: aux_files/songbook.pdf , page13 used on input line 20.
+
+(pdftex.def)             Requested size: 298.76709pt x 845.08372pt.
+[12 <./aux_files/songbook.pdf> <./aux_files/songbook.pdf>] (C:\Users\david\Proj
+ects\sitsitex\src\latex\aux_files\booklet.aux) ) 
+Here is how much of TeX's memory you used:
+ 3270 strings out of 492895
+ 50895 string characters out of 3123735
+ 122551 words of memory out of 3000000
+ 7157 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,18n,46p,388b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/david/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/david/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/david/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx7.pfb><C:/Users/david/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/david
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/
+david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Use
+rs/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/
+Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb>
+<C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro8.p
+fb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss
+bx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+m/lmsso12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmsy10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/lm/lmtt10.pfb>
+Output written on C:\Users\david\Projects\sitsitex\src\latex\aux_files\booklet.
+pdf (12 pages, 1895362 bytes).
+PDF statistics:
+ 180 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+

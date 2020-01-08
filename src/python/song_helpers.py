@@ -246,7 +246,7 @@ def to_md(code, song):
 
 			lines += v_arr + [""]
 	except:
-		print("\tERROR: Invalid song with code '" + code + "'")
+		print(f"\tERROR: Invalid song with code '{ code }'")
 		return [], True
 
 	# Return lines with added suffix
@@ -293,7 +293,7 @@ def to_latex(code, song):
 		newline = f"{code} = {title} = {subtitle} = {{%"
 		lines = [ newline ] + lines + ["}"]
 	except:
-		print("\tERROR: Invalid song with code '" + code + "'")
+		print(f"\tERROR: Invalid song with code '{ code }'")
 		return None
 
 	# Append each open line with a comment sign
@@ -306,21 +306,22 @@ def to_latex(code, song):
 
 # Parse markdown song file
 def read_md_file(fn, lines):
-	language = "unknown language"
+	lang = "unknown language"
 	songs = {}
 	flag = False
 	n_space, n_empty = 0, 0
 
 	if lines[0][:2] == "# ":
-		language = lines[0].strip().split("in ")[-1]
-
-	print("Processing songs from file", fn, "in", language)
+		lang = lines[0].strip().split("in ")[-1]
 
 	end = len(lines)
 	ids = [i for l, i in zip(lines, range(end)) if l[:3] == "## "]
 	cpls = zip(ids, ids[1:] + [end])
+	str_buffer = [""]
 
-	for i, j in cpls:
+	for c, (i, j) in enumerate(cpls, start=1):
+		print(f"\rProcessing { c } song{ 's' if c != 1 else '' } from { fn } ({ lang }) ", end='')
+		
 		try:
 			song, n_s, n_e = from_md(lines[i:j], position=i)
 			code = song.get("code")
@@ -328,35 +329,37 @@ def read_md_file(fn, lines):
 			n_empty += n_e
 
 			if not code:
-				print("\tInvalid song located at lines", i, "to", j)
+				str_buffer += [f"\tInvalid song located at lines { i } to { j }"]
 				continue
 
 			if songs.get(code):
-				raise SyntaxError("Duplicate song code '" + code + "'")
+				raise SyntaxError(f"Duplicate song code '{ code }'")
 
 			songs[code] = song
 		except SyntaxError as err:
-			print("\tCritical error in", fn, ":")
-			print("\t\t" + err.msg)
+			str_buffer += [f"\tCritical error in { f } :"]
+			str_buffer += [f"\t\t{ err_msg }"]
 			flag = True
 
+	print("\n".join(str_buffer))
+
 	if n_space:
-		print("\tFound and fixed", n_space, "missing double ending spaces.")
+		print(f"\tFound and fixed { n_space } missing double ending spaces.")
 
 	if n_empty:
-		print("\tFound and fixed", n_empty, "missing/excessive empty line(s).")
+		print(f"\tFound and fixed { n_empty } missing/excessive empty line(s).")
 
 	opener = lines[0:ids[0]]
 
-	return language, songs, opener, flag
+	return lang, songs, opener, flag
 
-def generate_song_file(path, reg_fn, reg_path=""):
-	filenames = sorted([e for e in os.listdir(path) if e[-3:] == ".md"])
+def generate_song_file(path_in, path_out, reg_fn, path_reg=""):
+	filenames = sorted([e for e in os.listdir(path_in) if e[-3:] == ".md"])
 	song_sets = {}
 	language, songs, opener, flag = None, None, None, None
 
 	for fn in filenames:
-		with open(os.path.join(path, fn), "r", encoding="utf8") as f:
+		with open(os.path.join(path_in, fn), "r", encoding="utf8") as f:
 			lines = f.read().splitlines()
 			language, songs, opener, flag = read_md_file(fn, lines)
 			key = fn.split(".md")[0]
@@ -368,7 +371,7 @@ def generate_song_file(path, reg_fn, reg_path=""):
 
 		# Correct missing spaces in the file unless an error arises.
 		if flag:
-			print("\tFile", fn, "presented critical errors. It will not be autocorrected to prevent loss of data.")
+			print(f"\tFile { fn } presented critical errors. It will not be autocorrected to prevent loss of data.")
 		else:
 			flag = False
 			lines = [o.strip() + "  \n" for o in opener]
@@ -379,12 +382,12 @@ def generate_song_file(path, reg_fn, reg_path=""):
 				flag |= new_flag
 
 			if flag:
-				print('\tMarkdown compilation failed for song with code "' + k + '" in file "' + fn + '". This should not happen. Autocorrection aborted.')
+				print(f'\tMarkdown compilation failed for song with code { k } in file { fn }. This should not happen. Autocorrection aborted.')
 			else:
-				with open(os.path.join(path, fn), "w", encoding="utf8") as f:
+				with open(os.path.join(path_in, fn), "w", encoding="utf8") as f:
 					f.writelines(lines)
 
-	with open("songs.dat", "w", encoding="utf8") as f:
+	with open(os.path.join(path_out, "songs.dat"), "w", encoding="utf8") as f:
 		for key in song_sets.keys():
 			song_set = song_sets[key]["songs"]
 
@@ -394,7 +397,7 @@ def generate_song_file(path, reg_fn, reg_path=""):
 				f.writelines(to_latex(key + "_" + code, song))
 				f.write("\n")
 
-	make_register(path=reg_path, data=song_sets, fn=reg_fn)
+	make_registry(path=reg_path, data=song_sets, fn=reg_fn)
 
 # Pretty prints titles with suffixes for the song reference document
 def song_suffix(key, title):
@@ -419,7 +422,7 @@ def no_accents(input_str):
     return u"".join([c for c in nfkd_form if not ud.combining(c)])
 
 # Creates reference file for songs, sorted by language
-def make_register(path, data, fn, sort=True):
+def make_registry(path, data, fn, sort=True):
 	doc = pl.Document(default_filepath=fn, \
 						document_options=[ "a4paper", "twocolumn" ], \
 						geometry_options={ "margin" : "1in" }, \
