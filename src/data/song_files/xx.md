@@ -1,5 +1,5 @@
-# Songs in multiple languages, dead languages, and fictional languages                                                                                                            
-                                                                                                            
+# Songs in multiple languages, dead languages, and fictional languages                                                                                                                                                                                                  
+                                                                                                                                                                                                  
 ## Just Drink  
 ###### trink  
   
@@ -50,12 +50,10 @@ Minne!
 Jag har tappat mitt minne!  
 Är jag svensk eller finne?  
 Kommer inte ihåg.  
-  
 Inne!  
 Är jag ut eller inne?  
 Jag har luckor i minne.  
 Sån’ där små alkohål.  
-  
 Men besinn er,  
 Man tätar med det brännvin man får,  
 Fastän minnet och helan går!  
@@ -64,12 +62,10 @@ Minne?
 Muisti hävis, mutt’ minne?  
 Juhlista selvisimme  
 Muistikatkoja on.  
-  
 Minne,  
 Lähtisin vaikka minne,  
 Kunhan selvittäisimme  
 Mitä tapahtunut on.  
-  
 Mutta tiedän mä keinon  
 Mikä auttaapi tuo:  
 Ota ryyppy, ja muistis juo!  
@@ -78,12 +74,10 @@ Oh where
 Are my memories? Oh where?  
 Well as far as I’m aware  
 Last night’s naught but a blur.  
-  
 Anywhere  
 I’d go near about anywhere  
 To get my mem’ries back there  
 In my head as they were.  
-  
 But now they’re gone, and it just seems  
 That I’ll never learn...  
 I’ll just drink more and hope they return!  
