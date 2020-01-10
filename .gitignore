@@ -1,7 +1,7 @@
 # Ignore all outputs
 src/outputs/*
 
-# Ignore all latex waste except essential files
+# Ignore all latex waste except essential files and folders
 src/latex/*
 !src/latex/*.tex
 !src/latex/*.sty

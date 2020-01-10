@@ -74,9 +74,9 @@ def check_song(lines, position=0):
 	comment, comment_o = False, False
 	n_space, n_empty = 0, 0
 
-	for i in range(len(lines)):
+	for i, line in enumerate(lines):
 		text = "Line " + str(position + i + 1) + ": "
-		tag, _, space = cat_line(lines[i], text)
+		tag, _, space = cat_line(line, text)
 
 		if space:
 			n_space += 1
@@ -193,17 +193,15 @@ def cat_line(line, text=""):
 	segments = []
 
 	for e in elems:
+		# If style tag and either bold or italic, swap the associated boolean
 		if "<" in e:
-			if "strong" in e:
-				bold = not bold
-			if "em" in e:
-				italic = not italic
+			bold ^= "strong" in e
+			italic ^= "em" in e
+		# Else memorize text and associated style
 		else:
 			entry = {}
-
-			entry["style"] = ("b" if bold else "") + ("i" if italic else "")
+			entry["style"] = "b" * bold + "i" * italic
 			entry["text"] = e
-
 			segments.append(entry)
 
 	return tag, segments, space
@@ -276,9 +274,7 @@ def to_latex(code, song):
 					l_arr += [chars]
 
 				if line["type"] == "meta":
-					l_arr = ["\\colorbox{gray!30}{\\sc "] + \
-						l_arr + \
-						["}"]
+					l_arr = ["\\colorbox{gray!30}{\\sc "] + l_arr + ["}"]
 
 				v_arr += ["".join(l_arr)]
 
@@ -320,7 +316,7 @@ def read_md_file(fn, lines):
 	str_buffer = [""]
 
 	for c, (i, j) in enumerate(cpls, start=1):
-		print(f"\rProcessing { c } song{ 's' if c != 1 else '' } from { fn } ({ lang }) ", end='')
+		print(f"\rProcessing { c } song{ 's' * (c != 1) } from { fn } ({ lang }) ", end='')
 		
 		try:
 			song, n_s, n_e = from_md(lines[i:j], position=i)
@@ -338,7 +334,7 @@ def read_md_file(fn, lines):
 			songs[code] = song
 		except SyntaxError as err:
 			str_buffer += [f"\tCritical error in { f } :"]
-			str_buffer += [f"\t\t{ err_msg }"]
+			str_buffer += [f"\t\t{ err.msg }"]
 			flag = True
 
 	print("\n".join(str_buffer))

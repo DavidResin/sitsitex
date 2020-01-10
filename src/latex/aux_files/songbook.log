@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  8 JAN 2020 05:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  10 JAN 2020 01:48
 entering extended mode
 **./songbook.tex
 (songbook.tex
@@ -1554,15 +1554,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 33.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 33.
-<images/cover2020.png, id=40, 1169.5695pt x 620.91975pt>
-File: images/cover2020.png Graphic file (type png)
-<use images/cover2020.png>
-Package pdftex.def Info: images/cover2020.png  used on input line 35.
-(pdftex.def)             Requested size: 298.75394pt x 158.60246pt.
+<images/base/template-cover.png, id=40, 680.5425pt x 1927.2pt>
+File: images/base/template-cover.png Graphic file (type png)
+<use images/base/template-cover.png>
+Package pdftex.def Info: images/base/template-cover.png  used on input line 35.
+
+(pdftex.def)             Requested size: 298.75394pt x 846.0298pt.
 
 [1
 
- <./images/cover2020.png>] (songbook.toc
+ <./images/base/template-cover.png>] (songbook.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1579,27 +1580,20 @@ ith booze
 \tf@toc=\write7
 \openout7 = `songbook.toc'.
 
-<images/hippie_memes/sacred_texts.jpg, id=47, 722.7pt x 563.85657pt>
-File: images/hippie_memes/sacred_texts.jpg Graphic file (type jpg)
-<use images/hippie_memes/sacred_texts.jpg>
-Package pdftex.def Info: images/hippie_memes/sacred_texts.jpg  used on input li
-ne 46.
-(pdftex.def)             Requested size: 226.48395pt x 176.70375pt.
  [2
 
-{C:/Users/david/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/hi
-ppie_memes/sacred_texts.jpg>]
-Overfull \hbox (4.12564pt too wide) in paragraph at lines 57--57
+{C:/Users/david/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (4.12564pt too wide) in paragraph at lines 53--53
 []\T1/lmr/bx/n/10 Be a La-dy/-Gentle-man through-out the event.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
 [3]
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 71.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 67.
  ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1611,42 +1605,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [5] [6] [7] [8] [9]
-<images/memes/dogg.jpg, id=83, 526.96875pt x 430.60875pt>
-File: images/memes/dogg.jpg Graphic file (type jpg)
-<use images/memes/dogg.jpg>
-Package pdftex.def Info: images/memes/dogg.jpg  used on input line 88.
-(pdftex.def)             Requested size: 181.18784pt x 148.05423pt.
- [10 <./images/memes/dogg.jpg>] [11] [12] [13] [14]
-[15] [16] [17] [18]
-<images/memes/addiction.jpg, id=112, 511.9125pt x 414.79968pt>
-File: images/memes/addiction.jpg Graphic file (type jpg)
-<use images/memes/addiction.jpg>
-Package pdftex.def Info: images/memes/addiction.jpg  used on input line 112.
-(pdftex.def)             Requested size: 181.18784pt x 146.81503pt.
- [19 <./images/memes/addiction.jpg>] [20] [21] [22] [23]
-<images/back.png, id=129, 4111.36pt x 4020.01875pt>
-File: images/back.png Graphic file (type png)
-<use images/back.png>
-Package pdftex.def Info: images/back.png  used on input line 132.
-(pdftex.def)             Requested size: 226.48395pt x 221.43909pt.
-<images/base/repo-qr.png, id=130, 291.0875pt x 291.0875pt>
+ [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+[20] [21] [22] [23]
+<images/base/template-logo.png, id=126, 501.875pt x 501.875pt>
+File: images/base/template-logo.png Graphic file (type png)
+<use images/base/template-logo.png>
+Package pdftex.def Info: images/base/template-logo.png  used on input line 126.
+
+(pdftex.def)             Requested size: 226.48395pt x 226.48492pt.
+<images/base/repo-qr.png, id=127, 291.0875pt x 291.0875pt>
 File: images/base/repo-qr.png Graphic file (type png)
 <use images/base/repo-qr.png>
-Package pdftex.def Info: images/base/repo-qr.png  used on input line 135.
+Package pdftex.def Info: images/base/repo-qr.png  used on input line 129.
 (pdftex.def)             Requested size: 45.2961pt x 45.29575pt.
 
-Overfull \vbox (12.89578pt too high) detected at line 135
+Overfull \vbox (12.89578pt too high) detected at line 129
  []
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 129.
 
 ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 135.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 135.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 129.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 129.
 
 
 ("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
@@ -1659,35 +1642,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [1
 
- <./images/back.png> <./images/base/repo-qr.png>] (songbook.aux) ) 
+ <./images/base/template-logo.png> <./images/base/repo-qr.png>] (songbook.aux) 
+) 
 Here is how much of TeX's memory you used:
- 37587 strings out of 492895
- 756832 string characters out of 3123735
- 1443381 words of memory out of 3000000
- 40780 multiletter control sequences out of 15000+200000
+ 37568 strings out of 492895
+ 756472 string characters out of 3123735
+ 1446147 words of memory out of 3000000
+ 40768 multiletter control sequences out of 15000+200000
  634557 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,12n,101p,1014b,1247s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/dav
-id/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/dav
-id/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users
-/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/U
-sers/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><
-C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx7.pf
-b><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbxi
-10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
-lmcsc10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/lm/lmr10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmr17.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/lm/lmri10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmro8.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/lm/lmssbx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/lm/lmsso12.pfb><C:/Users/david/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/david/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on songbook.pdf (24 pages, 1889875 bytes).
+{C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
+}{C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
+.enc}<C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+bx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+m/lmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmbxi10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmcsc10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/lm/lmr10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/lm/lmr17.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/david/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/lm/lmro8.pfb><C:/Users/david/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/david/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Users/david/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/david/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on songbook.pdf (24 pages, 396729 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
+ 178 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 30907 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30892 words of extra memory for PDF output out of 35830 (max. 10000000)
 
