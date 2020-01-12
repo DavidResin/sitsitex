@@ -1,5 +1,5 @@
 # Standard libraries
-import os, shutil, sys
+import json, os, shutil, sys
 
 # Local scripts
 from python.scripts import parse, logger, steps
@@ -36,6 +36,7 @@ pyt_dir = "python"
 sb_fn = "songbook"
 bl_fn = "booklet"
 reg_fn = "registry"
+cfg_fn = "config"
 gitkeep = ".gitkeep"
 
 to_keep = ["tex", "sty", "dat"]
@@ -46,6 +47,13 @@ for d in [ltx_dir, dat_dir, pyt_dir, out_dir]:
 	if d not in os.listdir():
 		sys.exit(f"Directory '{ d }' missing, program cannot proceed.")
 
+# Get config data
+try:
+	with open(cfg_fn + ".json", "r") as file:
+		config = json.load(file)
+except:
+	sys.exit("Config file not found, program cannot proceed.")
+
 # Argument parsing
 ap = steps.setup_ap()
 parsed = steps.parse_args(ap)
@@ -55,6 +63,8 @@ parsed = steps.parse_args(ap)
 # "verbose" : verbose, -> for the logger
 # "abort" : abort, -> choose exception behavior
 # "name" : name -> final file name
+
+log = logger.Logger()
 
 print(parsed["opener"])
 
