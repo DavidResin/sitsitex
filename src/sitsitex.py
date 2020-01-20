@@ -58,13 +58,7 @@ except:
 ap = steps.setup_ap()
 parsed = steps.parse_args(ap)
 
-# "opener" : opener, -> print
-# "flags" : flags, -> select what part of the code is run or not
-# "verbose" : verbose, -> for the logger
-# "abort" : abort, -> choose exception behavior
-# "name" : name -> final file name
-
-log = logger.Logger()
+# log = logger.Logger()
 
 print(parsed["opener"])
 

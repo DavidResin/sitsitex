@@ -101,7 +101,7 @@ class LoadingBar:
 			self.substeps += 1
 			self.ticks_tgt = self.cfg_bar["length"] * self.substeps // self.n_substeps
 
-			if self.substeps > self.n_substeps
+			if self.substeps > self.n_substeps:
 				raise Exception("Bar progress is going over the maximum. This should never happen!")
 
 		# Step completed
@@ -147,7 +147,7 @@ class Logger:
 	def tick(self):
 		self.print_bar(self.bar.update_bar())
 
-	def message(self, m, lvl)
+	def message(self, m, lvl):
 		self.print_main(self.bar.update_message(m, lvl), 1)
 		self.print_main(m, 2)
 		self.print_log(m)
