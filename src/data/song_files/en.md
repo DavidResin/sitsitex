@@ -1724,3 +1724,71 @@ And crack, you'll take the lead!
   
 Jingle bells...  
   
+## Cigarettes. Whiskey and Wild Wild Women  
+###### wildwildwomen  
+  
+Once I was happy and had a good wife  
+I had enough money to last me for life  
+I met with a girl and we went on a spree  
+She taught me to smoke and drink whiskey  
+  
+:;: Cigarettes, whiskey and wild, wild women  
+They'll drive you crazy, they'll drive you insane :;:   
+  
+And now I'm feeble and broken with age  
+The lines on my face make a well written page  
+I'm leaving this story, how sad but how true  
+On women and whiskey and what they will do  
+Cigarettes...  
+  
+Write on the cross at the head of my grave  
+'For women and whiskey, here lies a poor slave  
+Take warning, dear stranger, take warning, dear friend'  
+Then write in big letters these words at the end  
+Cigarettes...  
+  
+## Worries of Life  
+###### rullaati  
+  
+If worries of life are a weight on your shoulders  
+Advice I’ll give you to bring you relief:  
+Before your soul in the hellfire smoulders  
+Join to our feast and just forget your grief!  
+:;: Hey rullaati rullaati rullaati rullaa  
+rullaati rullaati rullallallei :;:  
+  
+Life is so short and our perception smeary  
+That is the most we have time to deduce  
+Bottle your anguish with a melody cheery  
+Building a paradise is our excuse  
+Hey rullaati...  
+  
+Spring takes up merely a quarter of our life.  
+Take haste and join us in marvelous feast  
+Dear friend your youth isn’t meant for a moot strife  
+Take me by hand since we’re not yet deceased  
+Hey rullaati...  
+  
+Searching a way home in our good old campus  
+The road that us took there has become so thin  
+Like walking a tightrope while fighting an ambush  
+Is merriment starting to make my world spin?  
+Hey rullaati...    
+  
+## Hoist your glasses  
+###### nostakaamme  
+  
+Hoist your glasses up high.  
+Set aside thine ale.  
+Koskenkorva’s fire  
+Makes the beer taste stale.  
+:;: Blessed with good intent,  
+drink with thine good friend! :;:  
+  
+By its fame and power  
+Beer excites the crowd.  
+With some vodka proper  
+Solace can be found.  
+:;: Solace, not repent.  
+Drink with thine good friend! :;:  
+  
