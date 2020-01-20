@@ -21,6 +21,32 @@ match = {
 	"p": "text",
 }
 
+# Songs are stored in the following format during the parsing process
+#
+# 	song = {
+# 		"code": code,
+# 		"title": title,
+# 		"subtitle": subtitle,
+# 		"verses": [
+# 			{
+# 				"lines": [
+# 					{
+# 						"type": <meta/text>,
+# 						"segments": [
+# 							{
+# 								"style": <b/i/bi>,
+# 								"text": text
+# 							},
+# 							...
+# 						]
+# 					},
+# 					...
+# 				]
+# 			},
+# 			...
+# 		]
+# 	}
+
 # Parse Markdown song
 # Comments are not yet supported
 # Returns a tuple containing the number of missing double spaces and the number of missing/excessive empty lines

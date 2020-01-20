@@ -92,6 +92,8 @@ if parsed["flags"]["songbook"] > 0:
 	print("@@@ Printing songbook")
 	print()
 
+	# contextlib.redirect_stdout
+
 	# Make the songbook
 	steps.make_songbook(fn=sb_fn, ltx_dir=ltx_dir, aux_dir=aux_dir, keep=to_keep)
 	to_move += [sb_fn]

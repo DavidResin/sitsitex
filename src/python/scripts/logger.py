@@ -13,6 +13,8 @@ def ticker(parent, period, steps):
 
 # Loading bar generator
 class LoadingBar:
+	# TRY TQDM
+
 	def __init__(self, n_steps, n_substeps, config):
 		self.cfg_bar = config["loadingbar"]
 		self.cfg_str = config["string"]
@@ -33,6 +35,8 @@ class LoadingBar:
 
 		self.loading_bar = ""
 		self.message = ""
+
+		# change loading bar setting (right, left, alternate) and just make it change how the resulting index is processed
 
 	def update():
 		temp = [
@@ -114,6 +118,8 @@ class Logger:
 		self.mainLog = logging.getLogger(name="sitsitex.mainLog")
 		self.fileLog = logging.getLogger(name="sitsitex.fileLog")
 
+		# THERE NEEDS TO BE A STREAMHANDLER
+
 		self.bar = LoadingBar(n_steps, n_substeps, config)
 		self.verbose = verbose
 		self.stop = False
@@ -132,7 +138,9 @@ class Logger:
 		if self.clock:
 			self.clock.join()
 
-		if not self.stop:
+		if self.stop:
+			self.mainLog.terminator = "\n"
+		else:
 			self.clock = threading.Thread(target=ticker, args=(self, self.cfg_bar["period"], len(self.loop)))
 			self.clock.start()
 

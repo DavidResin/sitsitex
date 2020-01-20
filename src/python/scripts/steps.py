@@ -79,26 +79,6 @@ def parse_args(ap):
 
 	return parsed
 
-def get_pdf_data(path):
-	# Get number of pages
-	with open(path, "rb") as f:
-		pdf = PyPDF2.PdfFileReader(f)
-		pages = pdf.trailer["/Root"]["/Pages"]["/Count"]
-
-	# Compute order and number of sheets
-	sheets = int((pages + 3) / 4)
-	seqs = [[4 * sheets - x, x + 1, x + 2, 4 * sheets - x - 1] for x in range(0, 2 * sheets, 2)]
-	ids = [str(item) for sub in seqs for item in sub]
-	order = ",".join(ids)
-
-	pdf_data = {
-		"pages" : pages,
-		"sheets" : sheets,
-		"order" : order
-	}
-
-	return pdf_data
-
 def make_songbook(fn, ltx_dir, aux_dir, keep):
 	# Memorize current directory
 	base_dir = os.getcwd()
@@ -120,6 +100,26 @@ def make_songbook(fn, ltx_dir, aux_dir, keep):
 
 	# Change back to original directory
 	os.chdir(base_dir)
+
+def get_pdf_data(path):
+	# Get number of pages
+	with open(path, "rb") as f:
+		pdf = PyPDF2.PdfFileReader(f)
+		pages = pdf.trailer["/Root"]["/Pages"]["/Count"]
+
+	# Compute order and number of sheets
+	sheets = int((pages + 3) / 4)
+	seqs = [[4 * sheets - x, x + 1, x + 2, 4 * sheets - x - 1] for x in range(0, 2 * sheets, 2)]
+	ids = [str(item) for sub in seqs for item in sub]
+	order = ",".join(ids)
+
+	pdf_data = {
+		"pages" : pages,
+		"sheets" : sheets,
+		"order" : order
+	}
+
+	return pdf_data
 
 def make_booklet(src_fn, dst_fn, ltx_dir, aux_dir, order):
 	# Memorize current directory
