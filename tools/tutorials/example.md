@@ -35,12 +35,12 @@ Absence of a **_title_** and a **_code_** will prevent your song from being used
 
         SongCode_VersionName_VersionNumber
 
- Thus when you write :  
+  Thus when you write :  
 
         ## Title
         ###### mysong_fun_3
 
- in file `xy.md`, this will appear in the registry:
+  in file `xy.md`, this will appear in the registry:
 
         <Song Title> - Fun Version 3
         Code: xy_mysong_fun_3  
