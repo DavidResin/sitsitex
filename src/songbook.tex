@@ -1,5 +1,9 @@
 \documentclass[9pt]{article}
 
+% DO WE NEED THOSE OR NOT
+\usepackage{textcomp}
+\usepackage{array}
+
 % IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
 
 % Importation of the settings file
@@ -37,17 +41,6 @@
 % Displays a table of contents. Parameters :
 % 1 - The title of your table of contents
 % 2 - The distance (cm/in/em/pt) between the two content columns in <Short> mode
-\customtoc{Tonight's Songs}{.7cm}
-
-\vfill
-
-\begin{center}
-\noindent\textbf{\Large What is Sitsit?}\medskip\\
-\end{center}
-
-{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
-
-\vfill
 \newpage
 
 % Displays the rules
@@ -123,4 +116,6 @@
 \vspace*{25em}
 \includegraphics[width=8cm]{images/template-logo.png}
 \end{center}
+\vfill
+\license
 \end{document}

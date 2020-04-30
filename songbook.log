@@ -1,0 +1,6749 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2019.4.4)  31 MAY 2019 14:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**src/songbook.tex
+(./src/songbook.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen103
+\ar@mcellbox=\box26
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box27
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/songbook/songbook.sty
+
+LaTeX Warning: You have requested package `',
+               but the package provides `songbook'.
+
+Package: songbook 2010/04/30 v4.5 All purpose Songbook style
+Document Subclass: songbook 2010/04/30 v4.5 All purpose Songbook style
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip47
+)
+\chSpaceTolerance=\skip48
+\chMiniSpace=\skip49
+\sbBaselineSkipAmt=\skip50
+\textwidthSav=\skip51
+\evensidemarginSav=\skip52
+\marginparsepSav=\skip53
+\marginparwidthSav=\skip54
+\chSpaceToleranceSav=\skip55
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/songbook/conditionals.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count91
+\decimalpart=\count92
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count93
+\mult@box=\box28
+\multicol@leftmargin=\dimen107
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen108
+\page@free=\dimen109
+\premulticols=\dimen110
+\postmulticols=\dimen111
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen112
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen113
+\multicolovershoot=\dimen114
+\multicolundershoot=\dimen115
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count101
+)
+\c@SBSongCnt=\count102
+\c@SBSectionCnt=\count103
+\c@SBVerseCnt=\count104
+\chCriticDim=\skip58
+\chSpaceDim=\skip59
+)
+! Undefined control sequence.
+l.12 \newdate
+             {date}{01}{01}{1970}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \newdate{d
+               ate}{01}{01}{1970}
+? 
+! Undefined control sequence.
+l.19 \pagesetup
+               {Long}{1cm}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \pagesetup{L
+                 ong}{1cm}
+? 
+! Undefined control sequence.
+l.22 \songpos
+             {0}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \songpos{0
+               }
+? 
+! Undefined control sequence.
+l.24 \backgroundsetup
+                     {
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 	s
+       cale=1,
+? 
+! Undefined control sequence.
+l.29 	contents={\includegraphics
+                                [width=\paperwidth]{images/template-cover.png}}
+
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.29 ...tents={\includegraphics[width=\paperwidth]
+                                                  {images/template-cover.png}}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.29 ...tents={\includegraphics[width=\paperwidth]
+                                                  {images/template-cover.png}}
+? 
+
+LaTeX Warning: Unused global option(s):
+    [9pt].
+
+No file songbook.aux.
+\openout1 = `songbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 32.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 32.
+
+! No songbook option (i.e., type) specified. Specify a songbook mode in your us
+epackage statement; one of: [chordbk], [wordbk], or [overhead].
+<argument> ... [chordbk], [wordbk], or [overhead]}
+                                                  
+l.32 \begin{document}
+                     
+? 
+! Undefined control sequence.
+l.35 \customtitle
+                 
+? 
+! Undefined control sequence.
+l.36 \BgThispage
+                
+? 
+[1
+
+]
+! Undefined control sequence.
+l.47 \rules
+           
+? 
+! Undefined control sequence.
+l.50 \seating
+             
+? 
+! Undefined control sequence.
+<argument> \columns 
+                    
+l.53 \begin{multicols}{\columns}
+                                
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.53 \begin{multicols}{\columns}
+                                
+? 
+
+Package multicol Warning: Using `0' columns doesn't seem a good idea.
+ I therefore use two columns instead on input line 53.
+
+
+! LaTeX Error: Environment songs undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \begin{songs}
+                  {}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.62 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+
+Overfull \hbox (2.99005pt too wide) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/12 sphackanitizendexdearfriends1
+ []
+
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.62 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.62 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.62 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.62 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Undefined control sequence.
+<argument> ...sfeeling \CpyRtInfoFont \sclearpage 
+                                                  }
+l.62 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.62 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.62 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \sclearpage
+                
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.62 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.66 \song
+          {helangar}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+
+Overfull \hbox (14.51895pt too wide) in paragraph at lines 66--66
+ \OT1/cmr/m/n/12 sphackanitizendexhenkilokuntaEN4 
+ []
+
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.66 \song
+          {helangar}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.66 \song
+          {helangar}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.66 \song
+          {helangar}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.66 \song
+          {helangar}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \song
+          {helangar}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.66 \song
+          {helangar}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.66 \song
+          {helangar}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \song
+          {helangar}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \song
+          {helangar}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.66 \song
+          {helangar}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.70 \song
+          {farover}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.70 \song
+          {farover}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.70 \song
+          {farover}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.70 \song
+          {farover}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.70 \song
+          {farover}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \song
+          {farover}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.70 \song
+          {farover}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.70 \song
+          {farover}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \song
+          {farover}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \song
+          {farover}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.70 \song
+          {farover}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.74 \song
+          {alcohol}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+[2
+
+]
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.74 \song
+          {alcohol}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.74 \song
+          {alcohol}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.74 \song
+          {alcohol}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.74 \song
+          {alcohol}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \song
+          {alcohol}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.74 \song
+          {alcohol}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.74 \song
+          {alcohol}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \song
+          {alcohol}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \song
+          {alcohol}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.74 \song
+          {alcohol}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.78 \song
+          {marchofthewaterboys}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \song
+          {marchofthewaterboys}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.78 \song
+          {marchofthewaterboys}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.82 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.82 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.82 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.82 \sclearpage
+                
+? 
+[3]
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.82 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.82 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Undefined control sequence.
+<argument> ...aanshort \CpyRtInfoFont \sclearpage 
+                                                  }
+l.82 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.82 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.82 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \sclearpage
+                
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.82 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.86 \song
+          {koskenkorva}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \song
+          {koskenkorva}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.86 \song
+          {koskenkorva}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.86 \song
+          {koskenkorva}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \song
+          {koskenkorva}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \song
+          {koskenkorva}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.86 \song
+          {koskenkorva}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \song
+          {eurovisionCH}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.90 \song
+          {eurovisionCH}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.90 \song
+          {eurovisionCH}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \song
+          {eurovisionCH}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \song
+          {eurovisionCH}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.90 \song
+          {eurovisionCH}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.94 \song
+          {gegene}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.94 \song
+          {gegene}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+[4]
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.94 \song
+          {gegene}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.94 \song
+          {gegene}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.94 \song
+          {gegene}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \song
+          {gegene}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.94 \song
+          {gegene}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.94 \song
+          {gegene}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \song
+          {gegene}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \song
+          {gegene}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.94 \song
+          {gegene}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.98 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.98 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.98 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.98 \sclearpage
+                
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.98 \sclearpage
+                
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Undefined control sequence.
+<argument> ...tedrinks \CpyRtInfoFont \sclearpage 
+                                                  }
+l.98 \sclearpage
+                
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.98 \sclearpage
+                
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.98 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \sclearpage
+                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \sclearpage
+                
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.98 \sclearpage
+                
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.102 \song
+           {apoil}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+
+Overfull \hbox (5.87598pt too wide) in paragraph at lines 102--102
+ \OT1/cmr/m/n/12 sphackanitizendexiloverocknroll31 
+ []
+
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.102 \song
+           {apoil}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.102 \song
+           {apoil}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.102 \song
+           {apoil}
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.102 \song
+           {apoil}
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \song
+           {apoil}
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.102 \song
+           {apoil}
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.102 \song
+           {apoil}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \song
+           {apoil}
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \song
+           {apoil}
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.102 \song
+           {apoil}
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.106 \song{erasmus}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.106 \song{erasmus}
+                    
+? 
+! Undefined control sequence.
+\theSongKey ->\sclearpage 
+                          
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.106 \song{erasmus}
+                    
+? 
+[5]
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Undefined control sequence.
+<argument> \sclearpage 
+                       
+l.106 \song{erasmus}
+                    
+? 
+! Undefined control sequence.
+<argument> \sclearpage 
+                       
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.106 \song{erasmus}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.106 \song{erasmus}
+                    
+? 
+! Extra }, or forgotten \endgroup.
+<argument> ...right \song  \CpyRtInfoFont erasmus}
+                                                  
+l.106 \song{erasmus}
+                    
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.110 
+      
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+
+Overfull \hbox (30.15906pt too wide) in paragraph at lines 110--110
+ \OT1/cmr/m/n/12 sphackanitizendexswitzerlandcuisine36 
+ []
+
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.110 
+      
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.110 
+      
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...ct \sbChord #3\protect \relax } -- #2}
+                                                  {\theSBSongCnt }\fi \vspac...
+l.110 
+      
+? 
+! Extra \fi.
+\\STitle ...ct \relax } -- #2}{\theSBSongCnt }\fi 
+                                                  \vspace {\SpaceAboveSTitle...
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@b
+                 sphack\begingroup \@sanitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ->\@bsphack\begingroup \@s
+                                      anitize\@titleIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleIndex ...phack\begingroup \@sanitize\@titleI
+                                                  ndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@b
+                    sphack\begingroup \@sanitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\titleContents ->\@bsphack\begingroup \@s
+                                         anitize\@titleContents
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\\song ...Title }{\theSBSongCnt } \titleContents {
+                                                  \theSongTitle }{\theSongKe...
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\\song ...ongCnt } \titleContents {\theSongTitle }
+                                                  {\theSongKey } \artistInde...
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@b
+                  sphack\begingroup \@sanitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@s
+                                       anitize\@artistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\artistIndex ->\@bsphack\begingroup \@sanitize\@a
+                                                 rtistIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@b
+               sphack\begingroup \@sanitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@s
+                                    anitize\@keyIndex
+l.110 
+      
+? 
+! Use of \@ doesn't match its definition.
+\keyIndex ->\@bsphack\begingroup \@sanitize\@k
+                                              eyIndex
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+! Argument of \@gobble has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+! Paragraph ended before \@gobble was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\@tempc ...s@ \expandafter {\the \toks@ #1\TE@or }
+                                                  \expandafter \@tempc \fi #2
+l.110 
+      
+? 
+! Argument of \@tempc has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+\@tempc \TE@repl \and \TE@and \TE@repl \not \TE@neg \TE@repl \OR \TE@or \ETC.
+! Paragraph ended before \@tempc was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.110 
+      
+? 
+! Extra }, or forgotten \endgroup.
+\\STitle ...TitleKeyFont \ [{\sbChord #3\relax }]}
+                                                  \fi \if #1Y\end {center}\f...
+l.110 
+      
+? 
+! Extra \fi.
+\\STitle ...eKeyFont \ [{\sbChord #3\relax }]}\fi 
+                                                  \if #1Y\end {center}\fi \S...
+l.110 
+      
+? 
+! Extra \fi.
+\theSongTitle ->\fi 
+                    
+l.110 
+      
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 
+      
+? 
+! Argument of \\song has an extra }.
+<inserted text> 
+                \par 
+l.110 
+      
+? 
+Runaway argument?
+! Paragraph ended before \\song was complete.
+<to be read again> 
+                   \par 
+l.110 
+      
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 
+      
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 
+      
+? 
+! Extra \fi.
+<recently read> \fi 
+                    
+l.110 
+      
+? 
+
+! LaTeX Error: \begin{center} on input line 110 ended by \end{songs}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{songs}
+                 
+? 
+
+! LaTeX Error: \begin{center} on input line 110 ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \end{multicols}
+                     
+? 
+
+! LaTeX Error: \begin{center} on input line 110 ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \end{multicols}
+                     
+? 
+[6]
+! Undefined control sequence.
+l.117 \includegraphics
+                      [width=8cm]{images/template-logo.png}
+? 
+! Undefined control sequence.
+l.120 \license
+              
+? 
+
+! LaTeX Error: \begin{center} on input line 110 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \end{document}
+                    
+? 
+[1] (./songbook.aux) )
+(\end occurred inside a group at level 225)
+
+### semi simple group (level 225) entered at line 110 (\begingroup)
+### simple group (level 224) entered at line 110 ({)
+### simple group (level 223) entered at line 110 ({)
+### semi simple group (level 222) entered at line 110 (\begingroup)
+### semi simple group (level 221) entered at line 110 (\begingroup)
+### semi simple group (level 220) entered at line 110 (\begingroup)
+### semi simple group (level 219) entered at line 110 (\begingroup)
+### semi simple group (level 218) entered at line 110 (\begingroup)
+### simple group (level 217) entered at line 110 ({)
+### simple group (level 216) entered at line 110 ({)
+### semi simple group (level 215) entered at line 110 (\begingroup)
+### semi simple group (level 214) entered at line 110 (\begingroup)
+### semi simple group (level 213) entered at line 110 (\begingroup)
+### semi simple group (level 212) entered at line 110 (\begingroup)
+### semi simple group (level 211) entered at line 110 (\begingroup)
+### semi simple group (level 210) entered at line 106 (\begingroup)
+### semi simple group (level 209) entered at line 106 (\begingroup)
+### semi simple group (level 208) entered at line 106 (\begingroup)
+### simple group (level 207) entered at line 106 ({)
+### semi simple group (level 206) entered at line 106 (\begingroup)
+### semi simple group (level 205) entered at line 106 (\begingroup)
+### semi simple group (level 204) entered at line 106 (\begingroup)
+### semi simple group (level 203) entered at line 106 (\begingroup)
+### semi simple group (level 202) entered at line 106 (\begingroup)
+### semi simple group (level 201) entered at line 102 (\begingroup)
+### semi simple group (level 200) entered at line 102 (\begingroup)
+### semi simple group (level 199) entered at line 102 (\begingroup)
+### semi simple group (level 198) entered at line 102 (\begingroup)
+### simple group (level 197) entered at line 102 ({)
+### simple group (level 196) entered at line 102 ({)
+### semi simple group (level 195) entered at line 102 (\begingroup)
+### semi simple group (level 194) entered at line 102 (\begingroup)
+### semi simple group (level 193) entered at line 102 (\begingroup)
+### semi simple group (level 192) entered at line 102 (\begingroup)
+### semi simple group (level 191) entered at line 102 (\begingroup)
+### simple group (level 190) entered at line 102 ({)
+### simple group (level 189) entered at line 102 ({)
+### semi simple group (level 188) entered at line 102 (\begingroup)
+### semi simple group (level 187) entered at line 102 (\begingroup)
+### semi simple group (level 186) entered at line 102 (\begingroup)
+### semi simple group (level 185) entered at line 102 (\begingroup)
+### semi simple group (level 184) entered at line 102 (\begingroup)
+### semi simple group (level 183) entered at line 98 (\begingroup)
+### semi simple group (level 182) entered at line 98 (\begingroup)
+### semi simple group (level 181) entered at line 98 (\begingroup)
+### semi simple group (level 180) entered at line 98 (\begingroup)
+### simple group (level 179) entered at line 98 ({)
+### simple group (level 178) entered at line 98 ({)
+### semi simple group (level 177) entered at line 98 (\begingroup)
+### semi simple group (level 176) entered at line 98 (\begingroup)
+### semi simple group (level 175) entered at line 98 (\begingroup)
+### semi simple group (level 174) entered at line 98 (\begingroup)
+### semi simple group (level 173) entered at line 98 (\begingroup)
+### simple group (level 172) entered at line 98 ({)
+### simple group (level 171) entered at line 98 ({)
+### semi simple group (level 170) entered at line 98 (\begingroup)
+### semi simple group (level 169) entered at line 98 (\begingroup)
+### semi simple group (level 168) entered at line 98 (\begingroup)
+### semi simple group (level 167) entered at line 98 (\begingroup)
+### semi simple group (level 166) entered at line 98 (\begingroup)
+### semi simple group (level 165) entered at line 94 (\begingroup)
+### semi simple group (level 164) entered at line 94 (\begingroup)
+### semi simple group (level 163) entered at line 94 (\begingroup)
+### semi simple group (level 162) entered at line 94 (\begingroup)
+### simple group (level 161) entered at line 94 ({)
+### simple group (level 160) entered at line 94 ({)
+### semi simple group (level 159) entered at line 94 (\begingroup)
+### semi simple group (level 158) entered at line 94 (\begingroup)
+### semi simple group (level 157) entered at line 94 (\begingroup)
+### semi simple group (level 156) entered at line 94 (\begingroup)
+### semi simple group (level 155) entered at line 94 (\begingroup)
+### simple group (level 154) entered at line 94 ({)
+### simple group (level 153) entered at line 94 ({)
+### semi simple group (level 152) entered at line 94 (\begingroup)
+### semi simple group (level 151) entered at line 94 (\begingroup)
+### semi simple group (level 150) entered at line 94 (\begingroup)
+### semi simple group (level 149) entered at line 94 (\begingroup)
+### semi simple group (level 148) entered at line 94 (\begingroup)
+### semi simple group (level 147) entered at line 90 (\begingroup)
+### semi simple group (level 146) entered at line 90 (\begingroup)
+### semi simple group (level 145) entered at line 90 (\begingroup)
+### semi simple group (level 144) entered at line 90 (\begingroup)
+### simple group (level 143) entered at line 90 ({)
+### simple group (level 142) entered at line 90 ({)
+### semi simple group (level 141) entered at line 90 (\begingroup)
+### semi simple group (level 140) entered at line 90 (\begingroup)
+### semi simple group (level 139) entered at line 90 (\begingroup)
+### semi simple group (level 138) entered at line 90 (\begingroup)
+### semi simple group (level 137) entered at line 90 (\begingroup)
+### simple group (level 136) entered at line 90 ({)
+### simple group (level 135) entered at line 90 ({)
+### semi simple group (level 134) entered at line 90 (\begingroup)
+### semi simple group (level 133) entered at line 90 (\begingroup)
+### semi simple group (level 132) entered at line 90 (\begingroup)
+### semi simple group (level 131) entered at line 90 (\begingroup)
+### semi simple group (level 130) entered at line 90 (\begingroup)
+### semi simple group (level 129) entered at line 86 (\begingroup)
+### semi simple group (level 128) entered at line 86 (\begingroup)
+### semi simple group (level 127) entered at line 86 (\begingroup)
+### semi simple group (level 126) entered at line 86 (\begingroup)
+### simple group (level 125) entered at line 86 ({)
+### simple group (level 124) entered at line 86 ({)
+### semi simple group (level 123) entered at line 86 (\begingroup)
+### semi simple group (level 122) entered at line 86 (\begingroup)
+### semi simple group (level 121) entered at line 86 (\begingroup)
+### semi simple group (level 120) entered at line 86 (\begingroup)
+### semi simple group (level 119) entered at line 86 (\begingroup)
+### simple group (level 118) entered at line 86 ({)
+### simple group (level 117) entered at line 86 ({)
+### semi simple group (level 116) entered at line 86 (\begingroup)
+### semi simple group (level 115) entered at line 86 (\begingroup)
+### semi simple group (level 114) entered at line 86 (\begingroup)
+### semi simple group (level 113) entered at line 86 (\begingroup)
+### semi simple group (level 112) entered at line 86 (\begingroup)
+### semi simple group (level 111) entered at line 82 (\begingroup)
+### semi simple group (level 110) entered at line 82 (\begingroup)
+### semi simple group (level 109) entered at line 82 (\begingroup)
+### semi simple group (level 108) entered at line 82 (\begingroup)
+### simple group (level 107) entered at line 82 ({)
+### simple group (level 106) entered at line 82 ({)
+### semi simple group (level 105) entered at line 82 (\begingroup)
+### semi simple group (level 104) entered at line 82 (\begingroup)
+### semi simple group (level 103) entered at line 82 (\begingroup)
+### semi simple group (level 102) entered at line 82 (\begingroup)
+### semi simple group (level 101) entered at line 82 (\begingroup)
+### simple group (level 100) entered at line 82 ({)
+### simple group (level 99) entered at line 82 ({)
+### semi simple group (level 98) entered at line 82 (\begingroup)
+### semi simple group (level 97) entered at line 82 (\begingroup)
+### semi simple group (level 96) entered at line 82 (\begingroup)
+### semi simple group (level 95) entered at line 82 (\begingroup)
+### semi simple group (level 94) entered at line 82 (\begingroup)
+### semi simple group (level 93) entered at line 78 (\begingroup)
+### semi simple group (level 92) entered at line 78 (\begingroup)
+### semi simple group (level 91) entered at line 78 (\begingroup)
+### semi simple group (level 90) entered at line 78 (\begingroup)
+### simple group (level 89) entered at line 78 ({)
+### simple group (level 88) entered at line 78 ({)
+### semi simple group (level 87) entered at line 78 (\begingroup)
+### semi simple group (level 86) entered at line 78 (\begingroup)
+### semi simple group (level 85) entered at line 78 (\begingroup)
+### semi simple group (level 84) entered at line 78 (\begingroup)
+### semi simple group (level 83) entered at line 78 (\begingroup)
+### simple group (level 82) entered at line 78 ({)
+### simple group (level 81) entered at line 78 ({)
+### semi simple group (level 80) entered at line 78 (\begingroup)
+### semi simple group (level 79) entered at line 78 (\begingroup)
+### semi simple group (level 78) entered at line 78 (\begingroup)
+### semi simple group (level 77) entered at line 78 (\begingroup)
+### semi simple group (level 76) entered at line 78 (\begingroup)
+### semi simple group (level 75) entered at line 74 (\begingroup)
+### semi simple group (level 74) entered at line 74 (\begingroup)
+### semi simple group (level 73) entered at line 74 (\begingroup)
+### semi simple group (level 72) entered at line 74 (\begingroup)
+### simple group (level 71) entered at line 74 ({)
+### simple group (level 70) entered at line 74 ({)
+### semi simple group (level 69) entered at line 74 (\begingroup)
+### semi simple group (level 68) entered at line 74 (\begingroup)
+### semi simple group (level 67) entered at line 74 (\begingroup)
+### semi simple group (level 66) entered at line 74 (\begingroup)
+### semi simple group (level 65) entered at line 74 (\begingroup)
+### simple group (level 64) entered at line 74 ({)
+### simple group (level 63) entered at line 74 ({)
+### semi simple group (level 62) entered at line 74 (\begingroup)
+### semi simple group (level 61) entered at line 74 (\begingroup)
+### semi simple group (level 60) entered at line 74 (\begingroup)
+### semi simple group (level 59) entered at line 74 (\begingroup)
+### semi simple group (level 58) entered at line 74 (\begingroup)
+### semi simple group (level 57) entered at line 70 (\begingroup)
+### semi simple group (level 56) entered at line 70 (\begingroup)
+### semi simple group (level 55) entered at line 70 (\begingroup)
+### semi simple group (level 54) entered at line 70 (\begingroup)
+### simple group (level 53) entered at line 70 ({)
+### simple group (level 52) entered at line 70 ({)
+### semi simple group (level 51) entered at line 70 (\begingroup)
+### semi simple group (level 50) entered at line 70 (\begingroup)
+### semi simple group (level 49) entered at line 70 (\begingroup)
+### semi simple group (level 48) entered at line 70 (\begingroup)
+### semi simple group (level 47) entered at line 70 (\begingroup)
+### simple group (level 46) entered at line 70 ({)
+### simple group (level 45) entered at line 70 ({)
+### semi simple group (level 44) entered at line 70 (\begingroup)
+### semi simple group (level 43) entered at line 70 (\begingroup)
+### semi simple group (level 42) entered at line 70 (\begingroup)
+### semi simple group (level 41) entered at line 70 (\begingroup)
+### semi simple group (level 40) entered at line 70 (\begingroup)
+### semi simple group (level 39) entered at line 66 (\begingroup)
+### semi simple group (level 38) entered at line 66 (\begingroup)
+### semi simple group (level 37) entered at line 66 (\begingroup)
+### semi simple group (level 36) entered at line 66 (\begingroup)
+### simple group (level 35) entered at line 66 ({)
+### simple group (level 34) entered at line 66 ({)
+### semi simple group (level 33) entered at line 66 (\begingroup)
+### semi simple group (level 32) entered at line 66 (\begingroup)
+### semi simple group (level 31) entered at line 66 (\begingroup)
+### semi simple group (level 30) entered at line 66 (\begingroup)
+### semi simple group (level 29) entered at line 66 (\begingroup)
+### simple group (level 28) entered at line 66 ({)
+### simple group (level 27) entered at line 66 ({)
+### semi simple group (level 26) entered at line 66 (\begingroup)
+### semi simple group (level 25) entered at line 66 (\begingroup)
+### semi simple group (level 24) entered at line 66 (\begingroup)
+### semi simple group (level 23) entered at line 66 (\begingroup)
+### semi simple group (level 22) entered at line 66 (\begingroup)
+### semi simple group (level 21) entered at line 62 (\begingroup)
+### semi simple group (level 20) entered at line 62 (\begingroup)
+### semi simple group (level 19) entered at line 62 (\begingroup)
+### semi simple group (level 18) entered at line 62 (\begingroup)
+### simple group (level 17) entered at line 62 ({)
+### simple group (level 16) entered at line 62 ({)
+### semi simple group (level 15) entered at line 62 (\begingroup)
+### semi simple group (level 14) entered at line 62 (\begingroup)
+### semi simple group (level 13) entered at line 62 (\begingroup)
+### semi simple group (level 12) entered at line 62 (\begingroup)
+### semi simple group (level 11) entered at line 62 (\begingroup)
+### simple group (level 10) entered at line 62 ({)
+### simple group (level 9) entered at line 62 ({)
+### semi simple group (level 8) entered at line 62 (\begingroup)
+### semi simple group (level 7) entered at line 62 (\begingroup)
+### semi simple group (level 6) entered at line 62 (\begingroup)
+### semi simple group (level 5) entered at line 62 (\begingroup)
+### semi simple group (level 4) entered at line 62 (\begingroup)
+### semi simple group (level 3) entered at line 54 (\begingroup)
+### semi simple group (level 2) entered at line 54 (\begingroup)
+### semi simple group (level 1) entered at line 53 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1557 strings out of 492650
+ 21207 string characters out of 6129649
+ 95499 words of memory out of 5000000
+ 5485 multiletter control sequences out of 15000+600000
+ 5963 words of font info for 22 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,5n,35p,274b,5639s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on songbook.dvi (7 pages, 9504 bytes).

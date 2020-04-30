@@ -1,0 +1,317 @@
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+% Necessary to avoid color warnings from the songs package, must come before
+\usepackage{xcolor}
+
+% This document heavily relies on the songs package
+% Documentation : http://songs.sourceforge.net/songsdoc/songs.html
+% Extra doc : http://mirror.unl.edu/ctan/macros/latex/contrib/songs/songs.pdf
+\usepackage{songs}
+
+% To avoid font expansion error on some systems
+\usepackage{lmodern}
+
+% For ifthenelse
+\usepackage{xifthen}
+
+% For multicols environment
+\usepackage{multicol}
+
+% For lstset
+\usepackage{listings}
+
+% For table of contents indent control
+\usepackage[titles]{tocloft}
+
+% Utilities for copy/pasting and special characters
+\usepackage[T1]{fontenc}
+
+% For data extraction from external file
+\usepackage{datatool,readarray}
+
+% Allows to set line spacing in songs
+\usepackage{setspace}
+
+% Facilitates line-wrap in thin pages
+\usepackage{microtype}
+
+% Allows tweaking of indentation for enumerate and itemize
+\usepackage{enumitem}
+
+% To use images
+\usepackage{graphicx}
+
+% To use a custom date
+\usepackage{datetime}
+
+% To use text background color for meta lines
+\usepackage[most]{tcolorbox}
+
+% To use backgrounds
+\usepackage[pages=some]{background}
+
+% For the license info
+\usepackage{multirow}
+\usepackage{transparent}
+
+% To draw the seating schematic
+\usepackage{tikz}
+\usetikzlibrary{arrows,decorations.markings}
+\tikzset{>=latex}
+
+% Replacement for special characters
+\lstset{literate=%
+	{…}{...}1
+    {Ä}{{\"A}}1
+    {ä}{{\"a}}1
+    {À}{{\`A}}1
+    {à}{{\`a}}1
+    {Â}{{\^A}}1
+    {â}{{\^a}}1
+    {Á}{{\'A}}1
+    {á}{{\'a}}1
+    {Å}{{\AA}}1
+    {ā}{{\b{a}}}1
+    {å}{{\aa}}1
+    {ç}{{\c{c}}}1
+    {È}{{\`E}}1
+    {è}{{\`e}}1
+    {É}{{\'E}}1
+    {é}{{\'e}}1
+    {Ë}{{\"E}}1
+    {ë}{{\"e}}1
+    {Ê}{{\^E}}1
+    {ê}{{\^e}}1
+    {ĕ}{{\u{e}}}1
+    {h̄}{{\b{h}}}1
+    {h̀}{{\`h}}
+    {Ï}{{\"I}}1
+    {ï}{{\"i}}1
+    {Î}{{\^I}}1
+    {î}{{\^i}}1
+    {ī}{{\b{i}}}1
+    {Ö}{{\"O}}1
+    {ö}{{\"o}}1
+    {Ô}{{\^O}}1
+    {ô}{{\^o}}1
+    {ø}{{\o}}1	
+    {Ü}{{\"U}}1
+    {ü}{{\"u}}1
+    {ǔ}{{\u{u}}}1
+    {ß}{{\ss}}1
+    {~}{{\textasciitilde}}1
+}
+
+% Settings for the songs package :
+% - No chord lines
+% - No verse numbers
+% - No lines between songs
+\chordsoff
+\noversenumbers
+\setlength{\sbarheight}{0pt}
+\renewcommand{\colbotglue}{0pt plus .5\textheight minus 0pt}
+
+\let\oldsn\printsongnum
+\renewcommand{\printsongnum}[1]{\color{white}\oldsn{#1}}
+\renewcommand{\snumbgcolor}{black}
+
+% Prevents any kind of page breaking
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+
+% Remove indent for table of content elements
+\setlength{\cftsubsecindent}{0cm}
+
+% Custom table of contents generation
+\newcommand{\customtoc}[2]{
+	\renewcommand*\contentsname{\centering #1}
+	\setlength{\columnsep}{#2}
+	\tableofcontents
+	\resetcolumnsep
+}
+
+\newcommand{\pagesetup}[2]{
+	% To avoid having to set the same column spacing value in several places
+	\newcommand{\resetcolumnsep}{
+		\setlength{\versesep=12pt\columnsep}{#2}
+	}
+	
+	% Orientation-relative settings
+	\ifthenelse{
+		\equal{#1}{Long}
+	}{
+		\usepackage[a4paper,margin=0.5in,bmargin=1in,paperwidth=.5\paperwidth]{geometry}
+		
+		% Only one column in long edge mode
+		\songcolumns{1}
+		\newcommand{\columns}{1}
+		
+		\def\x{1.3}
+	}{
+		\usepackage[a5paper,margin=0.7in]{geometry}
+		
+		% Makes default font smaller
+		\renewcommand{\lyricfont}{\normalfont\small}
+		
+		% Use external column environment to adjust column spacing
+		\songcolumns{0}
+		\resetcolumnsep
+		\newcommand{\columns}{2}
+		
+		% Allows multi-column table of content
+		\usepackage[toc]{multitoc}
+		
+		\def\x{1.4}
+	}
+}
+
+\renewcommand{\verse}[1]{
+	\beginverse
+	\begin{absolutelynopagebreak}
+		\vskip -\versesep
+		\singlespacing #1 
+	\end{absolutelynopagebreak}
+	\endverse
+}
+
+% Setup for the data extractor
+\DTLsetseparator{ = }
+\DTLloaddb[noheader, keys={key,title,subtitle,text}]{songdata}{songs.dat}
+
+\newcommand{\DTLfetchsave}[5]{%
+  \edtlgetrowforvalue{#2}{\dtlcolumnindex{#2}{#3}}{#4}%
+  \dtlgetentryfromcurrentrow{\dtlcurrentvalue}{\dtlcolumnindex{#2}{#5}}%
+  \let#1\dtlcurrentvalue
+}
+
+% Automatic data extractor and formatter for song data
+\renewcommand{\song}[1]{%
+	\DTLfetchsave{\subtitle}{songdata}{key}{#1}{subtitle}%
+	\addcontentsline{toc}{subsection}{%
+		{\textbf{\textit{\thesongnum\hspace{.4cm}}}}\protect%
+		\DTLfetch{songdata}{key}{#1}{title}%
+	}%
+	\beginsong{%
+		\DTLfetch{songdata}{key}{#1}{title}
+	}[sr=\footnotesize \ifthenelse{\equal{\subtitle}{?}}{}{\subtitle}]
+	\DTLfetch{songdata}{key}{#1}{text}%
+	\endsong%
+}
+
+% Takes care of title page formatting
+\newcommand{\customtitle}{
+	% Sets the title
+	\date{}
+	\maketitle
+	
+	% Remove page number on title page
+	\thispagestyle{empty}
+}
+
+\newcommand{\sitsit}[1]{
+	\begin{center}
+	\noindent\textbf{\Large What is Sitsit?}\medskip\\
+	\end{center}
+
+	{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal, while a host leads them in all kinds of crazy songs and games as the night goes. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+}
+
+% Displays the rules, set argument to "Teekkari" if the last song is The Eternal Teekkari, or to nothing if the last song is who is a freshman
+\newcommand{\rules}[1]{
+	\begin{center}
+	\noindent\textbf{\Large The Rules}\medskip\\
+	\end{center}
+	\begin{enumerate}[leftmargin=*]
+	\item The party is led by the Songmasters. Please pay attention to them; they worked hard for this.
+	\item {\bf Be a Lady/Gentleman throughout the event.} It implies to remain seated, and also to not eat, drink or talk during songs, speeches and other activities.
+	\item When a new drink arrives, please wait until after we've sung about it to drink it.
+	\item After every song it is customary to toast (see instructions below).
+	\item Don't be afraid to sing out loud; this is not a singing test!
+	\item {\bf Yes, this songbook is yours.} You are allowed to bring it home, so stop asking us about it! We hope you will enjoy keeping it as a souvenir and that it will maybe inspire you to spread Sitsit at home just like we did it here!
+	\end{enumerate}
+}
+
+% Displays the seating instructions
+\newcommand{\seating}{
+	\begin{center}
+	\noindent\textbf{\Large Toasting}\medskip\\
+	\end{center}
+	\indent As the image shows, first you toast with the person on your side (left for girls, right for boys), then with the one on the other side and finally with the one in front. You should always {\bf look the person you're toasting with in the eyes!}\medskip\\\indent It is nearly impossible to have the same number of boys and girls. Therefore, you might be in a seat of the opposite gender, and should thus toast accordingly!\medskip\\
+	\begin{center}
+		% Styles
+		\tikzstyle{thickarrow}=[decoration={markings,mark=at position 1 with {\arrow[scale=2.2,>=stealth]{>}}},postaction={decorate}]
+		\tikzstyle{circlelabel}=[circle, fill=white, inner sep=1pt, draw]
+		\tikzstyle{circlelabelr}=[circlelabel, right, xshift=5pt]
+		\tikzstyle{circlelabela}=[circlelabel, above, yshift=5pt]
+
+		\begin{tikzpicture}[baseline=(current bounding box.north),font=\scriptsize,->,scale=\x, every node/.style={scale=\x}]
+		
+			% Grid
+			\draw [-,step=2] (0, 0) grid (4, 4);
+
+			% Dashed lines
+			\foreach \v in {0,1,2} {
+				\foreach \h in {-1,1} {
+					\draw [-,dashed] (2+2.5*\h,2*\v) -- (2+2*\h,2*\v);
+				}
+			}
+
+			% Symbols
+			\foreach \n in {0,1} {
+
+				% Arrows
+				\begin{scope}[thick]
+					\draw [thickarrow] (2*\n+1, 1.6) -- node [circlelabelr] {\bf3} +(0, .8);
+					\draw [thickarrow] (1.6+.8*\n, 1) -- (2, 1) node [circlelabela] {\bf1};
+					\draw [thickarrow] (.4+3.2*\n, 1) -- +(-.9+1.8*\n, 0) node [circlelabela, xshift=5-10*\n pt] {\bf2};
+				\end{scope}
+
+				% Male/female symbols
+				\begin{scope}[line width=2.2pt]
+					\begin{scope}[shift={(2*\n,2*\n)}]
+						\draw (.8, .8) circle (.3);
+						\draw [-] (1.5, 1.5) -- +(-.5, -.5);
+						\draw [-] (1.5, 1.15) -- +(0, .35) -- +(-.35, .35);
+					\end{scope}
+					\begin{scope}[shift={(2*\n,-2*\n)}]
+						\draw (1, 3.2) circle (.3);
+						\draw [-] (1, 2.88) -- +(0, -.35);
+						\draw [-] (.78, 2.7) -- +(+.44, 0);
+					\end{scope}
+				\end{scope}
+			}
+		\end{tikzpicture}
+	\end{center}
+}
+
+% Displays the license
+\newcommand{\license}{
+	\texttransparent{0.5}{
+		\begin{tabular}{@{} l|r @{}}
+		Made with Sitsi\TeX{} v0.3 & \multirow{3}{*}{\raggedright%
+			\includegraphics[width=.2\textwidth]{images/base/repo-qr.png}
+		} \\
+		\textcopyright{} 2017--2020 David Resin & \\
+		Freely available under GNU GPLv3 & \\
+		\texttt{github.com/DavidResin/sitsitex} & \\
+		\end{tabular}
+	}
+}
+
+\newcommand{\image}[2][0pt]{
+	\begin{intersong}
+	\begin{center}
+	{
+		\setlength{\fboxsep}{0pt}
+		\setlength{\fboxrule}{#1}
+		\fbox{\includegraphics[width=.8\linewidth]{images/#2}}
+	}
+	\vspace{1em}
+	\end{center}
+	\end{intersong}
+	
+}
