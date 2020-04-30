@@ -1,0 +1,22 @@
+\documentclass{article}
+
+% http://texdoc.net/texmf-dist/doc/latex/pdfpages/pdfpages.pdf
+\usepackage{pdfpages}
+
+\usepackage[a4paper,margin=0in,bmargin=0in]{geometry}
+
+\begin{document}
+
+% Filename must not contain blanks
+
+% This neat little trick allows latex macros to expand before being read
+\edef\next{%
+	\noexpand\includepdf[%
+		pages={\sso},%
+		nup=2x1,%
+		column,%
+		landscape=false%
+	]{\ssf}
+}\next
+
+\end{document}
