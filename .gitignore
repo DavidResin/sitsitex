@@ -1,6 +1,30 @@
+# Ignore all outputs
+src/outputs/*
+
 aux_files/*
 !aux_files/.gitkeep
 outputs/*
 !outputs/_example*
+
+# Ignore all latex waste except essential files and folders
+src/latex/*
+!src/latex/*.tex
+!src/latex/*.sty
+!src/latex/*.dat
+!src/latex/aux_files
+!src/latex/images
+
+# Ignore all Latex auxiliary files
+src/latex/aux_files/*
+
+# Ignore all images except the default ones
+src/latex/images/*
+!src/latex/images/base
+
+# Ignore all Python caches
+**/__pycache__
+
+# Keep directories even if empty
+!**/.gitkeep
 
 .DS_*

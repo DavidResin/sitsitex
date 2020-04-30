@@ -1,0 +1,19 @@
+{
+	"logger" : {
+		"loadingbar" : {
+			"period" :	".1",
+			"length" :	"15",
+			"prefix" : 	"[ ",
+			"suffix" : 	" ]",
+			"full" :	"\u2588",
+			"void" : 	" ",
+			"loop" : 	["o", "O", "\u00B0", "'", "\u00B0", "O", "o", "."]
+		},
+		"string" : {
+			"pre" :		"Step",
+			"mid" :		"of",
+			"post" :	"",
+			"sep" :		"-"
+		}
+	}
+}

@@ -1,0 +1,130 @@
+\documentclass{article}
+
+
+% IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
+
+% Importation of the settings file
+\input{songbook.sty}
+ 
+\newdate{date}{10}{09}{2019}
+\title{\vspace{40em}\textbf{\color{white}\Huge{}}}
+\date{\vspace{-3em}\color{white}}
+\author{}
+
+% Mandatory command. Parameters :
+% 1 - <Long> or <Short>, defines whether the booklet is folded long-edge or short-edge
+% 2 - The distance (cm/in/em/pt) between the two song columns in <Short> mode
+\pagesetup{Long}{1cm}
+
+% Set to 0 for breakable songs and 1 for unbreakable songs [DOESNT WORK FOR NOW]
+\songpos{0}
+
+\backgroundsetup{
+	scale=2,
+	opacity=1,
+	angle=90,
+	hshift=0,
+	contents={\includegraphics[width=\paperwidth]{images/base/template-cover.png}}
+}
+
+\begin{document}
+
+% Displays the title page
+\customtitle
+\BgThispage
+\clearpage
+
+\newpage
+
+% Displays a table of contents. Parameters :
+% 1 - The title of your table of contents
+% 2 - The distance (cm/in/em/pt) between the two content columns in <Short> mode
+\customtoc{Tonight's Songs}{.7cm}
+
+\vfill
+\newpage
+
+\sitsit
+
+\vfill
+
+% Displays the rules
+\rules
+
+\vfill
+
+% Displays the seating information
+\seating
+
+\newpage
+
+\ifthenelse{\equal{1}{\columns}}{}{\begin{multicols}{\columns}}
+\begin{songs}{}
+
+% Decide your song order here (all songs and their identifiers are in songbook.dat)
+% If you dislike the way your songs are cut between pages, change their order or insert page breaks with "\sclearpage"
+
+\song{fi_hyvatystavat}
+\song{en_dearfriends}
+\song{xx_iovivat}
+\song{en_coatsoff}
+
+\song{en_wasted_long}
+\song{en_syphilis}
+\song{en_notredame}
+\song{en_thisfeeling}
+\song{sw_helangar}
+\song{xx_henkilokunta}
+\song{en_drunkenstudent}
+
+\song{en_farover}
+\song{en_paratrooper_short}
+\song{xx_trink}
+\song{en_yogibear}
+\song{xx_minne}
+\song{de_einprosit}
+
+
+\song{en_mybonnie}
+\song{en_twelvedays_xmas}
+\song{fr_chansondelataverne}
+\song{en_wimoweh}
+\song{en_diggydiggyhole}
+\song{en_rollmeover}
+\sclearpage
+\song{fr_tristitude_epfl_3}
+\sclearpage
+\song{xx_koskenkorva_2}
+\song{en_lakegeneva}
+\song{xx_internationalen_2}
+\song{en_eurovision_lausanne}
+\song{en_fastfood}
+\song{en_jinglebells}
+\song{en_cursedxmas}
+
+
+\song{en_beercannon_swiss}
+\song{sw_livetarharligt}
+\song{en_bigbangtheory}
+\song{en_softkitty}
+\song{en_yurop}
+\song{en_sunshine}
+
+\song{fr_connemara}
+\song{en_erasmus_lausanne}
+\song{en_auldlangsyne_modern}
+\song{en_freshman_safe}
+
+\end{songs}
+\ifthenelse{\equal{1}{\columns}}{}{\end{multicols}}
+\newpage
+\begin{center}
+\pagenumbering{gobble}
+\vspace*{15em}
+{\Huge NOT\\}
+\vspace*{5em}
+\includegraphics[width=\linewidth]{images/base/template-logo.png}
+\end{center}
+\vfill
+\license
+\end{document}
