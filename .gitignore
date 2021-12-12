@@ -1,6 +1,11 @@
 # Ignore all outputs
 src/outputs/*
 
+aux_files/*
+!aux_files/.gitkeep
+outputs/*
+!outputs/_example*
+
 # Ignore all latex waste except essential files and folders
 src/latex/*
 !src/latex/*.tex
@@ -21,3 +26,5 @@ src/latex/images/*
 
 # Keep directories even if empty
 !**/.gitkeep
+
+.DS_*
